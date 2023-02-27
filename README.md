@@ -1,6 +1,6 @@
 # NetLogo_March_Version
 
-##Input files 
+## Input files 
 1. The input csv files are in the "Input-files" directory.
 
 ## Steps to run the Model
