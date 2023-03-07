@@ -25,7 +25,9 @@ InformationDisseminationAgents
 rank
 
 ;;; Information Dissemination Agent Attributes
-Related-IP ; diss agent specific
+Related-IP ; Info diss agent specific
+IPslist ; Info diss agent attribute to store IPs
+
 
 TriadStackID
 TriadStack
@@ -33,18 +35,29 @@ Triad ; Triad
 triad_id
 group-prestige ;; group specific
 group-id
-topic-id ; Topic specific
 
 key_value_table
 in_key_value
 in-keys
 
 ;;; Information Packet Attributes
-Information-Source-ID
 Information-Type ; e.g., IPs
 Document-ID
+Information-Source-ID
+Topic-ID
 IP-ID
-stance?
+Stance
+
+;; Agent Population Attributes
+;;
+nb-basic-agents
+nb-donovian-agents
+nb-spokesperson-agents
+nb-information-dissemination-agents
+nb-physical-event-agents
+nb-live-agents
+nb-flow-manipulator-agents
+
 
 temp-ip ;
 temp-in-ip ; basic agent specific
@@ -99,6 +112,7 @@ to setup-agents
     create-nb-information-dissemination-agents
     create-nb-flow-manipulator-agents
     create-nb-live-agents
+    setup-IP
 
     ;clear-count
     ;create_adjacency_matrix
@@ -114,6 +128,7 @@ end
 ;;;
 to create-nb-basic-agents
     file-close-all ; close all open files
+    let nb-of-agents 0
     ifelse not file-exists? "../Input-files/basicAgentsInput.csv" [
         user-message "No file '../Input-files/basicAgentsInput.csv' exists. Skipping to next agent type."
     ][
@@ -154,7 +169,10 @@ to create-nb-basic-agents
                 set InformationDisseminationAgents item 14 data
                 set TriadStackID word "TS-" item 0 data
             ] ; end create-turtle
+            set nb-of-agents nb-of-agents + 1
         ] ; end reading each line of the file
+        print "Number of basic agents = "
+        print nb-of-agents
     ]
     file-close
 end ; end of procedure to create basic agents
@@ -278,8 +296,9 @@ to create-nb-information-dissemination-agents
                 set agent-type item 1 data
                 set Related-IP item 2 data
                 set temp-in-ip item 2 data
-                set Coordinates "0 0"
-            ;
+                set latitude 54.684
+                set longitude 25.289871 ; this assumes all information dissemination agents are in Vilnius
+                set IPslist []
             ]
         ]
     ]
@@ -342,6 +361,57 @@ to create-nb-live-agents
         ]
     ]
     file-close ;
+end
+
+
+;; Assign Information Packets to Information Dissemination Agents
+;;
+to setup-IP
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/IPsInput.csv" [
+        user-message "No file '../Input-files/IPsInput.csv' exists."
+    ][
+        file-open "../Input-files/IPsInput.csv" ; open the file with the turtle data
+        ; We'll read all the data in a single loop
+        ; We will read first line which is attribute names, but will not perform any action.
+        let data csv:from-row file-read-line
+        while [not file-at-end?] [
+            ; here the CSV extension grabs a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we can use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set color orange
+                set size  0.4
+                set shape "square"
+                set xcor -16
+                set ycor random-ycor
+                set Information-Type item 0 data
+                set Document-ID item 1 data
+                set Information-Source-ID item 2 data
+                set Topic-ID item 3 data
+                set IP-ID item 4 data
+                set Stance item 5 data
+                ;Logic for updating the Info dissimination agents IPslist attribute with related IPs
+                ;Creating a temp variable to store info agent id
+                let IPsInformationSourceID Information-Source-ID
+                let IPsIP-id IP-ID
+                foreach sort turtles [ t ->
+                    ask t [if agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID [
+                        set IPslist lput IPsIP-id IPslist
+                        ]
+                    ]
+                ]
+            ] ; end create a turtle for each IP
+        ] ; end loop through all IPs
+    ]
+    ;Code to test assignment of IPs to Information Dissemination Agents
+    foreach sort turtles [ t ->
+        ask t [if agent-type = "information-diss-agents" and IPslist != [] [
+            print agent-ID
+            print IPslist
+            ]
+        ]
+    ]
 end
 
 
