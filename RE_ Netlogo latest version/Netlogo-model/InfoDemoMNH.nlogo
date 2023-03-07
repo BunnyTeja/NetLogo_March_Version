@@ -2,51 +2,63 @@ extensions [ csv profiler time table matrix]
 
 turtles-own
 [
-;Donovian agents attribute
-  AdditionalAttribute
-;Basic agents attributes
-key_value_table
-in_key_value
-in-keys
-NATODonovia
-TriadStackID
-triad_id
-county
+;;; Basic Agent Attributes
+agent-ID
+agent-type
 country
-Municipality
+county
+municipality
 Coordinates
 latitude
 longitude
+gender
 Age
 Language
 Nationality
 PoliticalSpectrum
 SocioeconomicStatus
 EU
+NATODonovia
 InformationDisseminationAgents
-Document-ID
+
+;;; Donovian Agent Additional Attribute
+rank
+
+;;; Information Dissemination Agent Attributes
+Related-IP ; diss agent specific
+
+TriadStackID
+TriadStack
+Triad ; Triad
+triad_id
+group-prestige ;; group specific
+group-id
+topic-id ; Topic specific
+
+key_value_table
+in_key_value
+in-keys
+
+;;; Information Packet Attributes
 Information-Source-ID
-agent-ID
-;age-group
-;geo
-gender
-agent-type
-Related-IP; diss agent specific
-temp-ip;
-temp-in-ip; basic agent specific
-temp-out-ip; basic agent specific
+Information-Type ; e.g., IPs
+Document-ID
+IP-ID
+stance?
+
+temp-ip ;
+temp-in-ip ; basic agent specific
+temp-out-ip ; basic agent specific
 temp-in
 agent-trying-to-send
 Messages-allowed-per-clock-tick ; Limit to how many messages they can send in a virtual clock tick [value]
-IdentitySignature; set of 0 or more Group memberships.
-TriadStack;
+IdentitySignature ; set of 0 or more Group memberships.
 nb-connections-in
 nb-connections-out ;;should have in and out link connections
 nb-group-affiliations?
 nb-topics-read?
 nb-interests?
 Inbox
-stance?
 track-list-test
 Initial-Endorsement
 connections?
@@ -56,22 +68,13 @@ out-trust
 received-IP-list
 sent-IP-list
 connected-to-diss-agent?
-;;;;IP specific
-target-group   ; Ip specific
-source    ; Ip specific
+;;; IP specific
+target-group ; Ip specific
 Endorsement-of-IP ; Ip specific
 Amplification-of-IP ; Ip specific
 censure ; Ip specific
-IP-id ;IP specific
-DocumentID
-InformationSourceID
-Related-topic-id ;IP specific
-Location ;IP specific
-Ref_id_to_Info_Atrifact;;A reference ID to the original source information artifact.
-Triad;;A Triad
-group-prestige ;; group specific
-group-id
-topic-id ; Topic specific
+Location ; IP specific
+Ref_id_to_Info_Atrifact ;; A reference ID to the original source information artifact.
 ;track specific
 initial-stance
 initial-received-IPs
@@ -82,194 +85,264 @@ Key_issue
 
 ;;Reset the entire world
 to clear-agents
-clear-all
-clear-all-plots
-clear-globals
+    clear-all
+    clear-all-plots
+    clear-globals
 end
 
-;;Method to setup the environment by creating agents and connections
-
+;;; Procedure to setup the environment by creating agents and connections
+;;;
 to setup-agents
+    create-nb-basic-agents
+    create-nb-spokesperson-agents
+    create-nb-donovian-agents
+    create-nb-information-dissemination-agents
+    create-nb-flow-manipulator-agents
+    create-nb-live-agents
 
-;;This calls the below methods and create respective agents.
-create-nb-basic-agents
-create-nb-spokesperson-agents
-create-nb-information-diss-agents
-;create-nb-donovian-agents
-
-;assign-color
-;clear-count
-;create_adjacency_matrix
-;if In-links?
-;[make-network-in]
-;if out-links?
-;[make-network-out]
-;write-initial-setup
-;reset-ticks
+    ;clear-count
+    ;create_adjacency_matrix
+    ;if In-links?
+    ;[make-network-in]
+    ;if out-links?
+    ;[make-network-out]
+    ;write-initial-setup
+    ;reset-ticks
 end
 
+;;; Procedure to Create Basic Agents from an Agent Factory File of Population Demographics
+;;;
 to create-nb-basic-agents
-file-close-all ; close all open files
-if not file-exists? "../Input-files/basicAgentsInput.csv" [
-user-message "No file '../Input-files/basicAgentsInput.csv' exists."
-stop
-]
-file-open "../Input-files/basicAgentsInput.csv" ; open the file with the turtle data
-let data csv:from-row file-read-line
-; We'll read all the data in a single loop
-while [ not file-at-end? ] [
-; here the CSV extension grabs a single line and puts the read data in a list
-set data csv:from-row file-read-line
-; now we can use that list to create a turtle with the saved properties
-create-turtles 1 [
-  set shape "circle"
-  set size  0.3
-  set color blue
-  set agent-ID item 0 data
-  let xcor1 random-xcor
-  let ycor1 random-ycor
-  set xcor xcor1
-  set ycor ycor1
-  set agent-type item 1 data
-  ifelse random 100 < 50 [
-      set IdentitySignature "group-1"
-  ][
-      set IdentitySignature "group-2"
-  ]
- set country item 2 data
- set county item 3 data
- ;set latitude item 4 data
- set Municipality item 4 data
- set Coordinates item 5 data
- set Gender item 6 data
- set Age item 7 data
- set Language item 8 data
- set Nationality item 9 data
- set PoliticalSpectrum item 10 data
- set SocioeconomicStatus item 11 data
- set EU item 12 data
- set NATODonovia item 13 data
- set InformationDisseminationAgents item 14 data
- set TriadStackID word "TS-" item 0 data
-]
-]
-file-close
-end
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/basicAgentsInput.csv" [
+        user-message "No file '../Input-files/basicAgentsInput.csv' exists. Skipping to next agent type."
+    ][
+        file-open "../Input-files/basicAgentsInput.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set shape "circle"
+                set size  0.3
+                set color blue
+                set xcor random-xcor
+                set ycor random-ycor
+                set agent-ID item 0 data
+                set agent-type item 1 data
+                ifelse random 100 < 50 [
+                    set IdentitySignature "group-1"
+                ][
+                set IdentitySignature "group-2"
+                ]
+                set country item 2 data
+                set county item 3 data
+                set municipality item 4 data
+                set Coordinates item 5 data
+                ;set latitude item 5 data
+                ;set longitude item 6 data
+                set gender item 6 data
+                set Age item 7 data
+                set Language item 8 data
+                set Nationality item 9 data
+                set PoliticalSpectrum item 10 data
+                set SocioeconomicStatus item 11 data
+                set EU item 12 data
+                set NATODonovia item 13 data
+                set InformationDisseminationAgents item 14 data
+                set TriadStackID word "TS-" item 0 data
+            ] ; end create-turtle
+        ] ; end reading each line of the file
+    ]
+    file-close
+end ; end of procedure to create basic agents
 
 
+;;; Procedure to Create Spokesperson Agents from an Agent Factory File
+;;;
 to create-nb-spokesperson-agents
- file-close-all ; close all open files
-if not file-exists? "../Input-files/spokespersonAgentsInput.csv" [
-user-message "No file '../Input-files/spokesperson-agents-input.csv' exists."
-stop
-]
-file-open "../Input-files/spokespersonAgentsInput.csv" ; open the file with the turtle data
-let data csv:from-row file-read-line
-; We'll read all the data in a single loop
-while [ not file-at-end? ] [
-; here the CSV extension grabs a single line and puts the read data in a list
-set data csv:from-row file-read-line
-; now we can use that list to create a turtle with the saved properties
-create-turtles 1 [
-  set size  1
-  set agent-ID item 0 data
-  let xcor1 random-xcor
-  let ycor1 random-ycor
-    if xcor1 <= 11 and xcor1 >= -11
-    [set xcor xcor1]
-    if ycor1 <= 11 and ycor1 >= -11
-    [set ycor ycor1]
-  set agent-type item 1 data
- set country item 2 data
- set county item 3 data
- ;set latitude item 4 data
- set Municipality item 4 data
- set Coordinates item 5 data
- set Gender item 6 data
- set Age item 7 data
- set Language item 8 data
- set Nationality item 9 data
- set PoliticalSpectrum item 10 data
- set SocioeconomicStatus item 11 data
- set EU item 12 data
- set NATODonovia item 13 data
- set InformationDisseminationAgents item 14 data
- ;set shape "person business"
-]
-]
-file-close ;
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/spokespersonAgentsInput.csv" [
+        user-message "No file '../Input-files/spokesperson-agents-input.csv' exists. Skipping to next agent type."
+    ][
+        file-open "../Input-files/spokespersonAgentsInput.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set size 1
+                set color green
+                set agent-ID item 0 data
+                set xcor random-xcor
+                set ycor random-ycor
+;                if xcor1 <= 11 and xcor1 >= -11
+;                    [set xcor xcor1]
+;                if ycor1 <= 11 and ycor1 >= -11
+;                    [set ycor ycor1]
+                set agent-type item 1 data
+                set country item 2 data
+                set county item 3 data
+                set municipality item 4 data
+                set Coordinates item 5 data
+                ;set latitude item 5 data
+                ;set longtitude item 6 data
+                set gender item 6 data
+                set Age item 7 data
+                set Language item 8 data
+                set Nationality item 9 data
+                set PoliticalSpectrum item 10 data
+                set SocioeconomicStatus item 11 data
+                set EU item 12 data
+                set NATODonovia item 13 data
+                set InformationDisseminationAgents item 14 data
+                set TriadStackID word "TS-" item 0 data
+                ;set shape "person business"
+            ] ; end create-turtles
+        ] ; end reading each line of the file
+    ]
+    file-close ;
+end ; end of procedure to create spokesperson agents
+
+
+;;; Procedure to Create Donovian Agents from an Agent Factory File
+;;;
+to create-nb-donovian-agents
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/donovianAgentsInput.csv" [
+        user-message "No file '../Input-files/donovianAgentsInput.csv' exists. Skipping to next agent type."
+    ][
+        file-open "../Input-files/donovianAgentsInput.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set size  1
+                set color red
+                set shape "face sad"
+                set xcor random-xcor
+                set ycor random-ycor
+                set agent-ID item 0 data
+                set agent-type item 1 data
+                set country item 2 data
+                set county item 3 data
+                set municipality item 4 data
+                set latitude item 5 data
+                set longitude item 6 data
+                set gender item 7 data
+                set Age item 8 data
+                set Language item 9 data
+                set Nationality item 10 data
+                set PoliticalSpectrum item 11 data
+                set SocioeconomicStatus item 12 data
+                set EU item 13 data
+                set NATODonovia item 14 data
+                set InformationDisseminationAgents item 15 data
+                set rank item 16 data
+                set TriadStackID word "TS-" item 0 data
+            ] ; end create-turtles
+        ] ; end reading each line of the file
+    ]
+    file-close ;
+end ; end of procedure to create donovian agents
+
+
+;;; Procedure to Create Information Dissemination Agents from an Agent Factory File
+;;;
+to create-nb-information-dissemination-agents
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/InfoDissAgents.csv" [
+        user-message "No file '../Input-files/InfoDissAgents.csv' exists. Skipping Information Dissemination Agents."
+    ][
+        file-open "../Input-files/InfoDissAgents.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set size 1
+                set color yellow
+                set shape "plant"
+                set xcor random-xcor
+                set ycor random-ycor
+                set agent-ID item 0 data
+                set agent-type item 1 data
+                set Related-IP item 2 data
+                set temp-in-ip item 2 data
+                set Coordinates "0 0"
+            ;
+            ]
+        ]
+    ]
+    file-close ;
 end
 
 
-to create-nb-information-diss-agents
-file-close-all ; close all open files
-if not file-exists? "../Input-files/InfoDissAgents.csv" [
-user-message "No file '../Input-files/InfoDissAgents.csv' exists."
-stop
-]
-file-open "../Input-files/InfoDissAgents.csv" ; open the file with the turtle data
-let data csv:from-row file-read-line
-; We'll read all the data in a single loop
-while [ not file-at-end? ] [
-; here the CSV extension grabs a single line and puts the read data in a list
-set data csv:from-row file-read-line
-; now we can use that list to create a turtle with the saved properties
-create-turtles 1 [
-  set size  1
-  set color blue
-  set agent-ID item 0 data
-  let xcor1 random-xcor
-  let ycor1 random-ycor
-    if xcor1 <= 11 and xcor1 >= -11
-    [set xcor xcor1]
-    if ycor1 <= 11 and ycor1 >= -11
-    [set ycor ycor1]
-  set agent-type item 1 data
-  set Related-IP item 2 data
-  set temp-in-ip item 2 data
-  set Coordinates "0 0"
-  ;set shape "book"
-]
-]
-
-file-close ;
-
-
+;;; Procedure to Create Flow Manipulator Agents from an Agent Factory File
+;;;
+to create-nb-flow-manipulator-agents
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/flowManipulatorAgentsInput.csv" [
+        user-message "No file '../Input-files/flowManipulatorAgentsInput.csv' exists. Skipping Flow Manipulator Agents."
+    ][
+        file-open "../Input-files/flowManipulatorAgentsInput.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set size  1
+                set color white
+                set shape "wheel"
+                set xcor random-xcor
+                set ycor random-ycor
+                set agent-ID item 0 data
+                set agent-type item 1 data
+            ]
+        ]
+    ]
+    file-close ;
 end
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+;;; Procedure to Create Live Agents from an Agent Factory File
+;;;
+to create-nb-live-agents
+    file-close-all ; close all open files
+    ifelse not file-exists? "../Input-files/liveAgentsInput.csv" [
+        user-message "No file '../Input-files/liveAgentsInput.csv' exists. Skipping Flow Manipulator Agents."
+    ][
+        file-open "../Input-files/liveAgentsInput.csv" ; open the file with the turtle data
+        let data csv:from-row file-read-line
+        ; We'll read all the data in a single loop
+        while [ not file-at-end? ] [
+            ; here the CSV extension reads a single line and puts the read data in a list
+            set data csv:from-row file-read-line
+            ; now we use that list to create a turtle with the saved properties
+            create-turtles 1 [
+                set size  1
+                set color orange
+                set shape "person"
+                set xcor random-xcor
+                set ycor random-ycor
+                set agent-ID item 0 data
+                set agent-type item 1 data
+            ]
+        ]
+    ]
+    file-close ;
+end
 
 
 
