@@ -22,7 +22,7 @@ NATODonovia
 InformationDisseminationAgents
 
 ;;; Donovian Agent Additional Attribute
-rank
+soldier_type
 
 ;;; Information Dissemination Agent Attributes
 Related-IP ; Info diss agent specific
@@ -262,8 +262,8 @@ to create-nb-donovian-agents
                 set SocioeconomicStatus item 12 data
                 set EU item 13 data
                 set NATODonovia item 14 data
-                set InformationDisseminationAgents item 15 data
-                set rank item 16 data
+                set soldier_type item 15 data
+                ; set InformationDisseminationAgents item 16 data
                 set TriadStackID word "TS-" item 0 data
             ] ; end create-turtles
         ] ; end reading each line of the file
