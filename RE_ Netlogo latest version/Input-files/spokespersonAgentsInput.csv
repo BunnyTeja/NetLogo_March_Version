@@ -1,44 +1,47 @@
-id,type,Country,County,Municipality,Coordinates,Gender,Age,Language,Nationality,PoliticalSpectrum,SocioeconomicStatus,EU,NATODonovia,Information Dissemination Agents
-Andrius Tapinas,spokesperson,Lithuania,,,0 0,Male,Middle,NationalLang,Lithuanian,Left,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Aust?ja Landsbergien?,spokesperson,Lithuania,,,0 0,Female,Middle,NationalLang,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Gabrielius Landsbergis,spokesperson,Lithuania,,,0 0,Male,Middle,NationalLang,Lithuanian,Right,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Gitanas Nauseda,spokesperson,Lithuania,,,0 0,Male,Middle,BothLang,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Ingrida ï¿½imonyt?,spokesperson,Lithuania,,,0 0,Female,Middle,BothLang,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Valdemar Tomaï¿½evski,spokesperson,Lithuania,,,0 0,Male,Middle,NationalLang,Lithuanian,Right,UpperClass,AntiEU,AntiNATOProDonovia,[]
-Viktorija ?milyt?-Nielsen,spokesperson,Lithuania,,,0 0,Female,Middle,NationalLang,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Alar Karis,spokesperson,Estonia,,,0 0,Male,Middle,BothLang,Estonian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Anett Kontaveit,spokesperson,Estonia,,,0 0,Female,Middle,NationalLang,Estonian,Undecided,UpperClass,Undecided,AntiNATOProDonovia,[]
-Barbi Pilvre,spokesperson,Estonia,,,0 0,Female,Middle,NationalLang,Estonian,Left,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Kaja Kallas,spokesperson,Estonia,,,0 0,Female,Middle,BothLang,Estonian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Martin Helme,spokesperson,Estonia,,,0 0,Male,Middle,BothLang,Estonian,Right,UpperClass,AntiEU,ProNATOAntiDonovia,[]
-Steve Jurvetson,spokesperson,Estonia,,,0 0,Male,Middle,NationalLang,Estonian,Undecided,UpperClass,Undecided,ProNATOAntiDonovia,[]
-Toomas Vitsut,spokesperson,Estonia,,,0 0,Male,Middle,NationalLang,Estonian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Egils Levits,spokesperson,Latvia,,,0 0,Male,Old,NationalLang,Latvian,Center,UpperClass,ProEU,AntiNATOProDonovia,[]
-Ivars Ijabs,spokesperson,Latvia,,,0 0,Male,Middle,NationalLang,Latvian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Juris Rubenis,spokesperson,Latvia,,,0 0,Male,Middle,NationalLang,Latvian,Undecided,MiddleClass,Undecided,ProNATOAntiDonovia,[]
-Krisjanis Karins,spokesperson,Latvia,,,0 0,Male,Middle,BothLang,Latvian,Center,UpperClass,ProEU, AntiNATOProDonovia,[]
-Linda Murniece,spokesperson,Latvia,,,0 0,Female,Middle,NationalLang,Latvian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Nils Usakovs,spokesperson,Latvia,,,0 0,Male,Middle,BothLang,Latvian,Right,UpperClass,ProEU,AntiNATOProDonovia,[]
-Vaira Vike-Freiberga,spokesperson,Latvia,,,0 0,Female,Old,NationalLang,Latvian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Andrzej Duda,spokesperson,Poland,,,0 0,Male,Middle,NationalLang,Polish,Right,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Dominika Kulczyk,spokesperson,Poland,,,0 0,Female,Middle,NationalLang,Polish,Right,UpperClass,Undecided,Neutral,[]
-Donald Tusk,spokesperson,Poland,,,0 0,Male,Old,NationalLang,Polish,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Grzegorz Braun,spokesperson,Poland,,,0 0,Male,Middle,NationalLang,Polish,Right,UpperClass,AntiEU,AntiNATOProDonovia,[]
-Jerzy Owsiak,spokesperson,Poland,,,0 0,Male,Old,NationalLang,Polish,Left,UpperClass,Undecided,ProNATOAntiDonovia,[]
-Olga Malinkiewicz,spokesperson,Poland,,,0 0,Female,Middle,NationalLang,Polish,Undecided,UpperClass,Undecided,Neutral,[]
-Martyna Wojciechowska,spokesperson,Poland,,,0 0,Female,Middle,NationalLang,Polish,Right,UpperClass,Undecided,ProNATOAntiDonovia,[]
-Mateusz Morawiecki,spokesperson,Poland,,,0 0,Male,Middle,NationalLang,Polish,Right,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Rafal Trzaskowski,spokesperson,Poland,,,0 0,Male,Middle,BothLang,Polish,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Robert Lewandowski,spokesperson,Poland,,,0 0,Male,Middle,NationalLang,Polish,Undecided,UpperClass,Undecided,Undecided,[]
-Szymon Ho?ownia,spokesperson,Poland,,,0 0,Male,Middle,NationalLang,Polish,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Wanda Traczyk-Stawska,spokesperson,Poland,,,0 0,Female,Old,NationalLang,Polish,Left,MiddleClass,Undecided,ProNATOAntiDonovia,[]
-Aleksandr Lukashenko,spokesperson,Belarus,,,0 0,Male,Old,BothLang,Belarusian,Right,UpperClass,AntiEU,AntiNATOProDonovia,[]
-Maria Kalesnikava,spokesperson,Belarus,,,0 0,Female,Middle,BothLang,Belarusian,Center,MiddleClass,ProEU,ProNATOAntiDonovia,[]
-Natalia Kachanova,spokesperson,Belarus,,,0 0,Female,Middle,BothLang,Belarusian,Right,UpperClass,AntiEU,AntiNATOProDonovia,[]
-Nina Baginskaya,spokesperson,Belarus,,,0 0,Female,Old,BothLang,Belarusian,Left,MiddleClass,ProEU,ProNATOAntiDonovia,[]
-Roman Golovchenko,spokesperson,Belarus,,,0 0,Male,Middle,BothLang,Belarusian,Right,UpperClass,AntiEU,AntiNATOProDonovia,[]
-Sergueï¿½ Tikhanovski,spokesperson,Belarus,,,0 0,Male,Middle,BothLang,Belarusian,Left,MiddleClass,ProEU,ProNATOAntiDonovia,[]
-Svetlana Alexievich,spokesperson,Belarus,,,0 0,Female,Old,DonovianLang,Belarusian,Left,UpperClass,ProEU,ProNATOAntiDonovia,[]
-Svetlana Tikhanovskaï¿½a,spokesperson,Belarus,,,0 0,Female,Middle,BothLang,Belarusian,Center,MiddleClass,ProEU,ProNATOAntiDonovia,[]
-Victoria Azarenka,spokesperson,Belarus,,,0 0,Female,Middle,BothLang,Belarusian,Undecided,UpperClass,Undecided,Undecided,[]
-Viktar Babaryka,spokesperson,Belarus,,,0 0,Male,Middle,BothLang,Belarusian,Center,UpperClass,ProEU,ProNATOAntiDonovia,[]
+id,type,country,county,municipality,latitude,longitude,gender,age,language,nationality,political_spectrum,socioeconomic_status,eu,nato_donovia
+Andrius Tapinas,spokesperson,Lithuania,0 0,0 0.1,54.6992803,25.27433381,Male,Middle,NationalLanguage,Lithuanian,Left,UpperClass,ProEU,ProNATOAntiDonovia
+Arvydas Sabonis,spokesperson,Lithuania,0 0,0 0,54.9072,23.9649,Male,Middle,NationalLanguage,Lithuanian,Undecided,UpperClass,ProEU,Neutral
+Austeja Landsbergiene,spokesperson,Lithuania,0 0,0 0,54.68368182,25.28746411,Female,Middle,NationalLanguage,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia
+Dalia Grybauskaite,spokesperson,Lithuania,0 0,0 0,54.69239,25.28392,Female,Old,Both,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia
+Gabrielius Landsbergis,spokesperson,Lithuania,0 0,0 0,54.69003281,25.26893854,Male,Middle,NationalLanguage,Lithuanian,Right,UpperClass,ProEU,ProNATOAntiDonovia
+Gitanas Nauseda,spokesperson,Lithuania,0 0,0 0,54.683279,25.286518,Male,Middle,Both,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia
+Ingrida Simonyte,spokesperson,Lithuania,0 0,0 0,54.69174945,25.26230083,Female,Middle,Both,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia
+Valdemar Tomasevski,spokesperson,Lithuania,0 0,0 0,54.6865817,25.27973772,Male,Middle,NationalLanguage,Lithuanian,Right,UpperClass,AntiEU,AntiNATOProDonovia
+Viktorija Smilyte-Nielsen,spokesperson,Lithuania,0 0,0 0,54.69174945,25.26230083,Female,Middle,NationalLanguage,Lithuanian,Center,UpperClass,ProEU,ProNATOAntiDonovia
+Karolina Meschino,spokesperson,Lithuania,0 0,0 0,54.68424,25.28925,Female,Young,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,Neutral
+Rolandas Mackevicius,spokesperson,Lithuania,0 0,0 0,54.71442,25.25042,Male,Young,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,Neutral
+Simonas Gurevicius,spokesperson,Lithuania,0 0,0 0,54.6700444,25.26693414,Male,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Bishop K?stutis K?valas CATH,spokesperson,Lithuania,0 0,0 0,54.89795897,23.88456753,Male,Middle,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,ProNATOAntiDonovia
+Saulius Andraši?nas,spokesperson,Lithuania,0 0,0 0,54.90430172,23.89909236,Male,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Sonata Patkauskait?,spokesperson,Lithuania,0 0,0 0,54.67413674,25.28700606,Female,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Edvinas Regelskis,spokesperson,Lithuania,0 0,0 0,54.6889638,25.26417427,Male,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Gintare Guzevi?i?t?,spokesperson,Lithuania,0 0,0 0,54.69648768,25.27637291,Female,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Edita Baniene,spokesperson,Lithuania,0 0,0 0,54.67998676,25.26948858,Female,Middle,NationalLanguage,Lithuanian,Center,MiddleClass,ProEU,ProNATOAntiDonovia
+Father James Karklys ROC,spokesperson,Lithuania,0 0,0 0,54.89500737,23.91804346,Male,Middle,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,ProNATOAntiDonovia
+Father Vytenis Vaskelis ROC,spokesperson,Lithuania,0 0,0 0,54.6829546,25.29356929,Male,Middle,NationalLangauge,Lithuanian,Right,MiddleClass,Undecided,ProNATOAntiDonovia
+Deacon Audrius Jesinskas ROC,spokesperson,Lithuania,0 0,0 0,54.89500737,23.91804346,Male,Middle,Both,Lithuanian,Undecided,MiddleClass,Undecided,ProNATOAntiDonovia
+Maria Yakubovskaya,spokesperson,Lithuania,0 0,0 0,54.67564578,25.28962182,Female,Middle,Both,Lithuanian,Undecided,MiddleClass,AntiEU,AntiNATOProDonovia
+Archbishop Innokenty of Vilnius ROC,spokesperson,Lithuania,0 0,0 0,54.6756396,25.28966488,Male,Old,Both,Lithuanian,Right,MiddleClass,Undecided,ProNATOAntiDonovia
+Bishop Ambrose of Trakai ROC,spokesperson,Lithuania,0 0,0 0,54.67567684,25.28992342,Male,Middle,Both,Lithuanian,Right,MiddleClass,Undecided,ProNATOAntiDonovia
+Deacon John Stankevicius,spokesperson,Lithuania,0 0,0 0,54.67563962,25.28971882,Male,Middle,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,ProNATOAntiDonovia
+Astchiek Melkonian,spokesperson,Lithuania,0 0,0 0,54.903218,23.925033,Female,Young,NationalLanguage,Lithuanian,Undecided,MiddleClass,Undecided,Undecided
+Egle Juzu,spokesperson,Lithuania,0 0,0 0,54.927567,23.979158,Female,Middle,Both,Lithuanian,Left,MiddleClass,ProEU,Undecided
+LTC Lapin Denis Alexandrovich,spokesperson,Lithuania,0 0,0 0,54.76799,22.50837,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+GEN Nikolai Yegorovich Makarov,spokesperson,Lithuania,0 0,0 0,54.76799,22.50837,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+MG Arkady Vilktotovich Bakhin,spokesperson,Lithuania,0 0,0 0,53.88993,25.29817,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+GEN Vladimir Sergeyevich Mikhaylov,spokesperson,Lithuania,0 0,0 0,53.88993,25.29817,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+GEN Alexey Fydorovich Maslov,spokesperson,Lithuania,0 0,0 0,54.62956,26.9091,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+LTG Viktor Nikolaevich Samsonov,spokesperson,Lithuania,0 0,0 0,54.62956,26.9091,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+Sergey Kuzhugetovich Shoygu,spokesperson,Lithuania,0 0,0 0,54.76799,22.50837,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+MG Ruslan Khazhismelovich Tsalikov,spokesperson,Lithuania,0 0,0 0,53.88993,25.29817,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+MAJ Ganushevich Artem Romanovich,spokesperson,Lithuania,0 0,0 0,54.62956,26.9091,Male,Middle,NationalLanguage,Donovian,Undecided,MiddleClass,AntiEU,AntiNATOProDonovia
+COL-GEN Alexander Zhuravlyov,spokesperson,Lithuania,0 0,0 0,54.76799,22.50837,Male,Middle,NationalLanguage,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+COL Maximov Sergei Viktorovich,spokesperson,Lithuania,0 0,0 0,53.88993,25.29817,Male,Middle,Both,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+COL-GEN Victor Borisovich Astapov,spokesperson,Lithuania,0 0,0 0,53.88993,25.29817,Male,Middle,Both,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+COL-GEN Anatoly Alekseyevich Sidorov,spokesperson,Lithuania,0 0,0 0,54.62956,26.9091,Male,Middle,Both,Donovian,Undecided,UpperClass,AntiEU,AntiNATOProDonovia
+Arvydas Giedraitis,spokesperson,Lithuania,0 0,0 0,54.91499,23.8579,Male,Middle,Both,Donovian,Right,MiddleClass,AntiEU,AntiNATOProDonovia
+Paulius Keras,spokesperson,Lithuania,0 0,0 0,54.89813,23.90635,Male,Middle,Both,Lithuanian,Left,MiddleClass,ProEU,ProNATOAntiDonovia
+Marius Skuodis,spokesperson,Lithuania,0 0,0 0,54.68757,25.27797,Male,Middle,Other,Lithuanian,Left,Middle Class,Neutral,Neutral
+Audrius Ciuplys,spokesperson,Lithuania,0 0,0 0,54.70671678,25.30918297,Male,Middle,Both,Donovian,Center,MiddleClass,Neutral,ProNATOAntiDonovia
+Tadas Maroscikas,spokesperson,Lithuania,0 0,0 0,54.70671678,25.30918297,Male,Middle,Both,Lithuanian,Left,MiddleClass,Neutral,Neutral
+Virgis Bagdonas,spokesperson,Lithuania,0 0,0 0,54.67037777425739,25.27812065672077,Male,Middle,Both,Polish,Undecided,MiddleClass,Undecided,Undecided
