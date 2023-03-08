@@ -1,5 +1,13 @@
 extensions [ csv profiler time table matrix]
-
+globals[
+; Count attributes
+nb-basic-agents
+nb-information-diss-agents
+total-initial-IPs
+nb-donovian-agents
+nb-spokesperson-agents
+nb-total-agents
+]
 turtles-own
 [
   ;Info diss agent attribute to store IPs
@@ -119,7 +127,9 @@ stop
 file-open "../Input-files/basicAgentsInput.csv" ; open the file with the turtle data
 let data csv:from-row file-read-line
 ; We'll read all the data in a single loop
+set nb-basic-agents 0
 while [ not file-at-end? ] [
+set nb-basic-agents nb-basic-agents + 1
 ; here the CSV extension grabs a single line and puts the read data in a list
 set data csv:from-row file-read-line
 ; now we can use that list to create a turtle with the saved properties
@@ -147,9 +157,11 @@ set SocioeconomicStatus item 11 data
 set EU item 12 data
 set NATODonovia item 13 data
 set InformationDisseminationAgents item 14 data
-;set TriadStackID word "TS-" item 0 data
+set TriadStackID word "TS-" item 0 data
 ]
 ]
+print nb-basic-agents
+set nb-total-agents nb-basic-agents
 file-close
 end
 
@@ -163,7 +175,9 @@ stop
 file-open "../Input-files/spokespersonAgentsInput.csv" ; open the file with the turtle data
 let data csv:from-row file-read-line
 ; We'll read all the data in a single loop
+set nb-spokesperson-agents 0
 while [ not file-at-end? ] [
+set nb-spokesperson-agents nb-spokesperson-agents + 1
 ; here the CSV extension grabs a single line and puts the read data in a list
 set data csv:from-row file-read-line
 ; now we can use that list to create a turtle with the saved properties
@@ -196,6 +210,8 @@ create-turtles 1 [
  set color violet
 ]
 ]
+print nb-spokesperson-agents
+set nb-total-agents nb-spokesperson-agents + nb-total-agents
 file-close ;
 end
 
@@ -209,7 +225,9 @@ stop
 file-open "../Input-files/InfoDissAgents.csv" ; open the file with the turtle data
 let data csv:from-row file-read-line
 ; We'll read all the data in a single loop
+set nb-information-diss-agents 0
 while [ not file-at-end? ] [
+set nb-information-diss-agents nb-information-diss-agents + 1
 ; here the CSV extension grabs a single line and puts the read data in a list
 set data csv:from-row file-read-line
 ; now we can use that list to create a turtle with the saved properties
@@ -230,6 +248,9 @@ create-turtles 1 [
   set IPslist []
 ]
 ]
+print nb-information-diss-agents
+set nb-total-agents nb-information-diss-agents + nb-total-agents
+print nb-total-agents
 file-close ;
 end
 
@@ -285,6 +306,261 @@ foreach sort turtles [ t ->
   ]
 end
 
+
+to create_adjacency_matrix
+  file-close-all ; close all open files
+
+if not file-exists? "adjacency_matrix.csv" [
+  user-message "No file 'adjacency_matrix.csv' exists."
+  stop
+]
+  file-open "adjacency_matrix.csv"
+
+  let i 0
+  let row-list []
+  while [i < nb-basic-agents + 1] [
+    let data csv:from-row file-read-line
+    ;print data
+    let column-list []
+    let j 0
+    ; k is the column at which spokesperson agents start
+    let Start_column_of_spokesperson 2002
+
+    while [j < nb-basic-agents + 1] [
+
+      set column-list lput item j data column-list
+      set j j + 1
+
+
+    ]
+    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
+      [
+        set column-list lput item Start_column_of_spokesperson data column-list
+        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
+      ]
+
+    set row-list lput column-list row-list
+    ;print column-list
+    set i i + 1
+  ]
+  ;2002 is the Row at which spokesperson start
+  if 2002 - (nb-basic-agents + 1) > 0[
+  let countdif 2002 - (nb-basic-agents + 1)
+    ;print countdif
+    repeat countdif[
+      let data csv:from-row file-read-line
+
+    ]
+  ]
+  ;Row at which spokesperson start
+  let i1 0
+  while [i1 < nb-spokesperson-agents ] [
+    let data csv:from-row file-read-line
+    ;print data
+    let column-list []
+    let j1 0
+    ; Start_column_of_spokesperson is the column at which spokesperson agents start
+    let Start_column_of_spokesperson 2002
+
+    while [j1 < nb-basic-agents + 1] [
+
+      set column-list lput item j1 data column-list
+      set j1 j1 + 1
+
+
+    ]
+    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
+      [
+        set column-list lput item Start_column_of_spokesperson data column-list
+        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
+      ]
+
+    set row-list lput column-list row-list
+    ;print column-list
+    set i1 i1 + 1
+  ]
+
+  ;2045 is the Row at which info diss start
+  if 2045 - (2001 + nb-spokesperson-agents + 1) > 0[
+  let countdif1 2045 - (2001 + nb-spokesperson-agents + 1)
+    ;print countdif1
+    repeat countdif1 [
+      let data csv:from-row file-read-line
+     ; print data
+
+    ]
+  ]
+
+  ;Row at which info diss start
+  let i2 0
+  while [i2 < nb-information-diss-agents ] [
+    let data csv:from-row file-read-line
+   ; print data
+    let column-list []
+    let j2 0
+    ; Start_column_of_spokesperson is the column at which spokesperson agents start
+    let Start_column_of_spokesperson 2002
+
+    while [j2 < nb-basic-agents + 1] [
+
+      set column-list lput item j2 data column-list
+      set j2 j2 + 1
+
+
+    ]
+    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
+      [
+        set column-list lput item Start_column_of_spokesperson data column-list
+        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
+      ]
+
+    set row-list lput column-list row-list
+    ;print column-list
+    set i2 i2 + 1
+  ]
+
+
+
+
+   csv:to-file "Adjacency_matrix_created.csv" row-list
+
+end
+
+
+to make-network-in
+
+file-close-all ; close all open files
+
+if not file-exists? "Adjacency_matrix_created.csv" [
+  user-message "No file 'Example_in_adjacency_matrix.csv' exists."
+  stop
+]
+  let keys_list []
+  ;let in_trust_list []
+  let key_value_list []
+
+file-open "Adjacency_matrix_created.csv" ; open the file with the links data
+
+; We'll read all the data in a single loop
+let i 0 ; initializing the row number of the adjacency matrix
+let count-agents nb-basic-agents + nb-spokesperson-agents + nb-information-diss-agents
+  ;print count-agents
+let data1 csv:from-row file-read-line
+
+set keys_list data1
+set keys_list remove-item 0 keys_list
+
+;print data1
+while [ i < count-agents ] [
+    set key_value_list []
+    set key_value_list lput keys_list key_value_list
+    ask turtle i [set in-trust []]
+    let in_trust_list []
+
+  ; here the CSV extension grabs a single line and puts the read data in a list
+  let data csv:from-row file-read-line
+  ;print data
+  ; now we can use that list to create a turtle with the saved properties
+  let j 1 ; cloumn number of the adjacency matrix
+  let k 0
+  let l 1
+
+
+  repeat count-agents - nb-information-diss-agents [ ; repeating hundred times for each row i bcz we have hundred columns
+
+    let value item j data
+    ;let key item l data1
+
+
+      ;; Code to convert string to list
+    let temp-string value
+    let list-of-numbers (list)
+
+while [position " " temp-string != FALSE] [
+ let next-number-as-string  (substring temp-string 0 position " " temp-string)
+ set list-of-numbers lput (read-from-string next-number-as-string) (list-of-numbers)
+
+ repeat (position " " temp-string + 1) [
+   set temp-string (but-first temp-string)
+ ]
+]
+
+set list-of-numbers lput (read-from-string temp-string) (list-of-numbers)
+
+
+
+
+
+      ;print item 0 list-of-numbers
+
+      set value item 0 list-of-numbers
+
+      ;print value
+      ask turtle i [
+        set in-trust lput value in-trust
+        ;set in_trust_list lput value in_trust_list
+        ;set in-keys data1
+        ;print in-keys
+        ;print in-trust
+      ]
+    if value != 0[
+      ask turtle i [
+;          set out-trust? lput value out-trust?
+         if agent-type  = "information-diss-agents"  and temp-in-ip != 0 [
+        ifelse member? temp-in-ip received-IP-list [
+        ][set received-IP-list lput temp-in-ip received-IP-list]
+        ]
+;         if In-links?
+;          [ let another_turtle j - 1
+;            create-link-with turtle another_turtle]
+         ; ask links [set color red + 2]
+           ; This draws a line between the agents it's just for representation
+
+        set k k + 1
+        set nb-connections-in k
+      ]
+    ]
+;   if value = 0[ask turtle i [set out-trust? lput value out-trust?]]
+    set j j + 1
+    set l l + 1
+  ]
+
+	;set key_value_list lput in_trust_list key_value_list
+    ask turtle i [set in_key_value []
+      set in_key_value lput keys_list in_key_value
+      ;print length(keys_list)
+      ;print keys_list
+      set in_key_value lput in-trust in_key_value
+      ;print length(in-trust)
+      ;print in-trust
+      set key_value_table table:from-list in_key_value
+
+      ;set key_value_list lput in-trust key_value_list
+      let temp_length 0
+      let temp_in_key_value_list []
+      while [temp_length < length(keys_list)]
+      [
+        let temp_inside_key_val_list []
+        set temp_inside_key_val_list lput item temp_length(item 0(in_key_value)) temp_inside_key_val_list
+        set temp_inside_key_val_list lput item temp_length(item 1(in_key_value)) temp_inside_key_val_list
+        set temp_in_key_value_list lput temp_inside_key_val_list temp_in_key_value_list
+        set temp_length temp_length + 1
+      ]
+     ; csv:to-file "track-key-values.csv" temp_in_key_value_list
+      set key_value_table table:from-list temp_in_key_value_list
+
+      ;print m
+    ;set key_value_table table:from-list in_key_value
+      ;print key_value_table
+    ]
+	
+	
+  set i i + 1
+
+]
+;   print k
+file-close ; make sure to close the file
+end
 
 
 

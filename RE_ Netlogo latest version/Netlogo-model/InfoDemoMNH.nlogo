@@ -1,5 +1,16 @@
 extensions [ csv profiler time table matrix]
-
+globals[
+; Count attributes
+total-initial-IPs
+nb-basic-agents
+nb-donovian-agents
+nb-spokesperson-agents
+nb-information-dissemination-agents
+nb-physical-event-agents
+nb-live-agents
+nb-flow-manipulator-agents
+nb-total-agents
+]
 turtles-own
 [
 ;;; Basic Agent Attributes
@@ -48,15 +59,7 @@ Topic-ID
 IP-ID
 Stance
 
-;; Agent Population Attributes
-;;
-nb-basic-agents
-nb-donovian-agents
-nb-spokesperson-agents
-nb-information-dissemination-agents
-nb-physical-event-agents
-nb-live-agents
-nb-flow-manipulator-agents
+
 
 
 temp-ip ;
@@ -413,7 +416,6 @@ to setup-IP
         ]
     ]
 end
-
 
 
 
