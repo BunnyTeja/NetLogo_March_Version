@@ -19,7 +19,6 @@ agent-type
 country
 county
 municipality
-Coordinates
 latitude
 longitude
 gender
@@ -158,18 +157,17 @@ to create-nb-basic-agents
                 set country item 2 data
                 set county item 3 data
                 set municipality item 4 data
-                set Coordinates item 5 data
-                ;set latitude item 5 data
-                ;set longitude item 6 data
-                set gender item 6 data
-                set Age item 7 data
-                set Language item 8 data
-                set Nationality item 9 data
-                set PoliticalSpectrum item 10 data
-                set SocioeconomicStatus item 11 data
-                set EU item 12 data
-                set NATODonovia item 13 data
-                set InformationDisseminationAgents item 14 data
+                set latitude item 5 data
+                set longitude item 6 data
+                set gender item 7 data
+                set Age item 8 data
+                set Language item 9 data
+                set Nationality item 10 data
+                set PoliticalSpectrum item 11 data
+                set SocioeconomicStatus item 12 data
+                set EU item 13 data
+                set NATODonovia item 14 data
+                ; set InformationDisseminationAgents item 14 data
                 set TriadStackID word "TS-" item 0 data
             ] ; end create-turtle
             set nb-of-agents nb-of-agents + 1
@@ -209,20 +207,18 @@ to create-nb-spokesperson-agents
                 set country item 2 data
                 set county item 3 data
                 set municipality item 4 data
-                set Coordinates item 5 data
-                ;set latitude item 5 data
-                ;set longtitude item 6 data
-                set gender item 6 data
-                set Age item 7 data
-                set Language item 8 data
-                set Nationality item 9 data
-                set PoliticalSpectrum item 10 data
-                set SocioeconomicStatus item 11 data
-                set EU item 12 data
-                set NATODonovia item 13 data
-                set InformationDisseminationAgents item 14 data
+                set latitude item 5 data
+                set longitude item 6 data
+                set gender item 7 data
+                set Age item 8 data
+                set Language item 9 data
+                set Nationality item 10 data
+                set PoliticalSpectrum item 11 data
+                set SocioeconomicStatus item 12 data
+                set EU item 13 data
+                set NATODonovia item 14 data
+                ;set InformationDisseminationAgents item 15 data
                 set TriadStackID word "TS-" item 0 data
-                ;set shape "person business"
             ] ; end create-turtles
         ] ; end reading each line of the file
     ]
