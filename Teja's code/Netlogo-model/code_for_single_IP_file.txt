@@ -1,0 +1,486 @@
+extensions [ csv profiler time table matrix]
+globals[
+; Count attributes
+nb-basic-agents
+nb-information-diss-agents
+total-initial-IPs
+nb-donovian-agents
+nb-spokesperson-agents
+nb-total-agents
+threshold
+]
+turtles-own
+[
+  ;list that stores all the connected agents for an agent
+  connected_agents_list
+  trust_values_list
+  ;Info diss agent attribute to store IPs
+  IPslist
+;Donovian agents attribute
+  AdditionalAttribute
+;Basic agents attributes
+key_value_table
+in_key_value
+in-keys
+NATODonovia
+TriadStackID
+triad_id
+county
+country
+Municipality
+Coordinates
+latitude
+longitude
+Age
+Language
+Nationality
+PoliticalSpectrum
+SocioeconomicStatus
+EU
+InformationDisseminationAgents
+Document-ID
+Information-Source-ID
+agent-ID
+;age-group
+;geo
+gender
+agent-type
+Related-IP; diss agent specific
+temp-ip;
+temp-in-ip; basic agent specific
+temp-out-ip; basic agent specific
+temp-in
+agent-trying-to-send
+Messages-allowed-per-clock-tick ; Limit to how many messages they can send in a virtual clock tick [value]
+IdentitySignature; set of 0 or more Group memberships.
+TriadStack;
+nb-connections-in
+nb-connections-out ;;should have in and out link connections
+nb-group-affiliations?
+nb-topics-read?
+nb-interests?
+Inbox
+Outbox
+stance
+track-list-test
+Initial-Endorsement
+connections?
+in-trust ; represents row of an adjacency matrix. Turtle specific
+out-trust
+;  received-IP
+received-IP-list
+sent-IP-list
+connected-to-diss-agent?
+;;;;IP specific
+target-group   ; Ip specific
+source    ; Ip specific
+Endorsement-of-IP ; Ip specific
+Amplification-of-IP ; Ip specific
+censure ; Ip specific
+IP-id ;IP specific
+DocumentID
+InformationSourceID
+Related-topic-id ;IP specific
+Location ;IP specific
+Ref_id_to_Info_Atrifact;;A reference ID to the original source information artifact.
+Triad;;A Triad
+group-prestige ;; group specific
+group-id
+topic-id ; Topic specific
+;track specific
+initial-stance
+initial-received-IPs
+initial-sent-IPs
+controlling_identity
+Key_issue
+]
+
+;;Reset the entire world
+to clear-agents
+clear-all
+clear-all-plots
+clear-globals
+end
+
+;;Method to setup the environment by creating agents and connections
+
+to setup-agents
+
+;;This calls the below methods and create respective agents.
+create-nb-basic-agents
+create-nb-spokesperson-agents
+create-nb-information-diss-agents
+;create-nb-donovian-agents
+
+;assign-color
+;clear-count
+;create_adjacency_matrix
+;if In-links?
+;[make-network-in]
+;if out-links?
+;[make-network-out]
+;write-initial-setup
+;reset-ticks
+end
+
+to create-nb-basic-agents
+file-close-all ; close all open files
+if not file-exists? "../Input-files/basicAgentsInput.csv" [
+user-message "No file '../Input-files/basicAgentsInput.csv' exists."
+stop
+]
+file-open "../Input-files/basicAgentsInput.csv" ; open the file with the turtle data
+let data csv:from-row file-read-line
+; We'll read all the data in a single loop
+set nb-basic-agents 0
+while [ not file-at-end? ] [
+set nb-basic-agents nb-basic-agents + 1
+; here the CSV extension grabs a single line and puts the read data in a list
+set data csv:from-row file-read-line
+; now we can use that list to create a turtle with the saved properties
+create-turtles 1 [
+set shape "circle"
+set size  0.3
+set color blue
+set agent-ID item 0 data
+let xcor1 random-xcor
+let ycor1 random-ycor
+set xcor xcor1
+set ycor ycor1
+set agent-type item 1 data
+set country item 2 data
+set county item 3 data
+;set latitude item 4 data
+set Municipality item 4 data
+set Coordinates item 5 data
+set Gender item 6 data
+set Age item 7 data
+set Language item 8 data
+set Nationality item 9 data
+set PoliticalSpectrum item 10 data
+set SocioeconomicStatus item 11 data
+set EU item 12 data
+set NATODonovia item 13 data
+set InformationDisseminationAgents item 14 data
+set TriadStackID word "TS-" item 0 data
+set connected_agents_list []
+set trust_values_list []
+set Inbox []
+set Outbox []
+]
+]
+print nb-basic-agents
+set nb-total-agents nb-basic-agents
+file-close
+end
+
+
+to create-nb-spokesperson-agents
+ file-close-all ; close all open files
+if not file-exists? "../Input-files/spokespersonAgentsInput.csv" [
+user-message "No file '../Input-files/spokesperson-agents-input.csv' exists."
+stop
+]
+file-open "../Input-files/spokespersonAgentsInput.csv" ; open the file with the turtle data
+let data csv:from-row file-read-line
+; We'll read all the data in a single loop
+set nb-spokesperson-agents 0
+while [ not file-at-end? ] [
+set nb-spokesperson-agents nb-spokesperson-agents + 1
+; here the CSV extension grabs a single line and puts the read data in a list
+set data csv:from-row file-read-line
+; now we can use that list to create a turtle with the saved properties
+create-turtles 1 [
+  set size  1
+  set agent-ID item 0 data
+  let xcor1 random-xcor
+  let ycor1 random-ycor
+    if xcor1 <= 11 and xcor1 >= -11
+    [set xcor xcor1]
+    if ycor1 <= 11 and ycor1 >= -11
+    [set ycor ycor1]
+  set agent-type item 1 data
+ set country item 2 data
+ set county item 3 data
+ ;set latitude item 4 data
+ set Municipality item 4 data
+ set Coordinates item 5 data
+ set Gender item 6 data
+ set Age item 7 data
+ set Language item 8 data
+ set Nationality item 9 data
+ set PoliticalSpectrum item 10 data
+ set SocioeconomicStatus item 11 data
+ set EU item 12 data
+ set NATODonovia item 13 data
+ set InformationDisseminationAgents item 14 data
+ set shape "circle"
+ set size  0.3
+ set color violet
+ set connected_agents_list []
+ set trust_values_list []
+ set Inbox []
+      set Outbox []
+]
+]
+print nb-spokesperson-agents
+set nb-total-agents nb-spokesperson-agents + nb-total-agents
+file-close ;
+end
+
+
+to create-nb-information-diss-agents
+file-close-all ; close all open files
+if not file-exists? "../Input-files/InfoDissAgents.csv" [
+user-message "No file '../Input-files/InfoDissAgents.csv' exists."
+stop
+]
+file-open "../Input-files/InfoDissAgents.csv" ; open the file with the turtle data
+let data csv:from-row file-read-line
+; We'll read all the data in a single loop
+set nb-information-diss-agents 0
+while [ not file-at-end? ] [
+set nb-information-diss-agents nb-information-diss-agents + 1
+; here the CSV extension grabs a single line and puts the read data in a list
+set data csv:from-row file-read-line
+; now we can use that list to create a turtle with the saved properties
+create-turtles 1 [
+  set size  1
+  set color yellow
+  set agent-ID item 0 data
+  let xcor1 random-xcor
+  let ycor1 random-ycor
+    if xcor1 <= 11 and xcor1 >= -11
+    [set xcor xcor1]
+    if ycor1 <= 11 and ycor1 >= -11
+    [set ycor ycor1]
+  set agent-type item 1 data
+  set Coordinates "0 0"
+  set shape "circle"
+  set size  0.3
+  set IPslist []
+  set connected_agents_list []
+  set trust_values_list []
+]
+]
+print nb-information-diss-agents
+set nb-total-agents nb-information-diss-agents + nb-total-agents
+print nb-total-agents
+file-close ;
+end
+
+
+
+to setup-IP
+file-close-all ; close all open files
+if not file-exists? "../Input-files/IPsInput.csv" [
+user-message "No file '../Input-files/IPsInput.csv' exists."
+stop
+]
+file-open "../Input-files/IPsInput.csv" ; open the file with the turtle data
+; We'll read all the data in a single loop
+  ; We will read first line which is attribute names, but will not perform any action.
+  let data csv:from-row file-read-line
+  set total-initial-IPs 0
+while [not file-at-end?] [
+  set total-initial-IPs total-initial-IPs + 1
+; here the CSV extension grabs a single line and puts the read data in a list
+set data csv:from-row file-read-line
+; now we can use that list to create a turtle with the saved properties
+create-turtles 1 [
+  set color orange
+  set size  0.4
+    set xcor -12
+    let ycor1 random-xcor
+    if ycor1 <= 11 and ycor1 >= -11
+    [set ycor ycor1]
+  set agent-type item 0 data
+  set DocumentID item 1 data
+  set InformationSourceID item 2 data
+  set Related-topic-id item 3 data
+  set IP-id item 4 data
+  set stance item 4 data
+  set shape "square"
+  ;Logic for updating the Info dissimination agents IPslist attribute with related IPs
+  ;Creating a temp variable to store info agent id
+  let IPsInformationSourceID InformationSourceID
+  let IPsIP-id IP-id
+   let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+    ask current_agents [
+    set IPslist lput IPsIP-id IPslist
+   ]
+]
+]
+  print total-initial-IPs
+  ;Code to test
+foreach sort turtles [ t ->
+    ask t [if agent-type = "information-diss-agents" and IPslist != [][
+;    print agent-ID
+;    print IPslist
+    ]
+   ]
+  ]
+end
+
+to make-connections
+file-close-all ; close all open files
+if not file-exists? "../Input-files/adjacency_matrix.csv" [
+  user-message "No file '../Input-files/adjacency_matrix.csv' exists."
+  stop
+]
+let ids_list []
+file-open "../Input-files/adjacency_matrix.csv" ; open the file with the links data
+; We'll read all the data in a single loop
+let i 0 ; initializing the row number of the adjacency matrix
+let id_data csv:from-row file-read-line
+set ids_list id_data
+set ids_list remove-item 0 ids_list
+;print ids_list
+;print data1
+while [ i < nb-total-agents ] [
+  let row_data csv:from-row file-read-line
+  ;print row_data
+  let row_agent_id item 0 row_data
+  set row_data remove-item 0 row_data
+  let j 0 ;cloumn number of the adjacency matrix
+  repeat nb-total-agents - nb-information-diss-agents [
+  let trust_value item j row_data
+      if trust_value != 0[
+      ;print trust_value
+      ;set trust
+      
+      let current_agent turtles with [agent-id = row_agent_id]
+      ask current_agent [
+      let temp item j ids_list
+      set trust_values_list lput trust_value trust_values_list
+      set connected_agents_list lput temp connected_agents_list
+       ]
+     ]
+    set j j + 1
+    ]
+    let current_agent turtles with [agent-id = row_agent_id]
+    ask current_agent [
+    print agent-id
+    print connected_agents_list
+    print trust_values_list
+    print IPslist]
+    set i i + 1
+]
+end
+
+to go
+  
+;;get new IPs at each tick - setup IPs
+send ;; generate logs that are required here
+read
+end
+
+to send
+;; logic for sending IPs through Info agents if they have any IPs
+  ;1. If the IPs list is not empty send the first 5 IPs to all the connected agents and remove those from list.
+ let info_agents_with_IPs turtles with [agent-type = "information-diss-agents" and IPslist != [] and connected_agents_list != []]
+  ask info_agents_with_IPs [
+  let i 0
+  let tempIpslist []
+;  ifelse length(IPslist) >= #_IPs_to_send_per_tick [
+;    set tempIpslist IPslist
+;    set IPslist sublist IPslist #_IPs_to_send_per_tick (length IPslist) ;; Updating the IPs list by removing the five IPs that we are sending now
+;    while [i < length(connected_agents_list)] [
+;      let search_id item i connected_agents_list
+;      print search_id
+;      let current_agent turtles with [agent-id = search_id]
+;      ask current_agent [
+;        let j 0
+;        while [j < #_IPs_to_send_per_tick] [
+;          let temp item j tempIpslist
+;          set Inbox lput temp Inbox
+;          set j j + 1
+;        ]
+;        print Inbox
+;      ]
+;      set i i + 1
+;    ]
+;  ]
+;  
+;    [
+    set tempIpslist IPslist
+    ;set IPslist sublist IPslist length(tempIpslist) (length IPslist) ;; Updating the IPs list by removing the five IPs that we are sending now
+    while [i < length(connected_agents_list)] [
+      let search_id item i connected_agents_list
+      print search_id
+      let current_agent turtles with [agent-id = search_id]
+      ask current_agent [
+        let j 0
+        while [j < length(tempIpslist)] [
+          let temp item j tempIpslist
+          set Inbox lput temp Inbox
+          set j j + 1
+        ]
+        print Inbox
+      ]
+      set i i + 1
+    ]
+  ;]
+  
+]
+       
+;; logic for sending IPs through basic agents if the outbox is not empty
+  ;1. If the Outbox is not empty send the Ips to all the connected agents.
+  let basic_agents_with_IPs turtles with [agent-type = "basic-agents" and Outbox != [] and connected_agents_list != []]
+  ask basic_agents_with_IPs [
+  let i 0
+  let tempIpslist []
+  if length(Outbox) >= 0 [
+    set tempIpslist Outbox
+    while [i < length(connected_agents_list)] [
+      let search_id item i connected_agents_list
+      print search_id
+      let current_agent turtles with [agent-id = search_id]
+      ask current_agent [
+          let j 0
+        while [j < length(tempIpslist)] [
+          let temp item j tempIpslist
+          set Inbox lput temp Inbox
+          set j j + 1
+        ]
+          print Inbox
+      ]
+      set i i + 1
+    ]
+  ]
+]
+
+end
+
+to read
+;; logic for sending IPs through Info agents if they have any IPs
+
+
+;; logic for sending IPs through basic agents if the outbox is not empty
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

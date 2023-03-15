@@ -7,9 +7,37 @@ total-initial-IPs
 nb-donovian-agents
 nb-spokesperson-agents
 nb-total-agents
+threshold
+initial_track_list_IA
+Information_Action_list
+sub_list_IA
+information_action_type
+change_in_amplification
+tick-count
+
+IncreaseMagnitudeofTopicStance
+DecreaseMagnitudeofTopicStance
+
+identity-list
+initial-track-list10
+sub-list10
+
+Triad-list
+initial-track-list12
+sub-list12
+
+
+track-list
+initial-track-list
+sub-list
 ]
+
 turtles-own
-[
+[ triadtopics
+  ;list that stores all the connected agents for an agent
+  connected_agents_list
+  trust_values_list
+  Id_trust_table
   ;Info diss agent attribute to store IPs
   IPslist
 ;Donovian agents attribute
@@ -56,6 +84,7 @@ nb-group-affiliations?
 nb-topics-read?
 nb-interests?
 Inbox
+Outbox
 stance
 track-list-test
 Initial-Endorsement
@@ -145,19 +174,26 @@ set ycor ycor1
 set agent-type item 1 data
 set country item 2 data
 set county item 3 data
-;set latitude item 4 data
 set Municipality item 4 data
-set Coordinates item 5 data
-set Gender item 6 data
-set Age item 7 data
-set Language item 8 data
-set Nationality item 9 data
-set PoliticalSpectrum item 10 data
-set SocioeconomicStatus item 11 data
-set EU item 12 data
-set NATODonovia item 13 data
-set InformationDisseminationAgents item 14 data
+set latitude item 5 data
+set longitude item 6 data
+set Gender item 7 data
+set Age item 8 data
+set Language item 9 data
+set Nationality item 10 data
+set PoliticalSpectrum item 11 data
+set SocioeconomicStatus item 12 data
+set EU item 13 data
+set NATODonovia item 14 data
+
 set TriadStackID word "TS-" item 0 data
+set connected_agents_list []
+set trust_values_list []
+set Inbox []
+set Outbox []
+set triadstack []
+set Received-IP-list []
+set triadtopics []
 ]
 ]
 print nb-basic-agents
@@ -190,24 +226,31 @@ create-turtles 1 [
     [set xcor xcor1]
     if ycor1 <= 11 and ycor1 >= -11
     [set ycor ycor1]
-  set agent-type item 1 data
- set country item 2 data
- set county item 3 data
- ;set latitude item 4 data
- set Municipality item 4 data
- set Coordinates item 5 data
- set Gender item 6 data
- set Age item 7 data
- set Language item 8 data
- set Nationality item 9 data
- set PoliticalSpectrum item 10 data
- set SocioeconomicStatus item 11 data
- set EU item 12 data
- set NATODonovia item 13 data
- set InformationDisseminationAgents item 14 data
+ set agent-type item 1 data
+set country item 2 data
+set county item 3 data
+set Municipality item 4 data
+set latitude item 5 data
+set longitude item 6 data
+set Gender item 7 data
+set Age item 8 data
+set Language item 9 data
+set Nationality item 10 data
+set PoliticalSpectrum item 11 data
+set SocioeconomicStatus item 12 data
+set EU item 13 data
+set NATODonovia item 14 data
+
  set shape "circle"
  set size  0.3
  set color violet
+ set connected_agents_list []
+ set trust_values_list []
+ set Inbox []
+      set Outbox []
+      set triadstack []
+      set Received-IP-list []
+      set triadtopics []
 ]
 ]
 print nb-spokesperson-agents
@@ -246,6 +289,8 @@ create-turtles 1 [
   set shape "circle"
   set size  0.3
   set IPslist []
+  set connected_agents_list []
+  set trust_values_list []
 ]
 ]
 print nb-information-diss-agents
@@ -266,7 +311,9 @@ file-open "../Input-files/IPsInput.csv" ; open the file with the turtle data
 ; We'll read all the data in a single loop
   ; We will read first line which is attribute names, but will not perform any action.
   let data csv:from-row file-read-line
+  set total-initial-IPs 0
 while [not file-at-end?] [
+  set total-initial-IPs total-initial-IPs + 1
 ; here the CSV extension grabs a single line and puts the read data in a list
 set data csv:from-row file-read-line
 ; now we can use that list to create a turtle with the saved properties
@@ -282,284 +329,495 @@ create-turtles 1 [
   set InformationSourceID item 2 data
   set Related-topic-id item 3 data
   set IP-id item 4 data
-  set stance item 4 data
+  set stance item 5 data
   set shape "square"
   ;Logic for updating the Info dissimination agents IPslist attribute with related IPs
   ;Creating a temp variable to store info agent id
   let IPsInformationSourceID InformationSourceID
   let IPsIP-id IP-id
-   foreach sort turtles [ t ->
-    ask t [if agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID[
+   let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+    ask current_agents [
     set IPslist lput IPsIP-id IPslist
-    ]
    ]
-  ]
 ]
 ]
+  print total-initial-IPs
   ;Code to test
 foreach sort turtles [ t ->
     ask t [if agent-type = "information-diss-agents" and IPslist != [][
-    print agent-ID
-    print IPslist
+;    print agent-ID
+;    print IPslist
     ]
    ]
   ]
 end
 
-
-to create_adjacency_matrix
-  file-close-all ; close all open files
-
-if not file-exists? "adjacency_matrix.csv" [
-  user-message "No file 'adjacency_matrix.csv' exists."
-  stop
-]
-  file-open "adjacency_matrix.csv"
-
-  let i 0
-  let row-list []
-  while [i < nb-basic-agents + 1] [
-    let data csv:from-row file-read-line
-    ;print data
-    let column-list []
-    let j 0
-    ; k is the column at which spokesperson agents start
-    let Start_column_of_spokesperson 2002
-
-    while [j < nb-basic-agents + 1] [
-
-      set column-list lput item j data column-list
-      set j j + 1
-
-
-    ]
-    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
-      [
-        set column-list lput item Start_column_of_spokesperson data column-list
-        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
-      ]
-
-    set row-list lput column-list row-list
-    ;print column-list
-    set i i + 1
-  ]
-  ;2002 is the Row at which spokesperson start
-  if 2002 - (nb-basic-agents + 1) > 0[
-  let countdif 2002 - (nb-basic-agents + 1)
-    ;print countdif
-    repeat countdif[
-      let data csv:from-row file-read-line
-
-    ]
-  ]
-  ;Row at which spokesperson start
-  let i1 0
-  while [i1 < nb-spokesperson-agents ] [
-    let data csv:from-row file-read-line
-    ;print data
-    let column-list []
-    let j1 0
-    ; Start_column_of_spokesperson is the column at which spokesperson agents start
-    let Start_column_of_spokesperson 2002
-
-    while [j1 < nb-basic-agents + 1] [
-
-      set column-list lput item j1 data column-list
-      set j1 j1 + 1
-
-
-    ]
-    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
-      [
-        set column-list lput item Start_column_of_spokesperson data column-list
-        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
-      ]
-
-    set row-list lput column-list row-list
-    ;print column-list
-    set i1 i1 + 1
-  ]
-
-  ;2045 is the Row at which info diss start
-  if 2045 - (2001 + nb-spokesperson-agents + 1) > 0[
-  let countdif1 2045 - (2001 + nb-spokesperson-agents + 1)
-    ;print countdif1
-    repeat countdif1 [
-      let data csv:from-row file-read-line
-     ; print data
-
-    ]
-  ]
-
-  ;Row at which info diss start
-  let i2 0
-  while [i2 < nb-information-diss-agents ] [
-    let data csv:from-row file-read-line
-   ; print data
-    let column-list []
-    let j2 0
-    ; Start_column_of_spokesperson is the column at which spokesperson agents start
-    let Start_column_of_spokesperson 2002
-
-    while [j2 < nb-basic-agents + 1] [
-
-      set column-list lput item j2 data column-list
-      set j2 j2 + 1
-
-
-    ]
-    while[Start_column_of_spokesperson < nb-spokesperson-agents + 2002]
-      [
-        set column-list lput item Start_column_of_spokesperson data column-list
-        set Start_column_of_spokesperson Start_column_of_spokesperson + 1
-      ]
-
-    set row-list lput column-list row-list
-    ;print column-list
-    set i2 i2 + 1
-  ]
-
-
-
-
-   csv:to-file "Adjacency_matrix_created.csv" row-list
-
-end
-
-
-to make-network-in
-
+to make-connections
 file-close-all ; close all open files
-
-if not file-exists? "Adjacency_matrix_created.csv" [
-  user-message "No file 'Example_in_adjacency_matrix.csv' exists."
+if not file-exists? "../Input-files/adjacency_matrix.csv" [
+  user-message "No file '../Input-files/adjacency_matrix.csv' exists."
   stop
 ]
-  let keys_list []
-  ;let in_trust_list []
-  let key_value_list []
-
-file-open "Adjacency_matrix_created.csv" ; open the file with the links data
-
+let ids_list []
+file-open "../Input-files/adjacency_matrix.csv" ; open the file with the links data
 ; We'll read all the data in a single loop
 let i 0 ; initializing the row number of the adjacency matrix
-let count-agents nb-basic-agents + nb-spokesperson-agents + nb-information-diss-agents
-  ;print count-agents
-let data1 csv:from-row file-read-line
-
-set keys_list data1
-set keys_list remove-item 0 keys_list
-
+let id_data csv:from-row file-read-line
+set ids_list id_data
+set ids_list remove-item 0 ids_list
+;print ids_list
 ;print data1
-while [ i < count-agents ] [
-    set key_value_list []
-    set key_value_list lput keys_list key_value_list
-    ask turtle i [set in-trust []]
-    let in_trust_list []
+while [ i < nb-total-agents ] [
+  let row_data csv:from-row file-read-line
+  ;print row_data
+  let row_agent_id item 0 row_data
+  set row_data remove-item 0 row_data
+  let j 0 ;cloumn number of the adjacency matrix
+  repeat nb-total-agents - nb-information-diss-agents [
+  let trust_value item j row_data
+      if trust_value != 0[
+      ;print trust_value
+      ;set trust
 
-  ; here the CSV extension grabs a single line and puts the read data in a list
-  let data csv:from-row file-read-line
-  ;print data
-  ; now we can use that list to create a turtle with the saved properties
-  let j 1 ; cloumn number of the adjacency matrix
-  let k 0
-  let l 1
-
-
-  repeat count-agents - nb-information-diss-agents [ ; repeating hundred times for each row i bcz we have hundred columns
-
-    let value item j data
-    ;let key item l data1
-
-
-      ;; Code to convert string to list
-    let temp-string value
-    let list-of-numbers (list)
-
-while [position " " temp-string != FALSE] [
- let next-number-as-string  (substring temp-string 0 position " " temp-string)
- set list-of-numbers lput (read-from-string next-number-as-string) (list-of-numbers)
-
- repeat (position " " temp-string + 1) [
-   set temp-string (but-first temp-string)
- ]
-]
-
-set list-of-numbers lput (read-from-string temp-string) (list-of-numbers)
-
-
-
-
-
-      ;print item 0 list-of-numbers
-
-      set value item 0 list-of-numbers
-
-      ;print value
-      ask turtle i [
-        set in-trust lput value in-trust
-        ;set in_trust_list lput value in_trust_list
-        ;set in-keys data1
-        ;print in-keys
-        ;print in-trust
-      ]
-    if value != 0[
-      ask turtle i [
-;          set out-trust? lput value out-trust?
-         if agent-type  = "information-diss-agents"  and temp-in-ip != 0 [
-        ifelse member? temp-in-ip received-IP-list [
-        ][set received-IP-list lput temp-in-ip received-IP-list]
-        ]
-;         if In-links?
-;          [ let another_turtle j - 1
-;            create-link-with turtle another_turtle]
-         ; ask links [set color red + 2]
-           ; This draws a line between the agents it's just for representation
-
-        set k k + 1
-        set nb-connections-in k
-      ]
-    ]
-;   if value = 0[ask turtle i [set out-trust? lput value out-trust?]]
+      let current_agent turtles with [agent-id = row_agent_id]
+      ask current_agent [
+      let temp item j ids_list
+      set trust_values_list lput trust_value trust_values_list
+      set connected_agents_list lput temp connected_agents_list
+       ]
+     ]
     set j j + 1
-    set l l + 1
+    ]
+    let current_agent turtles with [agent-id = row_agent_id]
+ask current_agent [
+  set Id_trust_table table:make ; create an empty table
+  foreach connected_agents_list [
+    k ->
+      let index position k connected_agents_list
+      let value item index trust_values_list
+      table:put Id_trust_table k value
+ ]
+;    print Id_trust_table
+;    print agent-id
+;    print connected_agents_list
+;    print trust_values_list
+;    print IPslist
+]
+ set i i + 1
+
+]
+end
+
+
+to send
+
+;; logic for sending IPs through Info agents if they have any IPs
+  ;1. If the IPs list is not empty send the first 5 IPs to all the connected agents and remove those from list.
+  set Information_Action_list []
+  set initial_track_list_IA []
+  set initial_track_list_IA ["information_action_type" "sending_agent_id" "receiving_agent_id" "information_packet_id" "endorsed_agent_id" "change_in_amplification" "tick" "simulation_id"]
+    ;print(initial-track-list)
+    set Information_Action_list lput initial_track_list_IA Information_Action_list
+  print tick-count
+;  if tick-count = 1[
+;  let info_agents_with_IPs turtles with [agent-type = "information-diss-agents" and IPslist != [] and connected_agents_list != []]
+;  ask info_agents_with_IPs [
+;  let i 0
+;  let triadno 1
+;  let tempIpslist []
+;  let info_agent_id agent-id ; sending agent id
+;    set tempIpslist IPslist
+;    ;set IPslist sublist IPslist length(tempIpslist) (length IPslist) ;; Updating the IPs list by removing the five IPs that we are sending now
+;    while [i < length(connected_agents_list)] [
+;      let search_id item i connected_agents_list
+;      ;print search_id ; to see the current connected basic agent id ; receiving agent id
+;      let current_agent turtles with [agent-id = search_id]
+;      ask current_agent [
+;        let j 0
+;        while [j < length(tempIpslist)] [
+;          let temp item j tempIpslist; temp stores the current IP id
+;          set Outbox lput temp Outbox ; To store received IPs
+;          ;set Inbox lput temp Inbox
+;         ; logic for creating triadstack for basic agents
+;          let temptriad []
+;          let temptopic []
+;          let current_IP turtles with [IP-id = temp]
+;          ask current_IP[
+;           let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
+;           let AmplifyanInformationPacket false
+;            let RefuteanInformationPacket false
+;            ifelse random 100 < 50 [
+;              set AmplifyanInformationPacket true
+;            ]
+;            [
+;              set RefuteanInformationPacket true
+;            ]
+;            if AmplifyanInformationPacket = true [
+;            set information_action_type "amplify"
+;            if stance > 0[
+;            set stance stance + 0.1
+;            set change_in_amplification "+ 0.1"
+;              ]
+;            if stance < 0[
+;            set stance stance - 0.1
+;            set change_in_amplification "- 0.1"
+;              ]
+;            ]
+;              if RefuteanInformationPacket = true [
+;              set information_action_type "refute"
+;            if stance > 0[
+;            set stance stance - 0.1
+;            set change_in_amplification "- 0.1"
+;              ]
+;            if stance < 0[
+;            set stance stance + 0.1
+;            set change_in_amplification "+ 0.1"
+;              ]
+;            ]
+;            set sub_list_IA []
+;                              set sub_list_IA lput information_action_type sub_list_IA
+;                              set sub_list_IA lput info_agent_id sub_list_IA
+;                              set sub_list_IA lput search_id sub_list_IA
+;                              set sub_list_IA lput Ip_Id_log sub_list_IA
+;                              set sub_list_IA lput 0 sub_list_IA
+;                              set sub_list_IA lput change_in_amplification  sub_list_IA
+;                              set sub_list_IA lput 1 sub_list_IA
+;                              set sub_list_IA lput 1 sub_list_IA
+;                         set Information_Action_list lput sub_list_IA Information_Action_list
+;            set temptriad lput word "Triad_ID_" triadno temptriad
+;            set temptriad lput Related-topic-id temptriad
+;            set temptriad lput stance temptriad
+;            set temptopic lput Related-topic-id temptopic
+;          ]
+;          if temptriad != [] [
+;          ;print temptriad
+;          set triadstack lput temptriad triadstack
+;          set triadtopics temptopic ]
+;          set color red
+;          set j j + 1
+;          set triadno triadno + 1
+;        ]
+;        ;print triadstack ; to see the current agent's triadstack
+;      ]
+;;        let infoAct  word "Information-Actions-tick-" tick-count
+;;
+;;      csv:to-file word infoAct".csv" Information_Action_list
+;      set i i + 1
+;    ]
+;]
+;  ]
+
+if tick-count >= 1[
+
+; logic for sending IPs through basic agents if the outbox is not empty
+  ;1. If the Outbox is not empty send the Ips to all the connected agents.
+
+  let basic_agents_with_IPs turtles with [agent-type = "basic" and Outbox != [] and connected_agents_list != []]
+  ask basic_agents_with_IPs [
+  ;print "test"
+  let i 0
+  let tempIpslist []
+  let basic_agent_id agent-id ; sending agent id
+  ;print basic_agent_id
+  if length(Outbox) >= 0 [
+    set tempIpslist Outbox
+    while [i < length(connected_agents_list)] [
+      let search_id item i connected_agents_list ; reveiving agent id
+      ;print search_id
+      let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
+      if trust_value > 0.5[
+      let current_agent turtles with [agent-id = search_id]
+      ask current_agent [
+          let j 0
+        while [j < length(tempIpslist)] [
+          let temp item j tempIpslist
+          set Inbox lput temp Inbox
+
+              let current_IP turtles with [IP-id = temp]
+          ask current_IP[
+           let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
+           let AmplifyanInformationPacket false
+            let RefuteanInformationPacket false
+            ifelse random 100 < 10 [
+              set AmplifyanInformationPacket true
+            ]
+                  []
+            ifelse random 100 < 10 [
+              set RefuteanInformationPacket true
+            ]
+                  []
+            if AmplifyanInformationPacket = true [
+            set information_action_type "amplify"
+            if stance > 7[
+            set stance stance + 0.1
+            set change_in_amplification "+ 0.1"
+              ]
+            if stance < -7[
+            set stance stance - 0.1
+            set change_in_amplification "- 0.1"
+              ]
+            ]
+              if RefuteanInformationPacket = true [
+              set information_action_type "refute"
+            if stance > 7[
+            set stance stance - 0.1
+            set change_in_amplification "- 0.1"
+              ]
+            if stance < -7[
+            set stance stance + 0.1
+            set change_in_amplification "+ 0.1"
+              ]
+            ]
+            set sub_list_IA []
+                              set sub_list_IA lput information_action_type sub_list_IA
+                              set sub_list_IA lput basic_agent_id sub_list_IA
+                              set sub_list_IA lput search_id sub_list_IA
+                              set sub_list_IA lput Ip_Id_log sub_list_IA
+                              set sub_list_IA lput 0 sub_list_IA
+                              set sub_list_IA lput change_in_amplification  sub_list_IA
+                              set sub_list_IA lput tick-count sub_list_IA
+                              set sub_list_IA lput 1 sub_list_IA
+                         set Information_Action_list lput sub_list_IA Information_Action_list
+
+          ]
+
+          set j j + 1
+        ]
+          ;print Inbox
+      ]
+      ]
+        let infoAct  word "Information-Actions-tick-" tick-count
+
+      csv:to-file word infoAct".csv" Information_Action_list
+      set i i + 1
+    ]
+  ]
+      set Outbox []
+]
   ]
 
-	;set key_value_list lput in_trust_list key_value_list
-    ask turtle i [set in_key_value []
-      set in_key_value lput keys_list in_key_value
-      ;print length(keys_list)
-      ;print keys_list
-      set in_key_value lput in-trust in_key_value
-      ;print length(in-trust)
-      ;print in-trust
-      set key_value_table table:from-list in_key_value
+end
 
-      ;set key_value_list lput in-trust key_value_list
-      let temp_length 0
-      let temp_in_key_value_list []
-      while [temp_length < length(keys_list)]
-      [
-        let temp_inside_key_val_list []
-        set temp_inside_key_val_list lput item temp_length(item 0(in_key_value)) temp_inside_key_val_list
-        set temp_inside_key_val_list lput item temp_length(item 1(in_key_value)) temp_inside_key_val_list
-        set temp_in_key_value_list lput temp_inside_key_val_list temp_in_key_value_list
-        set temp_length temp_length + 1
-      ]
-     ; csv:to-file "track-key-values.csv" temp_in_key_value_list
-      set key_value_table table:from-list temp_in_key_value_list
+to read
+set identity-list[]
+set initial-track-list10 ["agentId" "action" "triad_id " "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+    ;print(initial-track-list)
+    set identity-list lput initial-track-list10 identity-list
 
-      ;print m
-    ;set key_value_table table:from-list in_key_value
-      ;print key_value_table
-    ]
-	
-	
-  set i i + 1
+set Triad-list[]
+set initial-track-list12 ["triad_id" "triad_stack_id" "identity_group_id" "topic_id" "stance" "tick" "simulation_id"]
+    ;print(initial-track-list)
+    set Triad-list lput initial-track-list12 Triad-list
+let basic_agents_with_IPs turtles with [agent-type = "basic" and Inbox != [] ]
+ask basic_agents_with_IPs [
+  print "test"
+ ; let i 0
+  let tempIpslist []
+  let basic_agent_id agent-id ; sending agent id
+  print basic_agent_id
+  if length(inbox) >= 0 [
+    set tempIpslist inbox
+          let j 0
+        while [j < length(tempIpslist)] [
+          let temp item j tempIpslist
 
+              let current_IP turtles with [IP-id = temp]
+          ask current_IP[
+           let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
+           let Ip_topic Related-topic-id
+           let current_agent turtles with [agent-id = basic_agent_id]
+          ask current_agent[
+          if member? Ip_topic triadtopics [
+              ifelse member? IP-id outbox[
+              ]
+              [
+               set outbox lput IP-id outbox
+               set color brown
+
+                set IncreaseMagnitudeofTopicStance false
+                set DecreaseMagnitudeofTopicStance false
+;                set AddTriadtoTriadStack false
+;                set RemoveTriad false
+ if random 100 < 20 [
+    set IncreaseMagnitudeofTopicStance true
 ]
-;   print k
-file-close ; make sure to close the file
+ if random 100 < 10 [
+    set DecreaseMagnitudeofTopicStance true
+]
+                          if IncreaseMagnitudeofTopicStance = true and triadstack != [] and ( (item 2 (item 0(triadstack))) >= -3 or (item 2 (item 0(triadstack))) <= 3 )[
+                            ;print("UpdateStance")
+;                    foreach sort turtles [ t ->
+;     ask t [if agent-type = "basic-agents"   and triadstack != [] [
+;ask turtle i [
+                        ;set stance? stance? + 1
+                        set triadstack (replace-item 0 triadstack(replace-item 2  (item 0  triadstack) (item 2 (item 0(triadstack)) + 0.3)))
+                                ;print (item 2  triadstack)
+;                                if length(triadstack) >= 4 [
+;
+;                                  set triadstack (replace-item 3 triadstack(replace-item 1  (item 3  triadstack) (item 1 (item 3(triadstack)) + 0.2)))]
+;                                ;print (item 3  triadstack)
+;                          if length(triadstack) >= 5 [
+;                                  set triadstack (replace-item 4 triadstack(replace-item 1  (item 4  triadstack) (item 1 (item 4(triadstack)) + 0.1)))]
+                       ; print item 0(triadstack)
+                        ;print tick-count
+;                        print item 3(triadstack)
+;                        print item 4(triadstack)
+;  ]
+;
+;]
+;                    ]
+                              let id (item 0 (item 0(triadstack)) )
+                              set sub-list10[]
+
+                             ; set sub-list10 lput IdentityActionID sub-list10
+                              set sub-list10 lput agent-id sub-list10
+                              set sub-list10 lput "UpdateStance" sub-list10
+                              set sub-list10 lput id sub-list10
+                              set sub-list10 lput "0.3" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              ;set sub-list10 lput date-and-time sub-list10
+                         set identity-list lput sub-list10 identity-list
+
+
+
+                              let top-id (item 1 (item 0(triadstack)) )
+;                              print id
+;                              print top-id
+                              let stn (item 2 (item 0(triadstack)) )
+                              set sub-list12[]
+
+                              set sub-list12 lput id sub-list12
+                              set sub-list12 lput TriadStackID sub-list12
+                              set sub-list12 lput "0" sub-list12
+                              set sub-list12 lput  top-id sub-list12
+                              set sub-list12 lput  stn sub-list12
+                              set sub-list12 lput "0" sub-list12
+                            ;set sub-list12 lput tick1 sub-list12
+                            set sub-list12 lput "0" sub-list12
+                         set Triad-list lput sub-list12 Triad-list
+                          ;print identity-list
+
+
+                           ; ]
+                  ]
+      if DecreaseMagnitudeofTopicStance = true
+      [
+                             ;print("UpdateStance")
+;   foreach sort turtles [ t ->
+;     ask t [if agent-type = "basic-agents" and triadstack != [][
+;ask turtle i [
+                        ;set stance? stance? - 1
+;                        set triadstack (replace-item 0 triadstack(replace-item 1  (item 0  triadstack) (item 1 (item 0(triadstack)) - 0.2)))
+;                                ;print (item 2  triadstack)
+                               if length(triadstack) >= 4 and ( (item 2 (item 3(triadstack))) >= -3 or (item 2 (item 3(triadstack))) <= 3 ) [
+                                  set triadstack (replace-item 3 triadstack(replace-item 2  (item 3  triadstack) (item 2 (item 3(triadstack)) - 0.2)))
+                                ;print (item 3  triadstack)
+;                                if length(triadstack) >= 5 [
+;                                  set triadstack (replace-item 4 triadstack(replace-item 1  (item 4  triadstack) (item 1 (item 4(triadstack)) - 0.2)))]
+;                        print item 0(triadstack)
+;                        print item 3(triadstack)
+;                        print item 4(triadstack)
+
+                            ;let tick1 ticks
+                              let id1 (item 0 (item 3(triadstack)) )
+                              set sub-list10[]
+                        set sub-list10 lput agent-id sub-list10
+                              set sub-list10 lput "UpdateStance" sub-list10
+                              set sub-list10 lput id1 sub-list10
+                              set sub-list10 lput "- 0.2" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                         set identity-list lput sub-list10 identity-list
+                          ;print identity-list
+
+
+
+                              let top-id1 (item 1 (item 3(triadstack)) )
+;                               print id1
+;                              print top-id
+                              let stn1 (item 2 (item 3(triadstack)) )
+                              set sub-list12[]
+
+                              set sub-list12 lput id1 sub-list12
+                              set sub-list12 lput TriadStackID sub-list12
+                              set sub-list12 lput "0" sub-list12
+                              set sub-list12 lput  top-id1 sub-list12
+                              set sub-list12 lput  stn1 sub-list12
+                              ;set sub-list12 lput tick1 sub-list12
+                              set sub-list12 lput "0" sub-list12
+                              set sub-list12 lput "0" sub-list12
+                              set sub-list12 lput date-and-time sub-list12
+                         set Triad-list lput sub-list12 Triad-list
+
+
+                              ]
+
+  ]
+let trackID  word "Identity-Actions-tick-" 1
+let trackTT  word "Track-Triads-tick-" 1
+csv:to-file word trackID ".csv" identity-list
+csv:to-file word trackTT ".csv" Triad-list
+
+
+
+              ]
+          ]
+          ]
+          ]
+
+          set j j + 1
+        ]
+
+      ]
+      ]
+;        let infoAct  word "Information-Actions-tick-" tick-count
+;
+;      csv:to-file word infoAct".csv" Information_Action_list
+;      set i i + 1
+;    ]
+;  ]
+;]
+
+
+end
+
+
+to write-to-file
+
+
+    ;print i
+    set track-list []
+
+    set initial-track-list ["agent_id" "agent_type" "country" "county" "Municipality" "latitude" "longitude" "Gender" "Age" "Language" "Nationality" "political_spectrum" "socioecomonic_status" "EU" "nato_denovia" "triad_stack_id" "simulation_id"]
+    ;print(initial-track-list)
+    set track-list lput initial-track-list track-list
+
+
+
+   foreach sort turtles [ t ->
+    ask t [if agent-type = "basic" or agent-type = "spokesperson"[
+        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID "0")] of t
+
+
+
+     set track-list lput sub-list track-list
+    ]
+      ]
+  ]
+  ; print(track-list)
+    ;csv:to-file "track-init.csv" track-list
+
+
+
+
+
+  csv:to-file "track_agents.csv" track-list
+
 end
 
 
@@ -567,16 +825,23 @@ end
 
 
 
+to go
+set tick-count  0
+;;get new IPs at each tick - setup IPs
+repeat Select_no_of_Ticks [
+set tick-count tick-count + 1
+ send
+; read
 
-
-
-
-
-
-
-
-
-
+ ]
+  ;testing agent table
+;  let test_agent turtles with [Received-IP-list != 0]
+;    ask test_agent [
+;     print Received-IP-list
+;     print triadstack
+;
+;    ]
+end
 
 
 
@@ -627,10 +892,10 @@ ticks
 30.0
 
 BUTTON
-62
-54
-168
-87
+58
+10
+164
+43
 NIL
 setup-agents\n
 NIL
@@ -644,10 +909,10 @@ NIL
 1
 
 BUTTON
-84
-214
-149
-247
+621
+110
+686
+143
 Reset
 clear-agents
 NIL
@@ -661,12 +926,95 @@ NIL
 1
 
 BUTTON
-76
-110
-156
-143
+69
+50
+149
+83
 NIL
 Setup-IP\n
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+78
+188
+141
+221
+NIL
+go\n
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+SLIDER
+21
+239
+193
+272
+Select_no_of_Ticks
+Select_no_of_Ticks
+0
+10
+1.0
+1
+1
+NIL
+HORIZONTAL
+
+BUTTON
+42
+90
+176
+123
+NIL
+make-connections
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+97
+322
+160
+355
+NIL
+read\n
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+689
+236
+787
+269
+NIL
+write-to-file
 NIL
 1
 T
