@@ -1,0 +1,10 @@
+identity_action_id,agent_id,action,triad_id,change_in_stance,change_in_latitude,change_in_longitude,tick,simulation_id
+Identity_Act_id_347,B-ID-62,UpdateStance,Triad_ID_153,-0.0363,0,0,4,0
+Identity_Act_id_348,B-ID-62,UpdateStance,Triad_ID_154,0.09680000000000001,0,0,4,0
+Identity_Act_id_349,B-ID-62,UpdateStance,Triad_ID_155,0.09680000000000001,0,0,4,0
+Identity_Act_id_350,B-ID-62,UpdateStance,Triad_ID_156,0.22990000000000005,0,0,4,0
+Identity_Act_id_351,B-ID-62,UpdateStance,Triad_ID_157,0.19360000000000002,0,0,4,0
+Identity_Act_id_352,B-ID-62,UpdateStance,Triad_ID_158,0.32670000000000005,0,0,4,0
+Identity_Act_id_353,B-ID-62,UpdateStance,Triad_ID_159,0.35090000000000005,0,0,4,0
+Identity_Act_id_354,B-ID-62,UpdateStance,Triad_ID_160,0.2904,0,0,4,0
+Identity_Act_id_355,B-ID-14,UpdateStance,Triad_ID_9,-0.0121,0,0,4,0
