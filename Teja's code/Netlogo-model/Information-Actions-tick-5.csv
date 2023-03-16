@@ -1,241 +1,351 @@
-information_action_type,sending_agent_id,receiving_agent_id,information_packet_id,endorsed_agent_id,change_in_amplification,tick,simulation_id
-amplify,B-ID-31,B-ID-7,IP-35,0,+ 0.1,5,1
-amplify,B-ID-31,B-ID-7,IP-35,0,+ 0.1,5,1
-amplify,B-ID-31,B-ID-16,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-16,IP-35,0,- 0.1,5,1
-amplify,B-ID-31,B-ID-17,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-25,IP-35,0,- 0.1,5,1
-amplify,B-ID-31,B-ID-25,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-41,IP-35,0,- 0.1,5,1
-amplify,B-ID-31,B-ID-41,IP-35,0,+ 0.1,5,1
-amplify,B-ID-31,B-ID-41,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-41,IP-35,0,- 0.1,5,1
-refute,B-ID-31,B-ID-76,IP-35,0,- 0.1,5,1
-refute,B-ID-31,B-ID-76,IP-35,0,- 0.1,5,1
-amplify,B-ID-31,B-ID-76,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-76,IP-35,0,- 0.1,5,1
-refute,B-ID-31,B-ID-80,IP-35,0,- 0.1,5,1
-amplify,B-ID-31,B-ID-80,IP-35,0,+ 0.1,5,1
-amplify,B-ID-31,B-ID-80,IP-35,0,+ 0.1,5,1
-amplify,B-ID-31,B-ID-80,IP-35,0,+ 0.1,5,1
-refute,B-ID-31,B-ID-80,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-30,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-35,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-38,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-43,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-57,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-57,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-59,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-59,IP-35,0,- 0.1,5,1
-refute,B-ID-33,B-ID-68,IP-35,0,- 0.1,5,1
-amplify,B-ID-33,B-ID-71,IP-35,0,+ 0.1,5,1
-refute,B-ID-33,B-ID-71,IP-35,0,- 0.1,5,1
-amplify,B-ID-33,B-ID-74,IP-35,0,+ 0.1,5,1
-refute,B-ID-33,B-ID-82,IP-35,0,- 0.1,5,1
-amplify,B-ID-33,Dalia Grybauskaite,IP-35,0,+ 0.1,5,1
-amplify,B-ID-33,Dalia Grybauskaite,IP-35,0,+ 0.1,5,1
-amplify,B-ID-49,B-ID-1,IP-35,0,+ 0.1,5,1
-refute,B-ID-49,B-ID-6,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-9,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-12,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-26,IP-35,0,- 0.1,5,1
-amplify,B-ID-49,B-ID-27,IP-35,0,+ 0.1,5,1
-amplify,B-ID-49,B-ID-27,IP-35,0,+ 0.1,5,1
-refute,B-ID-49,B-ID-35,IP-35,0,- 0.1,5,1
-amplify,B-ID-49,B-ID-35,IP-35,0,+ 0.1,5,1
-refute,B-ID-49,B-ID-35,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-38,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-39,IP-35,0,- 0.1,5,1
-amplify,B-ID-49,B-ID-45,IP-35,0,+ 0.1,5,1
-amplify,B-ID-49,B-ID-63,IP-35,0,+ 0.1,5,1
-refute,B-ID-49,B-ID-68,IP-35,0,- 0.1,5,1
-refute,B-ID-49,B-ID-69,IP-35,0,- 0.1,5,1
-refute,B-ID-49,Austeja Landsbergiene,IP-35,0,- 0.1,5,1
-amplify,B-ID-49,Ingrida Simonyte,IP-35,0,+ 0.1,5,1
-amplify,B-ID-49,Viktorija Smilyte-Nielsen,IP-35,0,+ 0.1,5,1
-amplify,B-ID-49,Sonata Patkauskait?,IP-35,0,+ 0.1,5,1
-refute,B-ID-49,Sonata Patkauskait?,IP-35,0,- 0.1,5,1
-refute,B-ID-49,Edita Baniene,IP-35,0,- 0.1,5,1
-refute,B-ID-64,B-ID-1,IP-35,0,- 0.1,5,1
-refute,B-ID-64,B-ID-1,IP-35,0,- 0.1,5,1
-refute,B-ID-64,B-ID-1,IP-35,0,- 0.1,5,1
-amplify,B-ID-64,B-ID-5,IP-35,0,+ 0.1,5,1
-refute,B-ID-64,B-ID-16,IP-35,0,- 0.1,5,1
-refute,B-ID-64,B-ID-27,IP-35,0,- 0.1,5,1
-amplify,B-ID-64,B-ID-32,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-32,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-32,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-45,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-45,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-50,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-50,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,B-ID-55,IP-35,0,+ 0.1,5,1
-refute,B-ID-64,B-ID-88,IP-35,0,- 0.1,5,1
-amplify,B-ID-64,Father James Karklys ROC,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,Father James Karklys ROC,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,Father James Karklys ROC,IP-35,0,+ 0.1,5,1
-refute,B-ID-64,Deacon Audrius Jesinskas ROC,IP-35,0,- 0.1,5,1
-amplify,B-ID-64,Deacon John Stankevicius,IP-35,0,+ 0.1,5,1
-amplify,B-ID-64,Deacon John Stankevicius,IP-35,0,+ 0.1,5,1
-refute,B-ID-64,Deacon John Stankevicius,IP-35,0,- 0.1,5,1
-refute,B-ID-44,B-ID-7,IP-35,0,- 0.1,5,1
-amplify,B-ID-44,B-ID-7,IP-35,0,+ 0.1,5,1
-refute,B-ID-44,B-ID-7,IP-35,0,- 0.1,5,1
-refute,B-ID-44,B-ID-9,IP-35,0,- 0.1,5,1
-amplify,B-ID-44,B-ID-43,IP-35,0,+ 0.1,5,1
-amplify,B-ID-44,B-ID-43,IP-35,0,+ 0.1,5,1
-refute,B-ID-44,B-ID-71,IP-35,0,- 0.1,5,1
-refute,B-ID-44,B-ID-78,IP-35,0,- 0.1,5,1
-amplify,B-ID-44,B-ID-101,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-9,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-9,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-9,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-10,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-10,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-12,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-16,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-22,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-30,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-30,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-32,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-33,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-36,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-38,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-43,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-44,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-44,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-53,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-61,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-66,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-66,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-66,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-66,IP-35,0,+ 0.1,5,1
-amplify,B-ID-74,B-ID-67,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-71,IP-35,0,- 0.1,5,1
-refute,B-ID-74,B-ID-71,IP-35,0,- 0.1,5,1
-amplify,B-ID-74,B-ID-71,IP-35,0,+ 0.1,5,1
-refute,B-ID-74,B-ID-71,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-10,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-16,IP-35,0,- 0.1,5,1
-amplify,B-ID-60,B-ID-16,IP-35,0,+ 0.1,5,1
-amplify,B-ID-60,B-ID-33,IP-35,0,+ 0.1,5,1
-refute,B-ID-60,B-ID-33,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-41,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-41,IP-35,0,- 0.1,5,1
-amplify,B-ID-60,B-ID-55,IP-35,0,+ 0.1,5,1
-refute,B-ID-60,B-ID-79,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-82,IP-35,0,- 0.1,5,1
-refute,B-ID-60,B-ID-82,IP-35,0,- 0.1,5,1
-amplify,B-ID-66,B-ID-30,IP-35,0,+ 0.1,5,1
-amplify,B-ID-66,B-ID-33,IP-35,0,+ 0.1,5,1
-refute,B-ID-66,B-ID-34,IP-35,0,- 0.1,5,1
-refute,B-ID-66,B-ID-46,IP-35,0,- 0.1,5,1
-refute,B-ID-66,B-ID-46,IP-35,0,- 0.1,5,1
-amplify,B-ID-66,B-ID-52,IP-35,0,+ 0.1,5,1
-refute,B-ID-66,B-ID-52,IP-35,0,- 0.1,5,1
-refute,B-ID-66,B-ID-63,IP-35,0,- 0.1,5,1
-refute,B-ID-66,B-ID-63,IP-35,0,- 0.1,5,1
-amplify,B-ID-66,B-ID-103,IP-35,0,+ 0.1,5,1
-amplify,B-ID-66,B-ID-103,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,B-ID-3,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-7,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,B-ID-7,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-7,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-16,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,B-ID-17,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-22,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,B-ID-22,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-26,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-26,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,B-ID-30,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-33,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-34,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,B-ID-34,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,B-ID-41,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-44,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-44,IP-35,0,- 0.1,5,1
-refute,B-ID-43,B-ID-59,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,B-ID-65,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,B-ID-65,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,B-ID-65,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-65,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,B-ID-68,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,Austeja Landsbergiene,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,Austeja Landsbergiene,IP-35,0,- 0.1,5,1
-amplify,B-ID-43,Austeja Landsbergiene,IP-35,0,+ 0.1,5,1
-amplify,B-ID-43,Austeja Landsbergiene,IP-35,0,+ 0.1,5,1
-refute,B-ID-43,Dalia Grybauskaite,IP-35,0,- 0.1,5,1
-refute,B-ID-43,Viktorija Smilyte-Nielsen,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-9,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-10,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-17,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-18,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-30,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-30,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-30,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-31,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-33,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-35,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-43,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-47,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-48,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-53,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-57,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-57,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-57,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-60,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-60,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-60,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-61,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-64,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-64,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-65,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-65,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-67,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-68,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-70,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-71,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-74,IP-35,0,+ 0.1,5,1
-refute,B-ID-16,B-ID-74,IP-35,0,- 0.1,5,1
-refute,B-ID-16,B-ID-74,IP-35,0,- 0.1,5,1
-amplify,B-ID-16,B-ID-76,IP-35,0,+ 0.1,5,1
-amplify,B-ID-16,B-ID-76,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-2,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-5,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-6,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-13,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-18,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-18,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-23,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-30,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-31,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-38,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-38,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-45,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-46,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-46,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-46,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-48,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-50,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-54,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-54,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-61,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-65,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-65,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-68,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-68,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,B-ID-69,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,B-ID-75,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-78,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-78,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-80,IP-35,0,- 0.1,5,1
-refute,B-ID-76,B-ID-80,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,B-ID-82,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,Sonata Patkauskait?,IP-35,0,- 0.1,5,1
-refute,B-ID-76,Sonata Patkauskait?,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,Edvinas Regelskis,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,Gintare Guzevi?i?t?,IP-35,0,+ 0.1,5,1
-refute,B-ID-76,Edita Baniene,IP-35,0,- 0.1,5,1
-amplify,B-ID-76,Father James Karklys ROC,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,Deacon Audrius Jesinskas ROC,IP-35,0,+ 0.1,5,1
-amplify,B-ID-76,Audrius Ciuplys,IP-35,0,+ 0.1,5,1
+information_action_id,information_action_type,sending_agent_id,receiving_agent_id,information_packet_id,endorsed_agent_id,change_in_amplification,tick,simulation_id
+InfoAct_id_3523,refute,B-ID-60,B-ID-16,IP-37,0,- 0.1,5,1
+InfoAct_id_3524,amplify,B-ID-60,B-ID-16,IP-37,0,+ 0.1,5,1
+InfoAct_id_3525,refute,B-ID-60,B-ID-16,IP-37,0,- 0.1,5,1
+InfoAct_id_3526,amplify,B-ID-60,B-ID-41,IP-37,0,+ 0.1,5,1
+InfoAct_id_3527,refute,B-ID-60,B-ID-48,IP-37,0,- 0.1,5,1
+InfoAct_id_3528,amplify,B-ID-60,B-ID-55,IP-37,0,+ 0.1,5,1
+InfoAct_id_3529,refute,B-ID-44,B-ID-17,IP-37,0,- 0.1,5,1
+InfoAct_id_3530,amplify,B-ID-44,B-ID-22,IP-37,0,+ 0.1,5,1
+InfoAct_id_3531,refute,B-ID-44,B-ID-35,IP-37,0,- 0.1,5,1
+InfoAct_id_3532,refute,B-ID-44,B-ID-43,IP-37,0,- 0.1,5,1
+InfoAct_id_3533,refute,B-ID-44,B-ID-43,IP-37,0,- 0.1,5,1
+InfoAct_id_3534,amplify,B-ID-44,B-ID-61,IP-37,0,+ 0.1,5,1
+InfoAct_id_3535,amplify,B-ID-44,B-ID-78,IP-37,0,+ 0.1,5,1
+InfoAct_id_3536,amplify,B-ID-66,B-ID-20,IP-37,0,+ 0.1,5,1
+InfoAct_id_3537,amplify,B-ID-66,B-ID-20,IP-37,0,+ 0.1,5,1
+InfoAct_id_3538,amplify,B-ID-66,B-ID-30,IP-37,0,+ 0.1,5,1
+InfoAct_id_3539,refute,B-ID-66,B-ID-33,IP-37,0,- 0.1,5,1
+InfoAct_id_3540,amplify,B-ID-66,B-ID-33,IP-37,0,+ 0.1,5,1
+InfoAct_id_3541,amplify,B-ID-66,B-ID-52,IP-37,0,+ 0.1,5,1
+InfoAct_id_3542,amplify,B-ID-66,B-ID-63,IP-37,0,+ 0.1,5,1
+InfoAct_id_3543,refute,B-ID-66,B-ID-103,IP-37,0,- 0.1,5,1
+InfoAct_id_3544,refute,B-ID-66,Astchiek Melkonian,IP-37,0,- 0.1,5,1
+InfoAct_id_3545,refute,B-ID-49,B-ID-5,IP-37,0,- 0.1,5,1
+InfoAct_id_3546,amplify,B-ID-49,B-ID-6,IP-37,0,+ 0.1,5,1
+InfoAct_id_3547,amplify,B-ID-49,B-ID-9,IP-37,0,+ 0.1,5,1
+InfoAct_id_3548,amplify,B-ID-49,B-ID-12,IP-37,0,+ 0.1,5,1
+InfoAct_id_3549,refute,B-ID-49,B-ID-22,IP-37,0,- 0.1,5,1
+InfoAct_id_3550,refute,B-ID-49,B-ID-24,IP-37,0,- 0.1,5,1
+InfoAct_id_3551,amplify,B-ID-49,B-ID-26,IP-37,0,+ 0.1,5,1
+InfoAct_id_3552,amplify,B-ID-49,B-ID-35,IP-37,0,+ 0.1,5,1
+InfoAct_id_3553,refute,B-ID-49,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3554,amplify,B-ID-49,B-ID-45,IP-37,0,+ 0.1,5,1
+InfoAct_id_3555,refute,B-ID-49,B-ID-50,IP-37,0,- 0.1,5,1
+InfoAct_id_3556,amplify,B-ID-49,B-ID-63,IP-37,0,+ 0.1,5,1
+InfoAct_id_3557,refute,B-ID-49,B-ID-63,IP-37,0,- 0.1,5,1
+InfoAct_id_3558,refute,B-ID-49,B-ID-68,IP-37,0,- 0.1,5,1
+InfoAct_id_3559,amplify,B-ID-49,Ingrida Simonyte,IP-37,0,+ 0.1,5,1
+InfoAct_id_3560,amplify,B-ID-49,Ingrida Simonyte,IP-37,0,+ 0.1,5,1
+InfoAct_id_3561,refute,B-ID-49,Ingrida Simonyte,IP-37,0,- 0.1,5,1
+InfoAct_id_3562,amplify,B-ID-49,Viktorija Smilyte-Nielsen,IP-37,0,+ 0.1,5,1
+InfoAct_id_3563,refute,B-ID-49,Sonata Patkauskait?,IP-37,0,- 0.1,5,1
+InfoAct_id_3564,amplify,B-ID-49,Gintare Guzevi?i?t?,IP-37,0,+ 0.1,5,1
+InfoAct_id_3565,refute,B-ID-49,Edita Baniene,IP-37,0,- 0.1,5,1
+InfoAct_id_3566,amplify,B-ID-49,Edita Baniene,IP-37,0,+ 0.1,5,1
+InfoAct_id_3567,amplify,B-ID-16,B-ID-7,IP-350,0,+ 0.1,5,1
+InfoAct_id_3568,refute,B-ID-16,B-ID-11,IP-37,0,- 0.1,5,1
+InfoAct_id_3569,amplify,B-ID-16,B-ID-11,IP-37,0,+ 0.1,5,1
+InfoAct_id_3570,amplify,B-ID-16,B-ID-11,IP-37,0,+ 0.1,5,1
+InfoAct_id_3571,amplify,B-ID-16,B-ID-17,IP-37,0,+ 0.1,5,1
+InfoAct_id_3572,refute,B-ID-16,B-ID-18,IP-350,0,- 0.1,5,1
+InfoAct_id_3573,amplify,B-ID-16,B-ID-18,IP-37,0,+ 0.1,5,1
+InfoAct_id_3574,refute,B-ID-16,B-ID-30,IP-350,0,- 0.1,5,1
+InfoAct_id_3575,refute,B-ID-16,B-ID-31,IP-350,0,- 0.1,5,1
+InfoAct_id_3576,amplify,B-ID-16,B-ID-31,IP-37,0,+ 0.1,5,1
+InfoAct_id_3577,refute,B-ID-16,B-ID-31,IP-37,0,- 0.1,5,1
+InfoAct_id_3578,refute,B-ID-16,B-ID-35,IP-37,0,- 0.1,5,1
+InfoAct_id_3579,refute,B-ID-16,B-ID-40,IP-37,0,- 0.1,5,1
+InfoAct_id_3580,refute,B-ID-16,B-ID-40,IP-37,0,- 0.1,5,1
+InfoAct_id_3581,refute,B-ID-16,B-ID-40,IP-350,0,- 0.1,5,1
+InfoAct_id_3582,amplify,B-ID-16,B-ID-40,IP-37,0,+ 0.1,5,1
+InfoAct_id_3583,refute,B-ID-16,B-ID-43,IP-37,0,- 0.1,5,1
+InfoAct_id_3584,refute,B-ID-16,B-ID-43,IP-37,0,- 0.1,5,1
+InfoAct_id_3585,refute,B-ID-16,B-ID-47,IP-350,0,- 0.1,5,1
+InfoAct_id_3586,refute,B-ID-16,B-ID-47,IP-350,0,- 0.1,5,1
+InfoAct_id_3587,refute,B-ID-16,B-ID-47,IP-37,0,- 0.1,5,1
+InfoAct_id_3588,refute,B-ID-16,B-ID-48,IP-37,0,- 0.1,5,1
+InfoAct_id_3589,refute,B-ID-16,B-ID-48,IP-350,0,- 0.1,5,1
+InfoAct_id_3590,amplify,B-ID-16,B-ID-53,IP-37,0,+ 0.1,5,1
+InfoAct_id_3591,refute,B-ID-16,B-ID-60,IP-37,0,- 0.1,5,1
+InfoAct_id_3592,amplify,B-ID-16,B-ID-61,IP-37,0,+ 0.1,5,1
+InfoAct_id_3593,refute,B-ID-16,B-ID-61,IP-37,0,- 0.1,5,1
+InfoAct_id_3594,amplify,B-ID-16,B-ID-64,IP-350,0,+ 0.1,5,1
+InfoAct_id_3595,refute,B-ID-16,B-ID-64,IP-37,0,- 0.1,5,1
+InfoAct_id_3596,amplify,B-ID-16,B-ID-64,IP-37,0,+ 0.1,5,1
+InfoAct_id_3597,refute,B-ID-16,B-ID-65,IP-350,0,- 0.1,5,1
+InfoAct_id_3598,amplify,B-ID-16,B-ID-65,IP-37,0,+ 0.1,5,1
+InfoAct_id_3599,amplify,B-ID-16,B-ID-67,IP-37,0,+ 0.1,5,1
+InfoAct_id_3600,amplify,B-ID-16,B-ID-70,IP-37,0,+ 0.1,5,1
+InfoAct_id_3601,refute,B-ID-16,B-ID-70,IP-37,0,- 0.1,5,1
+InfoAct_id_3602,refute,B-ID-16,B-ID-71,IP-350,0,- 0.1,5,1
+InfoAct_id_3603,refute,B-ID-16,B-ID-74,IP-37,0,- 0.1,5,1
+InfoAct_id_3604,amplify,B-ID-16,B-ID-74,IP-37,0,+ 0.1,5,1
+InfoAct_id_3605,refute,B-ID-35,B-ID-1,IP-350,0,- 0.1,5,1
+InfoAct_id_3606,amplify,B-ID-35,B-ID-12,IP-350,0,+ 0.1,5,1
+InfoAct_id_3607,refute,B-ID-35,B-ID-16,IP-350,0,- 0.1,5,1
+InfoAct_id_3608,refute,B-ID-35,B-ID-16,IP-350,0,- 0.1,5,1
+InfoAct_id_3609,amplify,B-ID-35,B-ID-26,IP-350,0,+ 0.1,5,1
+InfoAct_id_3610,refute,B-ID-35,B-ID-32,IP-350,0,- 0.1,5,1
+InfoAct_id_3611,refute,B-ID-35,B-ID-34,IP-350,0,- 0.1,5,1
+InfoAct_id_3612,refute,B-ID-35,B-ID-36,IP-350,0,- 0.1,5,1
+InfoAct_id_3613,refute,B-ID-35,B-ID-38,IP-350,0,- 0.1,5,1
+InfoAct_id_3614,refute,B-ID-35,B-ID-40,IP-350,0,- 0.1,5,1
+InfoAct_id_3615,refute,B-ID-35,B-ID-40,IP-350,0,- 0.1,5,1
+InfoAct_id_3616,amplify,B-ID-35,B-ID-43,IP-350,0,+ 0.1,5,1
+InfoAct_id_3617,refute,B-ID-35,B-ID-49,IP-350,0,- 0.1,5,1
+InfoAct_id_3618,amplify,B-ID-35,B-ID-50,IP-350,0,+ 0.1,5,1
+InfoAct_id_3619,refute,B-ID-35,B-ID-50,IP-350,0,- 0.1,5,1
+InfoAct_id_3620,refute,B-ID-35,B-ID-53,IP-350,0,- 0.1,5,1
+InfoAct_id_3621,amplify,B-ID-35,B-ID-53,IP-350,0,+ 0.1,5,1
+InfoAct_id_3622,amplify,B-ID-35,B-ID-53,IP-350,0,+ 0.1,5,1
+InfoAct_id_3623,refute,B-ID-35,B-ID-58,IP-350,0,- 0.1,5,1
+InfoAct_id_3624,amplify,B-ID-35,B-ID-58,IP-350,0,+ 0.1,5,1
+InfoAct_id_3625,amplify,B-ID-35,B-ID-58,IP-350,0,+ 0.1,5,1
+InfoAct_id_3626,refute,B-ID-35,B-ID-58,IP-350,0,- 0.1,5,1
+InfoAct_id_3627,refute,B-ID-35,B-ID-71,IP-350,0,- 0.1,5,1
+InfoAct_id_3628,amplify,B-ID-35,B-ID-71,IP-350,0,+ 0.1,5,1
+InfoAct_id_3629,amplify,B-ID-35,B-ID-74,IP-350,0,+ 0.1,5,1
+InfoAct_id_3630,amplify,B-ID-35,B-ID-74,IP-350,0,+ 0.1,5,1
+InfoAct_id_3631,refute,B-ID-35,Austeja Landsbergiene,IP-350,0,- 0.1,5,1
+InfoAct_id_3632,refute,B-ID-35,Dalia Grybauskaite,IP-350,0,- 0.1,5,1
+InfoAct_id_3633,amplify,B-ID-35,Viktorija Smilyte-Nielsen,IP-350,0,+ 0.1,5,1
+InfoAct_id_3634,refute,B-ID-35,Viktorija Smilyte-Nielsen,IP-350,0,- 0.1,5,1
+InfoAct_id_3635,amplify,B-ID-35,Viktorija Smilyte-Nielsen,IP-350,0,+ 0.1,5,1
+InfoAct_id_3636,refute,B-ID-43,B-ID-3,IP-350,0,- 0.1,5,1
+InfoAct_id_3637,refute,B-ID-43,B-ID-3,IP-350,0,- 0.1,5,1
+InfoAct_id_3638,amplify,B-ID-43,B-ID-7,IP-350,0,+ 0.1,5,1
+InfoAct_id_3639,refute,B-ID-43,B-ID-7,IP-37,0,- 0.1,5,1
+InfoAct_id_3640,amplify,B-ID-43,B-ID-9,IP-350,0,+ 0.1,5,1
+InfoAct_id_3641,refute,B-ID-43,B-ID-9,IP-37,0,- 0.1,5,1
+InfoAct_id_3642,refute,B-ID-43,B-ID-9,IP-350,0,- 0.1,5,1
+InfoAct_id_3643,amplify,B-ID-43,B-ID-16,IP-350,0,+ 0.1,5,1
+InfoAct_id_3644,refute,B-ID-43,B-ID-16,IP-350,0,- 0.1,5,1
+InfoAct_id_3645,amplify,B-ID-43,B-ID-17,IP-37,0,+ 0.1,5,1
+InfoAct_id_3646,refute,B-ID-43,B-ID-17,IP-350,0,- 0.1,5,1
+InfoAct_id_3647,amplify,B-ID-43,B-ID-22,IP-350,0,+ 0.1,5,1
+InfoAct_id_3648,amplify,B-ID-43,B-ID-22,IP-37,0,+ 0.1,5,1
+InfoAct_id_3649,amplify,B-ID-43,B-ID-22,IP-350,0,+ 0.1,5,1
+InfoAct_id_3650,amplify,B-ID-43,B-ID-26,IP-350,0,+ 0.1,5,1
+InfoAct_id_3651,refute,B-ID-43,B-ID-26,IP-37,0,- 0.1,5,1
+InfoAct_id_3652,amplify,B-ID-43,B-ID-30,IP-350,0,+ 0.1,5,1
+InfoAct_id_3653,refute,B-ID-43,B-ID-33,IP-37,0,- 0.1,5,1
+InfoAct_id_3654,amplify,B-ID-43,B-ID-35,IP-350,0,+ 0.1,5,1
+InfoAct_id_3655,amplify,B-ID-43,B-ID-41,IP-37,0,+ 0.1,5,1
+InfoAct_id_3656,refute,B-ID-43,B-ID-41,IP-350,0,- 0.1,5,1
+InfoAct_id_3657,amplify,B-ID-43,B-ID-59,IP-37,0,+ 0.1,5,1
+InfoAct_id_3658,amplify,B-ID-43,B-ID-59,IP-37,0,+ 0.1,5,1
+InfoAct_id_3659,refute,B-ID-43,B-ID-59,IP-350,0,- 0.1,5,1
+InfoAct_id_3660,refute,B-ID-43,B-ID-59,IP-350,0,- 0.1,5,1
+InfoAct_id_3661,amplify,B-ID-43,B-ID-61,IP-350,0,+ 0.1,5,1
+InfoAct_id_3662,amplify,B-ID-43,B-ID-61,IP-350,0,+ 0.1,5,1
+InfoAct_id_3663,amplify,B-ID-43,B-ID-65,IP-350,0,+ 0.1,5,1
+InfoAct_id_3664,refute,B-ID-43,B-ID-65,IP-350,0,- 0.1,5,1
+InfoAct_id_3665,amplify,B-ID-43,B-ID-65,IP-350,0,+ 0.1,5,1
+InfoAct_id_3666,amplify,B-ID-43,B-ID-65,IP-350,0,+ 0.1,5,1
+InfoAct_id_3667,refute,B-ID-43,B-ID-68,IP-37,0,- 0.1,5,1
+InfoAct_id_3668,amplify,B-ID-43,B-ID-68,IP-350,0,+ 0.1,5,1
+InfoAct_id_3669,refute,B-ID-43,B-ID-74,IP-350,0,- 0.1,5,1
+InfoAct_id_3670,amplify,B-ID-43,B-ID-74,IP-350,0,+ 0.1,5,1
+InfoAct_id_3671,refute,B-ID-43,B-ID-76,IP-37,0,- 0.1,5,1
+InfoAct_id_3672,refute,B-ID-43,Austeja Landsbergiene,IP-37,0,- 0.1,5,1
+InfoAct_id_3673,amplify,B-ID-43,Austeja Landsbergiene,IP-37,0,+ 0.1,5,1
+InfoAct_id_3674,refute,B-ID-43,Dalia Grybauskaite,IP-37,0,- 0.1,5,1
+InfoAct_id_3675,refute,B-ID-43,Dalia Grybauskaite,IP-37,0,- 0.1,5,1
+InfoAct_id_3676,refute,B-ID-43,Ingrida Simonyte,IP-37,0,- 0.1,5,1
+InfoAct_id_3677,refute,B-ID-43,Viktorija Smilyte-Nielsen,IP-350,0,- 0.1,5,1
+InfoAct_id_3678,amplify,B-ID-43,Viktorija Smilyte-Nielsen,IP-350,0,+ 0.1,5,1
+InfoAct_id_3679,refute,B-ID-64,B-ID-1,IP-37,0,- 0.1,5,1
+InfoAct_id_3680,amplify,B-ID-64,B-ID-24,IP-37,0,+ 0.1,5,1
+InfoAct_id_3681,amplify,B-ID-64,B-ID-27,IP-37,0,+ 0.1,5,1
+InfoAct_id_3682,refute,B-ID-64,B-ID-32,IP-37,0,- 0.1,5,1
+InfoAct_id_3683,refute,B-ID-64,B-ID-32,IP-37,0,- 0.1,5,1
+InfoAct_id_3684,amplify,B-ID-64,B-ID-40,IP-37,0,+ 0.1,5,1
+InfoAct_id_3685,amplify,B-ID-64,B-ID-40,IP-37,0,+ 0.1,5,1
+InfoAct_id_3686,refute,B-ID-64,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3687,refute,B-ID-64,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3688,amplify,B-ID-64,B-ID-50,IP-37,0,+ 0.1,5,1
+InfoAct_id_3689,refute,B-ID-64,B-ID-55,IP-37,0,- 0.1,5,1
+InfoAct_id_3690,refute,B-ID-64,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3691,refute,B-ID-64,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3692,refute,B-ID-64,B-ID-88,IP-37,0,- 0.1,5,1
+InfoAct_id_3693,amplify,B-ID-64,B-ID-88,IP-37,0,+ 0.1,5,1
+InfoAct_id_3694,refute,B-ID-64,Bishop K?stutis K?valas CATH,IP-37,0,- 0.1,5,1
+InfoAct_id_3695,amplify,B-ID-64,Deacon John Stankevicius,IP-37,0,+ 0.1,5,1
+InfoAct_id_3696,refute,B-ID-64,Deacon John Stankevicius,IP-37,0,- 0.1,5,1
+InfoAct_id_3697,amplify,B-ID-33,B-ID-8,IP-37,0,+ 0.1,5,1
+InfoAct_id_3698,amplify,B-ID-33,B-ID-10,IP-37,0,+ 0.1,5,1
+InfoAct_id_3699,amplify,B-ID-33,B-ID-10,IP-37,0,+ 0.1,5,1
+InfoAct_id_3700,refute,B-ID-33,B-ID-11,IP-37,0,- 0.1,5,1
+InfoAct_id_3701,refute,B-ID-33,B-ID-16,IP-37,0,- 0.1,5,1
+InfoAct_id_3702,refute,B-ID-33,B-ID-16,IP-37,0,- 0.1,5,1
+InfoAct_id_3703,refute,B-ID-33,B-ID-26,IP-37,0,- 0.1,5,1
+InfoAct_id_3704,amplify,B-ID-33,B-ID-30,IP-37,0,+ 0.1,5,1
+InfoAct_id_3705,refute,B-ID-33,B-ID-34,IP-37,0,- 0.1,5,1
+InfoAct_id_3706,refute,B-ID-33,B-ID-34,IP-37,0,- 0.1,5,1
+InfoAct_id_3707,refute,B-ID-33,B-ID-34,IP-37,0,- 0.1,5,1
+InfoAct_id_3708,refute,B-ID-33,B-ID-35,IP-37,0,- 0.1,5,1
+InfoAct_id_3709,refute,B-ID-33,B-ID-35,IP-37,0,- 0.1,5,1
+InfoAct_id_3710,amplify,B-ID-33,B-ID-35,IP-37,0,+ 0.1,5,1
+InfoAct_id_3711,refute,B-ID-33,B-ID-35,IP-37,0,- 0.1,5,1
+InfoAct_id_3712,amplify,B-ID-33,B-ID-38,IP-37,0,+ 0.1,5,1
+InfoAct_id_3713,amplify,B-ID-33,B-ID-48,IP-37,0,+ 0.1,5,1
+InfoAct_id_3714,amplify,B-ID-33,B-ID-53,IP-37,0,+ 0.1,5,1
+InfoAct_id_3715,amplify,B-ID-33,B-ID-60,IP-37,0,+ 0.1,5,1
+InfoAct_id_3716,refute,B-ID-33,B-ID-71,IP-37,0,- 0.1,5,1
+InfoAct_id_3717,amplify,B-ID-33,B-ID-74,IP-37,0,+ 0.1,5,1
+InfoAct_id_3718,amplify,B-ID-33,B-ID-82,IP-37,0,+ 0.1,5,1
+InfoAct_id_3719,amplify,B-ID-33,B-ID-82,IP-37,0,+ 0.1,5,1
+InfoAct_id_3720,refute,B-ID-33,Dalia Grybauskaite,IP-37,0,- 0.1,5,1
+InfoAct_id_3721,refute,B-ID-74,B-ID-10,IP-37,0,- 0.1,5,1
+InfoAct_id_3722,refute,B-ID-74,B-ID-10,IP-37,0,- 0.1,5,1
+InfoAct_id_3723,amplify,B-ID-74,B-ID-10,IP-37,0,+ 0.1,5,1
+InfoAct_id_3724,amplify,B-ID-74,B-ID-16,IP-37,0,+ 0.1,5,1
+InfoAct_id_3725,amplify,B-ID-74,B-ID-16,IP-37,0,+ 0.1,5,1
+InfoAct_id_3726,amplify,B-ID-74,B-ID-19,IP-37,0,+ 0.1,5,1
+InfoAct_id_3727,amplify,B-ID-74,B-ID-32,IP-37,0,+ 0.1,5,1
+InfoAct_id_3728,amplify,B-ID-74,B-ID-36,IP-37,0,+ 0.1,5,1
+InfoAct_id_3729,refute,B-ID-74,B-ID-36,IP-37,0,- 0.1,5,1
+InfoAct_id_3730,refute,B-ID-74,B-ID-38,IP-37,0,- 0.1,5,1
+InfoAct_id_3731,refute,B-ID-74,B-ID-44,IP-37,0,- 0.1,5,1
+InfoAct_id_3732,refute,B-ID-74,B-ID-53,IP-37,0,- 0.1,5,1
+InfoAct_id_3733,amplify,B-ID-74,B-ID-61,IP-37,0,+ 0.1,5,1
+InfoAct_id_3734,amplify,B-ID-74,B-ID-66,IP-37,0,+ 0.1,5,1
+InfoAct_id_3735,amplify,B-ID-74,B-ID-68,IP-37,0,+ 0.1,5,1
+InfoAct_id_3736,refute,B-ID-74,B-ID-68,IP-37,0,- 0.1,5,1
+InfoAct_id_3737,refute,B-ID-74,B-ID-68,IP-37,0,- 0.1,5,1
+InfoAct_id_3738,amplify,B-ID-31,B-ID-17,IP-37,0,+ 0.1,5,1
+InfoAct_id_3739,refute,B-ID-31,B-ID-17,IP-37,0,- 0.1,5,1
+InfoAct_id_3740,refute,B-ID-31,B-ID-18,IP-37,0,- 0.1,5,1
+InfoAct_id_3741,amplify,B-ID-31,B-ID-23,IP-37,0,+ 0.1,5,1
+InfoAct_id_3742,amplify,B-ID-31,B-ID-25,IP-37,0,+ 0.1,5,1
+InfoAct_id_3743,amplify,B-ID-31,B-ID-35,IP-37,0,+ 0.1,5,1
+InfoAct_id_3744,refute,B-ID-31,B-ID-36,IP-37,0,- 0.1,5,1
+InfoAct_id_3745,refute,B-ID-31,B-ID-37,IP-37,0,- 0.1,5,1
+InfoAct_id_3746,amplify,B-ID-31,B-ID-43,IP-37,0,+ 0.1,5,1
+InfoAct_id_3747,amplify,B-ID-31,B-ID-48,IP-37,0,+ 0.1,5,1
+InfoAct_id_3748,refute,B-ID-31,B-ID-80,IP-37,0,- 0.1,5,1
+InfoAct_id_3749,amplify,B-ID-76,B-ID-2,IP-350,0,+ 0.1,5,1
+InfoAct_id_3750,refute,B-ID-76,B-ID-2,IP-37,0,- 0.1,5,1
+InfoAct_id_3751,refute,B-ID-76,B-ID-2,IP-350,0,- 0.1,5,1
+InfoAct_id_3752,amplify,B-ID-76,B-ID-2,IP-37,0,+ 0.1,5,1
+InfoAct_id_3753,amplify,B-ID-76,B-ID-5,IP-350,0,+ 0.1,5,1
+InfoAct_id_3754,refute,B-ID-76,B-ID-5,IP-350,0,- 0.1,5,1
+InfoAct_id_3755,amplify,B-ID-76,B-ID-5,IP-350,0,+ 0.1,5,1
+InfoAct_id_3756,refute,B-ID-76,B-ID-5,IP-37,0,- 0.1,5,1
+InfoAct_id_3757,refute,B-ID-76,B-ID-6,IP-350,0,- 0.1,5,1
+InfoAct_id_3758,amplify,B-ID-76,B-ID-6,IP-350,0,+ 0.1,5,1
+InfoAct_id_3759,amplify,B-ID-76,B-ID-6,IP-37,0,+ 0.1,5,1
+InfoAct_id_3760,amplify,B-ID-76,B-ID-7,IP-350,0,+ 0.1,5,1
+InfoAct_id_3761,refute,B-ID-76,B-ID-8,IP-37,0,- 0.1,5,1
+InfoAct_id_3762,refute,B-ID-76,B-ID-8,IP-37,0,- 0.1,5,1
+InfoAct_id_3763,refute,B-ID-76,B-ID-8,IP-350,0,- 0.1,5,1
+InfoAct_id_3764,amplify,B-ID-76,B-ID-8,IP-350,0,+ 0.1,5,1
+InfoAct_id_3765,amplify,B-ID-76,B-ID-8,IP-350,0,+ 0.1,5,1
+InfoAct_id_3766,refute,B-ID-76,B-ID-9,IP-350,0,- 0.1,5,1
+InfoAct_id_3767,refute,B-ID-76,B-ID-9,IP-350,0,- 0.1,5,1
+InfoAct_id_3768,amplify,B-ID-76,B-ID-9,IP-37,0,+ 0.1,5,1
+InfoAct_id_3769,refute,B-ID-76,B-ID-13,IP-37,0,- 0.1,5,1
+InfoAct_id_3770,refute,B-ID-76,B-ID-16,IP-350,0,- 0.1,5,1
+InfoAct_id_3771,amplify,B-ID-76,B-ID-16,IP-37,0,+ 0.1,5,1
+InfoAct_id_3772,amplify,B-ID-76,B-ID-16,IP-37,0,+ 0.1,5,1
+InfoAct_id_3773,refute,B-ID-76,B-ID-25,IP-350,0,- 0.1,5,1
+InfoAct_id_3774,refute,B-ID-76,B-ID-25,IP-37,0,- 0.1,5,1
+InfoAct_id_3775,amplify,B-ID-76,B-ID-27,IP-37,0,+ 0.1,5,1
+InfoAct_id_3776,refute,B-ID-76,B-ID-27,IP-350,0,- 0.1,5,1
+InfoAct_id_3777,refute,B-ID-76,B-ID-30,IP-37,0,- 0.1,5,1
+InfoAct_id_3778,amplify,B-ID-76,B-ID-30,IP-350,0,+ 0.1,5,1
+InfoAct_id_3779,refute,B-ID-76,B-ID-31,IP-37,0,- 0.1,5,1
+InfoAct_id_3780,refute,B-ID-76,B-ID-31,IP-350,0,- 0.1,5,1
+InfoAct_id_3781,amplify,B-ID-76,B-ID-31,IP-350,0,+ 0.1,5,1
+InfoAct_id_3782,amplify,B-ID-76,B-ID-31,IP-350,0,+ 0.1,5,1
+InfoAct_id_3783,amplify,B-ID-76,B-ID-31,IP-37,0,+ 0.1,5,1
+InfoAct_id_3784,refute,B-ID-76,B-ID-36,IP-37,0,- 0.1,5,1
+InfoAct_id_3785,refute,B-ID-76,B-ID-38,IP-350,0,- 0.1,5,1
+InfoAct_id_3786,refute,B-ID-76,B-ID-41,IP-350,0,- 0.1,5,1
+InfoAct_id_3787,refute,B-ID-76,B-ID-41,IP-350,0,- 0.1,5,1
+InfoAct_id_3788,refute,B-ID-76,B-ID-41,IP-350,0,- 0.1,5,1
+InfoAct_id_3789,refute,B-ID-76,B-ID-41,IP-350,0,- 0.1,5,1
+InfoAct_id_3790,refute,B-ID-76,B-ID-43,IP-37,0,- 0.1,5,1
+InfoAct_id_3791,refute,B-ID-76,B-ID-43,IP-350,0,- 0.1,5,1
+InfoAct_id_3792,refute,B-ID-76,B-ID-43,IP-350,0,- 0.1,5,1
+InfoAct_id_3793,refute,B-ID-76,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3794,refute,B-ID-76,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3795,refute,B-ID-76,B-ID-45,IP-37,0,- 0.1,5,1
+InfoAct_id_3796,amplify,B-ID-76,B-ID-46,IP-350,0,+ 0.1,5,1
+InfoAct_id_3797,refute,B-ID-76,B-ID-48,IP-350,0,- 0.1,5,1
+InfoAct_id_3798,refute,B-ID-76,B-ID-48,IP-37,0,- 0.1,5,1
+InfoAct_id_3799,amplify,B-ID-76,B-ID-50,IP-350,0,+ 0.1,5,1
+InfoAct_id_3800,amplify,B-ID-76,B-ID-50,IP-37,0,+ 0.1,5,1
+InfoAct_id_3801,refute,B-ID-76,B-ID-50,IP-37,0,- 0.1,5,1
+InfoAct_id_3802,amplify,B-ID-76,B-ID-50,IP-37,0,+ 0.1,5,1
+InfoAct_id_3803,refute,B-ID-76,B-ID-50,IP-350,0,- 0.1,5,1
+InfoAct_id_3804,refute,B-ID-76,B-ID-54,IP-350,0,- 0.1,5,1
+InfoAct_id_3805,refute,B-ID-76,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3806,refute,B-ID-76,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3807,refute,B-ID-76,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3808,refute,B-ID-76,B-ID-58,IP-37,0,- 0.1,5,1
+InfoAct_id_3809,amplify,B-ID-76,B-ID-60,IP-350,0,+ 0.1,5,1
+InfoAct_id_3810,amplify,B-ID-76,B-ID-61,IP-350,0,+ 0.1,5,1
+InfoAct_id_3811,amplify,B-ID-76,B-ID-61,IP-37,0,+ 0.1,5,1
+InfoAct_id_3812,refute,B-ID-76,B-ID-65,IP-37,0,- 0.1,5,1
+InfoAct_id_3813,refute,B-ID-76,B-ID-65,IP-37,0,- 0.1,5,1
+InfoAct_id_3814,refute,B-ID-76,B-ID-69,IP-350,0,- 0.1,5,1
+InfoAct_id_3815,refute,B-ID-76,B-ID-69,IP-37,0,- 0.1,5,1
+InfoAct_id_3816,amplify,B-ID-76,B-ID-69,IP-350,0,+ 0.1,5,1
+InfoAct_id_3817,refute,B-ID-76,B-ID-75,IP-37,0,- 0.1,5,1
+InfoAct_id_3818,refute,B-ID-76,B-ID-75,IP-37,0,- 0.1,5,1
+InfoAct_id_3819,amplify,B-ID-76,B-ID-78,IP-350,0,+ 0.1,5,1
+InfoAct_id_3820,amplify,B-ID-76,B-ID-78,IP-350,0,+ 0.1,5,1
+InfoAct_id_3821,amplify,B-ID-76,B-ID-78,IP-350,0,+ 0.1,5,1
+InfoAct_id_3822,amplify,B-ID-76,B-ID-78,IP-350,0,+ 0.1,5,1
+InfoAct_id_3823,refute,B-ID-76,B-ID-80,IP-350,0,- 0.1,5,1
+InfoAct_id_3824,amplify,B-ID-76,B-ID-82,IP-37,0,+ 0.1,5,1
+InfoAct_id_3825,refute,B-ID-76,B-ID-82,IP-350,0,- 0.1,5,1
+InfoAct_id_3826,refute,B-ID-76,Gitanas Nauseda,IP-350,0,- 0.1,5,1
+InfoAct_id_3827,amplify,B-ID-76,Simonas Gurevicius,IP-37,0,+ 0.1,5,1
+InfoAct_id_3828,refute,B-ID-76,Simonas Gurevicius,IP-37,0,- 0.1,5,1
+InfoAct_id_3829,refute,B-ID-76,Bishop K?stutis K?valas CATH,IP-350,0,- 0.1,5,1
+InfoAct_id_3830,refute,B-ID-76,Bishop K?stutis K?valas CATH,IP-37,0,- 0.1,5,1
+InfoAct_id_3831,refute,B-ID-76,Sonata Patkauskait?,IP-350,0,- 0.1,5,1
+InfoAct_id_3832,refute,B-ID-76,Edvinas Regelskis,IP-37,0,- 0.1,5,1
+InfoAct_id_3833,amplify,B-ID-76,Edvinas Regelskis,IP-350,0,+ 0.1,5,1
+InfoAct_id_3834,refute,B-ID-76,Gintare Guzevi?i?t?,IP-350,0,- 0.1,5,1
+InfoAct_id_3835,amplify,B-ID-76,Gintare Guzevi?i?t?,IP-37,0,+ 0.1,5,1
+InfoAct_id_3836,refute,B-ID-76,Edita Baniene,IP-37,0,- 0.1,5,1
+InfoAct_id_3837,amplify,B-ID-76,Father James Karklys ROC,IP-37,0,+ 0.1,5,1
+InfoAct_id_3838,amplify,B-ID-76,Father James Karklys ROC,IP-350,0,+ 0.1,5,1
+InfoAct_id_3839,refute,B-ID-76,Deacon Audrius Jesinskas ROC,IP-350,0,- 0.1,5,1
+InfoAct_id_3840,amplify,B-ID-76,Deacon Audrius Jesinskas ROC,IP-37,0,+ 0.1,5,1
+InfoAct_id_3841,refute,B-ID-76,Bishop Ambrose of Trakai ROC,IP-350,0,- 0.1,5,1
+InfoAct_id_3842,refute,B-ID-76,Bishop Ambrose of Trakai ROC,IP-37,0,- 0.1,5,1
+InfoAct_id_3843,amplify,B-ID-76,Deacon John Stankevicius,IP-37,0,+ 0.1,5,1
+InfoAct_id_3844,refute,B-ID-76,Paulius Keras,IP-350,0,- 0.1,5,1
+InfoAct_id_3845,amplify,B-ID-76,Paulius Keras,IP-350,0,+ 0.1,5,1
+InfoAct_id_3846,refute,B-ID-76,Paulius Keras,IP-37,0,- 0.1,5,1
+InfoAct_id_3847,amplify,B-ID-76,Audrius Ciuplys,IP-350,0,+ 0.1,5,1
+InfoAct_id_3848,amplify,B-ID-76,Audrius Ciuplys,IP-350,0,+ 0.1,5,1
+InfoAct_id_3849,amplify,B-ID-41,B-ID-13,IP-350,0,+ 0.1,5,1
+InfoAct_id_3850,amplify,B-ID-41,B-ID-16,IP-350,0,+ 0.1,5,1
+InfoAct_id_3851,amplify,B-ID-41,B-ID-18,IP-350,0,+ 0.1,5,1
+InfoAct_id_3852,amplify,B-ID-41,B-ID-23,IP-350,0,+ 0.1,5,1
+InfoAct_id_3853,refute,B-ID-41,B-ID-31,IP-350,0,- 0.1,5,1
+InfoAct_id_3854,amplify,B-ID-41,B-ID-31,IP-350,0,+ 0.1,5,1
+InfoAct_id_3855,refute,B-ID-41,B-ID-34,IP-350,0,- 0.1,5,1
+InfoAct_id_3856,refute,B-ID-41,B-ID-34,IP-350,0,- 0.1,5,1
+InfoAct_id_3857,refute,B-ID-41,B-ID-34,IP-350,0,- 0.1,5,1
+InfoAct_id_3858,refute,B-ID-41,B-ID-40,IP-350,0,- 0.1,5,1
+InfoAct_id_3859,refute,B-ID-41,B-ID-48,IP-350,0,- 0.1,5,1
+InfoAct_id_3860,refute,B-ID-41,B-ID-51,IP-350,0,- 0.1,5,1
+InfoAct_id_3861,amplify,B-ID-41,B-ID-59,IP-350,0,+ 0.1,5,1
+InfoAct_id_3862,amplify,B-ID-41,B-ID-60,IP-350,0,+ 0.1,5,1
+InfoAct_id_3863,amplify,B-ID-41,B-ID-60,IP-350,0,+ 0.1,5,1
+InfoAct_id_3864,amplify,B-ID-41,B-ID-76,IP-350,0,+ 0.1,5,1
+InfoAct_id_3865,amplify,B-ID-41,B-ID-76,IP-350,0,+ 0.1,5,1
+InfoAct_id_3866,refute,B-ID-41,B-ID-76,IP-350,0,- 0.1,5,1
+InfoAct_id_3867,amplify,B-ID-41,B-ID-76,IP-350,0,+ 0.1,5,1
+InfoAct_id_3868,amplify,B-ID-41,B-ID-95,IP-350,0,+ 0.1,5,1
+InfoAct_id_3869,amplify,B-ID-41,Father Vytenis Vaskelis ROC,IP-350,0,+ 0.1,5,1
+InfoAct_id_3870,amplify,B-ID-41,Father Vytenis Vaskelis ROC,IP-350,0,+ 0.1,5,1
+InfoAct_id_3871,amplify,B-ID-41,Father Vytenis Vaskelis ROC,IP-350,0,+ 0.1,5,1
+InfoAct_id_3872,amplify,B-ID-41,Archbishop Innokenty of Vilnius ROC,IP-350,0,+ 0.1,5,1
