@@ -1,0 +1,73 @@
+information_action_id,information_action_type,sending_agent_id,receiving_agent_id,information_packet_id,endorsed_agent_id,change_in_amplification,tick,simulation_id
+InfoAct_id_544,refute,Simonas Gurevicius,Ingrida Simonyte,IP-4,0,- 0.1,6,1
+InfoAct_id_545,refute,B-ID-85,B-ID-42,IP-3,0,- 0.1,6,1
+InfoAct_id_546,amplify,B-ID-91,B-ID-92,IP-7,0,+ 0.1,6,1
+InfoAct_id_547,refute,Edita Baniene,Gitanas Nauseda,IP-3,0,- 0.1,6,1
+InfoAct_id_548,refute,B-ID-23,B-ID-78,IP-4,0,- 0.1,6,1
+InfoAct_id_549,refute,B-ID-45,B-ID-18,IP-7,0,- 0.1,6,1
+InfoAct_id_550,amplify,B-ID-101,B-ID-78,IP-4,0,+ 0.1,6,1
+InfoAct_id_551,refute,B-ID-60,B-ID-55,IP-5,0,- 0.1,6,1
+InfoAct_id_552,refute,B-ID-60,B-ID-82,IP-4,0,- 0.1,6,1
+InfoAct_id_553,refute,B-ID-76,B-ID-6,IP-4,0,- 0.1,6,1
+InfoAct_id_554,amplify,B-ID-28,B-ID-77,IP-5,0,+ 0.1,6,1
+InfoAct_id_555,amplify,B-ID-70,B-ID-7,IP-5,0,+ 0.1,6,1
+InfoAct_id_556,refute,Dalia Grybauskaite,Ingrida Simonyte,IP-5,0,- 0.1,6,1
+InfoAct_id_557,amplify,Arvydas Giedraitis,COL-GEN Alexander Zhuravlyov,IP-3,0,+ 0.1,6,1
+InfoAct_id_558,amplify,B-ID-9,B-ID-6,IP-4,0,+ 0.1,6,1
+InfoAct_id_559,refute,B-ID-9,B-ID-61,IP-5,0,- 0.1,6,1
+InfoAct_id_560,refute,Bishop Ambrose of Trakai ROC,Edvinas Regelskis,IP-5,0,- 0.1,6,1
+InfoAct_id_561,amplify,B-ID-68,B-ID-75,IP-7,0,+ 0.1,6,1
+InfoAct_id_562,amplify,B-ID-10,B-ID-38,IP-4,0,+ 0.1,6,1
+InfoAct_id_563,refute,B-ID-10,B-ID-74,IP-4,0,- 0.1,6,1
+InfoAct_id_564,amplify,B-ID-8,B-ID-42,IP-5,0,+ 0.1,6,1
+InfoAct_id_565,refute,B-ID-29,B-ID-51,IP-5,0,- 0.1,6,1
+InfoAct_id_566,refute,B-ID-18,B-ID-27,IP-3,0,- 0.1,6,1
+InfoAct_id_567,amplify,GEN Vladimir Sergeyevich Mikhaylov,Bishop K?stutis K?valas CATH,IP-4,0,+ 0.1,6,1
+InfoAct_id_568,amplify,GEN Vladimir Sergeyevich Mikhaylov,Bishop K?stutis K?valas CATH,IP-7,0,+ 0.1,6,1
+InfoAct_id_569,refute,Arvydas Sabonis,LTG Viktor Nikolaevich Samsonov,IP-5,0,- 0.1,6,1
+InfoAct_id_570,amplify,B-ID-35,B-ID-30,IP-7,0,+ 0.1,6,1
+InfoAct_id_571,refute,B-ID-22,B-ID-9,IP-5,0,- 0.1,6,1
+InfoAct_id_572,refute,Tadas Maroscikas,Father Vytenis Vaskelis ROC,IP-7,0,- 0.1,6,1
+InfoAct_id_573,refute,Tadas Maroscikas,Bishop Ambrose of Trakai ROC,IP-4,0,- 0.1,6,1
+InfoAct_id_574,refute,B-ID-20,B-ID-11,IP-4,0,- 0.1,6,1
+InfoAct_id_575,amplify,B-ID-73,B-ID-39,IP-4,0,+ 0.1,6,1
+InfoAct_id_576,refute,B-ID-41,B-ID-59,IP-4,0,- 0.1,6,1
+InfoAct_id_577,amplify,B-ID-97,B-ID-24,IP-7,0,+ 0.1,6,1
+InfoAct_id_578,amplify,B-ID-97,B-ID-37,IP-5,0,+ 0.1,6,1
+InfoAct_id_579,amplify,Father James Karklys ROC,Deacon John Stankevicius,IP-7,0,+ 0.1,6,1
+InfoAct_id_580,amplify,Father James Karklys ROC,Sergey Kuzhugetovich Shoygu,IP-5,0,+ 0.1,6,1
+InfoAct_id_581,refute,Father James Karklys ROC,MAJ Ganushevich Artem Romanovich,IP-7,0,- 0.1,6,1
+InfoAct_id_582,amplify,B-ID-13,B-ID-77,IP-5,0,+ 0.1,6,1
+InfoAct_id_583,refute,B-ID-13,Gitanas Nauseda,IP-4,0,- 0.1,6,1
+InfoAct_id_584,refute,Paulius Keras,Gintare Guzevi?i?t?,IP-7,0,- 0.1,6,1
+InfoAct_id_585,refute,B-ID-38,B-ID-30,IP-5,0,- 0.1,6,1
+InfoAct_id_586,amplify,B-ID-38,B-ID-49,IP-3,0,+ 0.1,6,1
+InfoAct_id_587,refute,B-ID-54,B-ID-13,IP-7,0,- 0.1,6,1
+InfoAct_id_588,refute,B-ID-6,B-ID-78,IP-5,0,- 0.1,6,1
+InfoAct_id_589,amplify,B-ID-6,Edita Baniene,IP-7,0,+ 0.1,6,1
+InfoAct_id_590,amplify,Deacon John Stankevicius,MAJ Ganushevich Artem Romanovich,IP-5,0,+ 0.1,6,1
+InfoAct_id_591,amplify,B-ID-27,B-ID-37,IP-4,0,+ 0.1,6,1
+InfoAct_id_592,refute,LTG Viktor Nikolaevich Samsonov,LTC Lapin Denis Alexandrovich,IP-5,0,- 0.1,6,1
+InfoAct_id_593,refute,LTG Viktor Nikolaevich Samsonov,GEN Vladimir Sergeyevich Mikhaylov,IP-3,0,- 0.1,6,1
+InfoAct_id_594,amplify,B-ID-19,B-ID-20,IP-4,0,+ 0.1,6,1
+InfoAct_id_595,refute,B-ID-19,B-ID-32,IP-7,0,- 0.1,6,1
+InfoAct_id_596,refute,B-ID-52,B-ID-34,IP-4,0,- 0.1,6,1
+InfoAct_id_597,refute,COL-GEN Anatoly Alekseyevich Sidorov,GEN Nikolai Yegorovich Makarov,IP-7,0,- 0.1,6,1
+InfoAct_id_598,amplify,COL-GEN Anatoly Alekseyevich Sidorov,MAJ Ganushevich Artem Romanovich,IP-4,0,+ 0.1,6,1
+InfoAct_id_599,amplify,B-ID-43,Dalia Grybauskaite,IP-5,0,+ 0.1,6,1
+InfoAct_id_600,amplify,MAJ Ganushevich Artem Romanovich,GEN Alexey Fydorovich Maslov,IP-5,0,+ 0.1,6,1
+InfoAct_id_601,refute,Gitanas Nauseda,B-ID-7,IP-4,0,- 0.1,6,1
+InfoAct_id_602,refute,Deacon Audrius Jesinskas ROC,Astchiek Melkonian,IP-5,0,- 0.1,6,1
+InfoAct_id_603,refute,B-ID-65,B-ID-13,IP-4,0,- 0.1,6,1
+InfoAct_id_604,refute,MG Ruslan Khazhismelovich Tsalikov,Valdemar Tomasevski,IP-3,0,- 0.1,6,1
+InfoAct_id_605,amplify,MG Ruslan Khazhismelovich Tsalikov,LTG Viktor Nikolaevich Samsonov,IP-5,0,+ 0.1,6,1
+InfoAct_id_606,amplify,B-ID-36,B-ID-10,IP-4,0,+ 0.1,6,1
+InfoAct_id_607,refute,B-ID-36,B-ID-38,IP-7,0,- 0.1,6,1
+InfoAct_id_608,refute,B-ID-30,B-ID-67,IP-3,0,- 0.1,6,1
+InfoAct_id_609,refute,B-ID-16,B-ID-48,IP-3,0,- 0.1,6,1
+InfoAct_id_610,refute,B-ID-49,B-ID-12,IP-4,0,- 0.1,6,1
+InfoAct_id_611,amplify,B-ID-49,Austeja Landsbergiene,IP-5,0,+ 0.1,6,1
+InfoAct_id_612,refute,B-ID-49,Gintare Guzevi?i?t?,IP-4,0,- 0.1,6,1
+InfoAct_id_613,amplify,Ingrida Simonyte,Viktorija Smilyte-Nielsen,IP-3,0,+ 0.1,6,1
+InfoAct_id_614,refute,B-ID-34,B-ID-3,IP-4,0,- 0.1,6,1
+InfoAct_id_615,amplify,B-ID-14,B-ID-21,IP-7,0,+ 0.1,6,1

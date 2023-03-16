@@ -306,11 +306,11 @@ end
 
 to setup-IP
 file-close-all ; close all open files
-if not file-exists? "../Input-files/IPsInput.csv" [
-user-message "No file '../Input-files/IPsInput.csv' exists."
+if not file-exists? "../Input-files/IPsInput _compact.csv" [
+user-message "No file '../Input-files/IPsInput _compact.csv' exists."
 stop
 ]
-file-open "../Input-files/IPsInput.csv" ; open the file with the turtle data
+file-open "../Input-files/IPsInput _compact.csv" ; open the file with the turtle data
 ; We'll read all the data in a single loop
   ; We will read first line which is attribute names, but will not perform any action.
   let data csv:from-row file-read-line
@@ -402,9 +402,9 @@ ask current_agent [
  ]
 ;    print Id_trust_table
 ;    print agent-id
-;    print connected_agents_list
+ ;   print connected_agents_list
 ;    print trust_values_list
-;    print IPslist
+ ;   print IPslist
 ]
  set i i + 1
 
@@ -416,23 +416,22 @@ to send
   set Information_Action_list []
   set initial_track_list_IA []
   set initial_track_list_IA ["information_action_id" "information_action_type" "sending_agent_id" "receiving_agent_id" "information_packet_id" "endorsed_agent_id" "change_in_amplification" "tick" "simulation_id"]
-    ;print(initial-track-list)
-    set Information_Action_list lput initial_track_list_IA Information_Action_list
-  print tick-count
 
+    set Information_Action_list lput initial_track_list_IA Information_Action_list
 ;; logic for sending IPs through Info agents if they have any IPs
 ;; If the IPs list is not empty send the first 5 IPs to all the connected agents and remove those from list.
   if tick-count = 1[
-  print tick-count
+  ;print tick-count
   let count_ba 0
   let info_agents_with_IPs turtles with [agent-type = "information-diss-agents" and IPslist != [] and connected_agents_list != []]
   ask info_agents_with_IPs [
+  print agent-id
+  print IPslist
   let i 0
   let triadno 1
   let tempIpslist []
   let info_agent_id agent-id ; sending agent id
     set tempIpslist IPslist ; list of Ips that are being sent
-    ;set IPslist sublist IPslist length(tempIpslist) (length IPslist) ;; Updating the IPs list by removing the five IPs that we are sending now
     while [i < length(connected_agents_list)] [
       let search_id item i connected_agents_list
       ;print search_id ; to see the current connected basic agent id ; receiving agent id
@@ -447,7 +446,7 @@ to send
           set random_IPslist lput random-item random_IPslist
           set originalIpslist remove-item random-index originalIpslist
          ]
-        ;print random_IPslist
+
         let random_IPs turtles with [Ip-id = item 0 random_IPslist]
          ask random_IPs[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
@@ -502,7 +501,15 @@ to send
         let j 0
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist; temp stores the current IP id
-          set Outbox lput temp Outbox ; To store received IPs
+          ;set Outbox lput temp Outbox ; To store received IPs
+
+             ifelse member? IP-id outbox[
+              ]
+              [
+               set outbox lput temp outbox
+
+              ]
+
 
          ; logic for creating triadstack for basic agents
           let temptriad []
@@ -523,13 +530,15 @@ to send
           set j j + 1
           set triadno triadno + 1
         ]
+        print agent-id
         print triadstack ; to see the current agent's triadstack
+        print outbox
       ]
       set i i + 1
     ]
 set count_ba count_ba + 1
     ]
-    print count_ba
+    ;print count_ba
     let infoAct  word "Information-Actions-tick-" tick-count
 
       csv:to-file word infoAct".csv" Information_Action_list
@@ -539,14 +548,13 @@ set count_ba count_ba + 1
 ;1. If the Outbox is not empty send the Ips to all the connected agents.
 if tick-count >= 1[
   print tick-count
-  let basic_agents_with_IPs turtles with [agent-type = "basic" and Outbox != [] and connected_agents_list != []]
+  let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Outbox != [] and connected_agents_list != []]
   ask basic_agents_with_IPs [
    ;print id_trust_table
   ;print "test"
   let i 0
   let tempIpslist []
   let basic_agent_id agent-id ; sending agent id
-  print basic_agent_id
    set tempIpslist Outbox
     while [i < length(connected_agents_list)] [
       let search_id item i connected_agents_list ; reveiving agent id
@@ -554,14 +562,22 @@ if tick-count >= 1[
 
       let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.5[
+      if trust_value > 0.6[
           ;print trust_value
       let current_agent turtles with [agent-id = search_id]
      ask current_agent [
           let j 0
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist
-          set Inbox lput temp Inbox
+           ifelse member? temp Inbox[
+              ]
+              [
+               set inbox lput temp inbox
+              ]
+              set j j + 1
+      ]
+          let k 0
+          while [k < length(inbox)] [
 ;;
               ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         let originalIpslist [] ; original list of all IPs
@@ -573,12 +589,14 @@ if tick-count >= 1[
           set random_IPslist lput random-item random_IPslist
           set originalIpslist remove-item random-index originalIpslist
          ]
-        ;print random_IPslist
+
         let random_IPs turtles with [IP-id = item 0 random_IPslist]
+              ifelse random 100 < 10 [
+              ifelse random 100 < 5 [
          ask random_IPs[
 
-                ifelse tick-count = 1[set tempstance 3][set tempstance 1]
-           if stance >= 3 [
+                ifelse tick-count = 1[set tempstance 3][set tempstance 2]
+           if stance >= tempstance[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let AmplifyanInformationPacket false
             let RefuteanInformationPacket false
@@ -626,16 +644,19 @@ if tick-count >= 1[
               ]
 
           ]
-           set j j + 1
+              ][]
+              ][]
+           set k k + 1
       ]
-      ;print Inbox
+;      print agent-id
+;      print Inbox
      ]
 ;
         ]
         set i i + 1
     ]
 
-      ;set Outbox []
+      set Outbox []
 ]
     let infoAct  word "Information-Actions-tick-" tick-count
 
@@ -643,6 +664,8 @@ if tick-count >= 1[
   ]
 
 
+
+;;read logic
 end
 
 to read
@@ -655,19 +678,19 @@ set Triad-list[]
 set initial-track-list12 ["triad_id" "triad_stack_id" "identity_group_id" "topic_id" "stance" "tick" "simulation_id"]
     ;print(initial-track-list)
     set Triad-list lput initial-track-list12 Triad-list
-let basic_agents_with_IPs turtles with [agent-type = "basic" and Inbox != [] ]
+let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Inbox != [] ]
 ask basic_agents_with_IPs [
   ;print "test"
  ; let i 0
   let tempIpslist []
-  let basic_agent_id agent-id ; sending agent id
+  let basic_agent_id agent-id ; received agent id
   ;print basic_agent_id
+   set outbox inbox
   if length(inbox) >= 0 [
     set tempIpslist inbox
           let j 0
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist
-
           let current_IP turtles with [IP-id = temp]
           ask current_IP[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
@@ -680,6 +703,9 @@ ask basic_agents_with_IPs [
               [
                set outbox lput IP-id outbox
                set color brown
+
+                ;;get the triads with the IPs topic and perform identity actions
+
               ]
           ]
           ]
@@ -687,6 +713,8 @@ ask basic_agents_with_IPs [
           set j j + 1
         ]
       ]
+;    set inbox []
+;    print outbox
       ]
 end
 
@@ -719,7 +747,7 @@ set actionid 0
 repeat Select_no_of_Ticks [
 set tick-count tick-count + 1
  send
- ;read
+ read
  ]
 end
 
@@ -740,7 +768,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 
@@ -833,10 +860,10 @@ NIL
 1
 
 SLIDER
-21
-239
-193
-272
+17
+180
+189
+213
 Select_no_of_Ticks
 Select_no_of_Ticks
 0
@@ -882,10 +909,10 @@ NIL
 1
 
 BUTTON
-81
-347
-144
-380
+76
+227
+139
+260
 NIL
 go
 NIL
