@@ -1,5 +1,6 @@
 extensions [ csv profiler time table matrix rnd]
 globals[
+  identityactionid
   tempstance
 ; Count attributes
 nb-basic-agents
@@ -546,7 +547,7 @@ set count_ba count_ba + 1
 
 ; logic for sending IPs through basic agents if the outbox is not empty
 ;1. If the Outbox is not empty send the Ips to all the connected agents.
-if tick-count >= 1[
+if tick-count > 1[
   print tick-count
   let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Outbox != [] and connected_agents_list != []]
   ask basic_agents_with_IPs [
@@ -562,7 +563,7 @@ if tick-count >= 1[
 
       let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.6[
+      if trust_value > 0.1[
           ;print trust_value
       let current_agent turtles with [agent-id = search_id]
      ask current_agent [
@@ -670,14 +671,10 @@ end
 
 to read
 set identity-list[]
-set initial-track-list10 ["agentId" "action" "triad_id " "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+set initial-track-list10 ["identity_action_id" "agent_id" "action" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
     ;print(initial-track-list)
     set identity-list lput initial-track-list10 identity-list
 
-set Triad-list[]
-set initial-track-list12 ["triad_id" "triad_stack_id" "identity_group_id" "topic_id" "stance" "tick" "simulation_id"]
-    ;print(initial-track-list)
-    set Triad-list lput initial-track-list12 Triad-list
 let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Inbox != [] ]
 ask basic_agents_with_IPs [
   ;print "test"
@@ -711,18 +708,20 @@ ask basic_agents_with_IPs [
                   if item 1 (item len(triadstack)) = Ip_topic[ ;; checking if the triad topic is same as Ips topic
                 set IncreaseMagnitudeofTopicStance false
                 set DecreaseMagnitudeofTopicStance false
-                    if random 100 < 20 [
+                    ifelse random 100 < 50 [
                       set IncreaseMagnitudeofTopicStance true
                     ]
-                    if random 100 < 10 [
+                    [
                       set DecreaseMagnitudeofTopicStance true
                     ]
                     if IncreaseMagnitudeofTopicStance = true[
                     set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) + 0.3)))
 
-                      let id (item len (item 0(triadstack)) )
+                      let id (item 0 (item len(triadstack)) )
                               set sub-list10[]
                              ; set sub-list10 lput IdentityActionID sub-list10
+                              set identityactionid identityactionid + 1
+                              set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
                               set sub-list10 lput agent-id sub-list10
                               set sub-list10 lput "UpdateStance" sub-list10
                               set sub-list10 lput id sub-list10
@@ -738,9 +737,10 @@ ask basic_agents_with_IPs [
                     if DecreaseMagnitudeofTopicStance = true[
                     set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) - 0.2)))
 
-                      let id (item len (item 0(triadstack)) )
+                      let id (item 0 (item len(triadstack)) )
                               set sub-list10[]
-                             ; set sub-list10 lput IdentityActionID sub-list10
+                             set identityactionid identityactionid + 1
+                              set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
                               set sub-list10 lput agent-id sub-list10
                               set sub-list10 lput "UpdateStance" sub-list10
                               set sub-list10 lput id sub-list10
@@ -763,11 +763,13 @@ ask basic_agents_with_IPs [
           set j j + 1
         ]
       ]
-   let trackID  word "identity_action_tick_" 1
-   csv:to-file word trackID ".csv" identity-list
-;    set inbox []
+
+
+  ;  set inbox []
 ;    print outbox
       ]
+  let trackID  word "identity_action_tick_"tick-count
+   csv:to-file word trackID ".csv" identity-list
 end
 
 
@@ -795,6 +797,7 @@ end
 to go
 set tick-count  0
 set actionid 0
+set identityactionid 0
 ;;get new IPs at each tick - setup IPs
 repeat Select_no_of_Ticks [
 set tick-count tick-count + 1
