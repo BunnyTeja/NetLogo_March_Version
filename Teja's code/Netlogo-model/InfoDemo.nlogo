@@ -703,9 +703,59 @@ ask basic_agents_with_IPs [
               [
                set outbox lput IP-id outbox
                set color brown
-
+                ;;start for Identity actions
                 ;;get the triads with the IPs topic and perform identity actions
+                ;;if the Ip_topic is in traids
+                let len 0
+                while [len < length(triadstack)] [
+                  if item 1 (item len(triadstack)) = Ip_topic[ ;; checking if the triad topic is same as Ips topic
+                set IncreaseMagnitudeofTopicStance false
+                set DecreaseMagnitudeofTopicStance false
+                    if random 100 < 20 [
+                      set IncreaseMagnitudeofTopicStance true
+                    ]
+                    if random 100 < 10 [
+                      set DecreaseMagnitudeofTopicStance true
+                    ]
+                    if IncreaseMagnitudeofTopicStance = true[
+                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) + 0.3)))
 
+                      let id (item len (item 0(triadstack)) )
+                              set sub-list10[]
+                             ; set sub-list10 lput IdentityActionID sub-list10
+                              set sub-list10 lput agent-id sub-list10
+                              set sub-list10 lput "UpdateStance" sub-list10
+                              set sub-list10 lput id sub-list10
+                              set sub-list10 lput "0.3" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput tick-count sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              ;set sub-list10 lput date-and-time sub-list10
+                         set identity-list lput sub-list10 identity-list
+                    ]
+
+                    if DecreaseMagnitudeofTopicStance = true[
+                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) - 0.2)))
+
+                      let id (item len (item 0(triadstack)) )
+                              set sub-list10[]
+                             ; set sub-list10 lput IdentityActionID sub-list10
+                              set sub-list10 lput agent-id sub-list10
+                              set sub-list10 lput "UpdateStance" sub-list10
+                              set sub-list10 lput id sub-list10
+                              set sub-list10 lput "-0.2" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput tick-count sub-list10
+                              set sub-list10 lput "0" sub-list10
+                              ;set sub-list10 lput date-and-time sub-list10
+                         set identity-list lput sub-list10 identity-list
+                    ]
+                  ]
+                  set len len + 1
+                ]
+                ;;; end for identity actions
               ]
           ]
           ]
@@ -713,6 +763,8 @@ ask basic_agents_with_IPs [
           set j j + 1
         ]
       ]
+   let trackID  word "identity_action_tick_" 1
+   csv:to-file word trackID ".csv" identity-list
 ;    set inbox []
 ;    print outbox
       ]
@@ -768,7 +820,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 

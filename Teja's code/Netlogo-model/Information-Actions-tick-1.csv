@@ -1,86 +1,89 @@
 information_action_id,information_action_type,sending_agent_id,receiving_agent_id,information_packet_id,endorsed_agent_id,change_in_amplification,tick,simulation_id
-InfoAct_id_1,refute,15min (15min.lt),B-ID-14,IP-277,0,0,1,1
-InfoAct_id_2,refute,15min (15min.lt),B-ID-57,IP-276,0,0,1,1
-InfoAct_id_3,refute,15min (15min.lt),Arvydas Sabonis,IP-279,0,- 0.1,1,1
-InfoAct_id_4,refute,15min (15min.lt),Austeja Landsbergiene,IP-277,0,- 0.1,1,1
-InfoAct_id_5,amplify,15min (15min.lt),Bishop K?stutis K?valas CATH,IP-283,0,- 0.1,1,1
-InfoAct_id_6,amplify,15min (15min.lt),Sonata Patkauskait?,IP-273,0,- 0.1,1,1
-InfoAct_id_7,refute,15min (15min.lt),Edvinas Regelskis,IP-278,0,- 0.1,1,1
-InfoAct_id_8,amplify,15min (15min.lt),Gintare Guzevi?i?t?,IP-275,0,- 0.1,1,1
-InfoAct_id_9,refute,15min (15min.lt),Archbishop Innokenty of Vilnius ROC,IP-279,0,- 0.1,1,1
-InfoAct_id_10,amplify,15min (15min.lt),Bishop Ambrose of Trakai ROC,IP-272,0,- 0.1,1,1
-InfoAct_id_11,refute,15min (15min.lt),Arvydas Giedraitis,IP-273,0,+ 0.1,1,1
-InfoAct_id_12,amplify,L24 (l24.lt),B-ID-16,IP-342,0,- 0.1,1,1
-InfoAct_id_13,amplify,L24 (l24.lt),B-ID-35,IP-344,0,+ 0.1,1,1
-InfoAct_id_14,refute,L24 (l24.lt),B-ID-41,IP-344,0,- 0.1,1,1
-InfoAct_id_15,refute,L24 (l24.lt),B-ID-43,IP-348,0,- 0.1,1,1
-InfoAct_id_16,amplify,L24 (l24.lt),B-ID-76,IP-352,0,- 0.1,1,1
-InfoAct_id_17,amplify,L24 (l24.lt),Virgis Bagdonas,IP-342,0,- 0.1,1,1
-InfoAct_id_18,refute,Kauno Diena (kauno.diena.lt),B-ID-76,IP-197,0,- 0.1,1,1
-InfoAct_id_19,refute,Kauno Diena (kauno.diena.lt),Simonas Gurevicius,IP-197,0,- 0.1,1,1
-InfoAct_id_20,refute,Kauno Diena (kauno.diena.lt),Bishop K?stutis K?valas CATH,IP-197,0,- 0.1,1,1
-InfoAct_id_21,refute,Kauno Diena (kauno.diena.lt),MG Arkady Vilktotovich Bakhin,IP-196,0,- 0.1,1,1
-InfoAct_id_22,refute,Kauno Diena (kauno.diena.lt),Paulius Keras,IP-195,0,- 0.1,1,1
-InfoAct_id_23,refute,Diena (Diena.lt),B-ID-4,IP-114,0,+ 0.1,1,1
-InfoAct_id_24,amplify,Diena (Diena.lt),B-ID-6,IP-117,0,+ 0.1,1,1
-InfoAct_id_25,amplify,Diena (Diena.lt),B-ID-23,IP-116,0,+ 0.1,1,1
-InfoAct_id_26,amplify,Diena (Diena.lt),B-ID-31,IP-114,0,- 0.1,1,1
-InfoAct_id_27,refute,Diena (Diena.lt),B-ID-44,IP-113,0,+ 0.1,1,1
-InfoAct_id_28,refute,Diena (Diena.lt),B-ID-76,IP-117,0,+ 0.1,1,1
-InfoAct_id_29,refute,LRT (lrt.lt),B-ID-16,IP-8,0,+ 0.1,1,1
-InfoAct_id_30,refute,LRT (lrt.lt),B-ID-31,IP-10,0,+ 0.1,1,1
-InfoAct_id_31,amplify,LRT (lrt.lt),B-ID-33,IP-10,0,- 0.1,1,1
-InfoAct_id_32,amplify,LRT (lrt.lt),B-ID-43,IP-8,0,- 0.1,1,1
-InfoAct_id_33,amplify,LRT (lrt.lt),B-ID-44,IP-1,0,- 0.1,1,1
-InfoAct_id_34,amplify,LRT (lrt.lt),B-ID-49,IP-1,0,- 0.1,1,1
-InfoAct_id_35,amplify,LRT (lrt.lt),B-ID-60,IP-4,0,+ 0.1,1,1
-InfoAct_id_36,refute,LRT (lrt.lt),B-ID-64,IP-1,0,+ 0.1,1,1
-InfoAct_id_37,refute,LRT (lrt.lt),B-ID-66,IP-4,0,- 0.1,1,1
-InfoAct_id_38,refute,LRT (lrt.lt),B-ID-74,IP-10,0,+ 0.1,1,1
-InfoAct_id_39,amplify,LRT (lrt.lt),B-ID-76,IP-4,0,+ 0.1,1,1
-InfoAct_id_40,amplify,LRT (lrt.lt),Austeja Landsbergiene,IP-4,0,+ 0.1,1,1
-InfoAct_id_41,refute,LRT (lrt.lt),Simonas Gurevicius,IP-7,0,- 0.1,1,1
-InfoAct_id_42,refute,LRT (lrt.lt),Gintare Guzevi?i?t?,IP-1,0,+ 0.1,1,1
-InfoAct_id_43,refute,LRT (lrt.lt),LTC Lapin Denis Alexandrovich,IP-3,0,- 0.1,1,1
-InfoAct_id_44,amplify,LRT (lrt.lt),MG Arkady Vilktotovich Bakhin,IP-6,0,- 0.1,1,1
-InfoAct_id_45,amplify,LRT (lrt.lt),COL Maximov Sergei Viktorovich,IP-7,0,+ 0.1,1,1
-InfoAct_id_46,refute,LRT (lrt.lt),COL-GEN Victor Borisovich Astapov,IP-10,0,+ 0.1,1,1
-InfoAct_id_47,amplify,LRT (lrt.lt),COL-GEN Anatoly Alekseyevich Sidorov,IP-3,0,+ 0.1,1,1
-InfoAct_id_48,amplify,LRT (lrt.lt),Audrius Ciuplys,IP-8,0,- 0.1,1,1
-InfoAct_id_49,refute,Delfi LT (delfi.lt),B-ID-9,IP-427,0,- 0.1,1,1
-InfoAct_id_50,amplify,Delfi LT (delfi.lt),B-ID-16,IP-428,0,+ 0.1,1,1
-InfoAct_id_51,refute,Delfi LT (delfi.lt),B-ID-21,IP-423,0,+ 0.1,1,1
-InfoAct_id_52,amplify,Delfi LT (delfi.lt),B-ID-22,IP-422,0,- 0.1,1,1
-InfoAct_id_53,amplify,Delfi LT (delfi.lt),B-ID-30,IP-425,0,+ 0.1,1,1
-InfoAct_id_54,refute,Delfi LT (delfi.lt),B-ID-32,IP-429,0,- 0.1,1,1
-InfoAct_id_55,amplify,Delfi LT (delfi.lt),B-ID-33,IP-426,0,+ 0.1,1,1
-InfoAct_id_56,refute,Delfi LT (delfi.lt),B-ID-35,IP-428,0,- 0.1,1,1
-InfoAct_id_57,refute,Delfi LT (delfi.lt),B-ID-36,IP-422,0,+ 0.1,1,1
-InfoAct_id_58,refute,Delfi LT (delfi.lt),B-ID-38,IP-427,0,- 0.1,1,1
-InfoAct_id_59,refute,Delfi LT (delfi.lt),B-ID-40,IP-428,0,- 0.1,1,1
-InfoAct_id_60,amplify,Delfi LT (delfi.lt),B-ID-41,IP-423,0,- 0.1,1,1
-InfoAct_id_61,refute,Delfi LT (delfi.lt),B-ID-43,IP-427,0,- 0.1,1,1
-InfoAct_id_62,amplify,Delfi LT (delfi.lt),B-ID-46,IP-427,0,+ 0.1,1,1
-InfoAct_id_63,amplify,Delfi LT (delfi.lt),B-ID-48,IP-424,0,+ 0.1,1,1
-InfoAct_id_64,refute,Delfi LT (delfi.lt),B-ID-53,IP-427,0,- 0.1,1,1
-InfoAct_id_65,amplify,Delfi LT (delfi.lt),B-ID-59,IP-426,0,+ 0.1,1,1
-InfoAct_id_66,amplify,Delfi LT (delfi.lt),B-ID-60,IP-425,0,+ 0.1,1,1
-InfoAct_id_67,amplify,Delfi LT (delfi.lt),B-ID-61,IP-428,0,+ 0.1,1,1
-InfoAct_id_68,amplify,Delfi LT (delfi.lt),B-ID-62,IP-424,0,+ 0.1,1,1
-InfoAct_id_69,amplify,Delfi LT (delfi.lt),B-ID-64,IP-429,0,+ 0.1,1,1
-InfoAct_id_70,amplify,Delfi LT (delfi.lt),B-ID-67,IP-423,0,+ 0.1,1,1
-InfoAct_id_71,refute,Delfi LT (delfi.lt),B-ID-68,IP-429,0,- 0.1,1,1
-InfoAct_id_72,amplify,Delfi LT (delfi.lt),B-ID-74,IP-423,0,- 0.1,1,1
-InfoAct_id_73,amplify,Delfi LT (delfi.lt),B-ID-76,IP-426,0,+ 0.1,1,1
-InfoAct_id_74,refute,Delfi LT (delfi.lt),Austeja Landsbergiene,IP-429,0,- 0.1,1,1
-InfoAct_id_75,refute,Delfi LT (delfi.lt),Gabrielius Landsbergis,IP-427,0,- 0.1,1,1
-InfoAct_id_76,refute,Delfi LT (delfi.lt),Ingrida Simonyte,IP-426,0,- 0.1,1,1
-InfoAct_id_77,refute,Delfi LT (delfi.lt),Simonas Gurevicius,IP-427,0,- 0.1,1,1
-InfoAct_id_78,amplify,Delfi LT (delfi.lt),Edvinas Regelskis,IP-423,0,- 0.1,1,1
-InfoAct_id_79,refute,Delfi LT (delfi.lt),Edita Baniene,IP-428,0,- 0.1,1,1
-InfoAct_id_80,refute,Delfi LT (delfi.lt),Egle Juzu,IP-428,0,- 0.1,1,1
-InfoAct_id_81,refute,Delfi LT (delfi.lt),LTC Lapin Denis Alexandrovich,IP-426,0,- 0.1,1,1
-InfoAct_id_82,amplify,Delfi LT (delfi.lt),COL Maximov Sergei Viktorovich,IP-428,0,+ 0.1,1,1
-InfoAct_id_83,amplify,Delfi LT (delfi.lt),COL-GEN Victor Borisovich Astapov,IP-425,0,+ 0.1,1,1
-InfoAct_id_84,refute,B-ID-64,B-ID-40,IP-3,0,- 0.1,1,1
-InfoAct_id_85,refute,COL-GEN Anatoly Alekseyevich Sidorov,COL-GEN Victor Borisovich Astapov,IP-4,0,- 0.1,1,1
+InfoAct_id_1,amplify,Kauno Diena (kauno.diena.lt),B-ID-76,IP-196,0,+ 0.1,1,1
+InfoAct_id_2,refute,Kauno Diena (kauno.diena.lt),Simonas Gurevicius,IP-196,0,- 0.1,1,1
+InfoAct_id_3,amplify,Kauno Diena (kauno.diena.lt),Bishop K?stutis K?valas CATH,IP-198,0,+ 0.1,1,1
+InfoAct_id_4,refute,Kauno Diena (kauno.diena.lt),MG Arkady Vilktotovich Bakhin,IP-194,0,- 0.1,1,1
+InfoAct_id_5,refute,Kauno Diena (kauno.diena.lt),Paulius Keras,IP-194,0,- 0.1,1,1
+InfoAct_id_6,refute,LRT (lrt.lt),B-ID-16,IP-3,0,- 0.1,1,1
+InfoAct_id_7,amplify,LRT (lrt.lt),B-ID-31,IP-7,0,+ 0.1,1,1
+InfoAct_id_8,amplify,LRT (lrt.lt),B-ID-33,IP-8,0,- 0.1,1,1
+InfoAct_id_9,refute,LRT (lrt.lt),B-ID-43,IP-3,0,- 0.1,1,1
+InfoAct_id_10,amplify,LRT (lrt.lt),B-ID-44,IP-10,0,- 0.1,1,1
+InfoAct_id_11,refute,LRT (lrt.lt),B-ID-49,IP-8,0,+ 0.1,1,1
+InfoAct_id_12,refute,LRT (lrt.lt),B-ID-60,IP-5,0,- 0.1,1,1
+InfoAct_id_13,refute,LRT (lrt.lt),B-ID-64,IP-7,0,- 0.1,1,1
+InfoAct_id_14,amplify,LRT (lrt.lt),B-ID-66,IP-2,0,+ 0.1,1,1
+InfoAct_id_15,amplify,LRT (lrt.lt),B-ID-74,IP-6,0,- 0.1,1,1
+InfoAct_id_16,refute,LRT (lrt.lt),B-ID-76,IP-7,0,- 0.1,1,1
+InfoAct_id_17,refute,LRT (lrt.lt),Austeja Landsbergiene,IP-8,0,+ 0.1,1,1
+InfoAct_id_18,amplify,LRT (lrt.lt),Simonas Gurevicius,IP-8,0,- 0.1,1,1
+InfoAct_id_19,refute,LRT (lrt.lt),Gintare Guzevi?i?t?,IP-6,0,+ 0.1,1,1
+InfoAct_id_20,amplify,LRT (lrt.lt),LTC Lapin Denis Alexandrovich,IP-3,0,+ 0.1,1,1
+InfoAct_id_21,refute,LRT (lrt.lt),MG Arkady Vilktotovich Bakhin,IP-1,0,+ 0.1,1,1
+InfoAct_id_22,refute,LRT (lrt.lt),COL Maximov Sergei Viktorovich,IP-1,0,+ 0.1,1,1
+InfoAct_id_23,refute,LRT (lrt.lt),COL-GEN Victor Borisovich Astapov,IP-7,0,- 0.1,1,1
+InfoAct_id_24,refute,LRT (lrt.lt),COL-GEN Anatoly Alekseyevich Sidorov,IP-2,0,- 0.1,1,1
+InfoAct_id_25,amplify,LRT (lrt.lt),Audrius Ciuplys,IP-6,0,- 0.1,1,1
+InfoAct_id_26,amplify,L24 (l24.lt),B-ID-16,IP-346,0,+ 0.1,1,1
+InfoAct_id_27,refute,L24 (l24.lt),B-ID-35,IP-343,0,+ 0.1,1,1
+InfoAct_id_28,amplify,L24 (l24.lt),B-ID-41,IP-352,0,- 0.1,1,1
+InfoAct_id_29,refute,L24 (l24.lt),B-ID-43,IP-345,0,- 0.1,1,1
+InfoAct_id_30,amplify,L24 (l24.lt),B-ID-76,IP-344,0,+ 0.1,1,1
+InfoAct_id_31,amplify,L24 (l24.lt),Virgis Bagdonas,IP-347,0,+ 0.1,1,1
+InfoAct_id_32,amplify,15min (15min.lt),B-ID-14,IP-275,0,+ 0.1,1,1
+InfoAct_id_33,amplify,15min (15min.lt),B-ID-57,IP-275,0,+ 0.1,1,1
+InfoAct_id_34,amplify,15min (15min.lt),Arvydas Sabonis,IP-275,0,+ 0.1,1,1
+InfoAct_id_35,refute,15min (15min.lt),Austeja Landsbergiene,IP-277,0,+ 0.1,1,1
+InfoAct_id_36,amplify,15min (15min.lt),Bishop K?stutis K?valas CATH,IP-277,0,+ 0.1,1,1
+InfoAct_id_37,amplify,15min (15min.lt),Sonata Patkauskait?,IP-279,0,+ 0.1,1,1
+InfoAct_id_38,amplify,15min (15min.lt),Edvinas Regelskis,IP-273,0,- 0.1,1,1
+InfoAct_id_39,amplify,15min (15min.lt),Gintare Guzevi?i?t?,IP-283,0,- 0.1,1,1
+InfoAct_id_40,refute,15min (15min.lt),Archbishop Innokenty of Vilnius ROC,IP-275,0,- 0.1,1,1
+InfoAct_id_41,refute,15min (15min.lt),Bishop Ambrose of Trakai ROC,IP-279,0,- 0.1,1,1
+InfoAct_id_42,amplify,15min (15min.lt),Arvydas Giedraitis,IP-277,0,- 0.1,1,1
+InfoAct_id_43,refute,Diena (Diena.lt),B-ID-4,IP-113,0,+ 0.1,1,1
+InfoAct_id_44,refute,Diena (Diena.lt),B-ID-6,IP-118,0,+ 0.1,1,1
+InfoAct_id_45,amplify,Diena (Diena.lt),B-ID-23,IP-114,0,- 0.1,1,1
+InfoAct_id_46,refute,Diena (Diena.lt),B-ID-31,IP-116,0,- 0.1,1,1
+InfoAct_id_47,amplify,Diena (Diena.lt),B-ID-44,IP-113,0,- 0.1,1,1
+InfoAct_id_48,refute,Diena (Diena.lt),B-ID-76,IP-117,0,- 0.1,1,1
+InfoAct_id_49,refute,Delfi LT (delfi.lt),B-ID-9,IP-428,0,- 0.1,1,1
+InfoAct_id_50,refute,Delfi LT (delfi.lt),B-ID-16,IP-424,0,- 0.1,1,1
+InfoAct_id_51,amplify,Delfi LT (delfi.lt),B-ID-21,IP-425,0,+ 0.1,1,1
+InfoAct_id_52,amplify,Delfi LT (delfi.lt),B-ID-22,IP-423,0,+ 0.1,1,1
+InfoAct_id_53,amplify,Delfi LT (delfi.lt),B-ID-30,IP-427,0,+ 0.1,1,1
+InfoAct_id_54,amplify,Delfi LT (delfi.lt),B-ID-32,IP-422,0,- 0.1,1,1
+InfoAct_id_55,amplify,Delfi LT (delfi.lt),B-ID-33,IP-427,0,+ 0.1,1,1
+InfoAct_id_56,refute,Delfi LT (delfi.lt),B-ID-35,IP-422,0,+ 0.1,1,1
+InfoAct_id_57,refute,Delfi LT (delfi.lt),B-ID-36,IP-428,0,- 0.1,1,1
+InfoAct_id_58,amplify,Delfi LT (delfi.lt),B-ID-38,IP-424,0,- 0.1,1,1
+InfoAct_id_59,refute,Delfi LT (delfi.lt),B-ID-40,IP-424,0,- 0.1,1,1
+InfoAct_id_60,amplify,Delfi LT (delfi.lt),B-ID-41,IP-428,0,+ 0.1,1,1
+InfoAct_id_61,refute,Delfi LT (delfi.lt),B-ID-43,IP-423,0,+ 0.1,1,1
+InfoAct_id_62,refute,Delfi LT (delfi.lt),B-ID-46,IP-424,0,+ 0.1,1,1
+InfoAct_id_63,refute,Delfi LT (delfi.lt),B-ID-48,IP-424,0,+ 0.1,1,1
+InfoAct_id_64,amplify,Delfi LT (delfi.lt),B-ID-53,IP-428,0,+ 0.1,1,1
+InfoAct_id_65,amplify,Delfi LT (delfi.lt),B-ID-59,IP-425,0,+ 0.1,1,1
+InfoAct_id_66,refute,Delfi LT (delfi.lt),B-ID-60,IP-425,0,- 0.1,1,1
+InfoAct_id_67,amplify,Delfi LT (delfi.lt),B-ID-61,IP-423,0,- 0.1,1,1
+InfoAct_id_68,amplify,Delfi LT (delfi.lt),B-ID-62,IP-429,0,+ 0.1,1,1
+InfoAct_id_69,amplify,Delfi LT (delfi.lt),B-ID-64,IP-422,0,- 0.1,1,1
+InfoAct_id_70,refute,Delfi LT (delfi.lt),B-ID-67,IP-428,0,- 0.1,1,1
+InfoAct_id_71,amplify,Delfi LT (delfi.lt),B-ID-68,IP-424,0,- 0.1,1,1
+InfoAct_id_72,amplify,Delfi LT (delfi.lt),B-ID-74,IP-429,0,+ 0.1,1,1
+InfoAct_id_73,refute,Delfi LT (delfi.lt),B-ID-76,IP-423,0,+ 0.1,1,1
+InfoAct_id_74,refute,Delfi LT (delfi.lt),Austeja Landsbergiene,IP-426,0,- 0.1,1,1
+InfoAct_id_75,amplify,Delfi LT (delfi.lt),Gabrielius Landsbergis,IP-426,0,+ 0.1,1,1
+InfoAct_id_76,refute,Delfi LT (delfi.lt),Ingrida Simonyte,IP-425,0,- 0.1,1,1
+InfoAct_id_77,refute,Delfi LT (delfi.lt),Simonas Gurevicius,IP-425,0,- 0.1,1,1
+InfoAct_id_78,refute,Delfi LT (delfi.lt),Edvinas Regelskis,IP-429,0,- 0.1,1,1
+InfoAct_id_79,amplify,Delfi LT (delfi.lt),Edita Baniene,IP-429,0,+ 0.1,1,1
+InfoAct_id_80,refute,Delfi LT (delfi.lt),Egle Juzu,IP-429,0,- 0.1,1,1
+InfoAct_id_81,refute,Delfi LT (delfi.lt),LTC Lapin Denis Alexandrovich,IP-428,0,- 0.1,1,1
+InfoAct_id_82,refute,Delfi LT (delfi.lt),COL Maximov Sergei Viktorovich,IP-426,0,- 0.1,1,1
+InfoAct_id_83,amplify,Delfi LT (delfi.lt),COL-GEN Victor Borisovich Astapov,IP-427,0,+ 0.1,1,1
+InfoAct_id_84,amplify,LTC Lapin Denis Alexandrovich,COL-GEN Anatoly Alekseyevich Sidorov,IP-9,0,+ 0.1,1,1
+InfoAct_id_85,amplify,Austeja Landsbergiene,Gintare Guzevi?i?t?,IP-4,0,+ 0.1,1,1
+InfoAct_id_86,amplify,Simonas Gurevicius,Viktorija Smilyte-Nielsen,IP-4,0,+ 0.1,1,1
+InfoAct_id_87,refute,B-ID-49,B-ID-1,IP-9,0,- 0.1,1,1
+InfoAct_id_88,amplify,B-ID-74,B-ID-10,IP-9,0,+ 0.1,1,1
