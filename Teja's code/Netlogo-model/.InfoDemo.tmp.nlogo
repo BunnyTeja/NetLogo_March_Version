@@ -671,7 +671,7 @@ end
 
 to read
 set identity-list[]
-set initial-track-list10 ["identity_action_id" "agent_id" "" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
     ;print(initial-track-list)
     set identity-list lput initial-track-list10 identity-list
 
@@ -756,7 +756,7 @@ ask basic_agents_with_IPs [
 end
 
 
-to write-to-file
+to track_agents
     set track-list []
 
     set initial-track-list ["agent_id" "agent_type" "country" "county" "Municipality" "latitude" "longitude" "Gender" "Age" "Language" "Nationality" "political_spectrum" "socioecomonic_status" "EU" "nato_denovia" "triad_stack_id" "simulation_id"]
@@ -772,6 +772,20 @@ to write-to-file
   csv:to-file "track_agents.csv" track-list
 end
 
+to track_triads
+    set track-list []
+
+    set initial-track-list ["agent_id" "agent_type" "country" "county" "Municipality" "latitude" "longitude" "Gender" "Age" "Language" "Nationality" "political_spectrum" "socioecomonic_status" "EU" "nato_denovia" "triad_stack_id" "simulation_id"]
+    ;print(initial-track-list)
+    set track-list lput initial-track-list track-list
+   foreach sort turtles [ t ->
+    ask t [if agent-type = "basic" or agent-type = "spokesperson"[
+        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID "0")] of t
+     set track-list lput sub-list track-list
+    ]
+      ]
+  ]
+  csv:to-file "track_ag.csv" track-list
 
 
 
@@ -786,6 +800,7 @@ repeat Select_no_of_Ticks [
 set tick-count tick-count + 1
  send
  read
+ track_agents
  ]
 end
 
@@ -917,23 +932,6 @@ BUTTON
 123
 NIL
 make-connections
-NIL
-1
-T
-OBSERVER
-NIL
-NIL
-NIL
-NIL
-1
-
-BUTTON
-61
-132
-159
-165
-NIL
-write-to-file
 NIL
 1
 T
