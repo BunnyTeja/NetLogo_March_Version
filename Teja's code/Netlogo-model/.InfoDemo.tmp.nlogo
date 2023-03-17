@@ -245,6 +245,7 @@ set SocioeconomicStatus item 12 data
 set EU item 13 data
 set NATODonovia item 14 data
 
+ set TriadStackID word "TS-" item 0 data
  set shape "circle"
  set size  0.3
  set color violet
@@ -661,8 +662,7 @@ if tick-count > 1[
       set Outbox []
 ]
     let infoAct  word "../Output-files/Information-Actions-tick-" tick-count
-
-      csv:to-file word infoAct".csv" Information_Action_list
+    (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
 
@@ -770,6 +770,7 @@ to track_agents
     ask t [if agent-type = "basic" or agent-type = "spokesperson"[
         set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "0")] of t
      set track-list lput sub-list track-list
+
     ]
       ]
   ]
@@ -780,7 +781,7 @@ end
 to track_triads
     set Triad-list []
 
-    set initial-track-list12 ["triad_id" "triad_stack_id" "identity_group_id" "topic_id" "stance" "tick" "simulation_id"]
+    set initial-track-list12 ["triad_id" "triad_stack_id" "topic_id" "stance" "tick" "simulation_id"]
     ;print(initial-track-list)
 
     set Triad-list lput initial-track-list12 Triad-list
@@ -793,7 +794,7 @@ to track_triads
         let temp_topic_id item 1 (item len(triadstack))
         let temp_stance item 2 (item len(triadstack))
 
-        set sub-list12 [ (list temp_triad_id triadstackid "0" temp_topic_id temp_stance tick-count "1")] of t
+        set sub-list12 [ (list temp_triad_id triadstackid temp_topic_id temp_stance tick-count "1")] of t
         set Triad-list lput sub-list12 Triad-list
 
         set len len + 1
