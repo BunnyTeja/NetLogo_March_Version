@@ -1,0 +1,150 @@
+agent_id~agent_type~country~county~municipality~latitude~longitude~gender~age~language~nationality~political_spectrum~socioecomonic_status~eu~nato_donovia~triad_stack_id~tick~simulation_id
+B-ID-1~basic~Lithuania~Vilnius~Elektrenai~54.785072~24.667342~Male~Middle~BothLang~Lithuanian~Center~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-1~5~0
+B-ID-2~basic~Lithuania~Vilnius~Salcininkai~54.308987~25.384538~Male~Middle~NationalLang~Polish~Center~LowerClass~Proeu~Undecided~TS-B-ID-2~5~0
+B-ID-3~basic~Lithuania~Vilnius~Svencionys~55.133479~26.159243~Female~NotApplicable~NationalLang~Donovian~Right~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-3~5~0
+B-ID-4~basic~Lithuania~Vilnius~Trakai~54.637724~24.936139~Male~Middle~BothLang~Polish~Center~UpperClass~Proeu~Neutral~TS-B-ID-4~5~0
+B-ID-5~basic~Lithuania~Vilnius~Ukmerge~55.244341~24.773614~Male~Middle~BothLang~Lithuanian~Center~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-5~5~0
+B-ID-6~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Middle~BothLang~Lithuanian~Center~MiddleClass~Antieu~ProNATOAntiDonovia~TS-B-ID-6~5~0
+B-ID-7~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Middle~NationalLang~Lithuanian~Center~UpperClass~Proeu~AntiNATOProDonovia~TS-B-ID-7~5~0
+B-ID-8~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Middle~NationalLang~Lithuanian~Undecided~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-8~5~0
+B-ID-9~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Middle~BothLang~Lithuanian~Center~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-9~5~0
+B-ID-10~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Old~BothLang~Lithuanian~Undecided~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-10~5~0
+B-ID-11~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Old~BothLang~Donovian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-11~5~0
+B-ID-12~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Middle~BothLang~Lithuanian~Right~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-12~5~0
+B-ID-13~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Middle~NationalLang~Lithuanian~Right~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-13~5~0
+B-ID-14~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Old~NationalLang~Lithuanian~Right~MiddleClass~Undecided~Undecided~TS-B-ID-14~5~0
+B-ID-15~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Young~BothLang~Donovian~Right~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-15~5~0
+B-ID-16~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~NotApplicable~NationalLang~Lithuanian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-16~5~0
+B-ID-17~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~NotApplicable~OtherLang~Lithuanian~Center~UpperClass~Proeu~AntiNATOProDonovia~TS-B-ID-17~5~0
+B-ID-18~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Male~Middle~OtherLang~Lithuanian~Center~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-18~5~0
+B-ID-19~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Old~BothLang~Polish~Undecided~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-19~5~0
+B-ID-20~basic~Lithuania~Vilnius~Vilnius City~54.687888~25.28229~Female~Young~NationalLang~Donovian~Undecided~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-20~5~0
+B-ID-21~basic~Lithuania~Vilnius~Vilnius District~54.764368~25.184103~Female~Middle~BothLang~Lithuanian~Left~MiddleClass~Undecided~Undecided~TS-B-ID-21~5~0
+B-ID-22~basic~Lithuania~Vilnius~Vilnius District~54.764368~25.184103~Female~Middle~BothLang~Lithuanian~Right~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-22~5~0
+B-ID-23~basic~Lithuania~Vilnius~Vilnius District~54.764368~25.184103~Male~Middle~NationalLang~Lithuanian~Center~MiddleClass~Proeu~AntiNATOProDonovia~TS-B-ID-23~5~0
+B-ID-24~basic~Lithuania~Alytus~Alytus City~54.396206~24.04671~Male~Middle~BothLang~Lithuanian~Undecided~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-24~5~0
+B-ID-25~basic~Lithuania~Alytus~Alytus District~54.381692~23.649964~Male~Middle~OtherLang~Lithuanian~Center~MiddleClass~Proeu~Neutral~TS-B-ID-25~5~0
+B-ID-26~basic~Lithuania~Alytus~Druskininkai~54.021266~23.971166~Female~Old~NationalLang~Lithuanian~Center~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-26~5~0
+B-ID-27~basic~Lithuania~Alytus~Verena~54.213015~24.469189~Male~Middle~BothLang~Lithuanian~Center~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-27~5~0
+B-ID-28~basic~Lithuania~Kaunas~Jonava~55.073083~24.279251~Male~Middle~BothLang~Donovian~Right~MiddleClass~Antieu~Neutral~TS-B-ID-28~5~0
+B-ID-29~basic~Lithuania~Kaunas~Kaisiadorys~54.860436~24.453151~Male~Middle~NationalLang~Lithuanian~Right~LowerClass~Undecided~Undecided~TS-B-ID-29~5~0
+B-ID-30~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Female~Middle~NationalLang~Lithuanian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-30~5~0
+B-ID-31~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Male~NotApplicable~NationalLang~Lithuanian~Center~MiddleClass~Proeu~Neutral~TS-B-ID-31~5~0
+B-ID-32~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Female~NotApplicable~BothLang~Lithuanian~Undecided~MiddleClass~Antieu~ProNATOAntiDonovia~TS-B-ID-32~5~0
+B-ID-33~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Female~Old~NationalLang~Lithuanian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-33~5~0
+B-ID-34~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Female~Old~NationalLang~Lithuanian~Right~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-34~5~0
+B-ID-35~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Female~NotApplicable~BothLang~Lithuanian~Center~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-35~5~0
+B-ID-36~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Male~Young~BothLang~Lithuanian~Left~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-36~5~0
+B-ID-37~basic~Lithuania~Kaunas~Kaunas City~54.897409~23.892678~Male~Middle~BothLang~Lithuanian~Right~MiddleClass~Antieu~Neutral~TS-B-ID-37~5~0
+B-ID-38~basic~Lithuania~Kaunas~Kaunas District~54.82207~23.873108~Female~Middle~BothLang~Lithuanian~Undecided~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-38~5~0
+B-ID-39~basic~Lithuania~Kaunas~Kaunas District~54.82207~23.873108~Female~Middle~DonovianLang~Lithuanian~Right~MiddleClass~Antieu~ProNATOAntiDonovia~TS-B-ID-39~5~0
+B-ID-40~basic~Lithuania~Kaunas~Kedainiai~55.282265~23.957424~Male~NotApplicable~BothLang~Lithuanian~Left~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-40~5~0
+B-ID-41~basic~Lithuania~Kaunas~Prienai~54.635728~23.945893~Male~NotApplicable~NationalLang~Lithuanian~Right~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-41~5~0
+B-ID-42~basic~Lithuania~Kaunas~Raseiniai~55.380068~23.112432~Female~Old~NationalLang~Lithuanian~Undecided~UpperClass~Antieu~AntiNATOProDonovia~TS-B-ID-42~5~0
+B-ID-43~basic~Lithuania~Marijampole~Marijampole City~54.557889~23.361074~Female~NotApplicable~NationalLang~Lithuanian~Center~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-43~5~0
+B-ID-44~basic~Lithuania~Marijampole~Sakiai~54.951967~23.048788~Female~NotApplicable~BothLang~Lithuanian~Center~UpperClass~Proeu~AntiNATOProDonovia~TS-B-ID-44~5~0
+B-ID-45~basic~Lithuania~Marijampole~Vilkaviskis~54.652627~23.035248~Male~Middle~BothLang~Lithuanian~Center~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-45~5~0
+B-ID-46~basic~Lithuania~Klaipeda~Klaipeda City~55.703052~21.144421~Male~Middle~NationalLang~Lithuanian~Left~LowerClass~Proeu~Undecided~TS-B-ID-46~5~0
+B-ID-47~basic~Lithuania~Klaipeda~Klaipeda City~55.703052~21.144421~Male~NotApplicable~NationalLang~Donovian~Undecided~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-47~5~0
+B-ID-48~basic~Lithuania~Klaipeda~Klaipeda City~55.703052~21.144421~Male~Middle~NationalLang~Lithuanian~Undecided~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-48~5~0
+B-ID-49~basic~Lithuania~Klaipeda~Klaipeda City~55.703052~21.144421~Female~Middle~BothLang~Lithuanian~Center~LowerClass~Antieu~ProNATOAntiDonovia~TS-B-ID-49~5~0
+B-ID-50~basic~Lithuania~Klaipeda~Klaipeda District~55.709068~21.392851~Male~Old~BothLang~Lithuanian~Center~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-50~5~0
+B-ID-51~basic~Lithuania~Klaipeda~Kretinga District~55.887157~21.237559~Male~NotApplicable~DonovianLang~Lithuanian~Right~LowerClass~Proeu~Undecided~TS-B-ID-51~5~0
+B-ID-52~basic~Lithuania~Klaipeda~Silute District~55.34831~21.471269~Female~Old~NationalLang~Lithuanian~Left~LowerClass~Antieu~Undecided~TS-B-ID-52~5~0
+B-ID-53~basic~Lithuania~Panevezys~Birzai District~56.20076~24.755418~Male~Old~BothLang~Lithuanian~Left~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-53~5~0
+B-ID-54~basic~Lithuania~Panevezys~Panevezys City~55.734144~24.35832~Male~Middle~NationalLang~Lithuanian~Left~MiddleClass~Antieu~AntiNATOProDonovia~TS-B-ID-54~5~0
+B-ID-55~basic~Lithuania~Panevezys~Panevezys City~55.734144~24.35832~Male~Old~BothLang~Lithuanian~Undecided~MiddleClass~Antieu~ProNATOAntiDonovia~TS-B-ID-55~5~0
+B-ID-56~basic~Lithuania~Panevezys~Panevezys District~55.672739~24.372379~Male~Old~BothLang~Lithuanian~Left~LowerClass~Proeu~Undecided~TS-B-ID-56~5~0
+B-ID-57~basic~Lithuania~Panevezys~Pasvalys District~56.061055~24.399455~Male~Old~NationalLang~Lithuanian~Undecided~UpperClass~Antieu~Neutral~TS-B-ID-57~5~0
+B-ID-58~basic~Lithuania~Panevezys~Rokiskis District~55.955059~25.586763~Male~Old~BothLang~Lithuanian~Center~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-58~5~0
+B-ID-59~basic~Lithuania~Siauliai~Akmene District~56.245292~22.746347~Female~Middle~NationalLang~Lithuanian~Left~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-59~5~0
+B-ID-60~basic~Lithuania~Siauliai~Joniskis District~56.239365~23.615292~Male~Old~NationalLang~Other~Undecided~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-60~5~0
+B-ID-61~basic~Lithuania~Siauliai~Kelme District~55.630476~22.937882~Male~Old~BothLang~Lithuanian~Center~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-61~5~0
+B-ID-62~basic~Lithuania~Siauliai~Radviliskis District~55.811275~23.547346~Female~Old~BothLang~Lithuanian~Left~UpperClass~Antieu~Undecided~TS-B-ID-62~5~0
+B-ID-63~basic~Lithuania~Siauliai~Siauliai City~55.934951~23.312807~Female~Middle~NationalLang~Lithuanian~Undecided~LowerClass~Antieu~Neutral~TS-B-ID-63~5~0
+B-ID-64~basic~Lithuania~Siauliai~Siauliai City~55.934951~23.312807~Male~NotApplicable~BothLang~Lithuanian~Undecided~LowerClass~Undecided~ProNATOAntiDonovia~TS-B-ID-64~5~0
+B-ID-65~basic~Lithuania~Siauliai~Siauliai City~55.934951~23.312807~Male~Middle~NationalLang~Lithuanian~Center~UpperClass~Antieu~ProNATOAntiDonovia~TS-B-ID-65~5~0
+B-ID-66~basic~Lithuania~Siauliai~Siauliai District~56.004771~22.938095~Female~Young~NationalLang~Lithuanian~Undecided~LowerClass~Proeu~Undecided~TS-B-ID-66~5~0
+B-ID-67~basic~Lithuania~Taurage~Jurbarkas District~55.080844~22.765056~Male~Middle~BothLang~Lithuanian~Undecided~UpperClass~Proeu~Undecided~TS-B-ID-67~5~0
+B-ID-68~basic~Lithuania~Taurage~Silale District~55.491131~22.183377~Female~Middle~NationalLang~Lithuanian~Undecided~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-68~5~0
+B-ID-69~basic~Lithuania~Taurage~Taurage District~55.25141~22.290463~Female~Middle~NationalLang~Lithuanian~Center~MiddleClass~Antieu~AntiNATOProDonovia~TS-B-ID-69~5~0
+B-ID-70~basic~Lithuania~Telsiai~Mazeikiai District~56.307217~22.341471~Male~Young~NationalLang~Lithuanian~Undecided~UpperClass~Undecided~AntiNATOProDonovia~TS-B-ID-70~5~0
+B-ID-71~basic~Lithuania~Telsiai~Plunge District~55.911737~21.848797~Female~Old~BothLang~Lithuanian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-71~5~0
+B-ID-72~basic~Lithuania~Telsiai~Telsiai District~55.985146~22.248522~Female~Old~BothLang~Lithuanian~Right~MiddleClass~Proeu~Neutral~TS-B-ID-72~5~0
+B-ID-73~basic~Lithuania~Utena~Anyksciai District~55.526737~25.110303~Male~Middle~BothLang~Lithuanian~Right~MiddleClass~Antieu~Neutral~TS-B-ID-73~5~0
+B-ID-74~basic~Lithuania~Utena~Utena District~55.499363~25.607785~Female~Young~BothLang~Lithuanian~Undecided~UpperClass~Proeu~ProNATOAntiDonovia~TS-B-ID-74~5~0
+B-ID-75~basic~Lithuania~Utena~Visaginas~55.599876~26.429578~Female~Middle~NationalLang~Other~Right~LowerClass~Proeu~ProNATOAntiDonovia~TS-B-ID-75~5~0
+B-ID-76~basic~Lithuania~Utena~Visaginas~55.599876~26.429578~Male~Middle~NationalLang~Lithuanian~Center~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-76~5~0
+B-ID-77~basic~Lithuania~Utena~Visaginas~55.599876~26.429578~Male~Middle~BothLang~Lithuanian~Left~UpperClass~Antieu~Neutral~TS-B-ID-77~5~0
+B-ID-78~basic~Lithuania~Utena~Visaginas~55.599876~26.429578~Female~Middle~BothLang~Donovian~Center~MiddleClass~Proeu~AntiNATOProDonovia~TS-B-ID-78~5~0
+B-ID-79~basic~Lithuania~Utena~Visaginas~55.599876~26.429578~Male~Old~NationalLang~Other~Right~LowerClass~Proeu~Undecided~TS-B-ID-79~5~0
+B-ID-80~basic~Poland~Podlaskie~Suwalki~54.254756~23.075778~Female~Middle~NationalLang~Polish~Center~MiddleClass~Proeu~Neutral~TS-B-ID-80~5~0
+B-ID-81~basic~Poland~Podlaskie~Suwalki City~54.100212~22.927296~Male~Middle~DonovianLang~Polish~Right~LowerClass~Proeu~Undecided~TS-B-ID-81~5~0
+B-ID-82~basic~Poland~Podlaskie~Suwalki City~54.100212~22.927296~Female~Middle~NationalLang~Polish~Undecided~MiddleClass~Proeu~ProNATOAntiDonovia~TS-B-ID-82~5~0
+B-ID-83~basic~Belarus~Grodno~Grodno District~53.724827~23.817228~Female~Middle~NationalLang~Polish~Right~UpperClass~Undecided~AntiNATOProDonovia~TS-B-ID-83~5~0
+B-ID-84~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~Middle~BothLang~Polish~Left~MiddleClass~Antieu~Undecided~TS-B-ID-84~5~0
+B-ID-85~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~Old~OtherLang~Belarusian~Center~UpperClass~Antieu~AntiNATOProDonovia~TS-B-ID-85~5~0
+B-ID-86~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~Old~NationalLang~Belarusian~Right~MiddleClass~Undecided~AntiNATOProDonovia~TS-B-ID-86~5~0
+B-ID-87~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~Middle~DonovianLang~Belarusian~Undecided~UpperClass~Proeu~AntiNATOProDonovia~TS-B-ID-87~5~0
+B-ID-88~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Male~NotApplicable~NationalLang~Belarusian~Undecided~LowerClass~Undecided~AntiNATOProDonovia~TS-B-ID-88~5~0
+B-ID-89~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Male~NotApplicable~DonovianLang~Other~Center~LowerClass~Proeu~AntiNATOProDonovia~TS-B-ID-89~5~0
+B-ID-90~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~Middle~NationalLang~Belarusian~Undecided~LowerClass~Antieu~AntiNATOProDonovia~TS-B-ID-90~5~0
+B-ID-91~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Male~NotApplicable~DonovianLang~Polish~Right~MiddleClass~Undecided~AntiNATOProDonovia~TS-B-ID-91~5~0
+B-ID-92~basic~Belarus~Grodno~Grodno City~53.669589~23.821713~Female~NotApplicable~DonovianLang~Polish~Undecided~LowerClass~Antieu~AntiNATOProDonovia~TS-B-ID-92~5~0
+B-ID-93~basic~Belarus~Grodno~Shchuchinsky District~53.604576~24.737752~Female~Old~BothLang~Belarusian~Right~UpperClass~Antieu~AntiNATOProDonovia~TS-B-ID-93~5~0
+B-ID-94~basic~Belarus~Grodno~Voronovsky District~54.149283~25.316313~Male~Young~BothLang~Polish~Center~MiddleClass~Antieu~AntiNATOProDonovia~TS-B-ID-94~5~0
+B-ID-95~basic~Belarus~Grodno~Ivyevsky District~53.93197~25.770393~Male~NotApplicable~DonovianLang~Belarusian~Right~MiddleClass~Proeu~AntiNATOProDonovia~TS-B-ID-95~5~0
+B-ID-96~basic~Belarus~Grodno~Oshmyany District~54.424456~25.936833~Male~NotApplicable~BothLang~Belarusian~Left~MiddleClass~Proeu~AntiNATOProDonovia~TS-B-ID-96~5~0
+B-ID-97~basic~Belarus~Grodno~Ostravyets District~54.614561~25.958146~Male~Middle~BothLang~Belarusian~Undecided~MiddleClass~Antieu~Undecided~TS-B-ID-97~5~0
+B-ID-98~basic~Belarus~Grodno~Lida District~53.893014~25.304196~Male~Middle~BothLang~Polish~Undecided~UpperClass~Antieu~AntiNATOProDonovia~TS-B-ID-98~5~0
+B-ID-99~basic~Belarus~Grodno~Lida District~53.893014~25.304196~Female~Middle~NationalLang~Polish~Left~UpperClass~Undecided~AntiNATOProDonovia~TS-B-ID-99~5~0
+B-ID-100~basic~Belarus~Grodno~Lida District~53.893014~25.304196~Male~Young~BothLang~Belarusian~Undecided~LowerClass~Antieu~AntiNATOProDonovia~TS-B-ID-100~5~0
+B-ID-101~basic~Belarus~Grodno~Lida District~53.893014~25.304196~Female~Middle~BothLang~Polish~Center~UpperClass~Proeu~AntiNATOProDonovia~TS-B-ID-101~5~0
+B-ID-102~basic~Belarus~Vitebsk~Braslav District~55.639472~27.034057~Male~Middle~NationalLang~Belarusian~Undecided~LowerClass~Proeu~AntiNATOProDonovia~TS-B-ID-102~5~0
+B-ID-103~basic~Belarus~Vitebsk~Postavy District~55.114008~26.840215~Female~Middle~BothLang~Belarusian~Undecided~LowerClass~Proeu~Undecided~TS-B-ID-103~5~0
+Andrius Tapinas~spokesperson~Lithuania~0 0~0 0.1~54.6992803~25.27433381~Male~Middle~NationalLanguage~Lithuanian~Left~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Arvydas Sabonis~spokesperson~Lithuania~0 0~0 0~54.9072~23.9649~Male~Middle~NationalLanguage~Lithuanian~Undecided~UpperClass~ProEU~Neutral~0~5~0
+Austeja Landsbergiene~spokesperson~Lithuania~0 0~0 0~54.68368182~25.28746411~Female~Middle~NationalLanguage~Lithuanian~Center~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Dalia Grybauskaite~spokesperson~Lithuania~0 0~0 0~54.69239~25.28392~Female~Old~Both~Lithuanian~Center~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Gabrielius Landsbergis~spokesperson~Lithuania~0 0~0 0~54.69003281~25.26893854~Male~Middle~NationalLanguage~Lithuanian~Right~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Gitanas Nauseda~spokesperson~Lithuania~0 0~0 0~54.683279~25.286518~Male~Middle~Both~Lithuanian~Center~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Ingrida Simonyte~spokesperson~Lithuania~0 0~0 0~54.69174945~25.26230083~Female~Middle~Both~Lithuanian~Center~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Valdemar Tomasevski~spokesperson~Lithuania~0 0~0 0~54.6865817~25.27973772~Male~Middle~NationalLanguage~Lithuanian~Right~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+Viktorija Smilyte-Nielsen~spokesperson~Lithuania~0 0~0 0~54.69174945~25.26230083~Female~Middle~NationalLanguage~Lithuanian~Center~UpperClass~ProEU~ProNATOAntiDonovia~0~5~0
+Karolina Meschino~spokesperson~Lithuania~0 0~0 0~54.68424~25.28925~Female~Young~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~Neutral~0~5~0
+Rolandas Mackevicius~spokesperson~Lithuania~0 0~0 0~54.71442~25.25042~Male~Young~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~Neutral~0~5~0
+Simonas Gurevicius~spokesperson~Lithuania~0 0~0 0~54.6700444~25.26693414~Male~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Bishop K?stutis K?valas CATH~spokesperson~Lithuania~0 0~0 0~54.89795897~23.88456753~Male~Middle~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Saulius Andra�i?nas~spokesperson~Lithuania~0 0~0 0~54.90430172~23.89909236~Male~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Sonata Patkauskait?~spokesperson~Lithuania~0 0~0 0~54.67413674~25.28700606~Female~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Edvinas Regelskis~spokesperson~Lithuania~0 0~0 0~54.6889638~25.26417427~Male~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Gintare Guzevi?i?t?~spokesperson~Lithuania~0 0~0 0~54.69648768~25.27637291~Female~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Edita Baniene~spokesperson~Lithuania~0 0~0 0~54.67998676~25.26948858~Female~Middle~NationalLanguage~Lithuanian~Center~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Father James Karklys ROC~spokesperson~Lithuania~0 0~0 0~54.89500737~23.91804346~Male~Middle~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Father Vytenis Vaskelis ROC~spokesperson~Lithuania~0 0~0 0~54.6829546~25.29356929~Male~Middle~NationalLangauge~Lithuanian~Right~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Deacon Audrius Jesinskas ROC~spokesperson~Lithuania~0 0~0 0~54.89500737~23.91804346~Male~Middle~Both~Lithuanian~Undecided~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Maria Yakubovskaya~spokesperson~Lithuania~0 0~0 0~54.67564578~25.28962182~Female~Middle~Both~Lithuanian~Undecided~MiddleClass~AntiEU~AntiNATOProDonovia~0~5~0
+Archbishop Innokenty of Vilnius ROC~spokesperson~Lithuania~0 0~0 0~54.6756396~25.28966488~Male~Old~Both~Lithuanian~Right~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Bishop Ambrose of Trakai ROC~spokesperson~Lithuania~0 0~0 0~54.67567684~25.28992342~Male~Middle~Both~Lithuanian~Right~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Deacon John Stankevicius~spokesperson~Lithuania~0 0~0 0~54.67563962~25.28971882~Male~Middle~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~ProNATOAntiDonovia~0~5~0
+Astchiek Melkonian~spokesperson~Lithuania~0 0~0 0~54.903218~23.925033~Female~Young~NationalLanguage~Lithuanian~Undecided~MiddleClass~Undecided~Undecided~0~5~0
+Egle Juzu~spokesperson~Lithuania~0 0~0 0~54.927567~23.979158~Female~Middle~Both~Lithuanian~Left~MiddleClass~ProEU~Undecided~0~5~0
+LTC Lapin Denis Alexandrovich~spokesperson~Lithuania~0 0~0 0~54.76799~22.50837~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+GEN Nikolai Yegorovich Makarov~spokesperson~Lithuania~0 0~0 0~54.76799~22.50837~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+MG Arkady Vilktotovich Bakhin~spokesperson~Lithuania~0 0~0 0~53.88993~25.29817~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+GEN Vladimir Sergeyevich Mikhaylov~spokesperson~Lithuania~0 0~0 0~53.88993~25.29817~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+GEN Alexey Fydorovich Maslov~spokesperson~Lithuania~0 0~0 0~54.62956~26.9091~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+LTG Viktor Nikolaevich Samsonov~spokesperson~Lithuania~0 0~0 0~54.62956~26.9091~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+Sergey Kuzhugetovich Shoygu~spokesperson~Lithuania~0 0~0 0~54.76799~22.50837~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+MG Ruslan Khazhismelovich Tsalikov~spokesperson~Lithuania~0 0~0 0~53.88993~25.29817~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+MAJ Ganushevich Artem Romanovich~spokesperson~Lithuania~0 0~0 0~54.62956~26.9091~Male~Middle~NationalLanguage~Donovian~Undecided~MiddleClass~AntiEU~AntiNATOProDonovia~0~5~0
+COL-GEN Alexander Zhuravlyov~spokesperson~Lithuania~0 0~0 0~54.76799~22.50837~Male~Middle~NationalLanguage~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+COL Maximov Sergei Viktorovich~spokesperson~Lithuania~0 0~0 0~53.88993~25.29817~Male~Middle~Both~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+COL-GEN Victor Borisovich Astapov~spokesperson~Lithuania~0 0~0 0~53.88993~25.29817~Male~Middle~Both~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+COL-GEN Anatoly Alekseyevich Sidorov~spokesperson~Lithuania~0 0~0 0~54.62956~26.9091~Male~Middle~Both~Donovian~Undecided~UpperClass~AntiEU~AntiNATOProDonovia~0~5~0
+Arvydas Giedraitis~spokesperson~Lithuania~0 0~0 0~54.91499~23.8579~Male~Middle~Both~Donovian~Right~MiddleClass~AntiEU~AntiNATOProDonovia~0~5~0
+Paulius Keras~spokesperson~Lithuania~0 0~0 0~54.89813~23.90635~Male~Middle~Both~Lithuanian~Left~MiddleClass~ProEU~ProNATOAntiDonovia~0~5~0
+Marius Skuodis~spokesperson~Lithuania~0 0~0 0~54.68757~25.27797~Male~Middle~Other~Lithuanian~Left~Middle Class~Neutral~Neutral~0~5~0
+Audrius Ciuplys~spokesperson~Lithuania~0 0~0 0~54.70671678~25.30918297~Male~Middle~Both~Donovian~Center~MiddleClass~Neutral~ProNATOAntiDonovia~0~5~0
+Tadas Maroscikas~spokesperson~Lithuania~0 0~0 0~54.70671678~25.30918297~Male~Middle~Both~Lithuanian~Left~MiddleClass~Neutral~Neutral~0~5~0
+Virgis Bagdonas~spokesperson~Lithuania~0 0~0 0~54.67037777425739~25.27812065672077~Male~Middle~Both~Polish~Undecided~MiddleClass~Undecided~Undecided~0~5~0

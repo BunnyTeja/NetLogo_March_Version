@@ -1,1 +1,310 @@
-identity_action_id,agent_id,action,triad_id,change_in_stance,change_in_latitude,change_in_longitude,tick,simulation_id
+identity_action_id~agent_id~identity_action_type~triad_id~change_in_stance~change_in_latitude~change_in_longitude~tick~simulation_id
+Identity_Act_id_928~MG Arkady Vilktotovich Bakhin~UpdateStance~Triad_ID_666~0.014641000000000038~0~0~5~0
+Identity_Act_id_929~MG Arkady Vilktotovich Bakhin~UpdateStance~Triad_ID_667~-0.7657243000000001~0~0~5~0
+Identity_Act_id_930~MG Arkady Vilktotovich Bakhin~UpdateStance~Triad_ID_668~0.04392300000000007~0~0~5~0
+Identity_Act_id_931~MG Arkady Vilktotovich Bakhin~UpdateStance~Triad_ID_669~-0.8345370000000001~0~0~5~0
+Identity_Act_id_932~Simonas Gurevicius~UpdateStance~Triad_ID_636~0.014641000000000038~0~0~5~0
+Identity_Act_id_933~Simonas Gurevicius~UpdateStance~Triad_ID_637~-0.7510833~0~0~5~0
+Identity_Act_id_934~Simonas Gurevicius~UpdateStance~Triad_ID_638~0.02928200000000003~0~0~5~0
+Identity_Act_id_935~Simonas Gurevicius~UpdateStance~Triad_ID_639~-0.8345370000000001~0~0~5~0
+Identity_Act_id_936~B-ID-76~UpdateStance~Triad_ID_616~0~0~0~5~0
+Identity_Act_id_937~B-ID-76~UpdateStance~Triad_ID_617~-0.7510833~0~0~5~0
+Identity_Act_id_938~B-ID-76~UpdateStance~Triad_ID_618~0.02928200000000003~0~0~5~0
+Identity_Act_id_939~B-ID-76~UpdateStance~Triad_ID_619~-0.819896~0~0~5~0
+Identity_Act_id_940~B-ID-6~UpdateStance~Triad_ID_376~-0.117128~0~0~5~0
+Identity_Act_id_941~B-ID-6~UpdateStance~Triad_ID_377~0.014641000000000015~0~0~5~0
+Identity_Act_id_942~B-ID-6~UpdateStance~Triad_ID_378~0.014641000000000015~0~0~5~0
+Identity_Act_id_943~B-ID-6~UpdateStance~Triad_ID_379~0.16105100000000003~0~0~5~0
+Identity_Act_id_944~B-ID-6~UpdateStance~Triad_ID_380~0.16105100000000003~0~0~5~0
+Identity_Act_id_945~B-ID-6~UpdateStance~Triad_ID_381~0.16105100000000003~0~0~5~0
+Identity_Act_id_946~B-ID-6~UpdateStance~Triad_ID_382~0.16105100000000003~0~0~5~0
+Identity_Act_id_947~B-ID-32~UpdateStance~Triad_ID_129~0~0~0~5~0
+Identity_Act_id_948~B-ID-32~UpdateStance~Triad_ID_130~0.16105100000000003~0~0~5~0
+Identity_Act_id_949~B-ID-32~UpdateStance~Triad_ID_131~0.16105100000000003~0~0~5~0
+Identity_Act_id_950~B-ID-32~UpdateStance~Triad_ID_132~0.30746100000000004~0~0~5~0
+Identity_Act_id_951~B-ID-32~UpdateStance~Triad_ID_133~0.336743~0~0~5~0
+Identity_Act_id_952~B-ID-32~UpdateStance~Triad_ID_134~0.453871~0~0~5~0
+Identity_Act_id_953~B-ID-32~UpdateStance~Triad_ID_135~0.453871~0~0~5~0
+Identity_Act_id_954~B-ID-32~UpdateStance~Triad_ID_136~0.453871~0~0~5~0
+Identity_Act_id_955~B-ID-68~UpdateStance~Triad_ID_265~0.014641000000000015~0~0~5~0
+Identity_Act_id_956~B-ID-68~UpdateStance~Triad_ID_266~0.16105100000000003~0~0~5~0
+Identity_Act_id_957~B-ID-68~UpdateStance~Triad_ID_267~0.16105100000000003~0~0~5~0
+Identity_Act_id_958~B-ID-68~UpdateStance~Triad_ID_268~0.29282~0~0~5~0
+Identity_Act_id_959~B-ID-68~UpdateStance~Triad_ID_269~0.32210200000000005~0~0~5~0
+Identity_Act_id_960~B-ID-68~UpdateStance~Triad_ID_270~0.4831530000000001~0~0~5~0
+Identity_Act_id_961~B-ID-68~UpdateStance~Triad_ID_271~0.453871~0~0~5~0
+Identity_Act_id_962~B-ID-68~UpdateStance~Triad_ID_272~0.43923000000000006~0~0~5~0
+Identity_Act_id_963~Sonata Patkauskait?~UpdateStance~Triad_ID_464~0.014641000000000015~0~0~5~0
+Identity_Act_id_964~B-ID-41~UpdateStance~Triad_ID_57~0.014641000000000015~0~0~5~0
+Identity_Act_id_965~B-ID-41~UpdateStance~Triad_ID_58~0.16105100000000003~0~0~5~0
+Identity_Act_id_966~B-ID-41~UpdateStance~Triad_ID_59~0.30746100000000004~0~0~5~0
+Identity_Act_id_967~B-ID-41~UpdateStance~Triad_ID_60~0.32210200000000005~0~0~5~0
+Identity_Act_id_968~B-ID-41~UpdateStance~Triad_ID_61~0.30746100000000004~0~0~5~0
+Identity_Act_id_969~B-ID-41~UpdateStance~Triad_ID_62~0.468512~0~0~5~0
+Identity_Act_id_970~B-ID-41~UpdateStance~Triad_ID_63~0.468512~0~0~5~0
+Identity_Act_id_971~B-ID-41~UpdateStance~Triad_ID_177~0~0~0~5~0
+Identity_Act_id_972~B-ID-41~UpdateStance~Triad_ID_178~0.16105100000000003~0~0~5~0
+Identity_Act_id_973~B-ID-41~UpdateStance~Triad_ID_179~0.16105100000000003~0~0~5~0
+Identity_Act_id_974~B-ID-41~UpdateStance~Triad_ID_180~0.32210200000000005~0~0~5~0
+Identity_Act_id_975~B-ID-41~UpdateStance~Triad_ID_181~0.336743~0~0~5~0
+Identity_Act_id_976~B-ID-41~UpdateStance~Triad_ID_182~0.468512~0~0~5~0
+Identity_Act_id_977~B-ID-41~UpdateStance~Triad_ID_183~0.453871~0~0~5~0
+Identity_Act_id_978~B-ID-41~UpdateStance~Triad_ID_184~0.453871~0~0~5~0
+Identity_Act_id_979~B-ID-21~UpdateStance~Triad_ID_105~0~0~0~5~0
+Identity_Act_id_980~B-ID-21~UpdateStance~Triad_ID_106~0.16105100000000003~0~0~5~0
+Identity_Act_id_981~B-ID-21~UpdateStance~Triad_ID_107~0.16105100000000003~0~0~5~0
+Identity_Act_id_982~B-ID-21~UpdateStance~Triad_ID_108~0.30746100000000004~0~0~5~0
+Identity_Act_id_983~B-ID-21~UpdateStance~Triad_ID_109~0.32210200000000005~0~0~5~0
+Identity_Act_id_984~B-ID-21~UpdateStance~Triad_ID_110~0.453871~0~0~5~0
+Identity_Act_id_985~B-ID-21~UpdateStance~Triad_ID_111~0.453871~0~0~5~0
+Identity_Act_id_986~B-ID-21~UpdateStance~Triad_ID_112~0.453871~0~0~5~0
+Identity_Act_id_987~B-ID-66~UpdateStance~Triad_ID_596~0~0~0~5~0
+Identity_Act_id_988~B-ID-66~UpdateStance~Triad_ID_597~-0.7510833~0~0~5~0
+Identity_Act_id_989~B-ID-66~UpdateStance~Triad_ID_598~0.02928200000000003~0~0~5~0
+Identity_Act_id_990~B-ID-66~UpdateStance~Triad_ID_599~-0.8491780000000001~0~0~5~0
+Identity_Act_id_991~B-ID-74~UpdateStance~Triad_ID_606~0~0~0~5~0
+Identity_Act_id_992~B-ID-74~UpdateStance~Triad_ID_607~-0.7510833~0~0~5~0
+Identity_Act_id_993~B-ID-74~UpdateStance~Triad_ID_608~0.02928200000000003~0~0~5~0
+Identity_Act_id_994~B-ID-74~UpdateStance~Triad_ID_609~-0.8345370000000001~0~0~5~0
+Identity_Act_id_995~Ingrida Simonyte~UpdateStance~Triad_ID_305~0.131769~0~0~5~0
+Identity_Act_id_996~Ingrida Simonyte~UpdateStance~Triad_ID_306~0.29282~0~0~5~0
+Identity_Act_id_997~Ingrida Simonyte~UpdateStance~Triad_ID_307~0.29282~0~0~5~0
+Identity_Act_id_998~Ingrida Simonyte~UpdateStance~Triad_ID_308~0.43923000000000006~0~0~5~0
+Identity_Act_id_999~Ingrida Simonyte~UpdateStance~Triad_ID_309~0.453871~0~0~5~0
+Identity_Act_id_1000~Ingrida Simonyte~UpdateStance~Triad_ID_310~0.6295630000000001~0~0~5~0
+Identity_Act_id_1001~Ingrida Simonyte~UpdateStance~Triad_ID_311~0.5709990000000001~0~0~5~0
+Identity_Act_id_1002~Ingrida Simonyte~UpdateStance~Triad_ID_312~0.5709990000000001~0~0~5~0
+Identity_Act_id_1003~Gabrielius Landsbergis~UpdateStance~Triad_ID_297~0.014641000000000015~0~0~5~0
+Identity_Act_id_1004~Gabrielius Landsbergis~UpdateStance~Triad_ID_298~0.16105100000000003~0~0~5~0
+Identity_Act_id_1005~Gabrielius Landsbergis~UpdateStance~Triad_ID_299~0.16105100000000003~0~0~5~0
+Identity_Act_id_1006~Gabrielius Landsbergis~UpdateStance~Triad_ID_300~0.30746100000000004~0~0~5~0
+Identity_Act_id_1007~Gabrielius Landsbergis~UpdateStance~Triad_ID_301~0.32210200000000005~0~0~5~0
+Identity_Act_id_1008~Gabrielius Landsbergis~UpdateStance~Triad_ID_302~0.49779400000000007~0~0~5~0
+Identity_Act_id_1009~Gabrielius Landsbergis~UpdateStance~Triad_ID_303~0.43923000000000006~0~0~5~0
+Identity_Act_id_1010~Gabrielius Landsbergis~UpdateStance~Triad_ID_304~0.43923000000000006~0~0~5~0
+Identity_Act_id_1011~Austeja Landsbergiene~UpdateStance~Triad_ID_626~0.014641000000000038~0~0~5~0
+Identity_Act_id_1012~Austeja Landsbergiene~UpdateStance~Triad_ID_627~-0.7510833~0~0~5~0
+Identity_Act_id_1013~Austeja Landsbergiene~UpdateStance~Triad_ID_628~0.02928200000000003~0~0~5~0
+Identity_Act_id_1014~Austeja Landsbergiene~UpdateStance~Triad_ID_629~-0.819896~0~0~5~0
+Identity_Act_id_1015~B-ID-53~UpdateStance~Triad_ID_209~0~0~0~5~0
+Identity_Act_id_1016~B-ID-53~UpdateStance~Triad_ID_210~0.16105100000000003~0~0~5~0
+Identity_Act_id_1017~B-ID-53~UpdateStance~Triad_ID_211~0.16105100000000003~0~0~5~0
+Identity_Act_id_1018~B-ID-53~UpdateStance~Triad_ID_212~0.30746100000000004~0~0~5~0
+Identity_Act_id_1019~B-ID-53~UpdateStance~Triad_ID_213~0.336743~0~0~5~0
+Identity_Act_id_1020~B-ID-53~UpdateStance~Triad_ID_214~0.468512~0~0~5~0
+Identity_Act_id_1021~B-ID-53~UpdateStance~Triad_ID_215~0.453871~0~0~5~0
+Identity_Act_id_1022~B-ID-53~UpdateStance~Triad_ID_216~0.43923000000000006~0~0~5~0
+Identity_Act_id_1023~B-ID-30~UpdateStance~Triad_ID_121~0~0~0~5~0
+Identity_Act_id_1024~B-ID-30~UpdateStance~Triad_ID_122~0.16105100000000003~0~0~5~0
+Identity_Act_id_1025~B-ID-30~UpdateStance~Triad_ID_123~0.16105100000000003~0~0~5~0
+Identity_Act_id_1026~B-ID-30~UpdateStance~Triad_ID_124~0.30746100000000004~0~0~5~0
+Identity_Act_id_1027~B-ID-30~UpdateStance~Triad_ID_125~0.32210200000000005~0~0~5~0
+Identity_Act_id_1028~B-ID-30~UpdateStance~Triad_ID_126~0.453871~0~0~5~0
+Identity_Act_id_1029~B-ID-30~UpdateStance~Triad_ID_127~0.453871~0~0~5~0
+Identity_Act_id_1030~B-ID-30~UpdateStance~Triad_ID_128~0.453871~0~0~5~0
+Identity_Act_id_1031~B-ID-38~UpdateStance~Triad_ID_161~0~0~0~5~0
+Identity_Act_id_1032~B-ID-38~UpdateStance~Triad_ID_162~0.16105100000000003~0~0~5~0
+Identity_Act_id_1033~B-ID-38~UpdateStance~Triad_ID_163~0.16105100000000003~0~0~5~0
+Identity_Act_id_1034~B-ID-38~UpdateStance~Triad_ID_164~0.32210200000000005~0~0~5~0
+Identity_Act_id_1035~B-ID-38~UpdateStance~Triad_ID_165~0.32210200000000005~0~0~5~0
+Identity_Act_id_1036~B-ID-38~UpdateStance~Triad_ID_166~0.453871~0~0~5~0
+Identity_Act_id_1037~B-ID-38~UpdateStance~Triad_ID_167~0.453871~0~0~5~0
+Identity_Act_id_1038~B-ID-38~UpdateStance~Triad_ID_168~0.453871~0~0~5~0
+Identity_Act_id_1039~Virgis Bagdonas~UpdateStance~Triad_ID_88~-0.263538~0~0~5~0
+Identity_Act_id_1040~Paulius Keras~UpdateStance~Triad_ID_33~0.014641000000000015~0~0~5~0
+Identity_Act_id_1041~Paulius Keras~UpdateStance~Triad_ID_34~0.16105100000000003~0~0~5~0
+Identity_Act_id_1042~Paulius Keras~UpdateStance~Triad_ID_35~0.30746100000000004~0~0~5~0
+Identity_Act_id_1043~Paulius Keras~UpdateStance~Triad_ID_36~0.29282~0~0~5~0
+Identity_Act_id_1044~Paulius Keras~UpdateStance~Triad_ID_37~0.30746100000000004~0~0~5~0
+Identity_Act_id_1045~Paulius Keras~UpdateStance~Triad_ID_38~0.453871~0~0~5~0
+Identity_Act_id_1046~Paulius Keras~UpdateStance~Triad_ID_39~0.453871~0~0~5~0
+Identity_Act_id_1047~Paulius Keras~UpdateStance~Triad_ID_40~0.468512~0~0~5~0
+Identity_Act_id_1048~B-ID-35~UpdateStance~Triad_ID_49~0.014641000000000015~0~0~5~0
+Identity_Act_id_1049~B-ID-35~UpdateStance~Triad_ID_50~0.16105100000000003~0~0~5~0
+Identity_Act_id_1050~B-ID-35~UpdateStance~Triad_ID_51~0.30746100000000004~0~0~5~0
+Identity_Act_id_1051~B-ID-35~UpdateStance~Triad_ID_52~0.32210200000000005~0~0~5~0
+Identity_Act_id_1052~B-ID-35~UpdateStance~Triad_ID_53~0.30746100000000004~0~0~5~0
+Identity_Act_id_1053~B-ID-35~UpdateStance~Triad_ID_54~0.453871~0~0~5~0
+Identity_Act_id_1054~B-ID-35~UpdateStance~Triad_ID_55~0.468512~0~0~5~0
+Identity_Act_id_1055~B-ID-35~UpdateStance~Triad_ID_145~0~0~0~5~0
+Identity_Act_id_1056~B-ID-35~UpdateStance~Triad_ID_146~0.16105100000000003~0~0~5~0
+Identity_Act_id_1057~B-ID-35~UpdateStance~Triad_ID_147~0.16105100000000003~0~0~5~0
+Identity_Act_id_1058~B-ID-35~UpdateStance~Triad_ID_148~0.32210200000000005~0~0~5~0
+Identity_Act_id_1059~B-ID-35~UpdateStance~Triad_ID_149~0.336743~0~0~5~0
+Identity_Act_id_1060~B-ID-35~UpdateStance~Triad_ID_150~0.453871~0~0~5~0
+Identity_Act_id_1061~B-ID-35~UpdateStance~Triad_ID_151~0.453871~0~0~5~0
+Identity_Act_id_1062~B-ID-35~UpdateStance~Triad_ID_152~0.43923000000000006~0~0~5~0
+Identity_Act_id_1063~B-ID-62~UpdateStance~Triad_ID_241~0.117128~0~0~5~0
+Identity_Act_id_1064~B-ID-62~UpdateStance~Triad_ID_242~0.263538~0~0~5~0
+Identity_Act_id_1065~B-ID-62~UpdateStance~Triad_ID_243~0.263538~0~0~5~0
+Identity_Act_id_1066~B-ID-62~UpdateStance~Triad_ID_244~0.39530699999999996~0~0~5~0
+Identity_Act_id_1067~B-ID-62~UpdateStance~Triad_ID_245~0.43923000000000006~0~0~5~0
+Identity_Act_id_1068~B-ID-62~UpdateStance~Triad_ID_246~0.5709990000000001~0~0~5~0
+Identity_Act_id_1069~B-ID-62~UpdateStance~Triad_ID_247~0.556358~0~0~5~0
+Identity_Act_id_1070~B-ID-62~UpdateStance~Triad_ID_248~0.5417170000000001~0~0~5~0
+Identity_Act_id_1071~Bishop Ambrose of Trakai ROC~UpdateStance~Triad_ID_500~0~0~0~5~0
+Identity_Act_id_1072~B-ID-57~UpdateStance~Triad_ID_428~0.278179~0~0~5~0
+Identity_Act_id_1073~B-ID-4~UpdateStance~Triad_ID_369~-0.13176900000000002~0~0~5~0
+Identity_Act_id_1074~B-ID-4~UpdateStance~Triad_ID_370~0.014641000000000015~0~0~5~0
+Identity_Act_id_1075~B-ID-4~UpdateStance~Triad_ID_371~0.014641000000000015~0~0~5~0
+Identity_Act_id_1076~B-ID-4~UpdateStance~Triad_ID_372~0.16105100000000003~0~0~5~0
+Identity_Act_id_1077~B-ID-4~UpdateStance~Triad_ID_373~0.16105100000000003~0~0~5~0
+Identity_Act_id_1078~B-ID-4~UpdateStance~Triad_ID_374~0.16105100000000003~0~0~5~0
+Identity_Act_id_1079~B-ID-4~UpdateStance~Triad_ID_375~0.16105100000000003~0~0~5~0
+Identity_Act_id_1080~Gintare Guzevi?i?t?~UpdateStance~Triad_ID_646~0.014641000000000038~0~0~5~0
+Identity_Act_id_1081~Gintare Guzevi?i?t?~UpdateStance~Triad_ID_647~-0.7510833~0~0~5~0
+Identity_Act_id_1082~Gintare Guzevi?i?t?~UpdateStance~Triad_ID_648~0.02928200000000003~0~0~5~0
+Identity_Act_id_1083~Gintare Guzevi?i?t?~UpdateStance~Triad_ID_649~-0.8345370000000001~0~0~5~0
+Identity_Act_id_1084~B-ID-46~UpdateStance~Triad_ID_193~0~0~0~5~0
+Identity_Act_id_1085~B-ID-46~UpdateStance~Triad_ID_194~0.16105100000000003~0~0~5~0
+Identity_Act_id_1086~B-ID-46~UpdateStance~Triad_ID_195~0.16105100000000003~0~0~5~0
+Identity_Act_id_1087~B-ID-46~UpdateStance~Triad_ID_196~0.30746100000000004~0~0~5~0
+Identity_Act_id_1088~B-ID-46~UpdateStance~Triad_ID_197~0.336743~0~0~5~0
+Identity_Act_id_1089~B-ID-46~UpdateStance~Triad_ID_198~0.468512~0~0~5~0
+Identity_Act_id_1090~B-ID-46~UpdateStance~Triad_ID_199~0.453871~0~0~5~0
+Identity_Act_id_1091~B-ID-46~UpdateStance~Triad_ID_200~0.43923000000000006~0~0~5~0
+Identity_Act_id_1092~COL-GEN Victor Borisovich Astapov~UpdateStance~Triad_ID_686~0.014641000000000038~0~0~5~0
+Identity_Act_id_1093~COL-GEN Victor Borisovich Astapov~UpdateStance~Triad_ID_687~-0.7803653000000002~0~0~5~0
+Identity_Act_id_1094~COL-GEN Victor Borisovich Astapov~UpdateStance~Triad_ID_688~0.02928200000000003~0~0~5~0
+Identity_Act_id_1095~COL-GEN Victor Borisovich Astapov~UpdateStance~Triad_ID_689~-0.8345370000000001~0~0~5~0
+Identity_Act_id_1096~B-ID-49~UpdateStance~Triad_ID_566~0~0~0~5~0
+Identity_Act_id_1097~B-ID-49~UpdateStance~Triad_ID_567~-0.7510833~0~0~5~0
+Identity_Act_id_1098~B-ID-49~UpdateStance~Triad_ID_568~0.014641000000000038~0~0~5~0
+Identity_Act_id_1099~B-ID-49~UpdateStance~Triad_ID_569~-0.863819~0~0~5~0
+Identity_Act_id_1100~B-ID-33~UpdateStance~Triad_ID_536~0.014641000000000038~0~0~5~0
+Identity_Act_id_1101~B-ID-33~UpdateStance~Triad_ID_537~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1102~B-ID-33~UpdateStance~Triad_ID_538~0.014641000000000038~0~0~5~0
+Identity_Act_id_1103~B-ID-33~UpdateStance~Triad_ID_539~-0.863819~0~0~5~0
+Identity_Act_id_1104~B-ID-23~UpdateStance~Triad_ID_383~0.014640999999999994~0~0~5~0
+Identity_Act_id_1105~B-ID-23~UpdateStance~Triad_ID_384~0.14641~0~0~5~0
+Identity_Act_id_1106~B-ID-23~UpdateStance~Triad_ID_385~0.14641~0~0~5~0
+Identity_Act_id_1107~B-ID-23~UpdateStance~Triad_ID_386~0.29282~0~0~5~0
+Identity_Act_id_1108~B-ID-23~UpdateStance~Triad_ID_387~0.29282~0~0~5~0
+Identity_Act_id_1109~B-ID-23~UpdateStance~Triad_ID_388~0.29282~0~0~5~0
+Identity_Act_id_1110~B-ID-23~UpdateStance~Triad_ID_389~0.29282~0~0~5~0
+Identity_Act_id_1111~B-ID-59~UpdateStance~Triad_ID_217~0.14641~0~0~5~0
+Identity_Act_id_1112~B-ID-59~UpdateStance~Triad_ID_218~0.29282~0~0~5~0
+Identity_Act_id_1113~B-ID-59~UpdateStance~Triad_ID_219~0.29282~0~0~5~0
+Identity_Act_id_1114~B-ID-59~UpdateStance~Triad_ID_220~0.43923000000000006~0~0~5~0
+Identity_Act_id_1115~B-ID-59~UpdateStance~Triad_ID_221~0.46851200000000004~0~0~5~0
+Identity_Act_id_1116~B-ID-59~UpdateStance~Triad_ID_222~0.6002810000000001~0~0~5~0
+Identity_Act_id_1117~B-ID-59~UpdateStance~Triad_ID_223~0.58564~0~0~5~0
+Identity_Act_id_1118~B-ID-59~UpdateStance~Triad_ID_224~0.5709990000000001~0~0~5~0
+Identity_Act_id_1119~Bishop K?stutis K?valas CATH~UpdateStance~Triad_ID_455~0.014641000000000015~0~0~5~0
+Identity_Act_id_1120~B-ID-64~UpdateStance~Triad_ID_586~0~0~0~5~0
+Identity_Act_id_1121~B-ID-64~UpdateStance~Triad_ID_587~-0.7510833~0~0~5~0
+Identity_Act_id_1122~B-ID-64~UpdateStance~Triad_ID_588~0.02928200000000003~0~0~5~0
+Identity_Act_id_1123~B-ID-64~UpdateStance~Triad_ID_589~-0.863819~0~0~5~0
+Identity_Act_id_1124~Archbishop Innokenty of Vilnius ROC~UpdateStance~Triad_ID_491~0~0~0~5~0
+Identity_Act_id_1125~B-ID-61~UpdateStance~Triad_ID_233~0.014641000000000015~0~0~5~0
+Identity_Act_id_1126~B-ID-61~UpdateStance~Triad_ID_234~0.16105100000000003~0~0~5~0
+Identity_Act_id_1127~B-ID-61~UpdateStance~Triad_ID_235~0.16105100000000003~0~0~5~0
+Identity_Act_id_1128~B-ID-61~UpdateStance~Triad_ID_236~0.30746100000000004~0~0~5~0
+Identity_Act_id_1129~B-ID-61~UpdateStance~Triad_ID_237~0.336743~0~0~5~0
+Identity_Act_id_1130~B-ID-61~UpdateStance~Triad_ID_238~0.468512~0~0~5~0
+Identity_Act_id_1131~B-ID-61~UpdateStance~Triad_ID_239~0.453871~0~0~5~0
+Identity_Act_id_1132~B-ID-61~UpdateStance~Triad_ID_240~0.43923000000000006~0~0~5~0
+Identity_Act_id_1133~LTC Lapin Denis Alexandrovich~UpdateStance~Triad_ID_656~0.014641000000000038~0~0~5~0
+Identity_Act_id_1134~LTC Lapin Denis Alexandrovich~UpdateStance~Triad_ID_657~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1135~LTC Lapin Denis Alexandrovich~UpdateStance~Triad_ID_658~0.02928200000000003~0~0~5~0
+Identity_Act_id_1136~LTC Lapin Denis Alexandrovich~UpdateStance~Triad_ID_659~-0.8345370000000001~0~0~5~0
+Identity_Act_id_1137~B-ID-48~UpdateStance~Triad_ID_201~0.014641000000000015~0~0~5~0
+Identity_Act_id_1138~B-ID-48~UpdateStance~Triad_ID_202~0.16105100000000003~0~0~5~0
+Identity_Act_id_1139~B-ID-48~UpdateStance~Triad_ID_203~0.16105100000000003~0~0~5~0
+Identity_Act_id_1140~B-ID-48~UpdateStance~Triad_ID_204~0.30746100000000004~0~0~5~0
+Identity_Act_id_1141~B-ID-48~UpdateStance~Triad_ID_205~0.336743~0~0~5~0
+Identity_Act_id_1142~B-ID-48~UpdateStance~Triad_ID_206~0.468512~0~0~5~0
+Identity_Act_id_1143~B-ID-48~UpdateStance~Triad_ID_207~0.453871~0~0~5~0
+Identity_Act_id_1144~B-ID-48~UpdateStance~Triad_ID_208~0.43923000000000006~0~0~5~0
+Identity_Act_id_1145~B-ID-16~UpdateStance~Triad_ID_516~0.014641000000000038~0~0~5~0
+Identity_Act_id_1146~B-ID-16~UpdateStance~Triad_ID_517~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1147~B-ID-16~UpdateStance~Triad_ID_518~0.014641000000000038~0~0~5~0
+Identity_Act_id_1148~B-ID-16~UpdateStance~Triad_ID_519~-0.863819~0~0~5~0
+Identity_Act_id_1149~B-ID-22~UpdateStance~Triad_ID_113~0~0~0~5~0
+Identity_Act_id_1150~B-ID-22~UpdateStance~Triad_ID_114~0.16105100000000003~0~0~5~0
+Identity_Act_id_1151~B-ID-22~UpdateStance~Triad_ID_115~0.16105100000000003~0~0~5~0
+Identity_Act_id_1152~B-ID-22~UpdateStance~Triad_ID_116~0.30746100000000004~0~0~5~0
+Identity_Act_id_1153~B-ID-22~UpdateStance~Triad_ID_117~0.336743~0~0~5~0
+Identity_Act_id_1154~B-ID-22~UpdateStance~Triad_ID_118~0.453871~0~0~5~0
+Identity_Act_id_1155~B-ID-22~UpdateStance~Triad_ID_119~0.453871~0~0~5~0
+Identity_Act_id_1156~B-ID-22~UpdateStance~Triad_ID_120~0.453871~0~0~5~0
+Identity_Act_id_1157~Edvinas Regelskis~UpdateStance~Triad_ID_473~0.014641000000000015~0~0~5~0
+Identity_Act_id_1158~B-ID-31~UpdateStance~Triad_ID_526~0.014641000000000038~0~0~5~0
+Identity_Act_id_1159~B-ID-31~UpdateStance~Triad_ID_527~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1160~B-ID-31~UpdateStance~Triad_ID_528~0.014641000000000038~0~0~5~0
+Identity_Act_id_1161~B-ID-31~UpdateStance~Triad_ID_529~-0.863819~0~0~5~0
+Identity_Act_id_1162~Egle Juzu~UpdateStance~Triad_ID_337~0.131769~0~0~5~0
+Identity_Act_id_1163~Egle Juzu~UpdateStance~Triad_ID_338~0.29282~0~0~5~0
+Identity_Act_id_1164~Egle Juzu~UpdateStance~Triad_ID_339~0.29282~0~0~5~0
+Identity_Act_id_1165~Egle Juzu~UpdateStance~Triad_ID_340~0.43923000000000006~0~0~5~0
+Identity_Act_id_1166~Egle Juzu~UpdateStance~Triad_ID_341~0.453871~0~0~5~0
+Identity_Act_id_1167~Egle Juzu~UpdateStance~Triad_ID_342~0.6295630000000001~0~0~5~0
+Identity_Act_id_1168~Egle Juzu~UpdateStance~Triad_ID_343~0.5709990000000001~0~0~5~0
+Identity_Act_id_1169~Egle Juzu~UpdateStance~Triad_ID_344~0.5709990000000001~0~0~5~0
+Identity_Act_id_1170~B-ID-36~UpdateStance~Triad_ID_153~0~0~0~5~0
+Identity_Act_id_1171~B-ID-36~UpdateStance~Triad_ID_154~0.16105100000000003~0~0~5~0
+Identity_Act_id_1172~B-ID-36~UpdateStance~Triad_ID_155~0.16105100000000003~0~0~5~0
+Identity_Act_id_1173~B-ID-36~UpdateStance~Triad_ID_156~0.32210200000000005~0~0~5~0
+Identity_Act_id_1174~B-ID-36~UpdateStance~Triad_ID_157~0.32210200000000005~0~0~5~0
+Identity_Act_id_1175~B-ID-36~UpdateStance~Triad_ID_158~0.453871~0~0~5~0
+Identity_Act_id_1176~B-ID-36~UpdateStance~Triad_ID_159~0.453871~0~0~5~0
+Identity_Act_id_1177~B-ID-36~UpdateStance~Triad_ID_160~0.43923000000000006~0~0~5~0
+Identity_Act_id_1178~Arvydas Sabonis~UpdateStance~Triad_ID_437~0.014641000000000015~0~0~5~0
+Identity_Act_id_1179~B-ID-44~UpdateStance~Triad_ID_556~0~0~0~5~0
+Identity_Act_id_1180~B-ID-44~UpdateStance~Triad_ID_557~-0.7510833~0~0~5~0
+Identity_Act_id_1181~B-ID-44~UpdateStance~Triad_ID_558~0.014641000000000038~0~0~5~0
+Identity_Act_id_1182~B-ID-44~UpdateStance~Triad_ID_559~-0.863819~0~0~5~0
+Identity_Act_id_1183~Edita Baniene~UpdateStance~Triad_ID_329~0.131769~0~0~5~0
+Identity_Act_id_1184~Edita Baniene~UpdateStance~Triad_ID_330~0.29282~0~0~5~0
+Identity_Act_id_1185~Edita Baniene~UpdateStance~Triad_ID_331~0.29282~0~0~5~0
+Identity_Act_id_1186~Edita Baniene~UpdateStance~Triad_ID_332~0.42458899999999994~0~0~5~0
+Identity_Act_id_1187~Edita Baniene~UpdateStance~Triad_ID_333~0.453871~0~0~5~0
+Identity_Act_id_1188~Edita Baniene~UpdateStance~Triad_ID_334~0.6295630000000001~0~0~5~0
+Identity_Act_id_1189~Edita Baniene~UpdateStance~Triad_ID_335~0.5709990000000001~0~0~5~0
+Identity_Act_id_1190~Edita Baniene~UpdateStance~Triad_ID_336~0.5709990000000001~0~0~5~0
+Identity_Act_id_1191~COL-GEN Anatoly Alekseyevich Sidorov~UpdateStance~Triad_ID_696~0.014641000000000038~0~0~5~0
+Identity_Act_id_1192~COL-GEN Anatoly Alekseyevich Sidorov~UpdateStance~Triad_ID_697~-0.7803653000000002~0~0~5~0
+Identity_Act_id_1193~COL-GEN Anatoly Alekseyevich Sidorov~UpdateStance~Triad_ID_698~0.02928200000000003~0~0~5~0
+Identity_Act_id_1194~COL-GEN Anatoly Alekseyevich Sidorov~UpdateStance~Triad_ID_699~-0.8345370000000001~0~0~5~0
+Identity_Act_id_1195~B-ID-67~UpdateStance~Triad_ID_257~0.014641000000000015~0~0~5~0
+Identity_Act_id_1196~B-ID-67~UpdateStance~Triad_ID_258~0.16105100000000003~0~0~5~0
+Identity_Act_id_1197~B-ID-67~UpdateStance~Triad_ID_259~0.16105100000000003~0~0~5~0
+Identity_Act_id_1198~B-ID-67~UpdateStance~Triad_ID_260~0.29282~0~0~5~0
+Identity_Act_id_1199~B-ID-67~UpdateStance~Triad_ID_261~0.32210200000000005~0~0~5~0
+Identity_Act_id_1200~B-ID-67~UpdateStance~Triad_ID_262~0.468512~0~0~5~0
+Identity_Act_id_1201~B-ID-67~UpdateStance~Triad_ID_263~0.453871~0~0~5~0
+Identity_Act_id_1202~B-ID-67~UpdateStance~Triad_ID_264~0.43923000000000006~0~0~5~0
+Identity_Act_id_1203~Audrius Ciuplys~UpdateStance~Triad_ID_706~0.014641000000000038~0~0~5~0
+Identity_Act_id_1204~Audrius Ciuplys~UpdateStance~Triad_ID_707~-0.7803653000000002~0~0~5~0
+Identity_Act_id_1205~Audrius Ciuplys~UpdateStance~Triad_ID_708~0.02928200000000003~0~0~5~0
+Identity_Act_id_1206~Audrius Ciuplys~UpdateStance~Triad_ID_709~-0.8345370000000001~0~0~5~0
+Identity_Act_id_1207~Arvydas Giedraitis~UpdateStance~Triad_ID_509~0~0~0~5~0
+Identity_Act_id_1208~B-ID-14~UpdateStance~Triad_ID_419~0.014641000000000015~0~0~5~0
+Identity_Act_id_1209~B-ID-60~UpdateStance~Triad_ID_576~0~0~0~5~0
+Identity_Act_id_1210~B-ID-60~UpdateStance~Triad_ID_577~-0.7510833~0~0~5~0
+Identity_Act_id_1211~B-ID-60~UpdateStance~Triad_ID_578~0.02928200000000003~0~0~5~0
+Identity_Act_id_1212~B-ID-60~UpdateStance~Triad_ID_579~-0.863819~0~0~5~0
+Identity_Act_id_1213~B-ID-40~UpdateStance~Triad_ID_169~0~0~0~5~0
+Identity_Act_id_1214~B-ID-40~UpdateStance~Triad_ID_170~0.16105100000000003~0~0~5~0
+Identity_Act_id_1215~B-ID-40~UpdateStance~Triad_ID_171~0.16105100000000003~0~0~5~0
+Identity_Act_id_1216~B-ID-40~UpdateStance~Triad_ID_172~0.32210200000000005~0~0~5~0
+Identity_Act_id_1217~B-ID-40~UpdateStance~Triad_ID_173~0.32210200000000005~0~0~5~0
+Identity_Act_id_1218~B-ID-40~UpdateStance~Triad_ID_174~0.468512~0~0~5~0
+Identity_Act_id_1219~B-ID-40~UpdateStance~Triad_ID_175~0.453871~0~0~5~0
+Identity_Act_id_1220~B-ID-40~UpdateStance~Triad_ID_176~0.453871~0~0~5~0
+Identity_Act_id_1221~B-ID-9~UpdateStance~Triad_ID_89~0.014641000000000015~0~0~5~0
+Identity_Act_id_1222~B-ID-9~UpdateStance~Triad_ID_90~0.16105100000000003~0~0~5~0
+Identity_Act_id_1223~B-ID-9~UpdateStance~Triad_ID_91~0.16105100000000003~0~0~5~0
+Identity_Act_id_1224~B-ID-9~UpdateStance~Triad_ID_92~0.30746100000000004~0~0~5~0
+Identity_Act_id_1225~B-ID-9~UpdateStance~Triad_ID_93~0.32210200000000005~0~0~5~0
+Identity_Act_id_1226~B-ID-9~UpdateStance~Triad_ID_94~0.453871~0~0~5~0
+Identity_Act_id_1227~B-ID-9~UpdateStance~Triad_ID_95~0.453871~0~0~5~0
+Identity_Act_id_1228~B-ID-9~UpdateStance~Triad_ID_96~0.453871~0~0~5~0
+Identity_Act_id_1229~B-ID-43~UpdateStance~Triad_ID_546~0~0~0~5~0
+Identity_Act_id_1230~B-ID-43~UpdateStance~Triad_ID_547~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1231~B-ID-43~UpdateStance~Triad_ID_548~0.014641000000000038~0~0~5~0
+Identity_Act_id_1232~B-ID-43~UpdateStance~Triad_ID_549~-0.863819~0~0~5~0
+Identity_Act_id_1233~COL Maximov Sergei Viktorovich~UpdateStance~Triad_ID_676~0.014641000000000038~0~0~5~0
+Identity_Act_id_1234~COL Maximov Sergei Viktorovich~UpdateStance~Triad_ID_677~-0.7657243000000001~0~0~5~0
+Identity_Act_id_1235~COL Maximov Sergei Viktorovich~UpdateStance~Triad_ID_678~0.02928200000000003~0~0~5~0
+Identity_Act_id_1236~COL Maximov Sergei Viktorovich~UpdateStance~Triad_ID_679~-0.8345370000000001~0~0~5~0

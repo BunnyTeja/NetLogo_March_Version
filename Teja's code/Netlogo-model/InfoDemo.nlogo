@@ -424,12 +424,13 @@ to send
   if tick-count = 1[
   ;print tick-count
   let count_ba 0
+  let triadno 1
   let info_agents_with_IPs turtles with [agent-type = "information-diss-agents" and IPslist != [] and connected_agents_list != []]
   ask info_agents_with_IPs [
   print agent-id
   print IPslist
   let i 0
-  let triadno 1
+
   let tempIpslist []
   let info_agent_id agent-id ; sending agent id
     set tempIpslist IPslist ; list of Ips that are being sent
@@ -504,7 +505,7 @@ to send
           let temp item j tempIpslist; temp stores the current IP id
           ;set Outbox lput temp Outbox ; To store received IPs
 
-             ifelse member? IP-id outbox[
+             ifelse member? temp outbox[
               ]
               [
                set outbox lput temp outbox
@@ -540,9 +541,9 @@ to send
 set count_ba count_ba + 1
     ]
     ;print count_ba
-    let infoAct  word "Information-Actions-tick-" tick-count
+    let infoAct  word "../Output-files/Information-Actions-tick-" tick-count
 
-      csv:to-file word infoAct".csv" Information_Action_list
+    (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
 ; logic for sending IPs through basic agents if the outbox is not empty
@@ -563,7 +564,7 @@ if tick-count > 1[
 
       let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.1[
+      if trust_value > 0.3[
           ;print trust_value
       let current_agent turtles with [agent-id = search_id]
      ask current_agent [
@@ -576,7 +577,7 @@ if tick-count > 1[
                set inbox lput temp inbox
               ]
               set j j + 1
-      ]
+            ]
           let k 0
           while [k < length(inbox)] [
 ;;
@@ -659,9 +660,8 @@ if tick-count > 1[
 
       set Outbox []
 ]
-    let infoAct  word "Information-Actions-tick-" tick-count
-
-      csv:to-file word infoAct".csv" Information_Action_list
+    let infoAct  word "../Output-files/Information-Actions-tick-" tick-count
+    (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
 
@@ -671,7 +671,7 @@ end
 
 to read
 set identity-list[]
-set initial-track-list10 ["identity_action_id" "agent_id" "action" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
     ;print(initial-track-list)
     set identity-list lput initial-track-list10 identity-list
 
@@ -682,7 +682,7 @@ ask basic_agents_with_IPs [
   let tempIpslist []
   let basic_agent_id agent-id ; received agent id
   ;print basic_agent_id
-   set outbox inbox
+;   set outbox inbox
   if length(inbox) >= 0 [
     set tempIpslist inbox
           let j 0
@@ -690,13 +690,14 @@ ask basic_agents_with_IPs [
           let temp item j tempIpslist
           let current_IP turtles with [IP-id = temp]
           ask current_IP[
+           let current_IP_stance stance
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let Ip_topic Related-topic-id
            let current_agent turtles with [agent-id = basic_agent_id]
           ask current_agent[
           if member? Ip_topic triadtopics [
-              ifelse member? IP-id outbox[
-              ]
+;              print Ip_topic
+              ifelse member? IP-id outbox []
               [
                set outbox lput IP-id outbox
                set color brown
@@ -706,17 +707,17 @@ ask basic_agents_with_IPs [
                 let len 0
                 while [len < length(triadstack)] [
                   if item 1 (item len(triadstack)) = Ip_topic[ ;; checking if the triad topic is same as Ips topic
-                set IncreaseMagnitudeofTopicStance false
-                set DecreaseMagnitudeofTopicStance false
-                    ifelse random 100 < 50 [
-                      set IncreaseMagnitudeofTopicStance true
-                    ]
-                    [
-                      set DecreaseMagnitudeofTopicStance true
-                    ]
-                    if IncreaseMagnitudeofTopicStance = true[
-                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) + 0.3)))
+;                set IncreaseMagnitudeofTopicStance false
+;                set DecreaseMagnitudeofTopicStance false
+;                    ifelse random 100 < 50 [
+;                      set IncreaseMagnitudeofTopicStance true
+;                    ]
+;                    [
+;                      set DecreaseMagnitudeofTopicStance true
+;                    ]
 
+                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) + 0.1 * ( (item 2 (item len(triadstack))) - current_IP_stance ) )))
+                    let change_stance 0.1 * ( (item 2 (item len(triadstack))) - current_IP_stance )
                       let id (item 0 (item len(triadstack)) )
                               set sub-list10[]
                              ; set sub-list10 lput IdentityActionID sub-list10
@@ -725,38 +726,22 @@ ask basic_agents_with_IPs [
                               set sub-list10 lput agent-id sub-list10
                               set sub-list10 lput "UpdateStance" sub-list10
                               set sub-list10 lput id sub-list10
-                              set sub-list10 lput "0.3" sub-list10
+                              set sub-list10 lput change_stance sub-list10
                               set sub-list10 lput "0" sub-list10
                               set sub-list10 lput "0" sub-list10
                               set sub-list10 lput tick-count sub-list10
                               set sub-list10 lput "0" sub-list10
                               ;set sub-list10 lput date-and-time sub-list10
                          set identity-list lput sub-list10 identity-list
-                    ]
 
-                    if DecreaseMagnitudeofTopicStance = true[
-                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) - 0.2)))
 
-                      let id (item 0 (item len(triadstack)) )
-                              set sub-list10[]
-                             set identityactionid identityactionid + 1
-                              set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
-                              set sub-list10 lput agent-id sub-list10
-                              set sub-list10 lput "UpdateStance" sub-list10
-                              set sub-list10 lput id sub-list10
-                              set sub-list10 lput "-0.2" sub-list10
-                              set sub-list10 lput "0" sub-list10
-                              set sub-list10 lput "0" sub-list10
-                              set sub-list10 lput tick-count sub-list10
-                              set sub-list10 lput "0" sub-list10
-                              ;set sub-list10 lput date-and-time sub-list10
-                         set identity-list lput sub-list10 identity-list
-                    ]
                   ]
                   set len len + 1
                 ]
-                ;;; end for identity actions
+
+                 ;;; end for identity actions
               ]
+
           ]
           ]
           ]
@@ -768,29 +753,58 @@ ask basic_agents_with_IPs [
   ;  set inbox []
 ;    print outbox
       ]
-  let trackID  word "identity_action_tick_"tick-count
-   csv:to-file word trackID ".csv" identity-list
+    let trackID  word "../Output-files/identity_action_tick_"tick-count
+    (csv:to-file word trackID ".csv" identity-list "~")
+
 end
 
 
-to write-to-file
+to track_agents
     set track-list []
 
-    set initial-track-list ["agent_id" "agent_type" "country" "county" "Municipality" "latitude" "longitude" "Gender" "Age" "Language" "Nationality" "political_spectrum" "socioecomonic_status" "EU" "nato_denovia" "triad_stack_id" "simulation_id"]
+    set initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioecomonic_status" "eu" "nato_donovia" "triad_stack_id" "tick" "simulation_id"]
     ;print(initial-track-list)
     set track-list lput initial-track-list track-list
    foreach sort turtles [ t ->
     ask t [if agent-type = "basic" or agent-type = "spokesperson"[
-        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID "0")] of t
+        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "0")] of t
      set track-list lput sub-list track-list
     ]
       ]
   ]
-  csv:to-file "track_agents.csv" track-list
+  let agent_track_file  word "../Output-files/track_agents_"tick-count
+  (csv:to-file word agent_track_file ".csv" track-list "~")
 end
 
+to track_triads
+    set Triad-list []
 
+    set initial-track-list12 ["triad_id" "triad_stack_id" "identity_group_id" "topic_id" "stance" "tick" "simulation_id"]
+    ;print(initial-track-list)
 
+    set Triad-list lput initial-track-list12 Triad-list
+    foreach sort turtles [ t ->
+    ask t [if agent-type = "basic" or agent-type = "spokesperson"[
+      let len 0
+      while [len < length(triadstack)] [
+
+        let temp_triad_id item 0 (item len(triadstack))
+        let temp_topic_id item 1 (item len(triadstack))
+        let temp_stance item 2 (item len(triadstack))
+
+        set sub-list12 [ (list temp_triad_id triadstackid "0" temp_topic_id temp_stance tick-count "1")] of t
+        set Triad-list lput sub-list12 Triad-list
+
+        set len len + 1
+      ]
+      ]
+     ]
+   ]
+
+  let triad_track_file  word "../Output-files/track_triads_"tick-count
+  (csv:to-file word triad_track_file ".csv" Triad-list "~")
+
+end
 
 
 
@@ -803,6 +817,8 @@ repeat Select_no_of_Ticks [
 set tick-count tick-count + 1
  send
  read
+ track_agents
+ track_triads
  ]
 end
 
@@ -823,7 +839,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 
@@ -935,23 +950,6 @@ BUTTON
 123
 NIL
 make-connections
-NIL
-1
-T
-OBSERVER
-NIL
-NIL
-NIL
-NIL
-1
-
-BUTTON
-61
-132
-159
-165
-NIL
-write-to-file
 NIL
 1
 T

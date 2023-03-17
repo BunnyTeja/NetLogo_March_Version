@@ -1,0 +1,232 @@
+information_action_id~information_action_type~sending_agent_id~receiving_agent_id~information_packet_id~endorsed_agent_id~change_in_amplification~tick~simulation_id
+InfoAct_id_84~refute~B-ID-64~B-ID-38~IP-7~0~- 0.1~2~1
+InfoAct_id_85~amplify~B-ID-66~B-ID-20~IP-2~0~+ 0.1~2~1
+InfoAct_id_86~refute~B-ID-66~B-ID-57~IP-4~0~- 0.1~2~1
+InfoAct_id_87~refute~B-ID-66~B-ID-67~IP-9~0~- 0.1~2~1
+InfoAct_id_88~amplify~B-ID-48~B-ID-87~IP-427~0~+ 0.1~2~1
+InfoAct_id_89~refute~Audrius Ciuplys~B-ID-7~IP-3~0~- 0.1~2~1
+InfoAct_id_90~amplify~Audrius Ciuplys~B-ID-13~IP-4~0~+ 0.1~2~1
+InfoAct_id_91~amplify~Audrius Ciuplys~B-ID-45~IP-7~0~+ 0.1~2~1
+InfoAct_id_92~refute~Audrius Ciuplys~B-ID-48~IP-5~0~- 0.1~2~1
+InfoAct_id_93~refute~Audrius Ciuplys~B-ID-78~IP-7~0~- 0.1~2~1
+InfoAct_id_94~amplify~Audrius Ciuplys~B-ID-82~IP-9~0~+ 0.1~2~1
+InfoAct_id_95~amplify~Audrius Ciuplys~Valdemar Tomasevski~IP-3~0~+ 0.1~2~1
+InfoAct_id_96~amplify~Audrius Ciuplys~Deacon John Stankevicius~IP-5~0~+ 0.1~2~1
+InfoAct_id_97~refute~Audrius Ciuplys~GEN Nikolai Yegorovich Makarov~IP-2~0~- 0.1~2~1
+InfoAct_id_98~amplify~Edvinas Regelskis~COL-GEN Victor Borisovich Astapov~IP-427~0~+ 0.1~2~1
+InfoAct_id_99~amplify~B-ID-76~B-ID-34~IP-4~0~+ 0.1~2~1
+InfoAct_id_100~amplify~B-ID-76~B-ID-40~IP-198~0~+ 0.1~2~1
+InfoAct_id_101~amplify~B-ID-76~B-ID-40~IP-199~0~+ 0.1~2~1
+InfoAct_id_102~amplify~B-ID-76~Austeja Landsbergiene~IP-199~0~+ 0.1~2~1
+InfoAct_id_103~refute~B-ID-76~Edita Baniene~IP-9~0~- 0.1~2~1
+InfoAct_id_104~amplify~B-ID-76~Father Vytenis Vaskelis ROC~IP-197~0~+ 0.1~2~1
+InfoAct_id_105~amplify~B-ID-76~MAJ Ganushevich Artem Romanovich~IP-5~0~+ 0.1~2~1
+InfoAct_id_106~amplify~B-ID-41~B-ID-35~IP-427~0~+ 0.1~2~1
+InfoAct_id_107~refute~B-ID-41~B-ID-51~IP-347~0~- 0.1~2~1
+InfoAct_id_108~amplify~B-ID-41~B-ID-61~IP-347~0~+ 0.1~2~1
+InfoAct_id_109~refute~B-ID-41~Gabrielius Landsbergis~IP-427~0~- 0.1~2~1
+InfoAct_id_110~amplify~B-ID-31~B-ID-1~IP-4~0~+ 0.1~2~1
+InfoAct_id_111~refute~B-ID-31~B-ID-14~IP-3~0~- 0.1~2~1
+InfoAct_id_112~amplify~B-ID-31~B-ID-54~IP-9~0~+ 0.1~2~1
+InfoAct_id_113~amplify~B-ID-31~B-ID-64~IP-9~0~+ 0.1~2~1
+InfoAct_id_114~amplify~B-ID-31~B-ID-69~IP-3~0~+ 0.1~2~1
+InfoAct_id_115~refute~B-ID-31~B-ID-91~IP-9~0~- 0.1~2~1
+InfoAct_id_116~refute~B-ID-31~Arvydas Sabonis~IP-7~0~- 0.1~2~1
+InfoAct_id_117~refute~B-ID-31~Tadas Maroscikas~IP-7~0~- 0.1~2~1
+InfoAct_id_118~refute~Paulius Keras~B-ID-7~IP-198~0~- 0.1~2~1
+InfoAct_id_119~refute~Paulius Keras~B-ID-16~IP-199~0~- 0.1~2~1
+InfoAct_id_120~amplify~Paulius Keras~B-ID-24~IP-198~0~+ 0.1~2~1
+InfoAct_id_121~refute~Paulius Keras~B-ID-39~IP-198~0~- 0.1~2~1
+InfoAct_id_122~refute~Paulius Keras~B-ID-40~IP-197~0~- 0.1~2~1
+InfoAct_id_123~refute~Paulius Keras~B-ID-46~IP-198~0~- 0.1~2~1
+InfoAct_id_124~refute~Paulius Keras~Andrius Tapinas~IP-199~0~- 0.1~2~1
+InfoAct_id_125~amplify~Paulius Keras~Ingrida Simonyte~IP-197~0~+ 0.1~2~1
+InfoAct_id_126~amplify~Paulius Keras~Valdemar Tomasevski~IP-197~0~+ 0.1~2~1
+InfoAct_id_127~refute~Paulius Keras~Archbishop Innokenty of Vilnius ROC~IP-197~0~- 0.1~2~1
+InfoAct_id_128~refute~Paulius Keras~LTC Lapin Denis Alexandrovich~IP-197~0~- 0.1~2~1
+InfoAct_id_129~amplify~B-ID-30~B-ID-48~IP-427~0~+ 0.1~2~1
+InfoAct_id_130~amplify~B-ID-30~B-ID-53~IP-427~0~+ 0.1~2~1
+InfoAct_id_131~refute~B-ID-30~GEN Vladimir Sergeyevich Mikhaylov~IP-427~0~- 0.1~2~1
+InfoAct_id_132~amplify~B-ID-74~B-ID-8~IP-3~0~+ 0.1~2~1
+InfoAct_id_133~refute~B-ID-74~B-ID-16~IP-7~0~- 0.1~2~1
+InfoAct_id_134~refute~B-ID-74~B-ID-39~IP-427~0~- 0.1~2~1
+InfoAct_id_135~refute~B-ID-74~B-ID-47~IP-9~0~- 0.1~2~1
+InfoAct_id_136~refute~B-ID-74~B-ID-68~IP-2~0~- 0.1~2~1
+InfoAct_id_137~amplify~B-ID-74~B-ID-98~IP-427~0~+ 0.1~2~1
+InfoAct_id_138~refute~B-ID-74~Andrius Tapinas~IP-2~0~- 0.1~2~1
+InfoAct_id_139~amplify~B-ID-74~Ingrida Simonyte~IP-427~0~+ 0.1~2~1
+InfoAct_id_140~amplify~B-ID-74~Viktorija Smilyte-Nielsen~IP-427~0~+ 0.1~2~1
+InfoAct_id_141~refute~B-ID-59~B-ID-13~IP-427~0~- 0.1~2~1
+InfoAct_id_142~amplify~B-ID-59~B-ID-25~IP-427~0~+ 0.1~2~1
+InfoAct_id_143~amplify~B-ID-59~Edvinas Regelskis~IP-427~0~+ 0.1~2~1
+InfoAct_id_144~amplify~B-ID-59~Father Vytenis Vaskelis ROC~IP-427~0~+ 0.1~2~1
+InfoAct_id_145~refute~Gabrielius Landsbergis~B-ID-35~IP-427~0~- 0.1~2~1
+InfoAct_id_146~refute~Gabrielius Landsbergis~Dalia Grybauskaite~IP-427~0~- 0.1~2~1
+InfoAct_id_147~refute~Gabrielius Landsbergis~Father Vytenis Vaskelis ROC~IP-427~0~- 0.1~2~1
+InfoAct_id_148~refute~B-ID-62~Austeja Landsbergiene~IP-427~0~- 0.1~2~1
+InfoAct_id_149~amplify~Simonas Gurevicius~B-ID-30~IP-2~0~+ 0.1~2~1
+InfoAct_id_150~refute~Simonas Gurevicius~B-ID-31~IP-4~0~- 0.1~2~1
+InfoAct_id_151~amplify~Simonas Gurevicius~B-ID-37~IP-7~0~+ 0.1~2~1
+InfoAct_id_152~amplify~Simonas Gurevicius~B-ID-67~IP-7~0~+ 0.1~2~1
+InfoAct_id_153~refute~Simonas Gurevicius~B-ID-97~IP-427~0~- 0.1~2~1
+InfoAct_id_154~refute~Simonas Gurevicius~B-ID-97~IP-199~0~- 0.1~2~1
+InfoAct_id_155~refute~Simonas Gurevicius~Bishop Ambrose of Trakai ROC~IP-9~0~- 0.1~2~1
+InfoAct_id_156~amplify~Simonas Gurevicius~Egle Juzu~IP-5~0~+ 0.1~2~1
+InfoAct_id_157~amplify~B-ID-21~B-ID-38~IP-427~0~+ 0.1~2~1
+InfoAct_id_158~amplify~B-ID-21~Karolina Meschino~IP-427~0~+ 0.1~2~1
+InfoAct_id_159~refute~B-ID-21~Bishop K?stutis K?valas CATH~IP-427~0~- 0.1~2~1
+InfoAct_id_160~refute~B-ID-21~Sonata Patkauskait?~IP-427~0~- 0.1~2~1
+InfoAct_id_161~amplify~B-ID-68~B-ID-48~IP-427~0~+ 0.1~2~1
+InfoAct_id_162~refute~B-ID-68~B-ID-55~IP-427~0~- 0.1~2~1
+InfoAct_id_163~amplify~B-ID-68~B-ID-61~IP-427~0~+ 0.1~2~1
+InfoAct_id_164~refute~B-ID-22~B-ID-26~IP-427~0~- 0.1~2~1
+InfoAct_id_165~refute~B-ID-22~B-ID-101~IP-427~0~- 0.1~2~1
+InfoAct_id_166~amplify~B-ID-22~Egle Juzu~IP-427~0~+ 0.1~2~1
+InfoAct_id_167~refute~Gintare Guzevi?i?t?~B-ID-8~IP-7~0~- 0.1~2~1
+InfoAct_id_168~refute~Gintare Guzevi?i?t?~B-ID-54~IP-4~0~- 0.1~2~1
+InfoAct_id_169~refute~Gintare Guzevi?i?t?~Arvydas Sabonis~IP-9~0~- 0.1~2~1
+InfoAct_id_170~refute~Gintare Guzevi?i?t?~Gitanas Nauseda~IP-7~0~- 0.1~2~1
+InfoAct_id_171~amplify~Gintare Guzevi?i?t?~Ingrida Simonyte~IP-7~0~+ 0.1~2~1
+InfoAct_id_172~amplify~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-4~0~+ 0.1~2~1
+InfoAct_id_173~amplify~Gintare Guzevi?i?t?~Edita Baniene~IP-5~0~+ 0.1~2~1
+InfoAct_id_174~amplify~Gintare Guzevi?i?t?~COL-GEN Alexander Zhuravlyov~IP-7~0~+ 0.1~2~1
+InfoAct_id_175~refute~Gintare Guzevi?i?t?~Paulius Keras~IP-2~0~- 0.1~2~1
+InfoAct_id_176~refute~Gintare Guzevi?i?t?~Tadas Maroscikas~IP-4~0~- 0.1~2~1
+InfoAct_id_177~amplify~B-ID-9~B-ID-46~IP-427~0~+ 0.1~2~1
+InfoAct_id_178~refute~B-ID-9~Dalia Grybauskaite~IP-427~0~- 0.1~2~1
+InfoAct_id_179~refute~B-ID-9~Valdemar Tomasevski~IP-427~0~- 0.1~2~1
+InfoAct_id_180~amplify~B-ID-9~Edita Baniene~IP-427~0~+ 0.1~2~1
+InfoAct_id_181~amplify~B-ID-9~Father Vytenis Vaskelis ROC~IP-427~0~+ 0.1~2~1
+InfoAct_id_182~refute~B-ID-60~B-ID-16~IP-4~0~- 0.1~2~1
+InfoAct_id_183~refute~B-ID-60~B-ID-30~IP-2~0~- 0.1~2~1
+InfoAct_id_184~refute~B-ID-60~B-ID-34~IP-7~0~- 0.1~2~1
+InfoAct_id_185~refute~B-ID-60~B-ID-40~IP-5~0~- 0.1~2~1
+InfoAct_id_186~refute~B-ID-60~B-ID-57~IP-2~0~- 0.1~2~1
+InfoAct_id_187~amplify~B-ID-60~B-ID-75~IP-3~0~+ 0.1~2~1
+InfoAct_id_188~refute~B-ID-60~Father Vytenis Vaskelis ROC~IP-2~0~- 0.1~2~1
+InfoAct_id_189~refute~B-ID-60~Paulius Keras~IP-4~0~- 0.1~2~1
+InfoAct_id_190~amplify~MG Arkady Vilktotovich Bakhin~B-ID-4~IP-9~0~+ 0.1~2~1
+InfoAct_id_191~refute~MG Arkady Vilktotovich Bakhin~B-ID-67~IP-2~0~- 0.1~2~1
+InfoAct_id_192~amplify~MG Arkady Vilktotovich Bakhin~B-ID-88~IP-5~0~+ 0.1~2~1
+InfoAct_id_193~amplify~MG Arkady Vilktotovich Bakhin~Gitanas Nauseda~IP-197~0~+ 0.1~2~1
+InfoAct_id_194~amplify~MG Arkady Vilktotovich Bakhin~Viktorija Smilyte-Nielsen~IP-3~0~+ 0.1~2~1
+InfoAct_id_195~amplify~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-197~0~+ 0.1~2~1
+InfoAct_id_196~amplify~MG Arkady Vilktotovich Bakhin~Paulius Keras~IP-7~0~+ 0.1~2~1
+InfoAct_id_197~amplify~COL-GEN Victor Borisovich Astapov~B-ID-8~IP-2~0~+ 0.1~2~1
+InfoAct_id_198~refute~COL-GEN Victor Borisovich Astapov~B-ID-42~IP-2~0~- 0.1~2~1
+InfoAct_id_199~amplify~COL-GEN Victor Borisovich Astapov~B-ID-47~IP-2~0~+ 0.1~2~1
+InfoAct_id_200~amplify~COL-GEN Victor Borisovich Astapov~B-ID-88~IP-5~0~+ 0.1~2~1
+InfoAct_id_201~amplify~COL-GEN Victor Borisovich Astapov~Bishop K?stutis K?valas CATH~IP-5~0~+ 0.1~2~1
+InfoAct_id_202~refute~COL-GEN Victor Borisovich Astapov~MAJ Ganushevich Artem Romanovich~IP-4~0~- 0.1~2~1
+InfoAct_id_203~amplify~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-3~0~+ 0.1~2~1
+InfoAct_id_204~amplify~COL Maximov Sergei Viktorovich~B-ID-65~IP-427~0~+ 0.1~2~1
+InfoAct_id_205~refute~COL Maximov Sergei Viktorovich~Gabrielius Landsbergis~IP-2~0~- 0.1~2~1
+InfoAct_id_206~amplify~COL Maximov Sergei Viktorovich~Edvinas Regelskis~IP-9~0~+ 0.1~2~1
+InfoAct_id_207~amplify~COL Maximov Sergei Viktorovich~Father Vytenis Vaskelis ROC~IP-4~0~+ 0.1~2~1
+InfoAct_id_208~amplify~COL Maximov Sergei Viktorovich~Deacon Audrius Jesinskas ROC~IP-427~0~+ 0.1~2~1
+InfoAct_id_209~refute~Bishop K?stutis K?valas CATH~B-ID-5~IP-197~0~- 0.1~2~1
+InfoAct_id_210~refute~Bishop K?stutis K?valas CATH~B-ID-36~IP-199~0~- 0.1~2~1
+InfoAct_id_211~amplify~Bishop K?stutis K?valas CATH~Valdemar Tomasevski~IP-197~0~+ 0.1~2~1
+InfoAct_id_212~amplify~B-ID-33~B-ID-8~IP-7~0~+ 0.1~2~1
+InfoAct_id_213~refute~B-ID-33~B-ID-13~IP-4~0~- 0.1~2~1
+InfoAct_id_214~refute~B-ID-33~B-ID-17~IP-3~0~- 0.1~2~1
+InfoAct_id_215~amplify~B-ID-33~B-ID-22~IP-427~0~+ 0.1~2~1
+InfoAct_id_216~refute~B-ID-33~B-ID-34~IP-3~0~- 0.1~2~1
+InfoAct_id_217~refute~B-ID-33~B-ID-44~IP-7~0~- 0.1~2~1
+InfoAct_id_218~amplify~B-ID-33~B-ID-59~IP-5~0~+ 0.1~2~1
+InfoAct_id_219~amplify~B-ID-33~B-ID-63~IP-3~0~+ 0.1~2~1
+InfoAct_id_220~refute~B-ID-33~B-ID-90~IP-3~0~- 0.1~2~1
+InfoAct_id_221~refute~B-ID-33~B-ID-90~IP-9~0~- 0.1~2~1
+InfoAct_id_222~refute~B-ID-33~Archbishop Innokenty of Vilnius ROC~IP-427~0~- 0.1~2~1
+InfoAct_id_223~refute~B-ID-53~B-ID-21~IP-427~0~- 0.1~2~1
+InfoAct_id_224~refute~B-ID-61~B-ID-55~IP-427~0~- 0.1~2~1
+InfoAct_id_225~amplify~B-ID-61~Father Vytenis Vaskelis ROC~IP-427~0~+ 0.1~2~1
+InfoAct_id_226~amplify~B-ID-40~B-ID-6~IP-427~0~+ 0.1~2~1
+InfoAct_id_227~amplify~B-ID-40~B-ID-48~IP-427~0~+ 0.1~2~1
+InfoAct_id_228~amplify~B-ID-40~B-ID-51~IP-427~0~+ 0.1~2~1
+InfoAct_id_229~refute~B-ID-40~B-ID-72~IP-427~0~- 0.1~2~1
+InfoAct_id_230~refute~B-ID-40~Bishop Ambrose of Trakai ROC~IP-427~0~- 0.1~2~1
+InfoAct_id_231~amplify~B-ID-38~B-ID-44~IP-427~0~+ 0.1~2~1
+InfoAct_id_232~amplify~B-ID-38~B-ID-61~IP-427~0~+ 0.1~2~1
+InfoAct_id_233~amplify~Austeja Landsbergiene~B-ID-10~IP-2~0~+ 0.1~2~1
+InfoAct_id_234~refute~Austeja Landsbergiene~B-ID-11~IP-9~0~- 0.1~2~1
+InfoAct_id_235~refute~Austeja Landsbergiene~B-ID-33~IP-3~0~- 0.1~2~1
+InfoAct_id_236~refute~Austeja Landsbergiene~B-ID-48~IP-2~0~- 0.1~2~1
+InfoAct_id_237~amplify~Austeja Landsbergiene~B-ID-59~IP-4~0~+ 0.1~2~1
+InfoAct_id_238~refute~Austeja Landsbergiene~Dalia Grybauskaite~IP-5~0~- 0.1~2~1
+InfoAct_id_239~refute~Austeja Landsbergiene~Dalia Grybauskaite~IP-4~0~- 0.1~2~1
+InfoAct_id_240~refute~Austeja Landsbergiene~Valdemar Tomasevski~IP-3~0~- 0.1~2~1
+InfoAct_id_241~amplify~Austeja Landsbergiene~Edvinas Regelskis~IP-2~0~+ 0.1~2~1
+InfoAct_id_242~refute~Virgis Bagdonas~B-ID-4~IP-347~0~- 0.1~2~1
+InfoAct_id_243~refute~Virgis Bagdonas~B-ID-99~IP-348~0~- 0.1~2~1
+InfoAct_id_244~refute~Virgis Bagdonas~Simonas Gurevicius~IP-348~0~- 0.1~2~1
+InfoAct_id_245~refute~Virgis Bagdonas~Egle Juzu~IP-347~0~- 0.1~2~1
+InfoAct_id_246~refute~B-ID-32~B-ID-6~IP-427~0~- 0.1~2~1
+InfoAct_id_247~amplify~B-ID-32~B-ID-12~IP-427~0~+ 0.1~2~1
+InfoAct_id_248~refute~B-ID-35~B-ID-26~IP-427~0~- 0.1~2~1
+InfoAct_id_249~refute~B-ID-35~B-ID-89~IP-348~0~- 0.1~2~1
+InfoAct_id_250~refute~COL-GEN Anatoly Alekseyevich Sidorov~B-ID-4~IP-4~0~- 0.1~2~1
+InfoAct_id_251~refute~COL-GEN Anatoly Alekseyevich Sidorov~B-ID-16~IP-4~0~- 0.1~2~1
+InfoAct_id_252~amplify~COL-GEN Anatoly Alekseyevich Sidorov~B-ID-78~IP-5~0~+ 0.1~2~1
+InfoAct_id_253~amplify~COL-GEN Anatoly Alekseyevich Sidorov~B-ID-98~IP-3~0~+ 0.1~2~1
+InfoAct_id_254~refute~COL-GEN Anatoly Alekseyevich Sidorov~Gabrielius Landsbergis~IP-7~0~- 0.1~2~1
+InfoAct_id_255~amplify~COL-GEN Anatoly Alekseyevich Sidorov~Ingrida Simonyte~IP-5~0~+ 0.1~2~1
+InfoAct_id_256~amplify~COL-GEN Anatoly Alekseyevich Sidorov~Valdemar Tomasevski~IP-5~0~+ 0.1~2~1
+InfoAct_id_257~refute~COL-GEN Anatoly Alekseyevich Sidorov~Father James Karklys ROC~IP-3~0~- 0.1~2~1
+InfoAct_id_258~amplify~COL-GEN Anatoly Alekseyevich Sidorov~Deacon Audrius Jesinskas ROC~IP-9~0~+ 0.1~2~1
+InfoAct_id_259~amplify~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-9~0~+ 0.1~2~1
+InfoAct_id_260~amplify~B-ID-46~B-ID-33~IP-427~0~+ 0.1~2~1
+InfoAct_id_261~amplify~B-ID-46~B-ID-65~IP-427~0~+ 0.1~2~1
+InfoAct_id_262~amplify~B-ID-46~B-ID-82~IP-427~0~+ 0.1~2~1
+InfoAct_id_263~refute~LTC Lapin Denis Alexandrovich~B-ID-8~IP-3~0~- 0.1~2~1
+InfoAct_id_264~amplify~LTC Lapin Denis Alexandrovich~B-ID-28~IP-4~0~+ 0.1~2~1
+InfoAct_id_265~refute~LTC Lapin Denis Alexandrovich~B-ID-97~IP-4~0~- 0.1~2~1
+InfoAct_id_266~refute~LTC Lapin Denis Alexandrovich~Arvydas Sabonis~IP-3~0~- 0.1~2~1
+InfoAct_id_267~refute~LTC Lapin Denis Alexandrovich~Austeja Landsbergiene~IP-3~0~- 0.1~2~1
+InfoAct_id_268~amplify~LTC Lapin Denis Alexandrovich~Simonas Gurevicius~IP-5~0~+ 0.1~2~1
+InfoAct_id_269~amplify~LTC Lapin Denis Alexandrovich~Sonata Patkauskait?~IP-427~0~+ 0.1~2~1
+InfoAct_id_270~amplify~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-2~0~+ 0.1~2~1
+InfoAct_id_271~refute~Edita Baniene~B-ID-18~IP-427~0~- 0.1~2~1
+InfoAct_id_272~refute~B-ID-16~B-ID-7~IP-5~0~- 0.1~2~1
+InfoAct_id_273~amplify~B-ID-16~B-ID-30~IP-5~0~+ 0.1~2~1
+InfoAct_id_274~amplify~B-ID-16~B-ID-33~IP-7~0~+ 0.1~2~1
+InfoAct_id_275~refute~B-ID-16~B-ID-35~IP-5~0~- 0.1~2~1
+InfoAct_id_276~amplify~B-ID-16~B-ID-45~IP-427~0~+ 0.1~2~1
+InfoAct_id_277~refute~B-ID-16~B-ID-61~IP-3~0~- 0.1~2~1
+InfoAct_id_278~refute~B-ID-16~B-ID-63~IP-7~0~- 0.1~2~1
+InfoAct_id_279~refute~B-ID-16~B-ID-77~IP-4~0~- 0.1~2~1
+InfoAct_id_280~refute~B-ID-16~Edvinas Regelskis~IP-7~0~- 0.1~2~1
+InfoAct_id_281~amplify~B-ID-16~Father Vytenis Vaskelis ROC~IP-5~0~+ 0.1~2~1
+InfoAct_id_282~refute~B-ID-16~MG Arkady Vilktotovich Bakhin~IP-4~0~- 0.1~2~1
+InfoAct_id_283~refute~B-ID-16~COL-GEN Anatoly Alekseyevich Sidorov~IP-427~0~- 0.1~2~1
+InfoAct_id_284~refute~B-ID-43~B-ID-14~IP-427~0~- 0.1~2~1
+InfoAct_id_285~refute~B-ID-43~B-ID-18~IP-9~0~- 0.1~2~1
+InfoAct_id_286~amplify~B-ID-43~B-ID-19~IP-2~0~+ 0.1~2~1
+InfoAct_id_287~amplify~B-ID-43~B-ID-42~IP-7~0~+ 0.1~2~1
+InfoAct_id_288~amplify~B-ID-43~B-ID-44~IP-7~0~+ 0.1~2~1
+InfoAct_id_289~amplify~B-ID-43~B-ID-50~IP-5~0~+ 0.1~2~1
+InfoAct_id_290~amplify~B-ID-43~B-ID-69~IP-9~0~+ 0.1~2~1
+InfoAct_id_291~refute~B-ID-43~B-ID-74~IP-2~0~- 0.1~2~1
+InfoAct_id_292~amplify~B-ID-67~Bishop Ambrose of Trakai ROC~IP-427~0~+ 0.1~2~1
+InfoAct_id_293~amplify~Ingrida Simonyte~B-ID-18~IP-427~0~+ 0.1~2~1
+InfoAct_id_294~refute~Egle Juzu~Edita Baniene~IP-427~0~- 0.1~2~1
+InfoAct_id_295~amplify~B-ID-49~B-ID-3~IP-2~0~+ 0.1~2~1
+InfoAct_id_296~amplify~B-ID-49~B-ID-9~IP-7~0~+ 0.1~2~1
+InfoAct_id_297~refute~B-ID-49~B-ID-11~IP-5~0~- 0.1~2~1
+InfoAct_id_298~amplify~B-ID-49~B-ID-20~IP-3~0~+ 0.1~2~1
+InfoAct_id_299~amplify~B-ID-49~B-ID-39~IP-4~0~+ 0.1~2~1
+InfoAct_id_300~amplify~B-ID-49~B-ID-53~IP-3~0~+ 0.1~2~1
+InfoAct_id_301~refute~B-ID-49~B-ID-55~IP-7~0~- 0.1~2~1
+InfoAct_id_302~refute~B-ID-49~B-ID-64~IP-9~0~- 0.1~2~1
+InfoAct_id_303~refute~B-ID-49~B-ID-78~IP-2~0~- 0.1~2~1
+InfoAct_id_304~refute~B-ID-49~B-ID-98~IP-5~0~- 0.1~2~1
+InfoAct_id_305~refute~B-ID-49~Gabrielius Landsbergis~IP-9~0~- 0.1~2~1
+InfoAct_id_306~refute~B-ID-49~Edvinas Regelskis~IP-2~0~- 0.1~2~1
+InfoAct_id_307~refute~B-ID-49~Father James Karklys ROC~IP-2~0~- 0.1~2~1
+InfoAct_id_308~amplify~B-ID-44~B-ID-64~IP-4~0~+ 0.1~2~1
+InfoAct_id_309~amplify~B-ID-44~B-ID-65~IP-7~0~+ 0.1~2~1
+InfoAct_id_310~refute~B-ID-44~B-ID-69~IP-2~0~- 0.1~2~1
+InfoAct_id_311~amplify~B-ID-44~B-ID-83~IP-9~0~+ 0.1~2~1
+InfoAct_id_312~refute~B-ID-44~B-ID-89~IP-3~0~- 0.1~2~1
+InfoAct_id_313~refute~B-ID-44~B-ID-92~IP-9~0~- 0.1~2~1
+InfoAct_id_314~amplify~B-ID-44~Viktorija Smilyte-Nielsen~IP-4~0~+ 0.1~2~1

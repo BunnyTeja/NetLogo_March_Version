@@ -1,0 +1,84 @@
+information_action_id~information_action_type~sending_agent_id~receiving_agent_id~information_packet_id~endorsed_agent_id~change_in_amplification~tick~simulation_id
+InfoAct_id_1~refute~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-195~0~- 0.1~1~1
+InfoAct_id_2~amplify~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-193~0~- 0.1~1~1
+InfoAct_id_3~amplify~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-193~0~- 0.1~1~1
+InfoAct_id_4~amplify~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-193~0~- 0.1~1~1
+InfoAct_id_5~amplify~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-199~0~+ 0.1~1~1
+InfoAct_id_6~amplify~L24 (l24.lt)~B-ID-16~IP-345~0~+ 0.1~1~1
+InfoAct_id_7~amplify~L24 (l24.lt)~B-ID-35~IP-348~0~+ 0.1~1~1
+InfoAct_id_8~amplify~L24 (l24.lt)~B-ID-41~IP-347~0~+ 0.1~1~1
+InfoAct_id_9~amplify~L24 (l24.lt)~B-ID-43~IP-342~0~- 0.1~1~1
+InfoAct_id_10~amplify~L24 (l24.lt)~B-ID-76~IP-348~0~+ 0.1~1~1
+InfoAct_id_11~refute~L24 (l24.lt)~Virgis Bagdonas~IP-352~0~+ 0.1~1~1
+InfoAct_id_12~amplify~Delfi LT (delfi.lt)~B-ID-9~IP-426~0~+ 0.1~1~1
+InfoAct_id_13~amplify~Delfi LT (delfi.lt)~B-ID-16~IP-423~0~+ 0.1~1~1
+InfoAct_id_14~amplify~Delfi LT (delfi.lt)~B-ID-21~IP-422~0~- 0.1~1~1
+InfoAct_id_15~amplify~Delfi LT (delfi.lt)~B-ID-22~IP-426~0~+ 0.1~1~1
+InfoAct_id_16~refute~Delfi LT (delfi.lt)~B-ID-30~IP-426~0~- 0.1~1~1
+InfoAct_id_17~amplify~Delfi LT (delfi.lt)~B-ID-32~IP-426~0~+ 0.1~1~1
+InfoAct_id_18~amplify~Delfi LT (delfi.lt)~B-ID-33~IP-425~0~+ 0.1~1~1
+InfoAct_id_19~refute~Delfi LT (delfi.lt)~B-ID-35~IP-429~0~- 0.1~1~1
+InfoAct_id_20~refute~Delfi LT (delfi.lt)~B-ID-36~IP-426~0~- 0.1~1~1
+InfoAct_id_21~amplify~Delfi LT (delfi.lt)~B-ID-38~IP-429~0~+ 0.1~1~1
+InfoAct_id_22~amplify~Delfi LT (delfi.lt)~B-ID-40~IP-427~0~+ 0.1~1~1
+InfoAct_id_23~amplify~Delfi LT (delfi.lt)~B-ID-41~IP-426~0~+ 0.1~1~1
+InfoAct_id_24~refute~Delfi LT (delfi.lt)~B-ID-43~IP-425~0~- 0.1~1~1
+InfoAct_id_25~refute~Delfi LT (delfi.lt)~B-ID-46~IP-429~0~- 0.1~1~1
+InfoAct_id_26~refute~Delfi LT (delfi.lt)~B-ID-48~IP-422~0~+ 0.1~1~1
+InfoAct_id_27~amplify~Delfi LT (delfi.lt)~B-ID-53~IP-422~0~- 0.1~1~1
+InfoAct_id_28~refute~Delfi LT (delfi.lt)~B-ID-59~IP-422~0~+ 0.1~1~1
+InfoAct_id_29~refute~Delfi LT (delfi.lt)~B-ID-60~IP-427~0~- 0.1~1~1
+InfoAct_id_30~amplify~Delfi LT (delfi.lt)~B-ID-61~IP-427~0~+ 0.1~1~1
+InfoAct_id_31~refute~Delfi LT (delfi.lt)~B-ID-62~IP-425~0~- 0.1~1~1
+InfoAct_id_32~refute~Delfi LT (delfi.lt)~B-ID-64~IP-426~0~- 0.1~1~1
+InfoAct_id_33~amplify~Delfi LT (delfi.lt)~B-ID-67~IP-424~0~- 0.1~1~1
+InfoAct_id_34~amplify~Delfi LT (delfi.lt)~B-ID-68~IP-427~0~+ 0.1~1~1
+InfoAct_id_35~amplify~Delfi LT (delfi.lt)~B-ID-74~IP-427~0~+ 0.1~1~1
+InfoAct_id_36~refute~Delfi LT (delfi.lt)~B-ID-76~IP-428~0~- 0.1~1~1
+InfoAct_id_37~amplify~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-423~0~- 0.1~1~1
+InfoAct_id_38~amplify~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-425~0~+ 0.1~1~1
+InfoAct_id_39~amplify~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-422~0~- 0.1~1~1
+InfoAct_id_40~amplify~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-424~0~- 0.1~1~1
+InfoAct_id_41~refute~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-423~0~- 0.1~1~1
+InfoAct_id_42~refute~Delfi LT (delfi.lt)~Edita Baniene~IP-425~0~- 0.1~1~1
+InfoAct_id_43~amplify~Delfi LT (delfi.lt)~Egle Juzu~IP-425~0~+ 0.1~1~1
+InfoAct_id_44~amplify~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-425~0~+ 0.1~1~1
+InfoAct_id_45~refute~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-428~0~- 0.1~1~1
+InfoAct_id_46~amplify~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-425~0~+ 0.1~1~1
+InfoAct_id_47~amplify~Diena (Diena.lt)~B-ID-4~IP-115~0~+ 0.1~1~1
+InfoAct_id_48~refute~Diena (Diena.lt)~B-ID-6~IP-112~0~+ 0.1~1~1
+InfoAct_id_49~amplify~Diena (Diena.lt)~B-ID-23~IP-116~0~+ 0.1~1~1
+InfoAct_id_50~refute~Diena (Diena.lt)~B-ID-31~IP-112~0~+ 0.1~1~1
+InfoAct_id_51~amplify~Diena (Diena.lt)~B-ID-44~IP-117~0~+ 0.1~1~1
+InfoAct_id_52~amplify~Diena (Diena.lt)~B-ID-76~IP-118~0~+ 0.1~1~1
+InfoAct_id_53~amplify~15min (15min.lt)~B-ID-14~IP-273~0~- 0.1~1~1
+InfoAct_id_54~amplify~15min (15min.lt)~B-ID-57~IP-278~0~- 0.1~1~1
+InfoAct_id_55~refute~15min (15min.lt)~Arvydas Sabonis~IP-276~0~- 0.1~1~1
+InfoAct_id_56~amplify~15min (15min.lt)~Austeja Landsbergiene~IP-276~0~- 0.1~1~1
+InfoAct_id_57~amplify~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-277~0~- 0.1~1~1
+InfoAct_id_58~amplify~15min (15min.lt)~Sonata Patkauskait?~IP-278~0~- 0.1~1~1
+InfoAct_id_59~refute~15min (15min.lt)~Edvinas Regelskis~IP-279~0~- 0.1~1~1
+InfoAct_id_60~amplify~15min (15min.lt)~Gintare Guzevi?i?t?~IP-283~0~- 0.1~1~1
+InfoAct_id_61~amplify~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-275~0~- 0.1~1~1
+InfoAct_id_62~amplify~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-279~0~+ 0.1~1~1
+InfoAct_id_63~refute~15min (15min.lt)~Arvydas Giedraitis~IP-279~0~- 0.1~1~1
+InfoAct_id_64~refute~LRT (lrt.lt)~B-ID-16~IP-1~0~+ 0.1~1~1
+InfoAct_id_65~amplify~LRT (lrt.lt)~B-ID-31~IP-2~0~+ 0.1~1~1
+InfoAct_id_66~amplify~LRT (lrt.lt)~B-ID-33~IP-4~0~+ 0.1~1~1
+InfoAct_id_67~refute~LRT (lrt.lt)~B-ID-43~IP-7~0~- 0.1~1~1
+InfoAct_id_68~refute~LRT (lrt.lt)~B-ID-44~IP-8~0~+ 0.1~1~1
+InfoAct_id_69~amplify~LRT (lrt.lt)~B-ID-49~IP-2~0~+ 0.1~1~1
+InfoAct_id_70~amplify~LRT (lrt.lt)~B-ID-60~IP-9~0~+ 0.1~1~1
+InfoAct_id_71~refute~LRT (lrt.lt)~B-ID-64~IP-4~0~- 0.1~1~1
+InfoAct_id_72~refute~LRT (lrt.lt)~B-ID-66~IP-10~0~+ 0.1~1~1
+InfoAct_id_73~refute~LRT (lrt.lt)~B-ID-74~IP-10~0~+ 0.1~1~1
+InfoAct_id_74~refute~LRT (lrt.lt)~B-ID-76~IP-10~0~+ 0.1~1~1
+InfoAct_id_75~amplify~LRT (lrt.lt)~Austeja Landsbergiene~IP-7~0~+ 0.1~1~1
+InfoAct_id_76~amplify~LRT (lrt.lt)~Simonas Gurevicius~IP-10~0~- 0.1~1~1
+InfoAct_id_77~amplify~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-4~0~+ 0.1~1~1
+InfoAct_id_78~amplify~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-8~0~- 0.1~1~1
+InfoAct_id_79~amplify~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-9~0~+ 0.1~1~1
+InfoAct_id_80~refute~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-9~0~- 0.1~1~1
+InfoAct_id_81~amplify~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-8~0~- 0.1~1~1
+InfoAct_id_82~refute~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-6~0~+ 0.1~1~1
+InfoAct_id_83~amplify~LRT (lrt.lt)~Audrius Ciuplys~IP-2~0~+ 0.1~1~1
