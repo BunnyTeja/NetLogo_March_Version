@@ -1,793 +1,793 @@
 information_action_id~information_action_type~sending_agent_id~receiving_agent_id~information_packet_id~endorsed_agent_id~change_in_amplification~tick~simulation_id
-InfoAct_id_1~send~15min (15min.lt)~B-ID-14~IP-278~0~0~1~1
-InfoAct_id_2~send~15min (15min.lt)~B-ID-14~IP-272~0~0~1~1
-InfoAct_id_3~send~15min (15min.lt)~B-ID-14~IP-273~0~0~1~1
-InfoAct_id_4~send~15min (15min.lt)~B-ID-14~IP-274~0~0~1~1
-InfoAct_id_5~send~15min (15min.lt)~B-ID-14~IP-275~0~0~1~1
-InfoAct_id_6~send~15min (15min.lt)~B-ID-14~IP-276~0~0~1~1
-InfoAct_id_7~send~15min (15min.lt)~B-ID-14~IP-277~0~0~1~1
-InfoAct_id_8~send~15min (15min.lt)~B-ID-14~IP-278~0~0~1~1
-InfoAct_id_9~send~15min (15min.lt)~B-ID-14~IP-279~0~0~1~1
-InfoAct_id_10~send~15min (15min.lt)~B-ID-14~IP-283~0~0~1~1
-InfoAct_id_11~send~15min (15min.lt)~B-ID-57~IP-283~0~-0.1~1~1
-InfoAct_id_12~send~15min (15min.lt)~B-ID-57~IP-272~0~0~1~1
-InfoAct_id_13~send~15min (15min.lt)~B-ID-57~IP-273~0~0~1~1
-InfoAct_id_14~send~15min (15min.lt)~B-ID-57~IP-274~0~0~1~1
-InfoAct_id_15~send~15min (15min.lt)~B-ID-57~IP-275~0~0~1~1
-InfoAct_id_16~send~15min (15min.lt)~B-ID-57~IP-276~0~0~1~1
-InfoAct_id_17~send~15min (15min.lt)~B-ID-57~IP-277~0~0~1~1
-InfoAct_id_18~send~15min (15min.lt)~B-ID-57~IP-278~0~0~1~1
-InfoAct_id_19~send~15min (15min.lt)~B-ID-57~IP-279~0~0~1~1
-InfoAct_id_20~send~15min (15min.lt)~B-ID-57~IP-283~0~0~1~1
-InfoAct_id_21~send~15min (15min.lt)~Arvydas Sabonis~IP-278~0~-0.1~1~1
-InfoAct_id_22~send~15min (15min.lt)~Arvydas Sabonis~IP-272~0~0~1~1
-InfoAct_id_23~send~15min (15min.lt)~Arvydas Sabonis~IP-273~0~0~1~1
-InfoAct_id_24~send~15min (15min.lt)~Arvydas Sabonis~IP-274~0~0~1~1
-InfoAct_id_25~send~15min (15min.lt)~Arvydas Sabonis~IP-275~0~0~1~1
-InfoAct_id_26~send~15min (15min.lt)~Arvydas Sabonis~IP-276~0~0~1~1
-InfoAct_id_27~send~15min (15min.lt)~Arvydas Sabonis~IP-277~0~0~1~1
-InfoAct_id_28~send~15min (15min.lt)~Arvydas Sabonis~IP-278~0~0~1~1
-InfoAct_id_29~send~15min (15min.lt)~Arvydas Sabonis~IP-279~0~0~1~1
-InfoAct_id_30~send~15min (15min.lt)~Arvydas Sabonis~IP-283~0~0~1~1
-InfoAct_id_31~send~15min (15min.lt)~Austeja Landsbergiene~IP-273~0~-0.1~1~1
-InfoAct_id_32~send~15min (15min.lt)~Austeja Landsbergiene~IP-272~0~0~1~1
-InfoAct_id_33~send~15min (15min.lt)~Austeja Landsbergiene~IP-273~0~0~1~1
-InfoAct_id_34~send~15min (15min.lt)~Austeja Landsbergiene~IP-274~0~0~1~1
-InfoAct_id_35~send~15min (15min.lt)~Austeja Landsbergiene~IP-275~0~0~1~1
-InfoAct_id_36~send~15min (15min.lt)~Austeja Landsbergiene~IP-276~0~0~1~1
-InfoAct_id_37~send~15min (15min.lt)~Austeja Landsbergiene~IP-277~0~0~1~1
-InfoAct_id_38~send~15min (15min.lt)~Austeja Landsbergiene~IP-278~0~0~1~1
-InfoAct_id_39~send~15min (15min.lt)~Austeja Landsbergiene~IP-279~0~0~1~1
-InfoAct_id_40~send~15min (15min.lt)~Austeja Landsbergiene~IP-283~0~0~1~1
-InfoAct_id_41~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-272~0~-0.1~1~1
-InfoAct_id_42~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-272~0~0~1~1
-InfoAct_id_43~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-273~0~0~1~1
-InfoAct_id_44~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-274~0~0~1~1
-InfoAct_id_45~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-275~0~0~1~1
-InfoAct_id_46~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-276~0~0~1~1
-InfoAct_id_47~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-277~0~0~1~1
-InfoAct_id_48~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-278~0~0~1~1
-InfoAct_id_49~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-279~0~0~1~1
-InfoAct_id_50~send~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-283~0~0~1~1
-InfoAct_id_51~send~15min (15min.lt)~Sonata Patkauskait?~IP-278~0~-0.1~1~1
-InfoAct_id_52~send~15min (15min.lt)~Sonata Patkauskait?~IP-272~0~0~1~1
-InfoAct_id_53~send~15min (15min.lt)~Sonata Patkauskait?~IP-273~0~0~1~1
-InfoAct_id_54~send~15min (15min.lt)~Sonata Patkauskait?~IP-274~0~0~1~1
-InfoAct_id_55~send~15min (15min.lt)~Sonata Patkauskait?~IP-275~0~0~1~1
-InfoAct_id_56~send~15min (15min.lt)~Sonata Patkauskait?~IP-276~0~0~1~1
-InfoAct_id_57~send~15min (15min.lt)~Sonata Patkauskait?~IP-277~0~0~1~1
-InfoAct_id_58~send~15min (15min.lt)~Sonata Patkauskait?~IP-278~0~0~1~1
-InfoAct_id_59~send~15min (15min.lt)~Sonata Patkauskait?~IP-279~0~0~1~1
-InfoAct_id_60~send~15min (15min.lt)~Sonata Patkauskait?~IP-283~0~0~1~1
-InfoAct_id_61~send~15min (15min.lt)~Edvinas Regelskis~IP-277~0~-0.1~1~1
-InfoAct_id_62~send~15min (15min.lt)~Edvinas Regelskis~IP-272~0~0~1~1
-InfoAct_id_63~send~15min (15min.lt)~Edvinas Regelskis~IP-273~0~0~1~1
-InfoAct_id_64~send~15min (15min.lt)~Edvinas Regelskis~IP-274~0~0~1~1
-InfoAct_id_65~send~15min (15min.lt)~Edvinas Regelskis~IP-275~0~0~1~1
-InfoAct_id_66~send~15min (15min.lt)~Edvinas Regelskis~IP-276~0~0~1~1
-InfoAct_id_67~send~15min (15min.lt)~Edvinas Regelskis~IP-277~0~0~1~1
-InfoAct_id_68~send~15min (15min.lt)~Edvinas Regelskis~IP-278~0~0~1~1
-InfoAct_id_69~send~15min (15min.lt)~Edvinas Regelskis~IP-279~0~0~1~1
-InfoAct_id_70~send~15min (15min.lt)~Edvinas Regelskis~IP-283~0~0~1~1
-InfoAct_id_71~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-279~0~+0.1~1~1
-InfoAct_id_72~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-272~0~0~1~1
-InfoAct_id_73~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-273~0~0~1~1
-InfoAct_id_74~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-274~0~0~1~1
-InfoAct_id_75~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-275~0~0~1~1
-InfoAct_id_76~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-276~0~0~1~1
-InfoAct_id_77~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-277~0~0~1~1
-InfoAct_id_78~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-278~0~0~1~1
-InfoAct_id_79~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-279~0~0~1~1
-InfoAct_id_80~send~15min (15min.lt)~Gintare Guzevi?i?t?~IP-283~0~0~1~1
-InfoAct_id_81~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-277~0~+0.1~1~1
-InfoAct_id_82~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-272~0~0~1~1
-InfoAct_id_83~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-273~0~0~1~1
-InfoAct_id_84~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-274~0~0~1~1
-InfoAct_id_85~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-275~0~0~1~1
-InfoAct_id_86~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-276~0~0~1~1
-InfoAct_id_87~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-277~0~0~1~1
-InfoAct_id_88~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-278~0~0~1~1
-InfoAct_id_89~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-279~0~0~1~1
-InfoAct_id_90~send~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-283~0~0~1~1
-InfoAct_id_91~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-277~0~+0.1~1~1
-InfoAct_id_92~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-272~0~0~1~1
-InfoAct_id_93~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-273~0~0~1~1
-InfoAct_id_94~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-274~0~0~1~1
-InfoAct_id_95~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-275~0~0~1~1
-InfoAct_id_96~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-276~0~0~1~1
-InfoAct_id_97~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-277~0~0~1~1
-InfoAct_id_98~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-278~0~0~1~1
-InfoAct_id_99~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-279~0~0~1~1
-InfoAct_id_100~send~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-283~0~0~1~1
-InfoAct_id_101~send~15min (15min.lt)~Arvydas Giedraitis~IP-276~0~+0.1~1~1
-InfoAct_id_102~send~15min (15min.lt)~Arvydas Giedraitis~IP-272~0~0~1~1
-InfoAct_id_103~send~15min (15min.lt)~Arvydas Giedraitis~IP-273~0~0~1~1
-InfoAct_id_104~send~15min (15min.lt)~Arvydas Giedraitis~IP-274~0~0~1~1
-InfoAct_id_105~send~15min (15min.lt)~Arvydas Giedraitis~IP-275~0~0~1~1
-InfoAct_id_106~send~15min (15min.lt)~Arvydas Giedraitis~IP-276~0~0~1~1
-InfoAct_id_107~send~15min (15min.lt)~Arvydas Giedraitis~IP-277~0~0~1~1
-InfoAct_id_108~send~15min (15min.lt)~Arvydas Giedraitis~IP-278~0~0~1~1
-InfoAct_id_109~send~15min (15min.lt)~Arvydas Giedraitis~IP-279~0~0~1~1
-InfoAct_id_110~send~15min (15min.lt)~Arvydas Giedraitis~IP-283~0~0~1~1
-InfoAct_id_111~send~Delfi LT (delfi.lt)~B-ID-9~IP-426~0~+0.1~1~1
-InfoAct_id_112~send~Delfi LT (delfi.lt)~B-ID-9~IP-422~0~0~1~1
-InfoAct_id_113~send~Delfi LT (delfi.lt)~B-ID-9~IP-423~0~0~1~1
-InfoAct_id_114~send~Delfi LT (delfi.lt)~B-ID-9~IP-424~0~0~1~1
-InfoAct_id_115~send~Delfi LT (delfi.lt)~B-ID-9~IP-425~0~0~1~1
-InfoAct_id_116~send~Delfi LT (delfi.lt)~B-ID-9~IP-426~0~0~1~1
-InfoAct_id_117~send~Delfi LT (delfi.lt)~B-ID-9~IP-427~0~0~1~1
-InfoAct_id_118~send~Delfi LT (delfi.lt)~B-ID-9~IP-428~0~0~1~1
-InfoAct_id_119~send~Delfi LT (delfi.lt)~B-ID-9~IP-429~0~0~1~1
-InfoAct_id_120~send~Delfi LT (delfi.lt)~B-ID-16~IP-422~0~-0.1~1~1
-InfoAct_id_121~send~Delfi LT (delfi.lt)~B-ID-16~IP-422~0~0~1~1
-InfoAct_id_122~send~Delfi LT (delfi.lt)~B-ID-16~IP-423~0~0~1~1
-InfoAct_id_123~send~Delfi LT (delfi.lt)~B-ID-16~IP-424~0~0~1~1
-InfoAct_id_124~send~Delfi LT (delfi.lt)~B-ID-16~IP-425~0~0~1~1
-InfoAct_id_125~send~Delfi LT (delfi.lt)~B-ID-16~IP-426~0~0~1~1
-InfoAct_id_126~send~Delfi LT (delfi.lt)~B-ID-16~IP-427~0~0~1~1
-InfoAct_id_127~send~Delfi LT (delfi.lt)~B-ID-16~IP-428~0~0~1~1
-InfoAct_id_128~send~Delfi LT (delfi.lt)~B-ID-16~IP-429~0~0~1~1
-InfoAct_id_129~send~Delfi LT (delfi.lt)~B-ID-21~IP-426~0~+0.1~1~1
-InfoAct_id_130~send~Delfi LT (delfi.lt)~B-ID-21~IP-422~0~0~1~1
-InfoAct_id_131~send~Delfi LT (delfi.lt)~B-ID-21~IP-423~0~0~1~1
-InfoAct_id_132~send~Delfi LT (delfi.lt)~B-ID-21~IP-424~0~0~1~1
-InfoAct_id_133~send~Delfi LT (delfi.lt)~B-ID-21~IP-425~0~0~1~1
-InfoAct_id_134~send~Delfi LT (delfi.lt)~B-ID-21~IP-426~0~0~1~1
-InfoAct_id_135~send~Delfi LT (delfi.lt)~B-ID-21~IP-427~0~0~1~1
-InfoAct_id_136~send~Delfi LT (delfi.lt)~B-ID-21~IP-428~0~0~1~1
-InfoAct_id_137~send~Delfi LT (delfi.lt)~B-ID-21~IP-429~0~0~1~1
-InfoAct_id_138~send~Delfi LT (delfi.lt)~B-ID-22~IP-423~0~+0.1~1~1
-InfoAct_id_139~send~Delfi LT (delfi.lt)~B-ID-22~IP-422~0~0~1~1
-InfoAct_id_140~send~Delfi LT (delfi.lt)~B-ID-22~IP-423~0~0~1~1
-InfoAct_id_141~send~Delfi LT (delfi.lt)~B-ID-22~IP-424~0~0~1~1
-InfoAct_id_142~send~Delfi LT (delfi.lt)~B-ID-22~IP-425~0~0~1~1
-InfoAct_id_143~send~Delfi LT (delfi.lt)~B-ID-22~IP-426~0~0~1~1
-InfoAct_id_144~send~Delfi LT (delfi.lt)~B-ID-22~IP-427~0~0~1~1
-InfoAct_id_145~send~Delfi LT (delfi.lt)~B-ID-22~IP-428~0~0~1~1
-InfoAct_id_146~send~Delfi LT (delfi.lt)~B-ID-22~IP-429~0~0~1~1
-InfoAct_id_147~send~Delfi LT (delfi.lt)~B-ID-30~IP-426~0~+0.1~1~1
-InfoAct_id_148~send~Delfi LT (delfi.lt)~B-ID-30~IP-422~0~0~1~1
-InfoAct_id_149~send~Delfi LT (delfi.lt)~B-ID-30~IP-423~0~0~1~1
-InfoAct_id_150~send~Delfi LT (delfi.lt)~B-ID-30~IP-424~0~0~1~1
-InfoAct_id_151~send~Delfi LT (delfi.lt)~B-ID-30~IP-425~0~0~1~1
-InfoAct_id_152~send~Delfi LT (delfi.lt)~B-ID-30~IP-426~0~0~1~1
-InfoAct_id_153~send~Delfi LT (delfi.lt)~B-ID-30~IP-427~0~0~1~1
-InfoAct_id_154~send~Delfi LT (delfi.lt)~B-ID-30~IP-428~0~0~1~1
-InfoAct_id_155~send~Delfi LT (delfi.lt)~B-ID-30~IP-429~0~0~1~1
-InfoAct_id_156~send~Delfi LT (delfi.lt)~B-ID-32~IP-423~0~+0.1~1~1
-InfoAct_id_157~send~Delfi LT (delfi.lt)~B-ID-32~IP-422~0~0~1~1
-InfoAct_id_158~send~Delfi LT (delfi.lt)~B-ID-32~IP-423~0~0~1~1
-InfoAct_id_159~send~Delfi LT (delfi.lt)~B-ID-32~IP-424~0~0~1~1
-InfoAct_id_160~send~Delfi LT (delfi.lt)~B-ID-32~IP-425~0~0~1~1
-InfoAct_id_161~send~Delfi LT (delfi.lt)~B-ID-32~IP-426~0~0~1~1
-InfoAct_id_162~send~Delfi LT (delfi.lt)~B-ID-32~IP-427~0~0~1~1
-InfoAct_id_163~send~Delfi LT (delfi.lt)~B-ID-32~IP-428~0~0~1~1
-InfoAct_id_164~send~Delfi LT (delfi.lt)~B-ID-32~IP-429~0~0~1~1
-InfoAct_id_165~send~Delfi LT (delfi.lt)~B-ID-33~IP-422~0~-0.1~1~1
-InfoAct_id_166~send~Delfi LT (delfi.lt)~B-ID-33~IP-422~0~0~1~1
-InfoAct_id_167~send~Delfi LT (delfi.lt)~B-ID-33~IP-423~0~0~1~1
-InfoAct_id_168~send~Delfi LT (delfi.lt)~B-ID-33~IP-424~0~0~1~1
-InfoAct_id_169~send~Delfi LT (delfi.lt)~B-ID-33~IP-425~0~0~1~1
-InfoAct_id_170~send~Delfi LT (delfi.lt)~B-ID-33~IP-426~0~0~1~1
-InfoAct_id_171~send~Delfi LT (delfi.lt)~B-ID-33~IP-427~0~0~1~1
-InfoAct_id_172~send~Delfi LT (delfi.lt)~B-ID-33~IP-428~0~0~1~1
-InfoAct_id_173~send~Delfi LT (delfi.lt)~B-ID-33~IP-429~0~0~1~1
-InfoAct_id_174~send~Delfi LT (delfi.lt)~B-ID-35~IP-423~0~-0.1~1~1
-InfoAct_id_175~send~Delfi LT (delfi.lt)~B-ID-35~IP-422~0~0~1~1
-InfoAct_id_176~send~Delfi LT (delfi.lt)~B-ID-35~IP-423~0~0~1~1
-InfoAct_id_177~send~Delfi LT (delfi.lt)~B-ID-35~IP-424~0~0~1~1
-InfoAct_id_178~send~Delfi LT (delfi.lt)~B-ID-35~IP-425~0~0~1~1
-InfoAct_id_179~send~Delfi LT (delfi.lt)~B-ID-35~IP-426~0~0~1~1
-InfoAct_id_180~send~Delfi LT (delfi.lt)~B-ID-35~IP-427~0~0~1~1
-InfoAct_id_181~send~Delfi LT (delfi.lt)~B-ID-35~IP-428~0~0~1~1
-InfoAct_id_182~send~Delfi LT (delfi.lt)~B-ID-35~IP-429~0~0~1~1
-InfoAct_id_183~send~Delfi LT (delfi.lt)~B-ID-36~IP-425~0~-0.1~1~1
-InfoAct_id_184~send~Delfi LT (delfi.lt)~B-ID-36~IP-422~0~0~1~1
-InfoAct_id_185~send~Delfi LT (delfi.lt)~B-ID-36~IP-423~0~0~1~1
-InfoAct_id_186~send~Delfi LT (delfi.lt)~B-ID-36~IP-424~0~0~1~1
-InfoAct_id_187~send~Delfi LT (delfi.lt)~B-ID-36~IP-425~0~0~1~1
-InfoAct_id_188~send~Delfi LT (delfi.lt)~B-ID-36~IP-426~0~0~1~1
-InfoAct_id_189~send~Delfi LT (delfi.lt)~B-ID-36~IP-427~0~0~1~1
-InfoAct_id_190~send~Delfi LT (delfi.lt)~B-ID-36~IP-428~0~0~1~1
-InfoAct_id_191~send~Delfi LT (delfi.lt)~B-ID-36~IP-429~0~0~1~1
-InfoAct_id_192~send~Delfi LT (delfi.lt)~B-ID-38~IP-422~0~-0.1~1~1
-InfoAct_id_193~send~Delfi LT (delfi.lt)~B-ID-38~IP-422~0~0~1~1
-InfoAct_id_194~send~Delfi LT (delfi.lt)~B-ID-38~IP-423~0~0~1~1
-InfoAct_id_195~send~Delfi LT (delfi.lt)~B-ID-38~IP-424~0~0~1~1
-InfoAct_id_196~send~Delfi LT (delfi.lt)~B-ID-38~IP-425~0~0~1~1
-InfoAct_id_197~send~Delfi LT (delfi.lt)~B-ID-38~IP-426~0~0~1~1
-InfoAct_id_198~send~Delfi LT (delfi.lt)~B-ID-38~IP-427~0~0~1~1
-InfoAct_id_199~send~Delfi LT (delfi.lt)~B-ID-38~IP-428~0~0~1~1
-InfoAct_id_200~send~Delfi LT (delfi.lt)~B-ID-38~IP-429~0~0~1~1
-InfoAct_id_201~send~Delfi LT (delfi.lt)~B-ID-40~IP-425~0~+0.1~1~1
-InfoAct_id_202~send~Delfi LT (delfi.lt)~B-ID-40~IP-422~0~0~1~1
-InfoAct_id_203~send~Delfi LT (delfi.lt)~B-ID-40~IP-423~0~0~1~1
-InfoAct_id_204~send~Delfi LT (delfi.lt)~B-ID-40~IP-424~0~0~1~1
-InfoAct_id_205~send~Delfi LT (delfi.lt)~B-ID-40~IP-425~0~0~1~1
-InfoAct_id_206~send~Delfi LT (delfi.lt)~B-ID-40~IP-426~0~0~1~1
-InfoAct_id_207~send~Delfi LT (delfi.lt)~B-ID-40~IP-427~0~0~1~1
-InfoAct_id_208~send~Delfi LT (delfi.lt)~B-ID-40~IP-428~0~0~1~1
-InfoAct_id_209~send~Delfi LT (delfi.lt)~B-ID-40~IP-429~0~0~1~1
-InfoAct_id_210~send~Delfi LT (delfi.lt)~B-ID-41~IP-422~0~-0.1~1~1
-InfoAct_id_211~send~Delfi LT (delfi.lt)~B-ID-41~IP-422~0~0~1~1
-InfoAct_id_212~send~Delfi LT (delfi.lt)~B-ID-41~IP-423~0~0~1~1
-InfoAct_id_213~send~Delfi LT (delfi.lt)~B-ID-41~IP-424~0~0~1~1
-InfoAct_id_214~send~Delfi LT (delfi.lt)~B-ID-41~IP-425~0~0~1~1
-InfoAct_id_215~send~Delfi LT (delfi.lt)~B-ID-41~IP-426~0~0~1~1
-InfoAct_id_216~send~Delfi LT (delfi.lt)~B-ID-41~IP-427~0~0~1~1
-InfoAct_id_217~send~Delfi LT (delfi.lt)~B-ID-41~IP-428~0~0~1~1
-InfoAct_id_218~send~Delfi LT (delfi.lt)~B-ID-41~IP-429~0~0~1~1
-InfoAct_id_219~send~Delfi LT (delfi.lt)~B-ID-43~IP-427~0~+0.1~1~1
-InfoAct_id_220~send~Delfi LT (delfi.lt)~B-ID-43~IP-422~0~0~1~1
-InfoAct_id_221~send~Delfi LT (delfi.lt)~B-ID-43~IP-423~0~0~1~1
-InfoAct_id_222~send~Delfi LT (delfi.lt)~B-ID-43~IP-424~0~0~1~1
-InfoAct_id_223~send~Delfi LT (delfi.lt)~B-ID-43~IP-425~0~0~1~1
-InfoAct_id_224~send~Delfi LT (delfi.lt)~B-ID-43~IP-426~0~0~1~1
-InfoAct_id_225~send~Delfi LT (delfi.lt)~B-ID-43~IP-427~0~0~1~1
-InfoAct_id_226~send~Delfi LT (delfi.lt)~B-ID-43~IP-428~0~0~1~1
-InfoAct_id_227~send~Delfi LT (delfi.lt)~B-ID-43~IP-429~0~0~1~1
-InfoAct_id_228~send~Delfi LT (delfi.lt)~B-ID-46~IP-426~0~+0.1~1~1
-InfoAct_id_229~send~Delfi LT (delfi.lt)~B-ID-46~IP-422~0~0~1~1
-InfoAct_id_230~send~Delfi LT (delfi.lt)~B-ID-46~IP-423~0~0~1~1
-InfoAct_id_231~send~Delfi LT (delfi.lt)~B-ID-46~IP-424~0~0~1~1
-InfoAct_id_232~send~Delfi LT (delfi.lt)~B-ID-46~IP-425~0~0~1~1
-InfoAct_id_233~send~Delfi LT (delfi.lt)~B-ID-46~IP-426~0~0~1~1
-InfoAct_id_234~send~Delfi LT (delfi.lt)~B-ID-46~IP-427~0~0~1~1
-InfoAct_id_235~send~Delfi LT (delfi.lt)~B-ID-46~IP-428~0~0~1~1
-InfoAct_id_236~send~Delfi LT (delfi.lt)~B-ID-46~IP-429~0~0~1~1
-InfoAct_id_237~send~Delfi LT (delfi.lt)~B-ID-48~IP-426~0~-0.1~1~1
-InfoAct_id_238~send~Delfi LT (delfi.lt)~B-ID-48~IP-422~0~0~1~1
-InfoAct_id_239~send~Delfi LT (delfi.lt)~B-ID-48~IP-423~0~0~1~1
-InfoAct_id_240~send~Delfi LT (delfi.lt)~B-ID-48~IP-424~0~0~1~1
-InfoAct_id_241~send~Delfi LT (delfi.lt)~B-ID-48~IP-425~0~0~1~1
-InfoAct_id_242~send~Delfi LT (delfi.lt)~B-ID-48~IP-426~0~0~1~1
-InfoAct_id_243~send~Delfi LT (delfi.lt)~B-ID-48~IP-427~0~0~1~1
-InfoAct_id_244~send~Delfi LT (delfi.lt)~B-ID-48~IP-428~0~0~1~1
-InfoAct_id_245~send~Delfi LT (delfi.lt)~B-ID-48~IP-429~0~0~1~1
-InfoAct_id_246~send~Delfi LT (delfi.lt)~B-ID-53~IP-424~0~-0.1~1~1
-InfoAct_id_247~send~Delfi LT (delfi.lt)~B-ID-53~IP-422~0~0~1~1
-InfoAct_id_248~send~Delfi LT (delfi.lt)~B-ID-53~IP-423~0~0~1~1
-InfoAct_id_249~send~Delfi LT (delfi.lt)~B-ID-53~IP-424~0~0~1~1
-InfoAct_id_250~send~Delfi LT (delfi.lt)~B-ID-53~IP-425~0~0~1~1
-InfoAct_id_251~send~Delfi LT (delfi.lt)~B-ID-53~IP-426~0~0~1~1
-InfoAct_id_252~send~Delfi LT (delfi.lt)~B-ID-53~IP-427~0~0~1~1
-InfoAct_id_253~send~Delfi LT (delfi.lt)~B-ID-53~IP-428~0~0~1~1
-InfoAct_id_254~send~Delfi LT (delfi.lt)~B-ID-53~IP-429~0~0~1~1
-InfoAct_id_255~send~Delfi LT (delfi.lt)~B-ID-59~IP-429~0~-0.1~1~1
-InfoAct_id_256~send~Delfi LT (delfi.lt)~B-ID-59~IP-422~0~0~1~1
-InfoAct_id_257~send~Delfi LT (delfi.lt)~B-ID-59~IP-423~0~0~1~1
-InfoAct_id_258~send~Delfi LT (delfi.lt)~B-ID-59~IP-424~0~0~1~1
-InfoAct_id_259~send~Delfi LT (delfi.lt)~B-ID-59~IP-425~0~0~1~1
-InfoAct_id_260~send~Delfi LT (delfi.lt)~B-ID-59~IP-426~0~0~1~1
-InfoAct_id_261~send~Delfi LT (delfi.lt)~B-ID-59~IP-427~0~0~1~1
-InfoAct_id_262~send~Delfi LT (delfi.lt)~B-ID-59~IP-428~0~0~1~1
-InfoAct_id_263~send~Delfi LT (delfi.lt)~B-ID-59~IP-429~0~0~1~1
-InfoAct_id_264~send~Delfi LT (delfi.lt)~B-ID-60~IP-423~0~-0.1~1~1
-InfoAct_id_265~send~Delfi LT (delfi.lt)~B-ID-60~IP-422~0~0~1~1
-InfoAct_id_266~send~Delfi LT (delfi.lt)~B-ID-60~IP-423~0~0~1~1
-InfoAct_id_267~send~Delfi LT (delfi.lt)~B-ID-60~IP-424~0~0~1~1
-InfoAct_id_268~send~Delfi LT (delfi.lt)~B-ID-60~IP-425~0~0~1~1
-InfoAct_id_269~send~Delfi LT (delfi.lt)~B-ID-60~IP-426~0~0~1~1
-InfoAct_id_270~send~Delfi LT (delfi.lt)~B-ID-60~IP-427~0~0~1~1
-InfoAct_id_271~send~Delfi LT (delfi.lt)~B-ID-60~IP-428~0~0~1~1
-InfoAct_id_272~send~Delfi LT (delfi.lt)~B-ID-60~IP-429~0~0~1~1
-InfoAct_id_273~send~Delfi LT (delfi.lt)~B-ID-61~IP-424~0~-0.1~1~1
-InfoAct_id_274~send~Delfi LT (delfi.lt)~B-ID-61~IP-422~0~0~1~1
-InfoAct_id_275~send~Delfi LT (delfi.lt)~B-ID-61~IP-423~0~0~1~1
-InfoAct_id_276~send~Delfi LT (delfi.lt)~B-ID-61~IP-424~0~0~1~1
-InfoAct_id_277~send~Delfi LT (delfi.lt)~B-ID-61~IP-425~0~0~1~1
-InfoAct_id_278~send~Delfi LT (delfi.lt)~B-ID-61~IP-426~0~0~1~1
-InfoAct_id_279~send~Delfi LT (delfi.lt)~B-ID-61~IP-427~0~0~1~1
-InfoAct_id_280~send~Delfi LT (delfi.lt)~B-ID-61~IP-428~0~0~1~1
-InfoAct_id_281~send~Delfi LT (delfi.lt)~B-ID-61~IP-429~0~0~1~1
-InfoAct_id_282~send~Delfi LT (delfi.lt)~B-ID-62~IP-427~0~-0.1~1~1
-InfoAct_id_283~send~Delfi LT (delfi.lt)~B-ID-62~IP-422~0~0~1~1
-InfoAct_id_284~send~Delfi LT (delfi.lt)~B-ID-62~IP-423~0~0~1~1
-InfoAct_id_285~send~Delfi LT (delfi.lt)~B-ID-62~IP-424~0~0~1~1
-InfoAct_id_286~send~Delfi LT (delfi.lt)~B-ID-62~IP-425~0~0~1~1
-InfoAct_id_287~send~Delfi LT (delfi.lt)~B-ID-62~IP-426~0~0~1~1
-InfoAct_id_288~send~Delfi LT (delfi.lt)~B-ID-62~IP-427~0~0~1~1
-InfoAct_id_289~send~Delfi LT (delfi.lt)~B-ID-62~IP-428~0~0~1~1
-InfoAct_id_290~send~Delfi LT (delfi.lt)~B-ID-62~IP-429~0~0~1~1
-InfoAct_id_291~send~Delfi LT (delfi.lt)~B-ID-64~IP-425~0~-0.1~1~1
-InfoAct_id_292~send~Delfi LT (delfi.lt)~B-ID-64~IP-422~0~0~1~1
-InfoAct_id_293~send~Delfi LT (delfi.lt)~B-ID-64~IP-423~0~0~1~1
-InfoAct_id_294~send~Delfi LT (delfi.lt)~B-ID-64~IP-424~0~0~1~1
-InfoAct_id_295~send~Delfi LT (delfi.lt)~B-ID-64~IP-425~0~0~1~1
-InfoAct_id_296~send~Delfi LT (delfi.lt)~B-ID-64~IP-426~0~0~1~1
-InfoAct_id_297~send~Delfi LT (delfi.lt)~B-ID-64~IP-427~0~0~1~1
-InfoAct_id_298~send~Delfi LT (delfi.lt)~B-ID-64~IP-428~0~0~1~1
-InfoAct_id_299~send~Delfi LT (delfi.lt)~B-ID-64~IP-429~0~0~1~1
-InfoAct_id_300~send~Delfi LT (delfi.lt)~B-ID-67~IP-424~0~-0.1~1~1
-InfoAct_id_301~send~Delfi LT (delfi.lt)~B-ID-67~IP-422~0~0~1~1
-InfoAct_id_302~send~Delfi LT (delfi.lt)~B-ID-67~IP-423~0~0~1~1
-InfoAct_id_303~send~Delfi LT (delfi.lt)~B-ID-67~IP-424~0~0~1~1
-InfoAct_id_304~send~Delfi LT (delfi.lt)~B-ID-67~IP-425~0~0~1~1
-InfoAct_id_305~send~Delfi LT (delfi.lt)~B-ID-67~IP-426~0~0~1~1
-InfoAct_id_306~send~Delfi LT (delfi.lt)~B-ID-67~IP-427~0~0~1~1
-InfoAct_id_307~send~Delfi LT (delfi.lt)~B-ID-67~IP-428~0~0~1~1
-InfoAct_id_308~send~Delfi LT (delfi.lt)~B-ID-67~IP-429~0~0~1~1
-InfoAct_id_309~send~Delfi LT (delfi.lt)~B-ID-68~IP-422~0~+0.1~1~1
-InfoAct_id_310~send~Delfi LT (delfi.lt)~B-ID-68~IP-422~0~0~1~1
-InfoAct_id_311~send~Delfi LT (delfi.lt)~B-ID-68~IP-423~0~0~1~1
-InfoAct_id_312~send~Delfi LT (delfi.lt)~B-ID-68~IP-424~0~0~1~1
-InfoAct_id_313~send~Delfi LT (delfi.lt)~B-ID-68~IP-425~0~0~1~1
-InfoAct_id_314~send~Delfi LT (delfi.lt)~B-ID-68~IP-426~0~0~1~1
-InfoAct_id_315~send~Delfi LT (delfi.lt)~B-ID-68~IP-427~0~0~1~1
-InfoAct_id_316~send~Delfi LT (delfi.lt)~B-ID-68~IP-428~0~0~1~1
-InfoAct_id_317~send~Delfi LT (delfi.lt)~B-ID-68~IP-429~0~0~1~1
-InfoAct_id_318~send~Delfi LT (delfi.lt)~B-ID-74~IP-427~0~-0.1~1~1
-InfoAct_id_319~send~Delfi LT (delfi.lt)~B-ID-74~IP-422~0~0~1~1
-InfoAct_id_320~send~Delfi LT (delfi.lt)~B-ID-74~IP-423~0~0~1~1
-InfoAct_id_321~send~Delfi LT (delfi.lt)~B-ID-74~IP-424~0~0~1~1
-InfoAct_id_322~send~Delfi LT (delfi.lt)~B-ID-74~IP-425~0~0~1~1
-InfoAct_id_323~send~Delfi LT (delfi.lt)~B-ID-74~IP-426~0~0~1~1
-InfoAct_id_324~send~Delfi LT (delfi.lt)~B-ID-74~IP-427~0~0~1~1
-InfoAct_id_325~send~Delfi LT (delfi.lt)~B-ID-74~IP-428~0~0~1~1
-InfoAct_id_326~send~Delfi LT (delfi.lt)~B-ID-74~IP-429~0~0~1~1
-InfoAct_id_327~send~Delfi LT (delfi.lt)~B-ID-76~IP-428~0~-0.1~1~1
-InfoAct_id_328~send~Delfi LT (delfi.lt)~B-ID-76~IP-422~0~0~1~1
-InfoAct_id_329~send~Delfi LT (delfi.lt)~B-ID-76~IP-423~0~0~1~1
-InfoAct_id_330~send~Delfi LT (delfi.lt)~B-ID-76~IP-424~0~0~1~1
-InfoAct_id_331~send~Delfi LT (delfi.lt)~B-ID-76~IP-425~0~0~1~1
-InfoAct_id_332~send~Delfi LT (delfi.lt)~B-ID-76~IP-426~0~0~1~1
-InfoAct_id_333~send~Delfi LT (delfi.lt)~B-ID-76~IP-427~0~0~1~1
-InfoAct_id_334~send~Delfi LT (delfi.lt)~B-ID-76~IP-428~0~0~1~1
-InfoAct_id_335~send~Delfi LT (delfi.lt)~B-ID-76~IP-429~0~0~1~1
-InfoAct_id_336~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-429~0~-0.1~1~1
-InfoAct_id_337~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-422~0~0~1~1
-InfoAct_id_338~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-423~0~0~1~1
-InfoAct_id_339~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-424~0~0~1~1
-InfoAct_id_340~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-425~0~0~1~1
-InfoAct_id_341~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-426~0~0~1~1
-InfoAct_id_342~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-427~0~0~1~1
-InfoAct_id_343~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-428~0~0~1~1
-InfoAct_id_344~send~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-429~0~0~1~1
-InfoAct_id_345~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-427~0~+0.1~1~1
-InfoAct_id_346~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-422~0~0~1~1
-InfoAct_id_347~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-423~0~0~1~1
-InfoAct_id_348~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-424~0~0~1~1
-InfoAct_id_349~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-425~0~0~1~1
-InfoAct_id_350~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-426~0~0~1~1
-InfoAct_id_351~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-427~0~0~1~1
-InfoAct_id_352~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-428~0~0~1~1
-InfoAct_id_353~send~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-429~0~0~1~1
-InfoAct_id_354~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-425~0~-0.1~1~1
-InfoAct_id_355~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-422~0~0~1~1
-InfoAct_id_356~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-423~0~0~1~1
-InfoAct_id_357~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-424~0~0~1~1
-InfoAct_id_358~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-425~0~0~1~1
-InfoAct_id_359~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-426~0~0~1~1
-InfoAct_id_360~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-427~0~0~1~1
-InfoAct_id_361~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-428~0~0~1~1
-InfoAct_id_362~send~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-429~0~0~1~1
-InfoAct_id_363~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-424~0~-0.1~1~1
-InfoAct_id_364~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-422~0~0~1~1
-InfoAct_id_365~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-423~0~0~1~1
-InfoAct_id_366~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-424~0~0~1~1
-InfoAct_id_367~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-425~0~0~1~1
-InfoAct_id_368~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-426~0~0~1~1
-InfoAct_id_369~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-427~0~0~1~1
-InfoAct_id_370~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-428~0~0~1~1
-InfoAct_id_371~send~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-429~0~0~1~1
-InfoAct_id_372~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-429~0~-0.1~1~1
-InfoAct_id_373~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-422~0~0~1~1
-InfoAct_id_374~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-423~0~0~1~1
-InfoAct_id_375~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-424~0~0~1~1
-InfoAct_id_376~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-425~0~0~1~1
-InfoAct_id_377~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-426~0~0~1~1
-InfoAct_id_378~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-427~0~0~1~1
-InfoAct_id_379~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-428~0~0~1~1
-InfoAct_id_380~send~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-429~0~0~1~1
-InfoAct_id_381~send~Delfi LT (delfi.lt)~Edita Baniene~IP-423~0~-0.1~1~1
-InfoAct_id_382~send~Delfi LT (delfi.lt)~Edita Baniene~IP-422~0~0~1~1
-InfoAct_id_383~send~Delfi LT (delfi.lt)~Edita Baniene~IP-423~0~0~1~1
-InfoAct_id_384~send~Delfi LT (delfi.lt)~Edita Baniene~IP-424~0~0~1~1
-InfoAct_id_385~send~Delfi LT (delfi.lt)~Edita Baniene~IP-425~0~0~1~1
-InfoAct_id_386~send~Delfi LT (delfi.lt)~Edita Baniene~IP-426~0~0~1~1
-InfoAct_id_387~send~Delfi LT (delfi.lt)~Edita Baniene~IP-427~0~0~1~1
-InfoAct_id_388~send~Delfi LT (delfi.lt)~Edita Baniene~IP-428~0~0~1~1
-InfoAct_id_389~send~Delfi LT (delfi.lt)~Edita Baniene~IP-429~0~0~1~1
-InfoAct_id_390~send~Delfi LT (delfi.lt)~Egle Juzu~IP-429~0~+0.1~1~1
-InfoAct_id_391~send~Delfi LT (delfi.lt)~Egle Juzu~IP-422~0~0~1~1
-InfoAct_id_392~send~Delfi LT (delfi.lt)~Egle Juzu~IP-423~0~0~1~1
-InfoAct_id_393~send~Delfi LT (delfi.lt)~Egle Juzu~IP-424~0~0~1~1
-InfoAct_id_394~send~Delfi LT (delfi.lt)~Egle Juzu~IP-425~0~0~1~1
-InfoAct_id_395~send~Delfi LT (delfi.lt)~Egle Juzu~IP-426~0~0~1~1
-InfoAct_id_396~send~Delfi LT (delfi.lt)~Egle Juzu~IP-427~0~0~1~1
-InfoAct_id_397~send~Delfi LT (delfi.lt)~Egle Juzu~IP-428~0~0~1~1
-InfoAct_id_398~send~Delfi LT (delfi.lt)~Egle Juzu~IP-429~0~0~1~1
-InfoAct_id_399~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-428~0~-0.1~1~1
-InfoAct_id_400~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-422~0~0~1~1
-InfoAct_id_401~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-423~0~0~1~1
-InfoAct_id_402~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-424~0~0~1~1
-InfoAct_id_403~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-425~0~0~1~1
-InfoAct_id_404~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-426~0~0~1~1
-InfoAct_id_405~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-427~0~0~1~1
-InfoAct_id_406~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-428~0~0~1~1
-InfoAct_id_407~send~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-429~0~0~1~1
-InfoAct_id_408~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-424~0~-0.1~1~1
-InfoAct_id_409~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-422~0~0~1~1
-InfoAct_id_410~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-423~0~0~1~1
-InfoAct_id_411~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-424~0~0~1~1
-InfoAct_id_412~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-425~0~0~1~1
-InfoAct_id_413~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-426~0~0~1~1
-InfoAct_id_414~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-427~0~0~1~1
-InfoAct_id_415~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-428~0~0~1~1
-InfoAct_id_416~send~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-429~0~0~1~1
-InfoAct_id_417~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-429~0~-0.1~1~1
-InfoAct_id_418~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-422~0~0~1~1
-InfoAct_id_419~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-423~0~0~1~1
-InfoAct_id_420~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-424~0~0~1~1
-InfoAct_id_421~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-425~0~0~1~1
-InfoAct_id_422~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-426~0~0~1~1
-InfoAct_id_423~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-427~0~0~1~1
-InfoAct_id_424~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-428~0~0~1~1
-InfoAct_id_425~send~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-429~0~0~1~1
-InfoAct_id_426~send~LRT (lrt.lt)~B-ID-16~IP-1~0~0~1~1
-InfoAct_id_427~send~LRT (lrt.lt)~B-ID-16~IP-1~0~0~1~1
-InfoAct_id_428~send~LRT (lrt.lt)~B-ID-16~IP-2~0~0~1~1
-InfoAct_id_429~send~LRT (lrt.lt)~B-ID-16~IP-3~0~0~1~1
-InfoAct_id_430~send~LRT (lrt.lt)~B-ID-16~IP-4~0~0~1~1
-InfoAct_id_431~send~LRT (lrt.lt)~B-ID-16~IP-5~0~0~1~1
-InfoAct_id_432~send~LRT (lrt.lt)~B-ID-16~IP-6~0~0~1~1
-InfoAct_id_433~send~LRT (lrt.lt)~B-ID-16~IP-7~0~0~1~1
-InfoAct_id_434~send~LRT (lrt.lt)~B-ID-16~IP-8~0~0~1~1
-InfoAct_id_435~send~LRT (lrt.lt)~B-ID-16~IP-9~0~0~1~1
-InfoAct_id_436~send~LRT (lrt.lt)~B-ID-16~IP-10~0~0~1~1
-InfoAct_id_437~send~LRT (lrt.lt)~B-ID-31~IP-6~0~0~1~1
-InfoAct_id_438~send~LRT (lrt.lt)~B-ID-31~IP-1~0~0~1~1
-InfoAct_id_439~send~LRT (lrt.lt)~B-ID-31~IP-2~0~0~1~1
-InfoAct_id_440~send~LRT (lrt.lt)~B-ID-31~IP-3~0~0~1~1
-InfoAct_id_441~send~LRT (lrt.lt)~B-ID-31~IP-4~0~0~1~1
-InfoAct_id_442~send~LRT (lrt.lt)~B-ID-31~IP-5~0~0~1~1
-InfoAct_id_443~send~LRT (lrt.lt)~B-ID-31~IP-6~0~0~1~1
-InfoAct_id_444~send~LRT (lrt.lt)~B-ID-31~IP-7~0~0~1~1
-InfoAct_id_445~send~LRT (lrt.lt)~B-ID-31~IP-8~0~0~1~1
-InfoAct_id_446~send~LRT (lrt.lt)~B-ID-31~IP-9~0~0~1~1
-InfoAct_id_447~send~LRT (lrt.lt)~B-ID-31~IP-10~0~0~1~1
-InfoAct_id_448~send~LRT (lrt.lt)~B-ID-33~IP-5~0~0~1~1
-InfoAct_id_449~send~LRT (lrt.lt)~B-ID-33~IP-1~0~0~1~1
-InfoAct_id_450~send~LRT (lrt.lt)~B-ID-33~IP-2~0~0~1~1
-InfoAct_id_451~send~LRT (lrt.lt)~B-ID-33~IP-3~0~0~1~1
-InfoAct_id_452~send~LRT (lrt.lt)~B-ID-33~IP-4~0~0~1~1
-InfoAct_id_453~send~LRT (lrt.lt)~B-ID-33~IP-5~0~0~1~1
-InfoAct_id_454~send~LRT (lrt.lt)~B-ID-33~IP-6~0~0~1~1
-InfoAct_id_455~send~LRT (lrt.lt)~B-ID-33~IP-7~0~0~1~1
-InfoAct_id_456~send~LRT (lrt.lt)~B-ID-33~IP-8~0~0~1~1
-InfoAct_id_457~send~LRT (lrt.lt)~B-ID-33~IP-9~0~0~1~1
-InfoAct_id_458~send~LRT (lrt.lt)~B-ID-33~IP-10~0~0~1~1
-InfoAct_id_459~send~LRT (lrt.lt)~B-ID-43~IP-6~0~0~1~1
-InfoAct_id_460~send~LRT (lrt.lt)~B-ID-43~IP-1~0~0~1~1
-InfoAct_id_461~send~LRT (lrt.lt)~B-ID-43~IP-2~0~0~1~1
-InfoAct_id_462~send~LRT (lrt.lt)~B-ID-43~IP-3~0~0~1~1
-InfoAct_id_463~send~LRT (lrt.lt)~B-ID-43~IP-4~0~0~1~1
-InfoAct_id_464~send~LRT (lrt.lt)~B-ID-43~IP-5~0~0~1~1
-InfoAct_id_465~send~LRT (lrt.lt)~B-ID-43~IP-6~0~0~1~1
-InfoAct_id_466~send~LRT (lrt.lt)~B-ID-43~IP-7~0~0~1~1
-InfoAct_id_467~send~LRT (lrt.lt)~B-ID-43~IP-8~0~0~1~1
-InfoAct_id_468~send~LRT (lrt.lt)~B-ID-43~IP-9~0~0~1~1
-InfoAct_id_469~send~LRT (lrt.lt)~B-ID-43~IP-10~0~0~1~1
-InfoAct_id_470~send~LRT (lrt.lt)~B-ID-44~IP-4~0~0~1~1
-InfoAct_id_471~send~LRT (lrt.lt)~B-ID-44~IP-1~0~0~1~1
-InfoAct_id_472~send~LRT (lrt.lt)~B-ID-44~IP-2~0~0~1~1
-InfoAct_id_473~send~LRT (lrt.lt)~B-ID-44~IP-3~0~0~1~1
-InfoAct_id_474~send~LRT (lrt.lt)~B-ID-44~IP-4~0~0~1~1
-InfoAct_id_475~send~LRT (lrt.lt)~B-ID-44~IP-5~0~0~1~1
-InfoAct_id_476~send~LRT (lrt.lt)~B-ID-44~IP-6~0~0~1~1
-InfoAct_id_477~send~LRT (lrt.lt)~B-ID-44~IP-7~0~0~1~1
-InfoAct_id_478~send~LRT (lrt.lt)~B-ID-44~IP-8~0~0~1~1
-InfoAct_id_479~send~LRT (lrt.lt)~B-ID-44~IP-9~0~0~1~1
-InfoAct_id_480~send~LRT (lrt.lt)~B-ID-44~IP-10~0~0~1~1
-InfoAct_id_481~send~LRT (lrt.lt)~B-ID-49~IP-8~0~+0.1~1~1
-InfoAct_id_482~send~LRT (lrt.lt)~B-ID-49~IP-1~0~0~1~1
-InfoAct_id_483~send~LRT (lrt.lt)~B-ID-49~IP-2~0~0~1~1
-InfoAct_id_484~send~LRT (lrt.lt)~B-ID-49~IP-3~0~0~1~1
-InfoAct_id_485~send~LRT (lrt.lt)~B-ID-49~IP-4~0~0~1~1
-InfoAct_id_486~send~LRT (lrt.lt)~B-ID-49~IP-5~0~0~1~1
-InfoAct_id_487~send~LRT (lrt.lt)~B-ID-49~IP-6~0~0~1~1
-InfoAct_id_488~send~LRT (lrt.lt)~B-ID-49~IP-7~0~0~1~1
-InfoAct_id_489~send~LRT (lrt.lt)~B-ID-49~IP-8~0~0~1~1
-InfoAct_id_490~send~LRT (lrt.lt)~B-ID-49~IP-9~0~0~1~1
-InfoAct_id_491~send~LRT (lrt.lt)~B-ID-49~IP-10~0~0~1~1
-InfoAct_id_492~send~LRT (lrt.lt)~B-ID-60~IP-8~0~+0.1~1~1
-InfoAct_id_493~send~LRT (lrt.lt)~B-ID-60~IP-1~0~0~1~1
-InfoAct_id_494~send~LRT (lrt.lt)~B-ID-60~IP-2~0~0~1~1
-InfoAct_id_495~send~LRT (lrt.lt)~B-ID-60~IP-3~0~0~1~1
-InfoAct_id_496~send~LRT (lrt.lt)~B-ID-60~IP-4~0~0~1~1
-InfoAct_id_497~send~LRT (lrt.lt)~B-ID-60~IP-5~0~0~1~1
-InfoAct_id_498~send~LRT (lrt.lt)~B-ID-60~IP-6~0~0~1~1
-InfoAct_id_499~send~LRT (lrt.lt)~B-ID-60~IP-7~0~0~1~1
-InfoAct_id_500~send~LRT (lrt.lt)~B-ID-60~IP-8~0~0~1~1
-InfoAct_id_501~send~LRT (lrt.lt)~B-ID-60~IP-9~0~0~1~1
-InfoAct_id_502~send~LRT (lrt.lt)~B-ID-60~IP-10~0~0~1~1
-InfoAct_id_503~send~LRT (lrt.lt)~B-ID-64~IP-3~0~0~1~1
-InfoAct_id_504~send~LRT (lrt.lt)~B-ID-64~IP-1~0~0~1~1
-InfoAct_id_505~send~LRT (lrt.lt)~B-ID-64~IP-2~0~0~1~1
-InfoAct_id_506~send~LRT (lrt.lt)~B-ID-64~IP-3~0~0~1~1
-InfoAct_id_507~send~LRT (lrt.lt)~B-ID-64~IP-4~0~0~1~1
-InfoAct_id_508~send~LRT (lrt.lt)~B-ID-64~IP-5~0~0~1~1
-InfoAct_id_509~send~LRT (lrt.lt)~B-ID-64~IP-6~0~0~1~1
-InfoAct_id_510~send~LRT (lrt.lt)~B-ID-64~IP-7~0~0~1~1
-InfoAct_id_511~send~LRT (lrt.lt)~B-ID-64~IP-8~0~0~1~1
-InfoAct_id_512~send~LRT (lrt.lt)~B-ID-64~IP-9~0~0~1~1
-InfoAct_id_513~send~LRT (lrt.lt)~B-ID-64~IP-10~0~0~1~1
-InfoAct_id_514~send~LRT (lrt.lt)~B-ID-66~IP-6~0~0~1~1
-InfoAct_id_515~send~LRT (lrt.lt)~B-ID-66~IP-1~0~0~1~1
-InfoAct_id_516~send~LRT (lrt.lt)~B-ID-66~IP-2~0~0~1~1
-InfoAct_id_517~send~LRT (lrt.lt)~B-ID-66~IP-3~0~0~1~1
-InfoAct_id_518~send~LRT (lrt.lt)~B-ID-66~IP-4~0~0~1~1
-InfoAct_id_519~send~LRT (lrt.lt)~B-ID-66~IP-5~0~0~1~1
-InfoAct_id_520~send~LRT (lrt.lt)~B-ID-66~IP-6~0~0~1~1
-InfoAct_id_521~send~LRT (lrt.lt)~B-ID-66~IP-7~0~0~1~1
-InfoAct_id_522~send~LRT (lrt.lt)~B-ID-66~IP-8~0~0~1~1
-InfoAct_id_523~send~LRT (lrt.lt)~B-ID-66~IP-9~0~0~1~1
-InfoAct_id_524~send~LRT (lrt.lt)~B-ID-66~IP-10~0~0~1~1
-InfoAct_id_525~send~LRT (lrt.lt)~B-ID-74~IP-6~0~0~1~1
-InfoAct_id_526~send~LRT (lrt.lt)~B-ID-74~IP-1~0~0~1~1
-InfoAct_id_527~send~LRT (lrt.lt)~B-ID-74~IP-2~0~0~1~1
-InfoAct_id_528~send~LRT (lrt.lt)~B-ID-74~IP-3~0~0~1~1
-InfoAct_id_529~send~LRT (lrt.lt)~B-ID-74~IP-4~0~0~1~1
-InfoAct_id_530~send~LRT (lrt.lt)~B-ID-74~IP-5~0~0~1~1
-InfoAct_id_531~send~LRT (lrt.lt)~B-ID-74~IP-6~0~0~1~1
-InfoAct_id_532~send~LRT (lrt.lt)~B-ID-74~IP-7~0~0~1~1
-InfoAct_id_533~send~LRT (lrt.lt)~B-ID-74~IP-8~0~0~1~1
-InfoAct_id_534~send~LRT (lrt.lt)~B-ID-74~IP-9~0~0~1~1
-InfoAct_id_535~send~LRT (lrt.lt)~B-ID-74~IP-10~0~0~1~1
-InfoAct_id_536~send~LRT (lrt.lt)~B-ID-76~IP-4~0~0~1~1
-InfoAct_id_537~send~LRT (lrt.lt)~B-ID-76~IP-1~0~0~1~1
-InfoAct_id_538~send~LRT (lrt.lt)~B-ID-76~IP-2~0~0~1~1
-InfoAct_id_539~send~LRT (lrt.lt)~B-ID-76~IP-3~0~0~1~1
-InfoAct_id_540~send~LRT (lrt.lt)~B-ID-76~IP-4~0~0~1~1
-InfoAct_id_541~send~LRT (lrt.lt)~B-ID-76~IP-5~0~0~1~1
-InfoAct_id_542~send~LRT (lrt.lt)~B-ID-76~IP-6~0~0~1~1
-InfoAct_id_543~send~LRT (lrt.lt)~B-ID-76~IP-7~0~0~1~1
-InfoAct_id_544~send~LRT (lrt.lt)~B-ID-76~IP-8~0~0~1~1
-InfoAct_id_545~send~LRT (lrt.lt)~B-ID-76~IP-9~0~0~1~1
-InfoAct_id_546~send~LRT (lrt.lt)~B-ID-76~IP-10~0~0~1~1
-InfoAct_id_547~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-4~0~0~1~1
-InfoAct_id_548~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-1~0~0~1~1
-InfoAct_id_549~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-2~0~0~1~1
-InfoAct_id_550~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-3~0~0~1~1
-InfoAct_id_551~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-4~0~0~1~1
-InfoAct_id_552~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-5~0~0~1~1
-InfoAct_id_553~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-6~0~0~1~1
-InfoAct_id_554~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-7~0~0~1~1
-InfoAct_id_555~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-8~0~0~1~1
-InfoAct_id_556~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-9~0~0~1~1
-InfoAct_id_557~send~LRT (lrt.lt)~Austeja Landsbergiene~IP-10~0~0~1~1
-InfoAct_id_558~send~LRT (lrt.lt)~Simonas Gurevicius~IP-10~0~0~1~1
-InfoAct_id_559~send~LRT (lrt.lt)~Simonas Gurevicius~IP-1~0~0~1~1
-InfoAct_id_560~send~LRT (lrt.lt)~Simonas Gurevicius~IP-2~0~0~1~1
-InfoAct_id_561~send~LRT (lrt.lt)~Simonas Gurevicius~IP-3~0~0~1~1
-InfoAct_id_562~send~LRT (lrt.lt)~Simonas Gurevicius~IP-4~0~0~1~1
-InfoAct_id_563~send~LRT (lrt.lt)~Simonas Gurevicius~IP-5~0~0~1~1
-InfoAct_id_564~send~LRT (lrt.lt)~Simonas Gurevicius~IP-6~0~0~1~1
-InfoAct_id_565~send~LRT (lrt.lt)~Simonas Gurevicius~IP-7~0~0~1~1
-InfoAct_id_566~send~LRT (lrt.lt)~Simonas Gurevicius~IP-8~0~0~1~1
-InfoAct_id_567~send~LRT (lrt.lt)~Simonas Gurevicius~IP-9~0~0~1~1
-InfoAct_id_568~send~LRT (lrt.lt)~Simonas Gurevicius~IP-10~0~0~1~1
-InfoAct_id_569~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-4~0~0~1~1
-InfoAct_id_570~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-1~0~0~1~1
-InfoAct_id_571~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-2~0~0~1~1
-InfoAct_id_572~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-3~0~0~1~1
-InfoAct_id_573~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-4~0~0~1~1
-InfoAct_id_574~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-5~0~0~1~1
-InfoAct_id_575~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-6~0~0~1~1
-InfoAct_id_576~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-7~0~0~1~1
-InfoAct_id_577~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-8~0~0~1~1
-InfoAct_id_578~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-9~0~0~1~1
-InfoAct_id_579~send~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-10~0~0~1~1
-InfoAct_id_580~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-1~0~0~1~1
-InfoAct_id_581~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-1~0~0~1~1
-InfoAct_id_582~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-2~0~0~1~1
-InfoAct_id_583~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-3~0~0~1~1
-InfoAct_id_584~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-4~0~0~1~1
-InfoAct_id_585~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-5~0~0~1~1
-InfoAct_id_586~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-6~0~0~1~1
-InfoAct_id_587~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-7~0~0~1~1
-InfoAct_id_588~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-8~0~0~1~1
-InfoAct_id_589~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-9~0~0~1~1
-InfoAct_id_590~send~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-10~0~0~1~1
-InfoAct_id_591~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-6~0~0~1~1
-InfoAct_id_592~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-1~0~0~1~1
-InfoAct_id_593~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-2~0~0~1~1
-InfoAct_id_594~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-3~0~0~1~1
-InfoAct_id_595~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-4~0~0~1~1
-InfoAct_id_596~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-5~0~0~1~1
-InfoAct_id_597~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-6~0~0~1~1
-InfoAct_id_598~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-7~0~0~1~1
-InfoAct_id_599~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-8~0~0~1~1
-InfoAct_id_600~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-9~0~0~1~1
-InfoAct_id_601~send~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-10~0~0~1~1
-InfoAct_id_602~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-1~0~0~1~1
-InfoAct_id_603~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-1~0~0~1~1
-InfoAct_id_604~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-2~0~0~1~1
-InfoAct_id_605~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-3~0~0~1~1
-InfoAct_id_606~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-4~0~0~1~1
-InfoAct_id_607~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-5~0~0~1~1
-InfoAct_id_608~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-6~0~0~1~1
-InfoAct_id_609~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-7~0~0~1~1
-InfoAct_id_610~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-8~0~0~1~1
-InfoAct_id_611~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-9~0~0~1~1
-InfoAct_id_612~send~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-10~0~0~1~1
-InfoAct_id_613~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-5~0~0~1~1
-InfoAct_id_614~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-1~0~0~1~1
-InfoAct_id_615~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-2~0~0~1~1
-InfoAct_id_616~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-3~0~0~1~1
-InfoAct_id_617~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-4~0~0~1~1
-InfoAct_id_618~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-5~0~0~1~1
-InfoAct_id_619~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-6~0~0~1~1
-InfoAct_id_620~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-7~0~0~1~1
-InfoAct_id_621~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-8~0~0~1~1
-InfoAct_id_622~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-9~0~0~1~1
-InfoAct_id_623~send~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-10~0~0~1~1
-InfoAct_id_624~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-10~0~0~1~1
-InfoAct_id_625~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-1~0~0~1~1
-InfoAct_id_626~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-2~0~0~1~1
-InfoAct_id_627~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-3~0~0~1~1
-InfoAct_id_628~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-4~0~0~1~1
-InfoAct_id_629~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-5~0~0~1~1
-InfoAct_id_630~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-6~0~0~1~1
-InfoAct_id_631~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-7~0~0~1~1
-InfoAct_id_632~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-8~0~0~1~1
-InfoAct_id_633~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-9~0~0~1~1
-InfoAct_id_634~send~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-10~0~0~1~1
-InfoAct_id_635~send~LRT (lrt.lt)~Audrius Ciuplys~IP-5~0~0~1~1
-InfoAct_id_636~send~LRT (lrt.lt)~Audrius Ciuplys~IP-1~0~0~1~1
-InfoAct_id_637~send~LRT (lrt.lt)~Audrius Ciuplys~IP-2~0~0~1~1
-InfoAct_id_638~send~LRT (lrt.lt)~Audrius Ciuplys~IP-3~0~0~1~1
-InfoAct_id_639~send~LRT (lrt.lt)~Audrius Ciuplys~IP-4~0~0~1~1
-InfoAct_id_640~send~LRT (lrt.lt)~Audrius Ciuplys~IP-5~0~0~1~1
-InfoAct_id_641~send~LRT (lrt.lt)~Audrius Ciuplys~IP-6~0~0~1~1
-InfoAct_id_642~send~LRT (lrt.lt)~Audrius Ciuplys~IP-7~0~0~1~1
-InfoAct_id_643~send~LRT (lrt.lt)~Audrius Ciuplys~IP-8~0~0~1~1
-InfoAct_id_644~send~LRT (lrt.lt)~Audrius Ciuplys~IP-9~0~0~1~1
-InfoAct_id_645~send~LRT (lrt.lt)~Audrius Ciuplys~IP-10~0~0~1~1
-InfoAct_id_646~send~Diena (Diena.lt)~B-ID-4~IP-115~0~+0.1~1~1
-InfoAct_id_647~send~Diena (Diena.lt)~B-ID-4~IP-112~0~0~1~1
-InfoAct_id_648~send~Diena (Diena.lt)~B-ID-4~IP-113~0~0~1~1
-InfoAct_id_649~send~Diena (Diena.lt)~B-ID-4~IP-114~0~0~1~1
-InfoAct_id_650~send~Diena (Diena.lt)~B-ID-4~IP-115~0~0~1~1
-InfoAct_id_651~send~Diena (Diena.lt)~B-ID-4~IP-116~0~0~1~1
-InfoAct_id_652~send~Diena (Diena.lt)~B-ID-4~IP-117~0~0~1~1
-InfoAct_id_653~send~Diena (Diena.lt)~B-ID-4~IP-118~0~0~1~1
-InfoAct_id_654~send~Diena (Diena.lt)~B-ID-6~IP-112~0~+0.1~1~1
-InfoAct_id_655~send~Diena (Diena.lt)~B-ID-6~IP-112~0~0~1~1
-InfoAct_id_656~send~Diena (Diena.lt)~B-ID-6~IP-113~0~0~1~1
-InfoAct_id_657~send~Diena (Diena.lt)~B-ID-6~IP-114~0~0~1~1
-InfoAct_id_658~send~Diena (Diena.lt)~B-ID-6~IP-115~0~0~1~1
-InfoAct_id_659~send~Diena (Diena.lt)~B-ID-6~IP-116~0~0~1~1
-InfoAct_id_660~send~Diena (Diena.lt)~B-ID-6~IP-117~0~0~1~1
-InfoAct_id_661~send~Diena (Diena.lt)~B-ID-6~IP-118~0~0~1~1
-InfoAct_id_662~send~Diena (Diena.lt)~B-ID-23~IP-118~0~+0.1~1~1
-InfoAct_id_663~send~Diena (Diena.lt)~B-ID-23~IP-112~0~0~1~1
-InfoAct_id_664~send~Diena (Diena.lt)~B-ID-23~IP-113~0~0~1~1
-InfoAct_id_665~send~Diena (Diena.lt)~B-ID-23~IP-114~0~0~1~1
-InfoAct_id_666~send~Diena (Diena.lt)~B-ID-23~IP-115~0~0~1~1
-InfoAct_id_667~send~Diena (Diena.lt)~B-ID-23~IP-116~0~0~1~1
-InfoAct_id_668~send~Diena (Diena.lt)~B-ID-23~IP-117~0~0~1~1
-InfoAct_id_669~send~Diena (Diena.lt)~B-ID-23~IP-118~0~0~1~1
-InfoAct_id_670~send~Diena (Diena.lt)~B-ID-31~IP-115~0~+0.1~1~1
-InfoAct_id_671~send~Diena (Diena.lt)~B-ID-31~IP-112~0~0~1~1
-InfoAct_id_672~send~Diena (Diena.lt)~B-ID-31~IP-113~0~0~1~1
-InfoAct_id_673~send~Diena (Diena.lt)~B-ID-31~IP-114~0~0~1~1
-InfoAct_id_674~send~Diena (Diena.lt)~B-ID-31~IP-115~0~0~1~1
-InfoAct_id_675~send~Diena (Diena.lt)~B-ID-31~IP-116~0~0~1~1
-InfoAct_id_676~send~Diena (Diena.lt)~B-ID-31~IP-117~0~0~1~1
-InfoAct_id_677~send~Diena (Diena.lt)~B-ID-31~IP-118~0~0~1~1
-InfoAct_id_678~send~Diena (Diena.lt)~B-ID-44~IP-112~0~+0.1~1~1
-InfoAct_id_679~send~Diena (Diena.lt)~B-ID-44~IP-112~0~0~1~1
-InfoAct_id_680~send~Diena (Diena.lt)~B-ID-44~IP-113~0~0~1~1
-InfoAct_id_681~send~Diena (Diena.lt)~B-ID-44~IP-114~0~0~1~1
-InfoAct_id_682~send~Diena (Diena.lt)~B-ID-44~IP-115~0~0~1~1
-InfoAct_id_683~send~Diena (Diena.lt)~B-ID-44~IP-116~0~0~1~1
-InfoAct_id_684~send~Diena (Diena.lt)~B-ID-44~IP-117~0~0~1~1
-InfoAct_id_685~send~Diena (Diena.lt)~B-ID-44~IP-118~0~0~1~1
-InfoAct_id_686~send~Diena (Diena.lt)~B-ID-76~IP-113~0~+0.1~1~1
-InfoAct_id_687~send~Diena (Diena.lt)~B-ID-76~IP-112~0~0~1~1
-InfoAct_id_688~send~Diena (Diena.lt)~B-ID-76~IP-113~0~0~1~1
-InfoAct_id_689~send~Diena (Diena.lt)~B-ID-76~IP-114~0~0~1~1
-InfoAct_id_690~send~Diena (Diena.lt)~B-ID-76~IP-115~0~0~1~1
-InfoAct_id_691~send~Diena (Diena.lt)~B-ID-76~IP-116~0~0~1~1
-InfoAct_id_692~send~Diena (Diena.lt)~B-ID-76~IP-117~0~0~1~1
-InfoAct_id_693~send~Diena (Diena.lt)~B-ID-76~IP-118~0~0~1~1
-InfoAct_id_694~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-198~0~+0.1~1~1
-InfoAct_id_695~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-192~0~0~1~1
-InfoAct_id_696~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-193~0~0~1~1
-InfoAct_id_697~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-194~0~0~1~1
-InfoAct_id_698~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-195~0~0~1~1
-InfoAct_id_699~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-196~0~0~1~1
-InfoAct_id_700~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-197~0~0~1~1
-InfoAct_id_701~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-198~0~0~1~1
-InfoAct_id_702~send~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-199~0~0~1~1
-InfoAct_id_703~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-194~0~+0.1~1~1
-InfoAct_id_704~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-192~0~0~1~1
-InfoAct_id_705~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-193~0~0~1~1
-InfoAct_id_706~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-194~0~0~1~1
-InfoAct_id_707~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-195~0~0~1~1
-InfoAct_id_708~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-196~0~0~1~1
-InfoAct_id_709~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-197~0~0~1~1
-InfoAct_id_710~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-198~0~0~1~1
-InfoAct_id_711~send~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-199~0~0~1~1
-InfoAct_id_712~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-197~0~+0.1~1~1
-InfoAct_id_713~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-192~0~0~1~1
-InfoAct_id_714~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-193~0~0~1~1
-InfoAct_id_715~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-194~0~0~1~1
-InfoAct_id_716~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-195~0~0~1~1
-InfoAct_id_717~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-196~0~0~1~1
-InfoAct_id_718~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-197~0~0~1~1
-InfoAct_id_719~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-198~0~0~1~1
-InfoAct_id_720~send~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-199~0~0~1~1
-InfoAct_id_721~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-194~0~-0.1~1~1
-InfoAct_id_722~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-192~0~0~1~1
-InfoAct_id_723~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-193~0~0~1~1
-InfoAct_id_724~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-194~0~0~1~1
-InfoAct_id_725~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-195~0~0~1~1
-InfoAct_id_726~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-196~0~0~1~1
-InfoAct_id_727~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-197~0~0~1~1
-InfoAct_id_728~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-198~0~0~1~1
-InfoAct_id_729~send~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-199~0~0~1~1
-InfoAct_id_730~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-198~0~+0.1~1~1
-InfoAct_id_731~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-192~0~0~1~1
-InfoAct_id_732~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-193~0~0~1~1
-InfoAct_id_733~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-194~0~0~1~1
-InfoAct_id_734~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-195~0~0~1~1
-InfoAct_id_735~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-196~0~0~1~1
-InfoAct_id_736~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-197~0~0~1~1
-InfoAct_id_737~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-198~0~0~1~1
-InfoAct_id_738~send~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-199~0~0~1~1
-InfoAct_id_739~send~L24 (l24.lt)~B-ID-16~IP-344~0~-0.1~1~1
-InfoAct_id_740~send~L24 (l24.lt)~B-ID-16~IP-342~0~0~1~1
-InfoAct_id_741~send~L24 (l24.lt)~B-ID-16~IP-343~0~0~1~1
-InfoAct_id_742~send~L24 (l24.lt)~B-ID-16~IP-344~0~0~1~1
-InfoAct_id_743~send~L24 (l24.lt)~B-ID-16~IP-345~0~0~1~1
-InfoAct_id_744~send~L24 (l24.lt)~B-ID-16~IP-346~0~0~1~1
-InfoAct_id_745~send~L24 (l24.lt)~B-ID-16~IP-347~0~0~1~1
-InfoAct_id_746~send~L24 (l24.lt)~B-ID-16~IP-348~0~0~1~1
-InfoAct_id_747~send~L24 (l24.lt)~B-ID-16~IP-352~0~0~1~1
-InfoAct_id_748~send~L24 (l24.lt)~B-ID-35~IP-344~0~-0.1~1~1
-InfoAct_id_749~send~L24 (l24.lt)~B-ID-35~IP-342~0~0~1~1
-InfoAct_id_750~send~L24 (l24.lt)~B-ID-35~IP-343~0~0~1~1
-InfoAct_id_751~send~L24 (l24.lt)~B-ID-35~IP-344~0~0~1~1
-InfoAct_id_752~send~L24 (l24.lt)~B-ID-35~IP-345~0~0~1~1
-InfoAct_id_753~send~L24 (l24.lt)~B-ID-35~IP-346~0~0~1~1
-InfoAct_id_754~send~L24 (l24.lt)~B-ID-35~IP-347~0~0~1~1
-InfoAct_id_755~send~L24 (l24.lt)~B-ID-35~IP-348~0~0~1~1
-InfoAct_id_756~send~L24 (l24.lt)~B-ID-35~IP-352~0~0~1~1
-InfoAct_id_757~send~L24 (l24.lt)~B-ID-41~IP-346~0~+0.1~1~1
-InfoAct_id_758~send~L24 (l24.lt)~B-ID-41~IP-342~0~0~1~1
-InfoAct_id_759~send~L24 (l24.lt)~B-ID-41~IP-343~0~0~1~1
-InfoAct_id_760~send~L24 (l24.lt)~B-ID-41~IP-344~0~0~1~1
-InfoAct_id_761~send~L24 (l24.lt)~B-ID-41~IP-345~0~0~1~1
-InfoAct_id_762~send~L24 (l24.lt)~B-ID-41~IP-346~0~0~1~1
-InfoAct_id_763~send~L24 (l24.lt)~B-ID-41~IP-347~0~0~1~1
-InfoAct_id_764~send~L24 (l24.lt)~B-ID-41~IP-348~0~0~1~1
-InfoAct_id_765~send~L24 (l24.lt)~B-ID-41~IP-352~0~0~1~1
-InfoAct_id_766~send~L24 (l24.lt)~B-ID-43~IP-342~0~+0.1~1~1
-InfoAct_id_767~send~L24 (l24.lt)~B-ID-43~IP-342~0~0~1~1
-InfoAct_id_768~send~L24 (l24.lt)~B-ID-43~IP-343~0~0~1~1
-InfoAct_id_769~send~L24 (l24.lt)~B-ID-43~IP-344~0~0~1~1
-InfoAct_id_770~send~L24 (l24.lt)~B-ID-43~IP-345~0~0~1~1
-InfoAct_id_771~send~L24 (l24.lt)~B-ID-43~IP-346~0~0~1~1
-InfoAct_id_772~send~L24 (l24.lt)~B-ID-43~IP-347~0~0~1~1
-InfoAct_id_773~send~L24 (l24.lt)~B-ID-43~IP-348~0~0~1~1
-InfoAct_id_774~send~L24 (l24.lt)~B-ID-43~IP-352~0~0~1~1
-InfoAct_id_775~send~L24 (l24.lt)~B-ID-76~IP-348~0~+0.1~1~1
-InfoAct_id_776~send~L24 (l24.lt)~B-ID-76~IP-342~0~0~1~1
-InfoAct_id_777~send~L24 (l24.lt)~B-ID-76~IP-343~0~0~1~1
-InfoAct_id_778~send~L24 (l24.lt)~B-ID-76~IP-344~0~0~1~1
-InfoAct_id_779~send~L24 (l24.lt)~B-ID-76~IP-345~0~0~1~1
-InfoAct_id_780~send~L24 (l24.lt)~B-ID-76~IP-346~0~0~1~1
-InfoAct_id_781~send~L24 (l24.lt)~B-ID-76~IP-347~0~0~1~1
-InfoAct_id_782~send~L24 (l24.lt)~B-ID-76~IP-348~0~0~1~1
-InfoAct_id_783~send~L24 (l24.lt)~B-ID-76~IP-352~0~0~1~1
-InfoAct_id_784~send~L24 (l24.lt)~Virgis Bagdonas~IP-352~0~0~1~1
-InfoAct_id_785~send~L24 (l24.lt)~Virgis Bagdonas~IP-342~0~0~1~1
-InfoAct_id_786~send~L24 (l24.lt)~Virgis Bagdonas~IP-343~0~0~1~1
-InfoAct_id_787~send~L24 (l24.lt)~Virgis Bagdonas~IP-344~0~0~1~1
-InfoAct_id_788~send~L24 (l24.lt)~Virgis Bagdonas~IP-345~0~0~1~1
-InfoAct_id_789~send~L24 (l24.lt)~Virgis Bagdonas~IP-346~0~0~1~1
-InfoAct_id_790~send~L24 (l24.lt)~Virgis Bagdonas~IP-347~0~0~1~1
-InfoAct_id_791~send~L24 (l24.lt)~Virgis Bagdonas~IP-348~0~0~1~1
-InfoAct_id_792~send~L24 (l24.lt)~Virgis Bagdonas~IP-352~0~0~1~1
+InfoAct_id_1~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-192~0~+0.1~1~1
+InfoAct_id_2~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-192~0~0~1~1
+InfoAct_id_3~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-193~0~0~1~1
+InfoAct_id_4~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-194~0~0~1~1
+InfoAct_id_5~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-195~0~0~1~1
+InfoAct_id_6~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-196~0~0~1~1
+InfoAct_id_7~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-197~0~0~1~1
+InfoAct_id_8~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-198~0~0~1~1
+InfoAct_id_9~SEND~Kauno Diena (kauno.diena.lt)~B-ID-76~IP-199~0~0~1~1
+InfoAct_id_10~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-192~0~+0.1~1~1
+InfoAct_id_11~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-192~0~0~1~1
+InfoAct_id_12~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-193~0~0~1~1
+InfoAct_id_13~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-194~0~0~1~1
+InfoAct_id_14~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-195~0~0~1~1
+InfoAct_id_15~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-196~0~0~1~1
+InfoAct_id_16~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-197~0~0~1~1
+InfoAct_id_17~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-198~0~0~1~1
+InfoAct_id_18~SEND~Kauno Diena (kauno.diena.lt)~Simonas Gurevicius~IP-199~0~0~1~1
+InfoAct_id_19~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-192~0~+0.1~1~1
+InfoAct_id_20~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-192~0~0~1~1
+InfoAct_id_21~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-193~0~0~1~1
+InfoAct_id_22~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-194~0~0~1~1
+InfoAct_id_23~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-195~0~0~1~1
+InfoAct_id_24~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-196~0~0~1~1
+InfoAct_id_25~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-197~0~0~1~1
+InfoAct_id_26~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-198~0~0~1~1
+InfoAct_id_27~SEND~Kauno Diena (kauno.diena.lt)~Bishop K?stutis K?valas CATH~IP-199~0~0~1~1
+InfoAct_id_28~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-194~0~-0.1~1~1
+InfoAct_id_29~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-192~0~0~1~1
+InfoAct_id_30~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-193~0~0~1~1
+InfoAct_id_31~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-194~0~0~1~1
+InfoAct_id_32~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-195~0~0~1~1
+InfoAct_id_33~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-196~0~0~1~1
+InfoAct_id_34~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-197~0~0~1~1
+InfoAct_id_35~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-198~0~0~1~1
+InfoAct_id_36~SEND~Kauno Diena (kauno.diena.lt)~MG Arkady Vilktotovich Bakhin~IP-199~0~0~1~1
+InfoAct_id_37~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-193~0~-0.1~1~1
+InfoAct_id_38~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-192~0~0~1~1
+InfoAct_id_39~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-193~0~0~1~1
+InfoAct_id_40~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-194~0~0~1~1
+InfoAct_id_41~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-195~0~0~1~1
+InfoAct_id_42~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-196~0~0~1~1
+InfoAct_id_43~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-197~0~0~1~1
+InfoAct_id_44~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-198~0~0~1~1
+InfoAct_id_45~SEND~Kauno Diena (kauno.diena.lt)~Paulius Keras~IP-199~0~0~1~1
+InfoAct_id_46~SEND~15min (15min.lt)~B-ID-14~IP-277~0~-0.1~1~1
+InfoAct_id_47~SEND~15min (15min.lt)~B-ID-14~IP-272~0~0~1~1
+InfoAct_id_48~SEND~15min (15min.lt)~B-ID-14~IP-273~0~0~1~1
+InfoAct_id_49~SEND~15min (15min.lt)~B-ID-14~IP-274~0~0~1~1
+InfoAct_id_50~SEND~15min (15min.lt)~B-ID-14~IP-275~0~0~1~1
+InfoAct_id_51~SEND~15min (15min.lt)~B-ID-14~IP-276~0~0~1~1
+InfoAct_id_52~SEND~15min (15min.lt)~B-ID-14~IP-277~0~0~1~1
+InfoAct_id_53~SEND~15min (15min.lt)~B-ID-14~IP-278~0~0~1~1
+InfoAct_id_54~SEND~15min (15min.lt)~B-ID-14~IP-279~0~0~1~1
+InfoAct_id_55~SEND~15min (15min.lt)~B-ID-14~IP-283~0~0~1~1
+InfoAct_id_56~SEND~15min (15min.lt)~B-ID-57~IP-277~0~-0.1~1~1
+InfoAct_id_57~SEND~15min (15min.lt)~B-ID-57~IP-272~0~0~1~1
+InfoAct_id_58~SEND~15min (15min.lt)~B-ID-57~IP-273~0~0~1~1
+InfoAct_id_59~SEND~15min (15min.lt)~B-ID-57~IP-274~0~0~1~1
+InfoAct_id_60~SEND~15min (15min.lt)~B-ID-57~IP-275~0~0~1~1
+InfoAct_id_61~SEND~15min (15min.lt)~B-ID-57~IP-276~0~0~1~1
+InfoAct_id_62~SEND~15min (15min.lt)~B-ID-57~IP-277~0~0~1~1
+InfoAct_id_63~SEND~15min (15min.lt)~B-ID-57~IP-278~0~0~1~1
+InfoAct_id_64~SEND~15min (15min.lt)~B-ID-57~IP-279~0~0~1~1
+InfoAct_id_65~SEND~15min (15min.lt)~B-ID-57~IP-283~0~0~1~1
+InfoAct_id_66~SEND~15min (15min.lt)~Arvydas Sabonis~IP-273~0~-0.1~1~1
+InfoAct_id_67~SEND~15min (15min.lt)~Arvydas Sabonis~IP-272~0~0~1~1
+InfoAct_id_68~SEND~15min (15min.lt)~Arvydas Sabonis~IP-273~0~0~1~1
+InfoAct_id_69~SEND~15min (15min.lt)~Arvydas Sabonis~IP-274~0~0~1~1
+InfoAct_id_70~SEND~15min (15min.lt)~Arvydas Sabonis~IP-275~0~0~1~1
+InfoAct_id_71~SEND~15min (15min.lt)~Arvydas Sabonis~IP-276~0~0~1~1
+InfoAct_id_72~SEND~15min (15min.lt)~Arvydas Sabonis~IP-277~0~0~1~1
+InfoAct_id_73~SEND~15min (15min.lt)~Arvydas Sabonis~IP-278~0~0~1~1
+InfoAct_id_74~SEND~15min (15min.lt)~Arvydas Sabonis~IP-279~0~0~1~1
+InfoAct_id_75~SEND~15min (15min.lt)~Arvydas Sabonis~IP-283~0~0~1~1
+InfoAct_id_76~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-273~0~+0.1~1~1
+InfoAct_id_77~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-272~0~0~1~1
+InfoAct_id_78~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-273~0~0~1~1
+InfoAct_id_79~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-274~0~0~1~1
+InfoAct_id_80~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-275~0~0~1~1
+InfoAct_id_81~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-276~0~0~1~1
+InfoAct_id_82~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-277~0~0~1~1
+InfoAct_id_83~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-278~0~0~1~1
+InfoAct_id_84~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-279~0~0~1~1
+InfoAct_id_85~SEND~15min (15min.lt)~Austeja Landsbergiene~IP-283~0~0~1~1
+InfoAct_id_86~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-277~0~+0.1~1~1
+InfoAct_id_87~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-272~0~0~1~1
+InfoAct_id_88~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-273~0~0~1~1
+InfoAct_id_89~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-274~0~0~1~1
+InfoAct_id_90~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-275~0~0~1~1
+InfoAct_id_91~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-276~0~0~1~1
+InfoAct_id_92~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-277~0~0~1~1
+InfoAct_id_93~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-278~0~0~1~1
+InfoAct_id_94~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-279~0~0~1~1
+InfoAct_id_95~SEND~15min (15min.lt)~Bishop K?stutis K?valas CATH~IP-283~0~0~1~1
+InfoAct_id_96~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-276~0~+0.1~1~1
+InfoAct_id_97~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-272~0~0~1~1
+InfoAct_id_98~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-273~0~0~1~1
+InfoAct_id_99~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-274~0~0~1~1
+InfoAct_id_100~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-275~0~0~1~1
+InfoAct_id_101~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-276~0~0~1~1
+InfoAct_id_102~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-277~0~0~1~1
+InfoAct_id_103~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-278~0~0~1~1
+InfoAct_id_104~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-279~0~0~1~1
+InfoAct_id_105~SEND~15min (15min.lt)~Sonata Patkauskait?~IP-283~0~0~1~1
+InfoAct_id_106~SEND~15min (15min.lt)~Edvinas Regelskis~IP-273~0~-0.1~1~1
+InfoAct_id_107~SEND~15min (15min.lt)~Edvinas Regelskis~IP-272~0~0~1~1
+InfoAct_id_108~SEND~15min (15min.lt)~Edvinas Regelskis~IP-273~0~0~1~1
+InfoAct_id_109~SEND~15min (15min.lt)~Edvinas Regelskis~IP-274~0~0~1~1
+InfoAct_id_110~SEND~15min (15min.lt)~Edvinas Regelskis~IP-275~0~0~1~1
+InfoAct_id_111~SEND~15min (15min.lt)~Edvinas Regelskis~IP-276~0~0~1~1
+InfoAct_id_112~SEND~15min (15min.lt)~Edvinas Regelskis~IP-277~0~0~1~1
+InfoAct_id_113~SEND~15min (15min.lt)~Edvinas Regelskis~IP-278~0~0~1~1
+InfoAct_id_114~SEND~15min (15min.lt)~Edvinas Regelskis~IP-279~0~0~1~1
+InfoAct_id_115~SEND~15min (15min.lt)~Edvinas Regelskis~IP-283~0~0~1~1
+InfoAct_id_116~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-276~0~-0.1~1~1
+InfoAct_id_117~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-272~0~0~1~1
+InfoAct_id_118~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-273~0~0~1~1
+InfoAct_id_119~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-274~0~0~1~1
+InfoAct_id_120~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-275~0~0~1~1
+InfoAct_id_121~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-276~0~0~1~1
+InfoAct_id_122~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-277~0~0~1~1
+InfoAct_id_123~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-278~0~0~1~1
+InfoAct_id_124~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-279~0~0~1~1
+InfoAct_id_125~SEND~15min (15min.lt)~Gintare Guzevi?i?t?~IP-283~0~0~1~1
+InfoAct_id_126~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-272~0~-0.1~1~1
+InfoAct_id_127~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-272~0~0~1~1
+InfoAct_id_128~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-273~0~0~1~1
+InfoAct_id_129~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-274~0~0~1~1
+InfoAct_id_130~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-275~0~0~1~1
+InfoAct_id_131~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-276~0~0~1~1
+InfoAct_id_132~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-277~0~0~1~1
+InfoAct_id_133~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-278~0~0~1~1
+InfoAct_id_134~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-279~0~0~1~1
+InfoAct_id_135~SEND~15min (15min.lt)~Archbishop Innokenty of Vilnius ROC~IP-283~0~0~1~1
+InfoAct_id_136~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-276~0~-0.1~1~1
+InfoAct_id_137~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-272~0~0~1~1
+InfoAct_id_138~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-273~0~0~1~1
+InfoAct_id_139~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-274~0~0~1~1
+InfoAct_id_140~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-275~0~0~1~1
+InfoAct_id_141~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-276~0~0~1~1
+InfoAct_id_142~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-277~0~0~1~1
+InfoAct_id_143~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-278~0~0~1~1
+InfoAct_id_144~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-279~0~0~1~1
+InfoAct_id_145~SEND~15min (15min.lt)~Bishop Ambrose of Trakai ROC~IP-283~0~0~1~1
+InfoAct_id_146~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-275~0~-0.1~1~1
+InfoAct_id_147~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-272~0~0~1~1
+InfoAct_id_148~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-273~0~0~1~1
+InfoAct_id_149~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-274~0~0~1~1
+InfoAct_id_150~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-275~0~0~1~1
+InfoAct_id_151~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-276~0~0~1~1
+InfoAct_id_152~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-277~0~0~1~1
+InfoAct_id_153~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-278~0~0~1~1
+InfoAct_id_154~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-279~0~0~1~1
+InfoAct_id_155~SEND~15min (15min.lt)~Arvydas Giedraitis~IP-283~0~0~1~1
+InfoAct_id_156~SEND~LRT (lrt.lt)~B-ID-16~IP-8~0~+0.1~1~1
+InfoAct_id_157~SEND~LRT (lrt.lt)~B-ID-16~IP-1~0~0~1~1
+InfoAct_id_158~SEND~LRT (lrt.lt)~B-ID-16~IP-2~0~0~1~1
+InfoAct_id_159~SEND~LRT (lrt.lt)~B-ID-16~IP-3~0~0~1~1
+InfoAct_id_160~SEND~LRT (lrt.lt)~B-ID-16~IP-4~0~0~1~1
+InfoAct_id_161~SEND~LRT (lrt.lt)~B-ID-16~IP-5~0~0~1~1
+InfoAct_id_162~SEND~LRT (lrt.lt)~B-ID-16~IP-6~0~0~1~1
+InfoAct_id_163~SEND~LRT (lrt.lt)~B-ID-16~IP-7~0~0~1~1
+InfoAct_id_164~SEND~LRT (lrt.lt)~B-ID-16~IP-8~0~0~1~1
+InfoAct_id_165~SEND~LRT (lrt.lt)~B-ID-16~IP-9~0~0~1~1
+InfoAct_id_166~SEND~LRT (lrt.lt)~B-ID-16~IP-10~0~0~1~1
+InfoAct_id_167~SEND~LRT (lrt.lt)~B-ID-31~IP-6~0~0~1~1
+InfoAct_id_168~SEND~LRT (lrt.lt)~B-ID-31~IP-1~0~0~1~1
+InfoAct_id_169~SEND~LRT (lrt.lt)~B-ID-31~IP-2~0~0~1~1
+InfoAct_id_170~SEND~LRT (lrt.lt)~B-ID-31~IP-3~0~0~1~1
+InfoAct_id_171~SEND~LRT (lrt.lt)~B-ID-31~IP-4~0~0~1~1
+InfoAct_id_172~SEND~LRT (lrt.lt)~B-ID-31~IP-5~0~0~1~1
+InfoAct_id_173~SEND~LRT (lrt.lt)~B-ID-31~IP-6~0~0~1~1
+InfoAct_id_174~SEND~LRT (lrt.lt)~B-ID-31~IP-7~0~0~1~1
+InfoAct_id_175~SEND~LRT (lrt.lt)~B-ID-31~IP-8~0~0~1~1
+InfoAct_id_176~SEND~LRT (lrt.lt)~B-ID-31~IP-9~0~0~1~1
+InfoAct_id_177~SEND~LRT (lrt.lt)~B-ID-31~IP-10~0~0~1~1
+InfoAct_id_178~SEND~LRT (lrt.lt)~B-ID-33~IP-5~0~0~1~1
+InfoAct_id_179~SEND~LRT (lrt.lt)~B-ID-33~IP-1~0~0~1~1
+InfoAct_id_180~SEND~LRT (lrt.lt)~B-ID-33~IP-2~0~0~1~1
+InfoAct_id_181~SEND~LRT (lrt.lt)~B-ID-33~IP-3~0~0~1~1
+InfoAct_id_182~SEND~LRT (lrt.lt)~B-ID-33~IP-4~0~0~1~1
+InfoAct_id_183~SEND~LRT (lrt.lt)~B-ID-33~IP-5~0~0~1~1
+InfoAct_id_184~SEND~LRT (lrt.lt)~B-ID-33~IP-6~0~0~1~1
+InfoAct_id_185~SEND~LRT (lrt.lt)~B-ID-33~IP-7~0~0~1~1
+InfoAct_id_186~SEND~LRT (lrt.lt)~B-ID-33~IP-8~0~0~1~1
+InfoAct_id_187~SEND~LRT (lrt.lt)~B-ID-33~IP-9~0~0~1~1
+InfoAct_id_188~SEND~LRT (lrt.lt)~B-ID-33~IP-10~0~0~1~1
+InfoAct_id_189~SEND~LRT (lrt.lt)~B-ID-43~IP-8~0~+0.1~1~1
+InfoAct_id_190~SEND~LRT (lrt.lt)~B-ID-43~IP-1~0~0~1~1
+InfoAct_id_191~SEND~LRT (lrt.lt)~B-ID-43~IP-2~0~0~1~1
+InfoAct_id_192~SEND~LRT (lrt.lt)~B-ID-43~IP-3~0~0~1~1
+InfoAct_id_193~SEND~LRT (lrt.lt)~B-ID-43~IP-4~0~0~1~1
+InfoAct_id_194~SEND~LRT (lrt.lt)~B-ID-43~IP-5~0~0~1~1
+InfoAct_id_195~SEND~LRT (lrt.lt)~B-ID-43~IP-6~0~0~1~1
+InfoAct_id_196~SEND~LRT (lrt.lt)~B-ID-43~IP-7~0~0~1~1
+InfoAct_id_197~SEND~LRT (lrt.lt)~B-ID-43~IP-8~0~0~1~1
+InfoAct_id_198~SEND~LRT (lrt.lt)~B-ID-43~IP-9~0~0~1~1
+InfoAct_id_199~SEND~LRT (lrt.lt)~B-ID-43~IP-10~0~0~1~1
+InfoAct_id_200~SEND~LRT (lrt.lt)~B-ID-44~IP-1~0~0~1~1
+InfoAct_id_201~SEND~LRT (lrt.lt)~B-ID-44~IP-1~0~0~1~1
+InfoAct_id_202~SEND~LRT (lrt.lt)~B-ID-44~IP-2~0~0~1~1
+InfoAct_id_203~SEND~LRT (lrt.lt)~B-ID-44~IP-3~0~0~1~1
+InfoAct_id_204~SEND~LRT (lrt.lt)~B-ID-44~IP-4~0~0~1~1
+InfoAct_id_205~SEND~LRT (lrt.lt)~B-ID-44~IP-5~0~0~1~1
+InfoAct_id_206~SEND~LRT (lrt.lt)~B-ID-44~IP-6~0~0~1~1
+InfoAct_id_207~SEND~LRT (lrt.lt)~B-ID-44~IP-7~0~0~1~1
+InfoAct_id_208~SEND~LRT (lrt.lt)~B-ID-44~IP-8~0~0~1~1
+InfoAct_id_209~SEND~LRT (lrt.lt)~B-ID-44~IP-9~0~0~1~1
+InfoAct_id_210~SEND~LRT (lrt.lt)~B-ID-44~IP-10~0~0~1~1
+InfoAct_id_211~SEND~LRT (lrt.lt)~B-ID-49~IP-3~0~0~1~1
+InfoAct_id_212~SEND~LRT (lrt.lt)~B-ID-49~IP-1~0~0~1~1
+InfoAct_id_213~SEND~LRT (lrt.lt)~B-ID-49~IP-2~0~0~1~1
+InfoAct_id_214~SEND~LRT (lrt.lt)~B-ID-49~IP-3~0~0~1~1
+InfoAct_id_215~SEND~LRT (lrt.lt)~B-ID-49~IP-4~0~0~1~1
+InfoAct_id_216~SEND~LRT (lrt.lt)~B-ID-49~IP-5~0~0~1~1
+InfoAct_id_217~SEND~LRT (lrt.lt)~B-ID-49~IP-6~0~0~1~1
+InfoAct_id_218~SEND~LRT (lrt.lt)~B-ID-49~IP-7~0~0~1~1
+InfoAct_id_219~SEND~LRT (lrt.lt)~B-ID-49~IP-8~0~0~1~1
+InfoAct_id_220~SEND~LRT (lrt.lt)~B-ID-49~IP-9~0~0~1~1
+InfoAct_id_221~SEND~LRT (lrt.lt)~B-ID-49~IP-10~0~0~1~1
+InfoAct_id_222~SEND~LRT (lrt.lt)~B-ID-60~IP-10~0~0~1~1
+InfoAct_id_223~SEND~LRT (lrt.lt)~B-ID-60~IP-1~0~0~1~1
+InfoAct_id_224~SEND~LRT (lrt.lt)~B-ID-60~IP-2~0~0~1~1
+InfoAct_id_225~SEND~LRT (lrt.lt)~B-ID-60~IP-3~0~0~1~1
+InfoAct_id_226~SEND~LRT (lrt.lt)~B-ID-60~IP-4~0~0~1~1
+InfoAct_id_227~SEND~LRT (lrt.lt)~B-ID-60~IP-5~0~0~1~1
+InfoAct_id_228~SEND~LRT (lrt.lt)~B-ID-60~IP-6~0~0~1~1
+InfoAct_id_229~SEND~LRT (lrt.lt)~B-ID-60~IP-7~0~0~1~1
+InfoAct_id_230~SEND~LRT (lrt.lt)~B-ID-60~IP-8~0~0~1~1
+InfoAct_id_231~SEND~LRT (lrt.lt)~B-ID-60~IP-9~0~0~1~1
+InfoAct_id_232~SEND~LRT (lrt.lt)~B-ID-60~IP-10~0~0~1~1
+InfoAct_id_233~SEND~LRT (lrt.lt)~B-ID-64~IP-2~0~+0.1~1~1
+InfoAct_id_234~SEND~LRT (lrt.lt)~B-ID-64~IP-1~0~0~1~1
+InfoAct_id_235~SEND~LRT (lrt.lt)~B-ID-64~IP-2~0~0~1~1
+InfoAct_id_236~SEND~LRT (lrt.lt)~B-ID-64~IP-3~0~0~1~1
+InfoAct_id_237~SEND~LRT (lrt.lt)~B-ID-64~IP-4~0~0~1~1
+InfoAct_id_238~SEND~LRT (lrt.lt)~B-ID-64~IP-5~0~0~1~1
+InfoAct_id_239~SEND~LRT (lrt.lt)~B-ID-64~IP-6~0~0~1~1
+InfoAct_id_240~SEND~LRT (lrt.lt)~B-ID-64~IP-7~0~0~1~1
+InfoAct_id_241~SEND~LRT (lrt.lt)~B-ID-64~IP-8~0~0~1~1
+InfoAct_id_242~SEND~LRT (lrt.lt)~B-ID-64~IP-9~0~0~1~1
+InfoAct_id_243~SEND~LRT (lrt.lt)~B-ID-64~IP-10~0~0~1~1
+InfoAct_id_244~SEND~LRT (lrt.lt)~B-ID-66~IP-9~0~0~1~1
+InfoAct_id_245~SEND~LRT (lrt.lt)~B-ID-66~IP-1~0~0~1~1
+InfoAct_id_246~SEND~LRT (lrt.lt)~B-ID-66~IP-2~0~0~1~1
+InfoAct_id_247~SEND~LRT (lrt.lt)~B-ID-66~IP-3~0~0~1~1
+InfoAct_id_248~SEND~LRT (lrt.lt)~B-ID-66~IP-4~0~0~1~1
+InfoAct_id_249~SEND~LRT (lrt.lt)~B-ID-66~IP-5~0~0~1~1
+InfoAct_id_250~SEND~LRT (lrt.lt)~B-ID-66~IP-6~0~0~1~1
+InfoAct_id_251~SEND~LRT (lrt.lt)~B-ID-66~IP-7~0~0~1~1
+InfoAct_id_252~SEND~LRT (lrt.lt)~B-ID-66~IP-8~0~0~1~1
+InfoAct_id_253~SEND~LRT (lrt.lt)~B-ID-66~IP-9~0~0~1~1
+InfoAct_id_254~SEND~LRT (lrt.lt)~B-ID-66~IP-10~0~0~1~1
+InfoAct_id_255~SEND~LRT (lrt.lt)~B-ID-74~IP-4~0~0~1~1
+InfoAct_id_256~SEND~LRT (lrt.lt)~B-ID-74~IP-1~0~0~1~1
+InfoAct_id_257~SEND~LRT (lrt.lt)~B-ID-74~IP-2~0~0~1~1
+InfoAct_id_258~SEND~LRT (lrt.lt)~B-ID-74~IP-3~0~0~1~1
+InfoAct_id_259~SEND~LRT (lrt.lt)~B-ID-74~IP-4~0~0~1~1
+InfoAct_id_260~SEND~LRT (lrt.lt)~B-ID-74~IP-5~0~0~1~1
+InfoAct_id_261~SEND~LRT (lrt.lt)~B-ID-74~IP-6~0~0~1~1
+InfoAct_id_262~SEND~LRT (lrt.lt)~B-ID-74~IP-7~0~0~1~1
+InfoAct_id_263~SEND~LRT (lrt.lt)~B-ID-74~IP-8~0~0~1~1
+InfoAct_id_264~SEND~LRT (lrt.lt)~B-ID-74~IP-9~0~0~1~1
+InfoAct_id_265~SEND~LRT (lrt.lt)~B-ID-74~IP-10~0~0~1~1
+InfoAct_id_266~SEND~LRT (lrt.lt)~B-ID-76~IP-5~0~0~1~1
+InfoAct_id_267~SEND~LRT (lrt.lt)~B-ID-76~IP-1~0~0~1~1
+InfoAct_id_268~SEND~LRT (lrt.lt)~B-ID-76~IP-2~0~0~1~1
+InfoAct_id_269~SEND~LRT (lrt.lt)~B-ID-76~IP-3~0~0~1~1
+InfoAct_id_270~SEND~LRT (lrt.lt)~B-ID-76~IP-4~0~0~1~1
+InfoAct_id_271~SEND~LRT (lrt.lt)~B-ID-76~IP-5~0~0~1~1
+InfoAct_id_272~SEND~LRT (lrt.lt)~B-ID-76~IP-6~0~0~1~1
+InfoAct_id_273~SEND~LRT (lrt.lt)~B-ID-76~IP-7~0~0~1~1
+InfoAct_id_274~SEND~LRT (lrt.lt)~B-ID-76~IP-8~0~0~1~1
+InfoAct_id_275~SEND~LRT (lrt.lt)~B-ID-76~IP-9~0~0~1~1
+InfoAct_id_276~SEND~LRT (lrt.lt)~B-ID-76~IP-10~0~0~1~1
+InfoAct_id_277~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-1~0~0~1~1
+InfoAct_id_278~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-1~0~0~1~1
+InfoAct_id_279~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-2~0~0~1~1
+InfoAct_id_280~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-3~0~0~1~1
+InfoAct_id_281~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-4~0~0~1~1
+InfoAct_id_282~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-5~0~0~1~1
+InfoAct_id_283~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-6~0~0~1~1
+InfoAct_id_284~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-7~0~0~1~1
+InfoAct_id_285~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-8~0~0~1~1
+InfoAct_id_286~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-9~0~0~1~1
+InfoAct_id_287~SEND~LRT (lrt.lt)~Austeja Landsbergiene~IP-10~0~0~1~1
+InfoAct_id_288~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-7~0~0~1~1
+InfoAct_id_289~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-1~0~0~1~1
+InfoAct_id_290~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-2~0~0~1~1
+InfoAct_id_291~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-3~0~0~1~1
+InfoAct_id_292~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-4~0~0~1~1
+InfoAct_id_293~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-5~0~0~1~1
+InfoAct_id_294~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-6~0~0~1~1
+InfoAct_id_295~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-7~0~0~1~1
+InfoAct_id_296~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-8~0~0~1~1
+InfoAct_id_297~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-9~0~0~1~1
+InfoAct_id_298~SEND~LRT (lrt.lt)~Simonas Gurevicius~IP-10~0~0~1~1
+InfoAct_id_299~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-6~0~0~1~1
+InfoAct_id_300~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-1~0~0~1~1
+InfoAct_id_301~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-2~0~0~1~1
+InfoAct_id_302~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-3~0~0~1~1
+InfoAct_id_303~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-4~0~0~1~1
+InfoAct_id_304~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-5~0~0~1~1
+InfoAct_id_305~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-6~0~0~1~1
+InfoAct_id_306~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-7~0~0~1~1
+InfoAct_id_307~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-8~0~0~1~1
+InfoAct_id_308~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-9~0~0~1~1
+InfoAct_id_309~SEND~LRT (lrt.lt)~Gintare Guzevi?i?t?~IP-10~0~0~1~1
+InfoAct_id_310~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-3~0~0~1~1
+InfoAct_id_311~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-1~0~0~1~1
+InfoAct_id_312~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-2~0~0~1~1
+InfoAct_id_313~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-3~0~0~1~1
+InfoAct_id_314~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-4~0~0~1~1
+InfoAct_id_315~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-5~0~0~1~1
+InfoAct_id_316~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-6~0~0~1~1
+InfoAct_id_317~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-7~0~0~1~1
+InfoAct_id_318~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-8~0~0~1~1
+InfoAct_id_319~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-9~0~0~1~1
+InfoAct_id_320~SEND~LRT (lrt.lt)~LTC Lapin Denis Alexandrovich~IP-10~0~0~1~1
+InfoAct_id_321~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-6~0~0~1~1
+InfoAct_id_322~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-1~0~0~1~1
+InfoAct_id_323~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-2~0~0~1~1
+InfoAct_id_324~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-3~0~0~1~1
+InfoAct_id_325~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-4~0~0~1~1
+InfoAct_id_326~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-5~0~0~1~1
+InfoAct_id_327~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-6~0~0~1~1
+InfoAct_id_328~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-7~0~0~1~1
+InfoAct_id_329~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-8~0~0~1~1
+InfoAct_id_330~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-9~0~0~1~1
+InfoAct_id_331~SEND~LRT (lrt.lt)~MG Arkady Vilktotovich Bakhin~IP-10~0~0~1~1
+InfoAct_id_332~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-1~0~0~1~1
+InfoAct_id_333~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-1~0~0~1~1
+InfoAct_id_334~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-2~0~0~1~1
+InfoAct_id_335~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-3~0~0~1~1
+InfoAct_id_336~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-4~0~0~1~1
+InfoAct_id_337~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-5~0~0~1~1
+InfoAct_id_338~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-6~0~0~1~1
+InfoAct_id_339~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-7~0~0~1~1
+InfoAct_id_340~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-8~0~0~1~1
+InfoAct_id_341~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-9~0~0~1~1
+InfoAct_id_342~SEND~LRT (lrt.lt)~COL Maximov Sergei Viktorovich~IP-10~0~0~1~1
+InfoAct_id_343~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-10~0~0~1~1
+InfoAct_id_344~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-1~0~0~1~1
+InfoAct_id_345~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-2~0~0~1~1
+InfoAct_id_346~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-3~0~0~1~1
+InfoAct_id_347~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-4~0~0~1~1
+InfoAct_id_348~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-5~0~0~1~1
+InfoAct_id_349~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-6~0~0~1~1
+InfoAct_id_350~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-7~0~0~1~1
+InfoAct_id_351~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-8~0~0~1~1
+InfoAct_id_352~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-9~0~0~1~1
+InfoAct_id_353~SEND~LRT (lrt.lt)~COL-GEN Victor Borisovich Astapov~IP-10~0~0~1~1
+InfoAct_id_354~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-7~0~0~1~1
+InfoAct_id_355~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-1~0~0~1~1
+InfoAct_id_356~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-2~0~0~1~1
+InfoAct_id_357~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-3~0~0~1~1
+InfoAct_id_358~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-4~0~0~1~1
+InfoAct_id_359~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-5~0~0~1~1
+InfoAct_id_360~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-6~0~0~1~1
+InfoAct_id_361~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-7~0~0~1~1
+InfoAct_id_362~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-8~0~0~1~1
+InfoAct_id_363~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-9~0~0~1~1
+InfoAct_id_364~SEND~LRT (lrt.lt)~COL-GEN Anatoly Alekseyevich Sidorov~IP-10~0~0~1~1
+InfoAct_id_365~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-9~0~0~1~1
+InfoAct_id_366~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-1~0~0~1~1
+InfoAct_id_367~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-2~0~0~1~1
+InfoAct_id_368~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-3~0~0~1~1
+InfoAct_id_369~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-4~0~0~1~1
+InfoAct_id_370~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-5~0~0~1~1
+InfoAct_id_371~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-6~0~0~1~1
+InfoAct_id_372~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-7~0~0~1~1
+InfoAct_id_373~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-8~0~0~1~1
+InfoAct_id_374~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-9~0~0~1~1
+InfoAct_id_375~SEND~LRT (lrt.lt)~Audrius Ciuplys~IP-10~0~0~1~1
+InfoAct_id_376~SEND~Diena (Diena.lt)~B-ID-4~IP-116~0~+0.1~1~1
+InfoAct_id_377~SEND~Diena (Diena.lt)~B-ID-4~IP-112~0~0~1~1
+InfoAct_id_378~SEND~Diena (Diena.lt)~B-ID-4~IP-113~0~0~1~1
+InfoAct_id_379~SEND~Diena (Diena.lt)~B-ID-4~IP-114~0~0~1~1
+InfoAct_id_380~SEND~Diena (Diena.lt)~B-ID-4~IP-115~0~0~1~1
+InfoAct_id_381~SEND~Diena (Diena.lt)~B-ID-4~IP-116~0~0~1~1
+InfoAct_id_382~SEND~Diena (Diena.lt)~B-ID-4~IP-117~0~0~1~1
+InfoAct_id_383~SEND~Diena (Diena.lt)~B-ID-4~IP-118~0~0~1~1
+InfoAct_id_384~SEND~Diena (Diena.lt)~B-ID-6~IP-116~0~+0.1~1~1
+InfoAct_id_385~SEND~Diena (Diena.lt)~B-ID-6~IP-112~0~0~1~1
+InfoAct_id_386~SEND~Diena (Diena.lt)~B-ID-6~IP-113~0~0~1~1
+InfoAct_id_387~SEND~Diena (Diena.lt)~B-ID-6~IP-114~0~0~1~1
+InfoAct_id_388~SEND~Diena (Diena.lt)~B-ID-6~IP-115~0~0~1~1
+InfoAct_id_389~SEND~Diena (Diena.lt)~B-ID-6~IP-116~0~0~1~1
+InfoAct_id_390~SEND~Diena (Diena.lt)~B-ID-6~IP-117~0~0~1~1
+InfoAct_id_391~SEND~Diena (Diena.lt)~B-ID-6~IP-118~0~0~1~1
+InfoAct_id_392~SEND~Diena (Diena.lt)~B-ID-23~IP-113~0~+0.1~1~1
+InfoAct_id_393~SEND~Diena (Diena.lt)~B-ID-23~IP-112~0~0~1~1
+InfoAct_id_394~SEND~Diena (Diena.lt)~B-ID-23~IP-113~0~0~1~1
+InfoAct_id_395~SEND~Diena (Diena.lt)~B-ID-23~IP-114~0~0~1~1
+InfoAct_id_396~SEND~Diena (Diena.lt)~B-ID-23~IP-115~0~0~1~1
+InfoAct_id_397~SEND~Diena (Diena.lt)~B-ID-23~IP-116~0~0~1~1
+InfoAct_id_398~SEND~Diena (Diena.lt)~B-ID-23~IP-117~0~0~1~1
+InfoAct_id_399~SEND~Diena (Diena.lt)~B-ID-23~IP-118~0~0~1~1
+InfoAct_id_400~SEND~Diena (Diena.lt)~B-ID-31~IP-113~0~+0.1~1~1
+InfoAct_id_401~SEND~Diena (Diena.lt)~B-ID-31~IP-112~0~0~1~1
+InfoAct_id_402~SEND~Diena (Diena.lt)~B-ID-31~IP-113~0~0~1~1
+InfoAct_id_403~SEND~Diena (Diena.lt)~B-ID-31~IP-114~0~0~1~1
+InfoAct_id_404~SEND~Diena (Diena.lt)~B-ID-31~IP-115~0~0~1~1
+InfoAct_id_405~SEND~Diena (Diena.lt)~B-ID-31~IP-116~0~0~1~1
+InfoAct_id_406~SEND~Diena (Diena.lt)~B-ID-31~IP-117~0~0~1~1
+InfoAct_id_407~SEND~Diena (Diena.lt)~B-ID-31~IP-118~0~0~1~1
+InfoAct_id_408~SEND~Diena (Diena.lt)~B-ID-44~IP-112~0~+0.1~1~1
+InfoAct_id_409~SEND~Diena (Diena.lt)~B-ID-44~IP-112~0~0~1~1
+InfoAct_id_410~SEND~Diena (Diena.lt)~B-ID-44~IP-113~0~0~1~1
+InfoAct_id_411~SEND~Diena (Diena.lt)~B-ID-44~IP-114~0~0~1~1
+InfoAct_id_412~SEND~Diena (Diena.lt)~B-ID-44~IP-115~0~0~1~1
+InfoAct_id_413~SEND~Diena (Diena.lt)~B-ID-44~IP-116~0~0~1~1
+InfoAct_id_414~SEND~Diena (Diena.lt)~B-ID-44~IP-117~0~0~1~1
+InfoAct_id_415~SEND~Diena (Diena.lt)~B-ID-44~IP-118~0~0~1~1
+InfoAct_id_416~SEND~Diena (Diena.lt)~B-ID-76~IP-114~0~+0.1~1~1
+InfoAct_id_417~SEND~Diena (Diena.lt)~B-ID-76~IP-112~0~0~1~1
+InfoAct_id_418~SEND~Diena (Diena.lt)~B-ID-76~IP-113~0~0~1~1
+InfoAct_id_419~SEND~Diena (Diena.lt)~B-ID-76~IP-114~0~0~1~1
+InfoAct_id_420~SEND~Diena (Diena.lt)~B-ID-76~IP-115~0~0~1~1
+InfoAct_id_421~SEND~Diena (Diena.lt)~B-ID-76~IP-116~0~0~1~1
+InfoAct_id_422~SEND~Diena (Diena.lt)~B-ID-76~IP-117~0~0~1~1
+InfoAct_id_423~SEND~Diena (Diena.lt)~B-ID-76~IP-118~0~0~1~1
+InfoAct_id_424~SEND~L24 (l24.lt)~B-ID-16~IP-345~0~-0.1~1~1
+InfoAct_id_425~SEND~L24 (l24.lt)~B-ID-16~IP-342~0~0~1~1
+InfoAct_id_426~SEND~L24 (l24.lt)~B-ID-16~IP-343~0~0~1~1
+InfoAct_id_427~SEND~L24 (l24.lt)~B-ID-16~IP-344~0~0~1~1
+InfoAct_id_428~SEND~L24 (l24.lt)~B-ID-16~IP-345~0~0~1~1
+InfoAct_id_429~SEND~L24 (l24.lt)~B-ID-16~IP-346~0~0~1~1
+InfoAct_id_430~SEND~L24 (l24.lt)~B-ID-16~IP-347~0~0~1~1
+InfoAct_id_431~SEND~L24 (l24.lt)~B-ID-16~IP-348~0~0~1~1
+InfoAct_id_432~SEND~L24 (l24.lt)~B-ID-16~IP-352~0~0~1~1
+InfoAct_id_433~SEND~L24 (l24.lt)~B-ID-35~IP-345~0~-0.1~1~1
+InfoAct_id_434~SEND~L24 (l24.lt)~B-ID-35~IP-342~0~0~1~1
+InfoAct_id_435~SEND~L24 (l24.lt)~B-ID-35~IP-343~0~0~1~1
+InfoAct_id_436~SEND~L24 (l24.lt)~B-ID-35~IP-344~0~0~1~1
+InfoAct_id_437~SEND~L24 (l24.lt)~B-ID-35~IP-345~0~0~1~1
+InfoAct_id_438~SEND~L24 (l24.lt)~B-ID-35~IP-346~0~0~1~1
+InfoAct_id_439~SEND~L24 (l24.lt)~B-ID-35~IP-347~0~0~1~1
+InfoAct_id_440~SEND~L24 (l24.lt)~B-ID-35~IP-348~0~0~1~1
+InfoAct_id_441~SEND~L24 (l24.lt)~B-ID-35~IP-352~0~0~1~1
+InfoAct_id_442~SEND~L24 (l24.lt)~B-ID-41~IP-343~0~-0.1~1~1
+InfoAct_id_443~SEND~L24 (l24.lt)~B-ID-41~IP-342~0~0~1~1
+InfoAct_id_444~SEND~L24 (l24.lt)~B-ID-41~IP-343~0~0~1~1
+InfoAct_id_445~SEND~L24 (l24.lt)~B-ID-41~IP-344~0~0~1~1
+InfoAct_id_446~SEND~L24 (l24.lt)~B-ID-41~IP-345~0~0~1~1
+InfoAct_id_447~SEND~L24 (l24.lt)~B-ID-41~IP-346~0~0~1~1
+InfoAct_id_448~SEND~L24 (l24.lt)~B-ID-41~IP-347~0~0~1~1
+InfoAct_id_449~SEND~L24 (l24.lt)~B-ID-41~IP-348~0~0~1~1
+InfoAct_id_450~SEND~L24 (l24.lt)~B-ID-41~IP-352~0~0~1~1
+InfoAct_id_451~SEND~L24 (l24.lt)~B-ID-43~IP-346~0~+0.1~1~1
+InfoAct_id_452~SEND~L24 (l24.lt)~B-ID-43~IP-342~0~0~1~1
+InfoAct_id_453~SEND~L24 (l24.lt)~B-ID-43~IP-343~0~0~1~1
+InfoAct_id_454~SEND~L24 (l24.lt)~B-ID-43~IP-344~0~0~1~1
+InfoAct_id_455~SEND~L24 (l24.lt)~B-ID-43~IP-345~0~0~1~1
+InfoAct_id_456~SEND~L24 (l24.lt)~B-ID-43~IP-346~0~0~1~1
+InfoAct_id_457~SEND~L24 (l24.lt)~B-ID-43~IP-347~0~0~1~1
+InfoAct_id_458~SEND~L24 (l24.lt)~B-ID-43~IP-348~0~0~1~1
+InfoAct_id_459~SEND~L24 (l24.lt)~B-ID-43~IP-352~0~0~1~1
+InfoAct_id_460~SEND~L24 (l24.lt)~B-ID-76~IP-342~0~-0.1~1~1
+InfoAct_id_461~SEND~L24 (l24.lt)~B-ID-76~IP-342~0~0~1~1
+InfoAct_id_462~SEND~L24 (l24.lt)~B-ID-76~IP-343~0~0~1~1
+InfoAct_id_463~SEND~L24 (l24.lt)~B-ID-76~IP-344~0~0~1~1
+InfoAct_id_464~SEND~L24 (l24.lt)~B-ID-76~IP-345~0~0~1~1
+InfoAct_id_465~SEND~L24 (l24.lt)~B-ID-76~IP-346~0~0~1~1
+InfoAct_id_466~SEND~L24 (l24.lt)~B-ID-76~IP-347~0~0~1~1
+InfoAct_id_467~SEND~L24 (l24.lt)~B-ID-76~IP-348~0~0~1~1
+InfoAct_id_468~SEND~L24 (l24.lt)~B-ID-76~IP-352~0~0~1~1
+InfoAct_id_469~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-345~0~-0.1~1~1
+InfoAct_id_470~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-342~0~0~1~1
+InfoAct_id_471~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-343~0~0~1~1
+InfoAct_id_472~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-344~0~0~1~1
+InfoAct_id_473~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-345~0~0~1~1
+InfoAct_id_474~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-346~0~0~1~1
+InfoAct_id_475~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-347~0~0~1~1
+InfoAct_id_476~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-348~0~0~1~1
+InfoAct_id_477~SEND~L24 (l24.lt)~Virgis Bagdonas~IP-352~0~0~1~1
+InfoAct_id_478~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-424~0~-0.1~1~1
+InfoAct_id_479~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-422~0~0~1~1
+InfoAct_id_480~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-423~0~0~1~1
+InfoAct_id_481~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-424~0~0~1~1
+InfoAct_id_482~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-425~0~0~1~1
+InfoAct_id_483~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-426~0~0~1~1
+InfoAct_id_484~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-427~0~0~1~1
+InfoAct_id_485~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-428~0~0~1~1
+InfoAct_id_486~SEND~Delfi LT (delfi.lt)~B-ID-9~IP-429~0~0~1~1
+InfoAct_id_487~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-422~0~-0.1~1~1
+InfoAct_id_488~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-422~0~0~1~1
+InfoAct_id_489~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-423~0~0~1~1
+InfoAct_id_490~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-424~0~0~1~1
+InfoAct_id_491~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-425~0~0~1~1
+InfoAct_id_492~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-426~0~0~1~1
+InfoAct_id_493~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-427~0~0~1~1
+InfoAct_id_494~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-428~0~0~1~1
+InfoAct_id_495~SEND~Delfi LT (delfi.lt)~B-ID-16~IP-429~0~0~1~1
+InfoAct_id_496~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-423~0~-0.1~1~1
+InfoAct_id_497~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-422~0~0~1~1
+InfoAct_id_498~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-423~0~0~1~1
+InfoAct_id_499~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-424~0~0~1~1
+InfoAct_id_500~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-425~0~0~1~1
+InfoAct_id_501~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-426~0~0~1~1
+InfoAct_id_502~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-427~0~0~1~1
+InfoAct_id_503~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-428~0~0~1~1
+InfoAct_id_504~SEND~Delfi LT (delfi.lt)~B-ID-21~IP-429~0~0~1~1
+InfoAct_id_505~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-427~0~+0.1~1~1
+InfoAct_id_506~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-422~0~0~1~1
+InfoAct_id_507~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-423~0~0~1~1
+InfoAct_id_508~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-424~0~0~1~1
+InfoAct_id_509~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-425~0~0~1~1
+InfoAct_id_510~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-426~0~0~1~1
+InfoAct_id_511~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-427~0~0~1~1
+InfoAct_id_512~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-428~0~0~1~1
+InfoAct_id_513~SEND~Delfi LT (delfi.lt)~B-ID-22~IP-429~0~0~1~1
+InfoAct_id_514~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-425~0~+0.1~1~1
+InfoAct_id_515~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-422~0~0~1~1
+InfoAct_id_516~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-423~0~0~1~1
+InfoAct_id_517~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-424~0~0~1~1
+InfoAct_id_518~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-425~0~0~1~1
+InfoAct_id_519~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-426~0~0~1~1
+InfoAct_id_520~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-427~0~0~1~1
+InfoAct_id_521~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-428~0~0~1~1
+InfoAct_id_522~SEND~Delfi LT (delfi.lt)~B-ID-30~IP-429~0~0~1~1
+InfoAct_id_523~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-427~0~-0.1~1~1
+InfoAct_id_524~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-422~0~0~1~1
+InfoAct_id_525~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-423~0~0~1~1
+InfoAct_id_526~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-424~0~0~1~1
+InfoAct_id_527~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-425~0~0~1~1
+InfoAct_id_528~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-426~0~0~1~1
+InfoAct_id_529~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-427~0~0~1~1
+InfoAct_id_530~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-428~0~0~1~1
+InfoAct_id_531~SEND~Delfi LT (delfi.lt)~B-ID-32~IP-429~0~0~1~1
+InfoAct_id_532~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-429~0~-0.1~1~1
+InfoAct_id_533~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-422~0~0~1~1
+InfoAct_id_534~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-423~0~0~1~1
+InfoAct_id_535~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-424~0~0~1~1
+InfoAct_id_536~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-425~0~0~1~1
+InfoAct_id_537~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-426~0~0~1~1
+InfoAct_id_538~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-427~0~0~1~1
+InfoAct_id_539~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-428~0~0~1~1
+InfoAct_id_540~SEND~Delfi LT (delfi.lt)~B-ID-33~IP-429~0~0~1~1
+InfoAct_id_541~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-425~0~+0.1~1~1
+InfoAct_id_542~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-422~0~0~1~1
+InfoAct_id_543~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-423~0~0~1~1
+InfoAct_id_544~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-424~0~0~1~1
+InfoAct_id_545~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-425~0~0~1~1
+InfoAct_id_546~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-426~0~0~1~1
+InfoAct_id_547~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-427~0~0~1~1
+InfoAct_id_548~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-428~0~0~1~1
+InfoAct_id_549~SEND~Delfi LT (delfi.lt)~B-ID-35~IP-429~0~0~1~1
+InfoAct_id_550~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-426~0~-0.1~1~1
+InfoAct_id_551~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-422~0~0~1~1
+InfoAct_id_552~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-423~0~0~1~1
+InfoAct_id_553~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-424~0~0~1~1
+InfoAct_id_554~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-425~0~0~1~1
+InfoAct_id_555~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-426~0~0~1~1
+InfoAct_id_556~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-427~0~0~1~1
+InfoAct_id_557~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-428~0~0~1~1
+InfoAct_id_558~SEND~Delfi LT (delfi.lt)~B-ID-36~IP-429~0~0~1~1
+InfoAct_id_559~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-429~0~-0.1~1~1
+InfoAct_id_560~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-422~0~0~1~1
+InfoAct_id_561~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-423~0~0~1~1
+InfoAct_id_562~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-424~0~0~1~1
+InfoAct_id_563~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-425~0~0~1~1
+InfoAct_id_564~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-426~0~0~1~1
+InfoAct_id_565~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-427~0~0~1~1
+InfoAct_id_566~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-428~0~0~1~1
+InfoAct_id_567~SEND~Delfi LT (delfi.lt)~B-ID-38~IP-429~0~0~1~1
+InfoAct_id_568~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-426~0~-0.1~1~1
+InfoAct_id_569~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-422~0~0~1~1
+InfoAct_id_570~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-423~0~0~1~1
+InfoAct_id_571~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-424~0~0~1~1
+InfoAct_id_572~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-425~0~0~1~1
+InfoAct_id_573~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-426~0~0~1~1
+InfoAct_id_574~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-427~0~0~1~1
+InfoAct_id_575~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-428~0~0~1~1
+InfoAct_id_576~SEND~Delfi LT (delfi.lt)~B-ID-40~IP-429~0~0~1~1
+InfoAct_id_577~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-426~0~-0.1~1~1
+InfoAct_id_578~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-422~0~0~1~1
+InfoAct_id_579~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-423~0~0~1~1
+InfoAct_id_580~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-424~0~0~1~1
+InfoAct_id_581~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-425~0~0~1~1
+InfoAct_id_582~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-426~0~0~1~1
+InfoAct_id_583~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-427~0~0~1~1
+InfoAct_id_584~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-428~0~0~1~1
+InfoAct_id_585~SEND~Delfi LT (delfi.lt)~B-ID-41~IP-429~0~0~1~1
+InfoAct_id_586~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-428~0~-0.1~1~1
+InfoAct_id_587~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-422~0~0~1~1
+InfoAct_id_588~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-423~0~0~1~1
+InfoAct_id_589~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-424~0~0~1~1
+InfoAct_id_590~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-425~0~0~1~1
+InfoAct_id_591~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-426~0~0~1~1
+InfoAct_id_592~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-427~0~0~1~1
+InfoAct_id_593~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-428~0~0~1~1
+InfoAct_id_594~SEND~Delfi LT (delfi.lt)~B-ID-43~IP-429~0~0~1~1
+InfoAct_id_595~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-428~0~+0.1~1~1
+InfoAct_id_596~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-422~0~0~1~1
+InfoAct_id_597~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-423~0~0~1~1
+InfoAct_id_598~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-424~0~0~1~1
+InfoAct_id_599~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-425~0~0~1~1
+InfoAct_id_600~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-426~0~0~1~1
+InfoAct_id_601~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-427~0~0~1~1
+InfoAct_id_602~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-428~0~0~1~1
+InfoAct_id_603~SEND~Delfi LT (delfi.lt)~B-ID-46~IP-429~0~0~1~1
+InfoAct_id_604~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-423~0~+0.1~1~1
+InfoAct_id_605~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-422~0~0~1~1
+InfoAct_id_606~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-423~0~0~1~1
+InfoAct_id_607~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-424~0~0~1~1
+InfoAct_id_608~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-425~0~0~1~1
+InfoAct_id_609~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-426~0~0~1~1
+InfoAct_id_610~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-427~0~0~1~1
+InfoAct_id_611~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-428~0~0~1~1
+InfoAct_id_612~SEND~Delfi LT (delfi.lt)~B-ID-48~IP-429~0~0~1~1
+InfoAct_id_613~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-428~0~+0.1~1~1
+InfoAct_id_614~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-422~0~0~1~1
+InfoAct_id_615~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-423~0~0~1~1
+InfoAct_id_616~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-424~0~0~1~1
+InfoAct_id_617~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-425~0~0~1~1
+InfoAct_id_618~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-426~0~0~1~1
+InfoAct_id_619~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-427~0~0~1~1
+InfoAct_id_620~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-428~0~0~1~1
+InfoAct_id_621~SEND~Delfi LT (delfi.lt)~B-ID-53~IP-429~0~0~1~1
+InfoAct_id_622~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-422~0~-0.1~1~1
+InfoAct_id_623~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-422~0~0~1~1
+InfoAct_id_624~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-423~0~0~1~1
+InfoAct_id_625~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-424~0~0~1~1
+InfoAct_id_626~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-425~0~0~1~1
+InfoAct_id_627~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-426~0~0~1~1
+InfoAct_id_628~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-427~0~0~1~1
+InfoAct_id_629~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-428~0~0~1~1
+InfoAct_id_630~SEND~Delfi LT (delfi.lt)~B-ID-59~IP-429~0~0~1~1
+InfoAct_id_631~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-428~0~+0.1~1~1
+InfoAct_id_632~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-422~0~0~1~1
+InfoAct_id_633~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-423~0~0~1~1
+InfoAct_id_634~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-424~0~0~1~1
+InfoAct_id_635~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-425~0~0~1~1
+InfoAct_id_636~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-426~0~0~1~1
+InfoAct_id_637~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-427~0~0~1~1
+InfoAct_id_638~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-428~0~0~1~1
+InfoAct_id_639~SEND~Delfi LT (delfi.lt)~B-ID-60~IP-429~0~0~1~1
+InfoAct_id_640~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-428~0~+0.1~1~1
+InfoAct_id_641~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-422~0~0~1~1
+InfoAct_id_642~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-423~0~0~1~1
+InfoAct_id_643~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-424~0~0~1~1
+InfoAct_id_644~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-425~0~0~1~1
+InfoAct_id_645~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-426~0~0~1~1
+InfoAct_id_646~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-427~0~0~1~1
+InfoAct_id_647~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-428~0~0~1~1
+InfoAct_id_648~SEND~Delfi LT (delfi.lt)~B-ID-61~IP-429~0~0~1~1
+InfoAct_id_649~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-423~0~+0.1~1~1
+InfoAct_id_650~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-422~0~0~1~1
+InfoAct_id_651~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-423~0~0~1~1
+InfoAct_id_652~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-424~0~0~1~1
+InfoAct_id_653~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-425~0~0~1~1
+InfoAct_id_654~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-426~0~0~1~1
+InfoAct_id_655~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-427~0~0~1~1
+InfoAct_id_656~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-428~0~0~1~1
+InfoAct_id_657~SEND~Delfi LT (delfi.lt)~B-ID-62~IP-429~0~0~1~1
+InfoAct_id_658~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-423~0~+0.1~1~1
+InfoAct_id_659~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-422~0~0~1~1
+InfoAct_id_660~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-423~0~0~1~1
+InfoAct_id_661~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-424~0~0~1~1
+InfoAct_id_662~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-425~0~0~1~1
+InfoAct_id_663~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-426~0~0~1~1
+InfoAct_id_664~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-427~0~0~1~1
+InfoAct_id_665~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-428~0~0~1~1
+InfoAct_id_666~SEND~Delfi LT (delfi.lt)~B-ID-64~IP-429~0~0~1~1
+InfoAct_id_667~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-424~0~+0.1~1~1
+InfoAct_id_668~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-422~0~0~1~1
+InfoAct_id_669~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-423~0~0~1~1
+InfoAct_id_670~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-424~0~0~1~1
+InfoAct_id_671~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-425~0~0~1~1
+InfoAct_id_672~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-426~0~0~1~1
+InfoAct_id_673~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-427~0~0~1~1
+InfoAct_id_674~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-428~0~0~1~1
+InfoAct_id_675~SEND~Delfi LT (delfi.lt)~B-ID-67~IP-429~0~0~1~1
+InfoAct_id_676~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-422~0~-0.1~1~1
+InfoAct_id_677~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-422~0~0~1~1
+InfoAct_id_678~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-423~0~0~1~1
+InfoAct_id_679~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-424~0~0~1~1
+InfoAct_id_680~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-425~0~0~1~1
+InfoAct_id_681~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-426~0~0~1~1
+InfoAct_id_682~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-427~0~0~1~1
+InfoAct_id_683~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-428~0~0~1~1
+InfoAct_id_684~SEND~Delfi LT (delfi.lt)~B-ID-68~IP-429~0~0~1~1
+InfoAct_id_685~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-429~0~+0.1~1~1
+InfoAct_id_686~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-422~0~0~1~1
+InfoAct_id_687~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-423~0~0~1~1
+InfoAct_id_688~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-424~0~0~1~1
+InfoAct_id_689~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-425~0~0~1~1
+InfoAct_id_690~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-426~0~0~1~1
+InfoAct_id_691~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-427~0~0~1~1
+InfoAct_id_692~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-428~0~0~1~1
+InfoAct_id_693~SEND~Delfi LT (delfi.lt)~B-ID-74~IP-429~0~0~1~1
+InfoAct_id_694~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-427~0~+0.1~1~1
+InfoAct_id_695~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-422~0~0~1~1
+InfoAct_id_696~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-423~0~0~1~1
+InfoAct_id_697~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-424~0~0~1~1
+InfoAct_id_698~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-425~0~0~1~1
+InfoAct_id_699~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-426~0~0~1~1
+InfoAct_id_700~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-427~0~0~1~1
+InfoAct_id_701~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-428~0~0~1~1
+InfoAct_id_702~SEND~Delfi LT (delfi.lt)~B-ID-76~IP-429~0~0~1~1
+InfoAct_id_703~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-425~0~-0.1~1~1
+InfoAct_id_704~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-422~0~0~1~1
+InfoAct_id_705~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-423~0~0~1~1
+InfoAct_id_706~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-424~0~0~1~1
+InfoAct_id_707~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-425~0~0~1~1
+InfoAct_id_708~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-426~0~0~1~1
+InfoAct_id_709~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-427~0~0~1~1
+InfoAct_id_710~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-428~0~0~1~1
+InfoAct_id_711~SEND~Delfi LT (delfi.lt)~Austeja Landsbergiene~IP-429~0~0~1~1
+InfoAct_id_712~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-425~0~+0.1~1~1
+InfoAct_id_713~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-422~0~0~1~1
+InfoAct_id_714~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-423~0~0~1~1
+InfoAct_id_715~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-424~0~0~1~1
+InfoAct_id_716~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-425~0~0~1~1
+InfoAct_id_717~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-426~0~0~1~1
+InfoAct_id_718~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-427~0~0~1~1
+InfoAct_id_719~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-428~0~0~1~1
+InfoAct_id_720~SEND~Delfi LT (delfi.lt)~Gabrielius Landsbergis~IP-429~0~0~1~1
+InfoAct_id_721~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-426~0~-0.1~1~1
+InfoAct_id_722~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-422~0~0~1~1
+InfoAct_id_723~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-423~0~0~1~1
+InfoAct_id_724~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-424~0~0~1~1
+InfoAct_id_725~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-425~0~0~1~1
+InfoAct_id_726~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-426~0~0~1~1
+InfoAct_id_727~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-427~0~0~1~1
+InfoAct_id_728~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-428~0~0~1~1
+InfoAct_id_729~SEND~Delfi LT (delfi.lt)~Ingrida Simonyte~IP-429~0~0~1~1
+InfoAct_id_730~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-424~0~-0.1~1~1
+InfoAct_id_731~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-422~0~0~1~1
+InfoAct_id_732~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-423~0~0~1~1
+InfoAct_id_733~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-424~0~0~1~1
+InfoAct_id_734~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-425~0~0~1~1
+InfoAct_id_735~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-426~0~0~1~1
+InfoAct_id_736~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-427~0~0~1~1
+InfoAct_id_737~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-428~0~0~1~1
+InfoAct_id_738~SEND~Delfi LT (delfi.lt)~Simonas Gurevicius~IP-429~0~0~1~1
+InfoAct_id_739~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-424~0~-0.1~1~1
+InfoAct_id_740~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-422~0~0~1~1
+InfoAct_id_741~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-423~0~0~1~1
+InfoAct_id_742~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-424~0~0~1~1
+InfoAct_id_743~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-425~0~0~1~1
+InfoAct_id_744~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-426~0~0~1~1
+InfoAct_id_745~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-427~0~0~1~1
+InfoAct_id_746~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-428~0~0~1~1
+InfoAct_id_747~SEND~Delfi LT (delfi.lt)~Edvinas Regelskis~IP-429~0~0~1~1
+InfoAct_id_748~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-428~0~-0.1~1~1
+InfoAct_id_749~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-422~0~0~1~1
+InfoAct_id_750~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-423~0~0~1~1
+InfoAct_id_751~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-424~0~0~1~1
+InfoAct_id_752~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-425~0~0~1~1
+InfoAct_id_753~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-426~0~0~1~1
+InfoAct_id_754~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-427~0~0~1~1
+InfoAct_id_755~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-428~0~0~1~1
+InfoAct_id_756~SEND~Delfi LT (delfi.lt)~Edita Baniene~IP-429~0~0~1~1
+InfoAct_id_757~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-428~0~+0.1~1~1
+InfoAct_id_758~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-422~0~0~1~1
+InfoAct_id_759~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-423~0~0~1~1
+InfoAct_id_760~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-424~0~0~1~1
+InfoAct_id_761~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-425~0~0~1~1
+InfoAct_id_762~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-426~0~0~1~1
+InfoAct_id_763~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-427~0~0~1~1
+InfoAct_id_764~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-428~0~0~1~1
+InfoAct_id_765~SEND~Delfi LT (delfi.lt)~Egle Juzu~IP-429~0~0~1~1
+InfoAct_id_766~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-429~0~+0.1~1~1
+InfoAct_id_767~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-422~0~0~1~1
+InfoAct_id_768~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-423~0~0~1~1
+InfoAct_id_769~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-424~0~0~1~1
+InfoAct_id_770~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-425~0~0~1~1
+InfoAct_id_771~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-426~0~0~1~1
+InfoAct_id_772~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-427~0~0~1~1
+InfoAct_id_773~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-428~0~0~1~1
+InfoAct_id_774~SEND~Delfi LT (delfi.lt)~LTC Lapin Denis Alexandrovich~IP-429~0~0~1~1
+InfoAct_id_775~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-428~0~+0.1~1~1
+InfoAct_id_776~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-422~0~0~1~1
+InfoAct_id_777~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-423~0~0~1~1
+InfoAct_id_778~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-424~0~0~1~1
+InfoAct_id_779~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-425~0~0~1~1
+InfoAct_id_780~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-426~0~0~1~1
+InfoAct_id_781~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-427~0~0~1~1
+InfoAct_id_782~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-428~0~0~1~1
+InfoAct_id_783~SEND~Delfi LT (delfi.lt)~COL Maximov Sergei Viktorovich~IP-429~0~0~1~1
+InfoAct_id_784~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-429~0~+0.1~1~1
+InfoAct_id_785~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-422~0~0~1~1
+InfoAct_id_786~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-423~0~0~1~1
+InfoAct_id_787~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-424~0~0~1~1
+InfoAct_id_788~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-425~0~0~1~1
+InfoAct_id_789~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-426~0~0~1~1
+InfoAct_id_790~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-427~0~0~1~1
+InfoAct_id_791~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-428~0~0~1~1
+InfoAct_id_792~SEND~Delfi LT (delfi.lt)~COL-GEN Victor Borisovich Astapov~IP-429~0~0~1~1
