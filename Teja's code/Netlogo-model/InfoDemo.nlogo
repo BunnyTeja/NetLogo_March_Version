@@ -415,6 +415,9 @@ end
 
 
 to send
+
+
+
   set Information_Action_list []
   set initial_track_list_IA []
   set initial_track_list_IA ["information_action_id" "information_action_type" "sending_agent_id" "receiving_agent_id" "information_packet_id" "endorsed_agent_id" "change_in_amplification" "tick" "simulation_id"]
@@ -423,6 +426,10 @@ to send
 ;; logic for sending IPs through Info agents if they have any IPs
 ;; If the IPs list is not empty send the first 5 IPs to all the connected agents and remove those from list.
   if tick-count = 1[
+    set identity-list[]
+set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+    ;print(initial-track-list)
+    set identity-list lput initial-track-list10 identity-list
   ;print tick-count
   let count_ba 0
   let triadno 1
@@ -433,6 +440,7 @@ to send
   let i 0
 
   let tempIpslist []
+  let selected_random_IPs []
   let info_agent_id agent-id ; sending agent id
     set tempIpslist IPslist ; list of Ips that are being sent
     while [i < length(connected_agents_list)] [
@@ -450,43 +458,48 @@ to send
           set originalIpslist remove-item random-index originalIpslist
          ]
 
+        set selected_random_IPs lput random_IPslist selected_random_IPs
         let random_IPs turtles with [Ip-id = item 0 random_IPslist]
          ask random_IPs[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let AmplifyanInformationPacket false
            let RefuteanInformationPacket false
-            ifelse random 100 < 50 [
+            ifelse random 100 < 50 and (stance < 3 and stance > -3) [
               set AmplifyanInformationPacket true
             ]
-            [set RefuteanInformationPacket true]
+            [
+            if (stance < 3 and stance > -3) [
+              set RefuteanInformationPacket true]
+
+          ]
 
             if AmplifyanInformationPacket = true [
             set information_action_type "amplify"
             if stance > 0[
             set stance stance + 0.1
-            set change_in_amplification "+ 0.1"
+            set change_in_amplification "+0.1"
               ]
             if stance < 0[
             set stance stance - 0.1
-            set change_in_amplification "- 0.1"
+            set change_in_amplification "-0.1"
               ]
             ]
               if RefuteanInformationPacket = true[
               set information_action_type "refute"
             if stance > 0[
             set stance stance - 0.1
-            set change_in_amplification "- 0.1"
+            set change_in_amplification "-0.1"
               ]
             if stance < 0[
             set stance stance + 0.1
-            set change_in_amplification "+ 0.1"
+            set change_in_amplification "+0.1"
               ]
             ]
                 if (AmplifyanInformationPacket = true or RefuteanInformationPacket = true)[
             set sub_list_IA []
                               set actionid actionid + 1
                               set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-                              set sub_list_IA lput information_action_type sub_list_IA
+                              set sub_list_IA lput "send" sub_list_IA
                               set sub_list_IA lput info_agent_id sub_list_IA
                               set sub_list_IA lput search_id sub_list_IA
                               set sub_list_IA lput Ip_Id_log sub_list_IA
@@ -497,6 +510,22 @@ to send
                          set Information_Action_list lput sub_list_IA Information_Action_list
 
           ]
+          if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
+
+            set sub_list_IA []
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput "send" sub_list_IA
+            set sub_list_IA lput info_agent_id sub_list_IA
+            set sub_list_IA lput search_id sub_list_IA
+            set sub_list_IA lput Ip_Id_log sub_list_IA
+            set sub_list_IA lput 0 sub_list_IA
+            set sub_list_IA lput 0  sub_list_IA
+            set sub_list_IA lput tick-count sub_list_IA
+            set sub_list_IA lput 1 sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
+
+            ]
           ]
 
       let current_agent turtles with [agent-id = search_id]
@@ -505,14 +534,27 @@ to send
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist; temp stores the current IP id
           ;set Outbox lput temp Outbox ; To store received IPs
-
+            ifelse member? temp selected_random_IPs [][
              ifelse member? temp outbox[
               ]
               [
                set outbox lput temp outbox
 
               ]
+            set sub_list_IA []
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput "send" sub_list_IA
+            set sub_list_IA lput info_agent_id sub_list_IA
+            set sub_list_IA lput search_id sub_list_IA
+            set sub_list_IA lput temp sub_list_IA
+            set sub_list_IA lput 0 sub_list_IA
+            set sub_list_IA lput "0"  sub_list_IA
+            set sub_list_IA lput tick-count sub_list_IA
+            set sub_list_IA lput 1 sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
 
+          ]
 
          ; logic for creating triadstack for basic agents
           let temptriad []
@@ -524,6 +566,23 @@ to send
             set temptriad lput Related-topic-id temptriad
             set temptriad lput stance temptriad
             set temptopic lput Related-topic-id temptopic
+
+          set sub-list10[]
+         ; set sub-list10 lput IdentityActionID sub-list10
+          set identityactionid identityactionid + 1
+          set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
+          set sub-list10 lput search_id sub-list10
+          set sub-list10 lput "CREATE" sub-list10
+          set sub-list10 lput word "Triad_ID_" triadno sub-list10
+          set sub-list10 lput stance sub-list10
+          set sub-list10 lput "0" sub-list10
+          set sub-list10 lput "0" sub-list10
+          set sub-list10 lput tick-count sub-list10
+          set sub-list10 lput "1" sub-list10
+          ;set sub-list10 lput date-and-time sub-list10
+          set identity-list lput sub-list10 identity-list
+
+
             ]
           if temptriad != [] [
           ;print temptriad
@@ -533,6 +592,9 @@ to send
           set j j + 1
           set triadno triadno + 1
         ]
+
+
+
         print agent-id
         print triadstack ; to see the current agent's triadstack
         print outbox
@@ -541,9 +603,12 @@ to send
     ]
 set count_ba count_ba + 1
     ]
-    ;print count_ba
-    let infoAct  word "../Output-files/Information-Actions-tick-" tick-count
 
+    let trackID  word "../Output-files/identity_action_tick_"tick-count
+    (csv:to-file word trackID ".csv" identity-list "~")
+
+    ;print count_ba
+    let infoAct  word "../Output-files/information-actions-tick-"tick-count
     (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
@@ -557,6 +622,7 @@ if tick-count > 1[
   ;print "test"
   let i 0
   let tempIpslist []
+  let selected_random_IPs []
   let basic_agent_id agent-id ; sending agent id
    set tempIpslist Outbox
     while [i < length(connected_agents_list)] [
@@ -565,23 +631,8 @@ if tick-count > 1[
 
       let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.3[
-          ;print trust_value
-      let current_agent turtles with [agent-id = search_id]
-     ask current_agent [
-          let j 0
-        while [j < length(tempIpslist)] [
-          let temp item j tempIpslist
-           ifelse member? temp Inbox[
-              ]
-              [
-               set inbox lput temp inbox
-              ]
-              set j j + 1
-            ]
-          let k 0
-          while [k < length(inbox)] [
-;;
+      if trust_value > 0.6[
+
               ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         let originalIpslist [] ; original list of all IPs
         set originalIpslist tempIpslist
@@ -593,66 +644,119 @@ if tick-count > 1[
           set originalIpslist remove-item random-index originalIpslist
          ]
 
+        set selected_random_IPs lput random_IPslist selected_random_IPs
         let random_IPs turtles with [IP-id = item 0 random_IPslist]
-              ifelse random 100 < 10 [
-              ifelse random 100 < 5 [
+
          ask random_IPs[
 
-                ifelse tick-count = 1[set tempstance 3][set tempstance 2]
-           if stance >= tempstance[
+;                ifelse tick-count = 1[set tempstance 3][set tempstance 2]
+
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let AmplifyanInformationPacket false
             let RefuteanInformationPacket false
-            ifelse random 100 < 50 [
+            ifelse random 100 < 10 and (stance < 3 and stance > -3)[
               set AmplifyanInformationPacket true
             ]
-                  [set RefuteanInformationPacket true]
+            [
+              if (stance < 3 and stance > -3) [
+              set RefuteanInformationPacket true]
+            ]
 
             if AmplifyanInformationPacket = true and RefuteanInformationPacket = false[
             set information_action_type "amplify"
             if stance > 0[
             set stance stance + 0.1
-            set change_in_amplification "+ 0.1"
+            set change_in_amplification "+0.1"
               ]
             if stance < 0[
             set stance stance - 0.1
-            set change_in_amplification "- 0.1"
+            set change_in_amplification "-0.1"
               ]
             ]
               if RefuteanInformationPacket = true and AmplifyanInformationPacket = false[
               set information_action_type "refute"
             if stance > 0[
             set stance stance - 0.1
-            set change_in_amplification "- 0.1"
+            set change_in_amplification "-0.1"
               ]
             if stance < 0[
             set stance stance + 0.1
-            set change_in_amplification "+ 0.1"
+            set change_in_amplification "+0.1"
               ]
             ]
+
+
                 if AmplifyanInformationPacket = true or RefuteanInformationPacket = true[
             set sub_list_IA []
-                              set actionid actionid + 1
-                              set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-                              set sub_list_IA lput information_action_type sub_list_IA
-                              set sub_list_IA lput basic_agent_id sub_list_IA
-                              set sub_list_IA lput search_id sub_list_IA
-                              set sub_list_IA lput Ip_Id_log sub_list_IA
-                              set sub_list_IA lput 0 sub_list_IA
-                              set sub_list_IA lput change_in_amplification  sub_list_IA
-                              set sub_list_IA lput tick-count sub_list_IA
-                              set sub_list_IA lput 1 sub_list_IA
-                         set Information_Action_list lput sub_list_IA Information_Action_list
-                ]
-              ]
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput "send" sub_list_IA
+            set sub_list_IA lput basic_agent_id sub_list_IA
+            set sub_list_IA lput search_id sub_list_IA
+            set sub_list_IA lput Ip_Id_log sub_list_IA
+            set sub_list_IA lput 0 sub_list_IA
+            set sub_list_IA lput change_in_amplification sub_list_IA
+            set sub_list_IA lput tick-count sub_list_IA
+            set sub_list_IA lput 1 sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
+            ]
+            if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
+
+            set sub_list_IA []
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput "send" sub_list_IA
+            set sub_list_IA lput basic_agent_id sub_list_IA
+            set sub_list_IA lput search_id sub_list_IA
+            set sub_list_IA lput Ip_Id_log sub_list_IA
+            set sub_list_IA lput 0 sub_list_IA
+            set sub_list_IA lput 0  sub_list_IA
+            set sub_list_IA lput tick-count sub_list_IA
+            set sub_list_IA lput 1 sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
+
+            ]
+
 
           ]
-              ][]
-              ][]
-           set k k + 1
-      ]
+
+
+
+
+          ;print trust_value
+      let current_agent turtles with [agent-id = search_id]
+     ask current_agent [
+          let j 0
+        while [j < length(tempIpslist)] [
+
+          let temp item j tempIpslist
+              ifelse member? temp selected_random_IPs [][
+           ifelse member? temp Inbox[
+              ]
+              [
+               set inbox lput temp inbox
+              ]
+
+            set sub_list_IA []
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput "send" sub_list_IA
+            set sub_list_IA lput basic_agent_id sub_list_IA
+            set sub_list_IA lput search_id sub_list_IA
+            set sub_list_IA lput temp sub_list_IA
+            set sub_list_IA lput 0 sub_list_IA
+            set sub_list_IA lput 0  sub_list_IA
+            set sub_list_IA lput tick-count sub_list_IA
+            set sub_list_IA lput 1 sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
+
+
+              set j j + 1
+            ]
+
 ;      print agent-id
 ;      print Inbox
+            ]
      ]
 ;
         ]
@@ -661,7 +765,7 @@ if tick-count > 1[
 
       set Outbox []
 ]
-    let infoAct  word "../Output-files/Information-Actions-tick-" tick-count
+    let infoAct  word "../Output-files/information-actions-tick-" tick-count
     (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
@@ -725,13 +829,13 @@ ask basic_agents_with_IPs [
                               set identityactionid identityactionid + 1
                               set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
                               set sub-list10 lput agent-id sub-list10
-                              set sub-list10 lput "UpdateStance" sub-list10
+                              set sub-list10 lput "MODIFY_STANCE" sub-list10
                               set sub-list10 lput id sub-list10
                               set sub-list10 lput change_stance sub-list10
                               set sub-list10 lput "0" sub-list10
                               set sub-list10 lput "0" sub-list10
                               set sub-list10 lput tick-count sub-list10
-                              set sub-list10 lput "0" sub-list10
+                              set sub-list10 lput "1" sub-list10
                               ;set sub-list10 lput date-and-time sub-list10
                          set identity-list lput sub-list10 identity-list
 
@@ -750,12 +854,12 @@ ask basic_agents_with_IPs [
         ]
       ]
 
-
+    let trackID  word "../Output-files/identity_action_tick_"tick-count
+    (csv:to-file word trackID ".csv" identity-list "~")
   ;  set inbox []
 ;    print outbox
       ]
-    let trackID  word "../Output-files/identity_action_tick_"tick-count
-    (csv:to-file word trackID ".csv" identity-list "~")
+
 
 end
 
@@ -768,7 +872,7 @@ to track_agents
     set track-list lput initial-track-list track-list
    foreach sort turtles [ t ->
     ask t [if agent-type = "basic" or agent-type = "spokesperson"[
-        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "0")] of t
+        set sub-list [ (list agent-id agent-type country county Municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "1")] of t
      set track-list lput sub-list track-list
 
     ]
@@ -841,8 +945,6 @@ to setup_list
   print random-list
 
 end
-
-
 
 
 
