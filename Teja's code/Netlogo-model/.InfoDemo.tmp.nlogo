@@ -308,11 +308,11 @@ end
 
 to setup-IP
 file-close-all ; close all open files
-if not file-exists? "../Input-files/IPsInput _compact.csv" [
-user-message "No file '../Input-files/IPsInput _compact.csv' exists."
+if not file-exists? "../Input-files/IPsInput.csv" [
+user-message "No file '../Input-files/IPsInput.csv' exists."
 stop
 ]
-file-open "../Input-files/IPsInput _compact.csv" ; open the file with the turtle data
+file-open "../Input-files/IPsInput.csv" ; open the file with the turtle data
 ; We'll read all the data in a single loop
   ; We will read first line which is attribute names, but will not perform any action.
   let data csv:from-row file-read-line
@@ -597,7 +597,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
 
         print agent-id
         print triadstack ; to see the current agent's triadstack
-        print outbox
+;        print outbox
       ]
       set i i + 1
     ]
@@ -632,7 +632,7 @@ if tick-count > 1[
 
       let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.6[
+      if trust_value > 0.4[
 
               ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         let originalIpslist [] ; original list of all IPs
@@ -882,8 +882,18 @@ ask basic_agents_with_IPs [
 ;                      set DecreaseMagnitudeofTopicStance true
 ;                    ]
 
-                    set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) (item 2 (item len(triadstack)) + 0.1 * ( (item 2 (item len(triadstack))) - current_IP_stance ) )))
-                    let change_stance 0.1 * ( (item 2 (item len(triadstack))) - current_IP_stance )
+                    let new_stance_calculated (item 2 (item len(triadstack)) + (0.01 * ( (item 2 (item len(triadstack))) - current_IP_stance )) )
+                    let change_stance (0.1 * ( (item 2 (item len(triadstack))) - current_IP_stance ))
+                    if new_stance_calculated > 3[
+                      set new_stance_calculated 3
+                      set change_stance ( 3 - (item 2 (item len(triadstack))) )
+                    ]
+                    if new_stance_calculated < -3[
+                      set new_stance_calculated -3
+                      set change_stance ( -3 - (item 2 (item len(triadstack))) )
+                    ]
+
+                      set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) new_stance_calculated ))
                       let id (item 0 (item len(triadstack)) )
                               set sub-list10[]
                              ; set sub-list10 lput IdentityActionID sub-list10
@@ -918,7 +928,6 @@ ask basic_agents_with_IPs [
     let trackID  word "../Output-files/identity_action_tick_"tick-count
     (csv:to-file word trackID ".csv" identity-list "~")
   ;  set inbox []
-
       ]
 
 
@@ -1006,7 +1015,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 
@@ -1101,7 +1109,7 @@ Select_no_of_Ticks
 Select_no_of_Ticks
 0
 10
-5.0
+10.0
 1
 1
 NIL
