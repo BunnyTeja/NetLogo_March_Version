@@ -1,0 +1,3 @@
+id,type,Country,County,Municipality,latitude,longitude,Gender,Age,Language,Nationality,PoliticalSpectrum,SocioeconomicStatus,EU,NATODonovia,soldier_type
+D-ID-1,donoviansoldier,Lithuania,Vilnius,Elektrenai,54.785072,24.667342,Male,Middle,Both,Lithuanian,Right,LowerClass,ProEU,Undecided,conscript
+D-ID-2,donoviansoldier,Lithuania,Vilnius,Elektrenai,54.785072,24.667342,Female,Old,Both,Lithuanian,Right,MiddleClass,ProEU,ProNATOAntiDonovia,conscript
