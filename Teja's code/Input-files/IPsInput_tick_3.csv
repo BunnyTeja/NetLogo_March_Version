@@ -1,0 +1,97 @@
+Type,Document ID,Information Source ID,Topic ID,IP-id,Stance
+IPs,4143,LRT (lrt.lt),COVID-19 pandemic in Lithuania,IP-3,3
+IPs,2773,LRT (lrt.lt),Great Synagogue of Vilna,IP-29,3
+IPs,2773,LRT (lrt.lt),Great Synagogue of Vilna,IP-33,3
+IPs,2773,LRT (lrt.lt),Great Synagogue of Vilna,IP-37,3
+IPs,10004,LRT (lrt.lt),NATO military actions in Lithuania,IP-48,2
+IPs,10006,LRT (lrt.lt),Donovian military actions in Lithuania,IP-52,-3
+IPs,10007,LRT (lrt.lt),Donovian military actions in Lithuania,IP-56,-2
+IPs,10009,LRT (lrt.lt),Donovian military actions in Lithuania,IP-60,0
+IPs,10012,LRT (lrt.lt),Article 5 invoked by NATO,IP-64,0
+IPs,10014,LRT (lrt.lt),Article 5 invoked by NATO,IP-68,2
+IPs,10016,LRT (lrt.lt),Humanitarian aid by NATO,IP-72,-1
+IPs,10018,LRT (lrt.lt),Humanitarian aid by NATO,IP-76,1
+IPs,10020,LRT (lrt.lt),Humanitarian aid by NATO,IP-80,3
+IPs,10022,LRT (lrt.lt),Civil protests against Donovia,IP-84,0
+IPs,10024,LRT (lrt.lt),Civil protests against Donovia,IP-88,2
+IPs,10026,LRT (lrt.lt),IDPs migrate within Lithuania as result of war,IP-92,-3
+IPs,10028,LRT (lrt.lt),IDPs migrate within Lithuania as result of war,IP-96,-1
+IPs,10031,LRT (lrt.lt),IDPs migrate within Lithuania as result of war,IP-100,2
+IPs,10035,LRT (lrt.lt),IDPs migrate to Poland as result of war,IP-104,-1
+IPs,10036,LRT (lrt.lt),IDPs migrate to Poland as result of war,IP-108,0
+IPs,10040,Diena (Diena.lt),NATO military actions in Lithuania,IP-112,-2
+IPs,10042,Diena (Diena.lt),NATO military actions in Lithuania,IP-116,0
+IPs,10043,Diena (Diena.lt),NATO military actions in Lithuania,IP-120,1
+IPs,10046,Diena (Diena.lt),Donovian military actions in Lithuania,IP-124,-1
+IPs,10047,Diena (Diena.lt),Donovian military actions in Lithuania,IP-128,0
+IPs,10057,Diena (Diena.lt),IDPs migrate to Poland as result of war,IP-148,-1
+IPs,10060,Diena (Diena.lt),NATO Propaganda,IP-152,-2
+IPs,10062,Diena (Diena.lt),NATO Propaganda,IP-156,0
+IPs,10063,Diena (Diena.lt),NATO Propaganda,IP-160,1
+IPs,10066,Diena (Diena.lt),Donovian Propaganda,IP-164,-1
+IPs,10067,Diena (Diena.lt),Donovian Propaganda,IP-168,0
+IPs,10070,Diena (Diena.lt),NATO War Crimes,IP-172,-3
+IPs,10072,Diena (Diena.lt),NATO War Crimes,IP-176,-1
+IPs,10073,Diena (Diena.lt),NATO War Crimes,IP-180,0
+IPs,10076,Diena (Diena.lt),Donovian War Crimes,IP-184,-2
+IPs,10077,Diena (Diena.lt),Donovian War Crimes,IP-188,-1
+IPs,10103,Kauno Diena (kauno.diena.lt),NATO propaganda,IP-238,2
+IPs,10105,Kauno Diena (kauno.diena.lt),Donovian propaganda,IP-242,-3
+IPs,10106,Kauno Diena (kauno.diena.lt),Donovian propaganda,IP-246,-2
+IPs,10108,Kauno Diena (kauno.diena.lt),Donovian propaganda,IP-250,0
+IPs,10111,Kauno Diena (kauno.diena.lt),NATO war crimes,IP-254,-2
+IPs,10112,Kauno Diena (kauno.diena.lt),NATO war crimes,IP-258,-1
+IPs,10115,Kauno Diena (kauno.diena.lt),Donovian war crimes,IP-262,-3
+IPs,10117,Kauno Diena (kauno.diena.lt),Donovian war crimes,IP-266,-1
+IPs,10118,Kauno Diena (kauno.diena.lt),Donovian war crimes,IP-270,0
+IPs,10122,15min (15min.lt),NATO military actions in Lithuania,IP-274,0
+IPs,10122,15min (15min.lt),NATO military actions in Lithuania,IP-278,0
+IPs,10125,15min (15min.lt),Donovian military actions in Lithuania,IP-282,-2
+IPs,10127,15min (15min.lt),Donovian military actions in Lithuania,IP-286,0
+IPs,10128,15min (15min.lt),Donovian military actions in Lithuania,IP-290,1
+IPs,10129,15min (15min.lt),IDPs migrate to Poland as result of war,IP-307,-1
+IPs,10129,15min (15min.lt),IDPs migrate to Poland as result of war,IP-311,1
+IPs,10132,15min (15min.lt),Censorship of media by Donovia,IP-315,0
+IPs,10133,15min (15min.lt),Censorship of media by Donovia,IP-319,1
+IPs,10135,15min (15min.lt),Low Morale of Donovian soldiers,IP-323,-1
+IPs,10136,15min (15min.lt),Low Morale of Donovian soldiers,IP-327,0
+IPs,10138,15min (15min.lt),Low Morale of Donovian soldiers,IP-331,2
+IPs,10140,15min (15min.lt),Low Morale of Lithuanian civilians,IP-335,-1
+IPs,10141,15min (15min.lt),Low Morale of Lithuanian civilians,IP-339,0
+IPs,10144,L24 (l24.lt),NATO military actions in Lithuania,IP-343,0
+IPs,10146,L24 (l24.lt),NATO military actions in Lithuania,IP-347,2
+IPs,10147,L24 (l24.lt),NATO military actions in Lithuania,IP-351,3
+IPs,10149,L24 (l24.lt),Donovian military actions in Lithuania,IP-355,-2
+IPs,10150,L24 (l24.lt),Donovian military actions in Lithuania,IP-359,-1
+IPs,10153,L24 (l24.lt),Article 5 invoked by NATO,IP-363,0
+IPs,10155,L24 (l24.lt),Article 5 invoked by NATO,IP-367,2
+IPs,10156,L24 (l24.lt),Article 5 invoked by NATO,IP-371,3
+IPs,10159,L24 (l24.lt),Civil protests against Donovia,IP-375,1
+IPs,10160,L24 (l24.lt),Civil protests against Donovia,IP-379,2
+IPs,10162,L24 (l24.lt),IDPs migrate within Lithuania as result of war,IP-383,-3
+IPs,10164,L24 (l24.lt),IDPs migrate within Lithuania as result of war,IP-387,-1
+IPs,10166,L24 (l24.lt),IDPs migrate within Lithuania as result of war,IP-391,1
+IPs,10168,L24 (l24.lt),IDPs migrate to Poland as result of war,IP-395,-2
+IPs,10170,L24 (l24.lt),IDPs migrate to Poland as result of war,IP-399,0
+IPs,10172,L24 (l24.lt),Low Morale of Lithuanian civilians,IP-403,-3
+IPs,10174,L24 (l24.lt),Low Morale of Lithuanian civilians,IP-407,-1
+IPs,10176,L24 (l24.lt),Low Morale of Lithuanian civilians,IP-411,1
+IPs,10178,L24 (l24.lt),Low Morale of Polish civilians,IP-415,-2
+IPs,10180,L24 (l24.lt),Low Morale of Polish civilians,IP-419,0
+IPs,10183,Delfi LT (delfi.lt),NATO military actions in Lithuania,IP-423,0
+IPs,10185,Delfi LT (delfi.lt),NATO military actions in Lithuania,IP-427,2
+IPs,10186,Delfi LT (delfi.lt),NATO military actions in Lithuania,IP-431,3
+IPs,10188,Delfi LT (delfi.lt),Donovian military actions in Lithuania,IP-435,-2
+IPs,10190,Delfi LT (delfi.lt),Donovian military actions in Lithuania,IP-439,0
+IPs,10193,Delfi LT (delfi.lt),Article 5 invoked by NATO,IP-443,0
+IPs,10195,Delfi LT (delfi.lt),Article 5 invoked by NATO,IP-447,2
+IPs,10196,Delfi LT (delfi.lt),Article 5 invoked by NATO,IP-451,3
+IPs,10199,Delfi LT (delfi.lt),Civil protests against Donovia,IP-455,1
+IPs,10170,Delfi LT (delfi.lt),Civil protests against Donovia,IP-459,2
+IPs,10181,Delfi LT (delfi.lt),IDPs migrate to Poland as result of war,IP-476,-1
+IPs,10184,Delfi LT (delfi.lt),IDPs migrate to Poland as result of war,IP-480,2
+IPs,10185,Delfi LT (delfi.lt),NATO war crimes,IP-484,-2
+IPs,10185,Delfi LT (delfi.lt),NATO war crimes,IP-488,-1
+IPs,10186,Delfi LT (delfi.lt),Donovian war crimes,IP-492,-3
+IPs,10188,Delfi LT (delfi.lt),Donovian war crimes,IP-496,-1
+IPs,10189,Delfi LT (delfi.lt),Donovian war crimes,IP-500,0
