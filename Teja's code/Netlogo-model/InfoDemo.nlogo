@@ -148,6 +148,7 @@ to setup-agents
   create-nb-flow-manipulator-agents
   create-nb-live-agents
   create-nb-information-diss-agents
+  set tick-count 0
 
   ;create_adjacency_matrix
   ;if In-links?
@@ -536,9 +537,45 @@ ask current_agent [
 end
 
 
+;;; Procedure to Read a File of Information Packets for the Current Tick
+;;;   and Insert the IPs in the Inboxes of the Referenced info-diss-agent
+to get-next-IPs
+  print "Reading File of IPs"
+  file-close-all ; close all open files
+  let ipfile word "../Input-files/IPsInput_tick_" tick-count
+  set ipfile word ipfile ".csv"
+  ifelse not file-exists? ipfile [
+    user-message word "No file (new IPs) " ipfile
+  ][
+    file-open ipfile ; open the file with the new IPs
+    ; Read the first line, which consists of IP attribute names
+    let data csv:from-row file-read-line
+    ; Read all the data in a single loop
+    let IPs-read 0
+    while [not file-at-end?] [
+      set IPs-read IPs-read + 1
+      ; Read one IP and put its parameters in a list
+      set data csv:from-row file-read-line
+;      set agent-type item 0 data
+      let IPsDocumentID item 1 data
+      let IPsInformationSourceID item 2 data
+;      set Related-topic-id item 3 data
+      let IPsIP-id item 4 data
+;      set stance item 5 data
+      ; Update the IPslist of the appropriate info-diss-agents with the new IPs
+      let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+      ask current_agents [
+;        set IPslist lput IPsIP-id IPslist
+        set IPslist lput data IPslist
+      ]
+    ]
+    print IPs-read
+  ]
+end
+
+;;; Procedure to Send ...
+;;;
 to send
-
-
 
   set Information_Action_list []
   set initial_track_list_IA []
@@ -1107,17 +1144,19 @@ end
 
 
 to go
-set tick-count  0
-set actionid 0
-set identityactionid 0
-;;get new IPs at each tick - setup IPs
-repeat Select_no_of_Ticks [
-set tick-count tick-count + 1
- send
- read
- track_agents
- track_triads
- ]
+  ; set tick-count  0 ;; this should be done during setup
+  set actionid 0
+  set identityactionid 0
+  ;;get new IPs at each tick - setup IPs
+  repeat Select_no_of_Ticks [
+    set tick-count tick-count + 1
+    ; Get New IPs from IPsInput_tick_tick-count.csv, if it exists
+    get-next-IPs
+    send
+    read
+    track_agents
+    track_triads
+  ]
 end
 
 
@@ -1137,7 +1176,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 
