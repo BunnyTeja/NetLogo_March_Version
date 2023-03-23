@@ -139,14 +139,22 @@ to clear-agents
   clear-globals
 end
 
+to export
+  export-world "world.csv"
+end
+
+to import
+  import-world "world.csv"
+end
+
 ;;; Method to setup the environment by creating agents and connections
 ;;;
 to setup-agents
   create-nb-basic-agents
   create-nb-spokesperson-agents
-  create-nb-donovian-agents
-  create-nb-flow-manipulator-agents
-  create-nb-live-agents
+;  create-nb-donovian-agents
+;  create-nb-flow-manipulator-agents
+;  create-nb-live-agents
   create-nb-information-diss-agents
   set tick-count 0
 
@@ -1179,7 +1187,6 @@ end
 
 
 
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
@@ -1298,6 +1305,40 @@ BUTTON
 260
 NIL
 go
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+604
+167
+708
+200
+export-world
+export
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+605
+225
+709
+258
+import-world
+import
 NIL
 1
 T
