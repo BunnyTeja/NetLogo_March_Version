@@ -39,6 +39,8 @@ globals[
   sub-list
 ]
 
+breed [InfoPkts one-InfoPkt]
+
 turtles-own
 [ triadtopics
   ;;; Lists that Store All the Connected Agents for an Agent
@@ -79,14 +81,6 @@ turtles-own
   triad_id
 
 
-  ;;; Information Packet Attributes
-  Information-Type ; e.g., IPs
-  DocumentID
-  InformationSourceID
-  Topic-ID
-  IP-id
-  stance
-
   Related-topic-id ;IP specific
 
   temp-ip;
@@ -119,7 +113,6 @@ turtles-own
   Endorsement-of-IP ; Ip specific
   Amplification-of-IP ; Ip specific
   censure ; Ip specific
-  Location ;IP specific
   Ref_id_to_Info_Atrifact;;A reference ID to the original source information artifact.
   Triad;;A Triad
   group-prestige ;; group specific
@@ -130,6 +123,17 @@ turtles-own
   initial-sent-IPs
   controlling_identity
   Key_issue
+]
+
+InfoPkts-own
+[
+  ;;; Information Packet Attributes
+  Information-Type ; e.g., information packets, but could be leaflets in the future
+  DocumentID
+  InformationSourceID
+  Related-topic-id
+  IP-id
+  stance
 ]
 
 ;;Reset the entire world
@@ -455,13 +459,13 @@ to setup-IP
     ; here the CSV extension grabs a single line and puts the read data in a list
     set data csv:from-row file-read-line
     ; now we can use that list to create a turtle with the saved properties
-    create-turtles 1 [
+    create-InfoPkts 1 [
       set shape "square"
       set color orange
       set size  0.4
       set xcor -12
       set ycor random-ycor
-      set agent-type item 0 data
+      set Information-Type item 0 data
       set DocumentID item 1 data
       set InformationSourceID item 2 data
       set Related-topic-id item 3 data
@@ -564,17 +568,22 @@ to get-next-IPs
       set IPs-read IPs-read + 1
       ; Read one IP and put its parameters in a list
       set data csv:from-row file-read-line
-;      set agent-type item 0 data
-      let IPsDocumentID item 1 data
-      let IPsInformationSourceID item 2 data
-;      set Related-topic-id item 3 data
-      let IPsIP-id item 4 data
-;      set stance item 5 data
-      ; Update the IPslist of the appropriate info-diss-agents with the new IPs
-      let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
-      ask current_agents [
-;        set IPslist lput IPsIP-id IPslist
-        set IPslist lput data IPslist
+      create-InfoPkts 1 [
+        set Information-Type item 0 data
+        set DocumentID item 1 data
+        set InformationSourceID item 2 data
+        set Related-topic-id item 3 data
+        set IP-id item 4 data
+        set stance item 5 data
+        ;Creating temp variables to store IP info
+        let IPsInformationSourceID InformationSourceID
+        let IPsIP-id IP-id
+        ; Update the IPslist of the appropriate info-diss-agents with the new IPs
+        let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+        ask current_agents [
+          set IPslist lput IPsIP-id IPslist
+          ;        set IPslist lput data IPslist
+        ]
       ]
     ]
     print IPs-read
@@ -626,7 +635,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
          ]
 
         set selected_random_IPs lput random_IPslist selected_random_IPs
-        let random_IPs turtles with [Ip-id = item 0 random_IPslist]
+        let random_IPs InfoPkts with [Ip-id = item 0 random_IPslist] ;;; MNH
          ask random_IPs[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let AmplifyanInformationPacket false
@@ -726,7 +735,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
          ; logic for creating triadstack for basic agents
           let temptriad []
           let temptopic []
-          let current_IP turtles with [IP-id = temp]
+          let current_IP InfoPkts with [IP-id = temp] ;;; MNH
           ask current_IP[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
             set temptriad lput word "Triad_ID_" triadno temptriad
@@ -814,7 +823,7 @@ if tick-count > 1[
          ]
 
         set selected_random_IPs lput random_IPslist selected_random_IPs
-        let random_IPs turtles with [IP-id = item 0 random_IPslist]
+        let random_IPs InfoPkts with [IP-id = item 0 random_IPslist] ;;; MNH
 ;          if tick-count > 2 [print random_IPslist]
 
          ask random_IPs[
@@ -906,7 +915,7 @@ if tick-count > 1[
               ]
               [
                set inbox lput temp inbox
-           let current_IP turtles with [IP-id = temp]
+           let current_IP InfoPkts with [IP-id = temp] ;;; MNH
            ask current_IP[
            ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let Ip_topic Related-topic-id
@@ -935,7 +944,7 @@ if tick-count > 1[
               ]
               [
            set inbox lput temp inbox
-           let current_IP turtles with [IP-id = temp]
+           let current_IP InfoPkts with [IP-id = temp] ;;; MNH
            ask current_IP[
            ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let Ip_topic Related-topic-id
@@ -1021,7 +1030,7 @@ ask basic_agents_with_IPs [
           let j 0
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist
-          let current_IP turtles with [IP-id = temp]
+          let current_IP InfoPkts with [IP-id = temp] ;;; MNH
           ask current_IP[
            let current_IP_stance stance
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
@@ -1184,7 +1193,6 @@ to setup_list
   print random-list
 
 end
-
 
 
 @#$#@#$#@
