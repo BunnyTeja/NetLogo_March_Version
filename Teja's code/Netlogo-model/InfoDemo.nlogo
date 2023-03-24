@@ -1,4 +1,13 @@
 extensions [ csv profiler time table matrix rnd]
+breed [basic-agents basic-agent]
+breed [information-diss-agents information-diss-agent]
+breed [donovian-agents donovian-agent]
+breed [spokesperson-agents spokesperson-agent]
+breed [physical-event-agents physical-event-agent]
+breed [live-agents live-agent]
+breed [flow-manipulator-agents flow-manipulator-agent]
+breed [IPs IP]
+
 globals[
   identityactionid
   tempstance
@@ -183,7 +192,7 @@ to create-nb-basic-agents
       ; here the CSV extension grabs a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we can use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-basic-agents 1 [
         set shape "circle"
         set size  0.3
         set color blue
@@ -239,7 +248,7 @@ to create-nb-spokesperson-agents
       ; here the CSV extension grabs a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we can use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-spokesperson-agents 1 [
         set shape "circle"
         set size  0.3
         set color green
@@ -294,7 +303,7 @@ to create-nb-donovian-agents
       ; here the CSV extension reads a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-donovian-agents 1 [
         set shape "face sad"
         set size  0.3
         set color red
@@ -350,7 +359,7 @@ to create-nb-information-diss-agents
       ; here the CSV extension grabs a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we can use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-information-diss-agents 1 [
         set shape "plant"
         set size  0.6
         set color yellow
@@ -387,7 +396,7 @@ to create-nb-flow-manipulator-agents
       ; here the CSV extension reads a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-flow-manipulator-agents 1 [
         set shape "wheel"
         set size  1
         set color white
@@ -419,7 +428,7 @@ to create-nb-live-agents
       ; here the CSV extension reads a single line and puts the read data in a list
       set data csv:from-row file-read-line
       ; now we use that list to create a turtle with the saved properties
-      create-turtles 1 [
+      create-live-agents 1 [
         set shape "person"
         set size  1
         set color orange
@@ -455,7 +464,7 @@ to setup-IP
     ; here the CSV extension grabs a single line and puts the read data in a list
     set data csv:from-row file-read-line
     ; now we can use that list to create a turtle with the saved properties
-    create-turtles 1 [
+    create-IPs 1 [
       set shape "square"
       set color orange
       set size  0.4
@@ -471,7 +480,7 @@ to setup-IP
       ;Creating a temp variable to store info agent id
       let IPsInformationSourceID InformationSourceID
       let IPsIP-id IP-id
-      let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+      let current_agents information-diss-agents with [agent-ID = IPsInformationSourceID]
       ask current_agents [
         set IPslist lput IPsIP-id IPslist
       ]
@@ -479,11 +488,10 @@ to setup-IP
   ]
   print total-initial-IPs
   ; Code to test
-  foreach sort turtles [ t ->
-    ask t [if agent-type = "information-diss-agents" and IPslist != [][
+  foreach sort information-diss-agents [ t ->
+    ask t [
       ;    print agent-ID
       ;    print IPslist
-      ]
     ]
   ]
 end
@@ -571,7 +579,7 @@ to get-next-IPs
       let IPsIP-id item 4 data
       set stance item 5 data
       ; Update the IPslist of the appropriate info-diss-agents with the new IPs
-      let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+      let current_agents information-diss-agents with [agent-ID = IPsInformationSourceID]
       ask current_agents [
         set IPslist lput IPsIP-id IPslist
         ;set IPslist lput data IPslist
@@ -600,7 +608,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
   ;print tick-count
   let count_ba 0
   let triadno 1
-  let info_agents_with_IPs turtles with [agent-type = "information-diss-agents" and IPslist != [] and connected_agents_list != []]
+  let info_agents_with_IPs information-diss-agents with [IPslist != [] and connected_agents_list != []]
   ask info_agents_with_IPs [
   print agent-id
   print IPslist
@@ -731,7 +739,10 @@ set count_ba count_ba + 1
 ;1. If the Outbox is not empty send the Ips to all the connected agents.
 if tick-count > 1[
   print tick-count
-  let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Outbox != [] and connected_agents_list != []]
+;  let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Outbox != [] and connected_agents_list != []]
+   let basic_agents_with_IPs (turtle-set basic-agents spokesperson-agents) with [Outbox != [] and connected_agents_list != []]
+;   let spokesperson_agents_with_IPs spokesperson-agents with [Outbox != [] and connected_agents_list != []]
+
   ask basic_agents_with_IPs [
    ;print id_trust_table
   ;print "test"
@@ -887,7 +898,8 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
     ;print(initial-track-list)
     set identity-list lput initial-track-list10 identity-list
 
-let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Inbox != [] ]
+;let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Inbox != [] ]
+  let basic_agents_with_IPs (turtle-set basic-agents spokesperson-agents) with [Inbox != []]
 ask basic_agents_with_IPs [
   ;print "test"
  ; let i 0
@@ -972,12 +984,11 @@ to track_agents
     set initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioecomonic_status" "eu" "nato_donovia" "triad_stack_id" "tick" "simulation_id"]
     ;print(initial-track-list)
     set track-list lput initial-track-list track-list
-   foreach sort turtles [ t ->
-    ask t [if agent-type = "basic" or agent-type = "spokesperson"[
+   foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
+    ask t [
         set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "1")] of t
      set track-list lput sub-list track-list
 
-    ]
       ]
   ]
   let agent_track_file  word "../Output-files/track_agents_"tick-count
@@ -991,8 +1002,8 @@ to track_triads
     ;print(initial-track-list)
 
     set Triad-list lput initial-track-list12 Triad-list
-    foreach sort turtles [ t ->
-    ask t [if agent-type = "basic" or agent-type = "spokesperson"[
+    foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
+    ask t [
       let len 0
       while [len < length(triadstack)] [
 
@@ -1004,7 +1015,6 @@ to track_triads
         set Triad-list lput sub-list12 Triad-list
 
         set len len + 1
-      ]
       ]
      ]
    ]
@@ -1080,7 +1090,6 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           ;set sub-list10 lput date-and-time sub-list10
           set identity-list lput sub-list10 identity-list
 end
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
