@@ -39,8 +39,6 @@ globals[
   sub-list
 ]
 
-breed [InfoPkts one-InfoPkt]
-
 turtles-own
 [ triadtopics
   ;;; Lists that Store All the Connected Agents for an Agent
@@ -81,6 +79,14 @@ turtles-own
   triad_id
 
 
+  ;;; Information Packet Attributes
+  Information-Type ; e.g., IPs
+  DocumentID
+  InformationSourceID
+  Topic-ID
+  IP-id
+  stance
+
   Related-topic-id ;IP specific
 
   temp-ip;
@@ -113,6 +119,7 @@ turtles-own
   Endorsement-of-IP ; Ip specific
   Amplification-of-IP ; Ip specific
   censure ; Ip specific
+  Location ;IP specific
   Ref_id_to_Info_Atrifact;;A reference ID to the original source information artifact.
   Triad;;A Triad
   group-prestige ;; group specific
@@ -123,17 +130,6 @@ turtles-own
   initial-sent-IPs
   controlling_identity
   Key_issue
-]
-
-InfoPkts-own
-[
-  ;;; Information Packet Attributes
-  Information-Type ; e.g., information packets, but could be leaflets in the future
-  DocumentID
-  InformationSourceID
-  Related-topic-id
-  IP-id
-  stance
 ]
 
 ;;Reset the entire world
@@ -459,13 +455,13 @@ to setup-IP
     ; here the CSV extension grabs a single line and puts the read data in a list
     set data csv:from-row file-read-line
     ; now we can use that list to create a turtle with the saved properties
-    create-InfoPkts 1 [
+    create-turtles 1 [
       set shape "square"
       set color orange
       set size  0.4
       set xcor -12
       set ycor random-ycor
-      set Information-Type item 0 data
+      set agent-type item 0 data
       set DocumentID item 1 data
       set InformationSourceID item 2 data
       set Related-topic-id item 3 data
@@ -568,22 +564,17 @@ to get-next-IPs
       set IPs-read IPs-read + 1
       ; Read one IP and put its parameters in a list
       set data csv:from-row file-read-line
-      create-InfoPkts 1 [
-        set Information-Type item 0 data
-        set DocumentID item 1 data
-        set InformationSourceID item 2 data
-        set Related-topic-id item 3 data
-        set IP-id item 4 data
-        set stance item 5 data
-        ;Creating temp variables to store IP info
-        let IPsInformationSourceID InformationSourceID
-        let IPsIP-id IP-id
-        ; Update the IPslist of the appropriate info-diss-agents with the new IPs
-        let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
-        ask current_agents [
-          set IPslist lput IPsIP-id IPslist
-          ;        set IPslist lput data IPslist
-        ]
+      set agent-type item 0 data
+      let IPsDocumentID item 1 data
+      let IPsInformationSourceID item 2 data
+      set Related-topic-id item 3 data
+      let IPsIP-id item 4 data
+      set stance item 5 data
+      ; Update the IPslist of the appropriate info-diss-agents with the new IPs
+      let current_agents turtles with [agent-type = "information-diss-agents" and agent-ID = IPsInformationSourceID]
+      ask current_agents [
+        set IPslist lput IPsIP-id IPslist
+        ;set IPslist lput data IPslist
       ]
     ]
     print IPs-read
@@ -635,7 +626,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
          ]
 
         set selected_random_IPs lput random_IPslist selected_random_IPs
-        let random_IPs InfoPkts with [Ip-id = item 0 random_IPslist] ;;; MNH
+        let random_IPs turtles with [Ip-id = item 0 random_IPslist]
          ask random_IPs[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let AmplifyanInformationPacket false
@@ -672,35 +663,10 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
               ]
             ]
                 if (AmplifyanInformationPacket = true or RefuteanInformationPacket = true)[
-            set sub_list_IA []
-                              set actionid actionid + 1
-                              set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-                              set sub_list_IA lput "SEND" sub_list_IA
-                              set sub_list_IA lput info_agent_id sub_list_IA
-                              set sub_list_IA lput search_id sub_list_IA
-                              set sub_list_IA lput Ip_Id_log sub_list_IA
-                              set sub_list_IA lput 0 sub_list_IA
-                              set sub_list_IA lput change_in_amplification  sub_list_IA
-                              set sub_list_IA lput tick-count sub_list_IA
-                              set sub_list_IA lput 1 sub_list_IA
-                         set Information_Action_list lput sub_list_IA Information_Action_list
-
+            information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
           ]
           if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
-
-            set sub_list_IA []
-            set actionid actionid + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "SEND" sub_list_IA
-            set sub_list_IA lput info_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput Ip_Id_log sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput 0  sub_list_IA
-            set sub_list_IA lput tick-count sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list
-
+             information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 0 tick-count 1
             ]
           ]
 
@@ -717,25 +683,13 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
                set outbox lput temp outbox
 
               ]
-            set sub_list_IA []
-            set actionid actionid + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "SEND" sub_list_IA
-            set sub_list_IA lput info_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput temp sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput "0"  sub_list_IA
-            set sub_list_IA lput tick-count sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list
-
+               information_action_func "SEND" info_agent_id search_id temp 0 "0" tick-count 1
           ]
 
          ; logic for creating triadstack for basic agents
           let temptriad []
           let temptopic []
-          let current_IP InfoPkts with [IP-id = temp] ;;; MNH
+          let current_IP turtles with [IP-id = temp]
           ask current_IP[
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
             set temptriad lput word "Triad_ID_" triadno temptriad
@@ -743,22 +697,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
             set temptriad lput stance temptriad
             set temptopic lput Related-topic-id temptopic
 
-          set sub-list10[]
-         ; set sub-list10 lput IdentityActionID sub-list10
-          set identityactionid identityactionid + 1
-          set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
-          set sub-list10 lput search_id sub-list10
-          set sub-list10 lput "CREATE" sub-list10
-          set sub-list10 lput word "Triad_ID_" triadno sub-list10
-          set sub-list10 lput stance sub-list10
-          set sub-list10 lput "0" sub-list10
-          set sub-list10 lput "0" sub-list10
-          set sub-list10 lput tick-count sub-list10
-          set sub-list10 lput "1" sub-list10
-          ;set sub-list10 lput date-and-time sub-list10
-          set identity-list lput sub-list10 identity-list
-
-
+          identity_action_func search_id "CREATE" triadno stance "0" "0" tick-count "1"
             ]
           if temptriad != [] [
           ;print temptriad
@@ -823,7 +762,7 @@ if tick-count > 1[
          ]
 
         set selected_random_IPs lput random_IPslist selected_random_IPs
-        let random_IPs InfoPkts with [IP-id = item 0 random_IPslist] ;;; MNH
+        let random_IPs turtles with [IP-id = item 0 random_IPslist]
 ;          if tick-count > 2 [print random_IPslist]
 
          ask random_IPs[
@@ -866,42 +805,12 @@ if tick-count > 1[
 
                 if AmplifyanInformationPacket = true or RefuteanInformationPacket = true[
              ; if tick-count > 2 [print Ip_Id_log]
-            set sub_list_IA []
-            set actionid actionid + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "SEND" sub_list_IA
-            set sub_list_IA lput basic_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput Ip_Id_log sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput change_in_amplification sub_list_IA
-            set sub_list_IA lput tick-count sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list
+              information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
             ]
             if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
-
-            set sub_list_IA []
-            set actionid actionid + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "SEND" sub_list_IA
-            set sub_list_IA lput basic_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput Ip_Id_log sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput 0  sub_list_IA
-            set sub_list_IA lput tick-count sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list
-
+            information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 "0" tick-count 1
             ]
-
-
           ]
-
-
-
-
           ;print trust_value
       let current_agent turtles with [agent-id = search_id]
 
@@ -915,25 +824,15 @@ if tick-count > 1[
               ]
               [
                set inbox lput temp inbox
-           let current_IP InfoPkts with [IP-id = temp] ;;; MNH
+           let current_IP turtles with [IP-id = temp]
            ask current_IP[
            ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let Ip_topic Related-topic-id
 
             if member? Ip_topic triad_topics [
-                  set sub_list_IA []
-            set actionid actionid + 1
-            let received_tick tick-count + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "RECEIVE" sub_list_IA
-            set sub_list_IA lput basic_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput temp sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput 0  sub_list_IA
-            set sub_list_IA lput received_tick sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list]
+              let received_tick tick-count + 1
+              information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick 1
+                    ]
                   ]
 
               ]
@@ -944,43 +843,18 @@ if tick-count > 1[
               ]
               [
            set inbox lput temp inbox
-           let current_IP InfoPkts with [IP-id = temp] ;;; MNH
+           let current_IP turtles with [IP-id = temp]
            ask current_IP[
            ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            let Ip_topic Related-topic-id
            if member? Ip_topic triad_topics [
-           set sub_list_IA []
-            set actionid actionid + 1
-            let received_tick tick-count + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "RECEIVE" sub_list_IA
-            set sub_list_IA lput basic_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput temp sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput 0  sub_list_IA
-            set sub_list_IA lput received_tick sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list]
+               let received_tick tick-count + 1
+               information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick 1
+             ]
                   ]
 
               ]
-
-            set sub_list_IA []
-            set actionid actionid + 1
-            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
-            set sub_list_IA lput "SEND" sub_list_IA
-            set sub_list_IA lput basic_agent_id sub_list_IA
-            set sub_list_IA lput search_id sub_list_IA
-            set sub_list_IA lput temp sub_list_IA
-            set sub_list_IA lput 0 sub_list_IA
-            set sub_list_IA lput 0  sub_list_IA
-            set sub_list_IA lput tick-count sub_list_IA
-            set sub_list_IA lput 1 sub_list_IA
-            set Information_Action_list lput sub_list_IA Information_Action_list
-
-
-
+            information_action_func "SEND" basic_agent_id search_id temp 0 "0" tick-count 1
             ]
 
 ;      print agent-id
@@ -988,9 +862,6 @@ if tick-count > 1[
               set j j + 1
             ]
             ;;if the Ip_topic is in traids
-
-
-
      ]
 ;
         ]
@@ -1030,7 +901,7 @@ ask basic_agents_with_IPs [
           let j 0
         while [j < length(tempIpslist)] [
           let temp item j tempIpslist
-          let current_IP InfoPkts with [IP-id = temp] ;;; MNH
+          let current_IP turtles with [IP-id = temp]
           ask current_IP[
            let current_IP_stance stance
            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
@@ -1071,22 +942,7 @@ ask basic_agents_with_IPs [
 
                       set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) new_stance_calculated ))
                       let id (item 0 (item len(triadstack)) )
-                              set sub-list10[]
-                             ; set sub-list10 lput IdentityActionID sub-list10
-                              set identityactionid identityactionid + 1
-                              set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
-                              set sub-list10 lput agent-id sub-list10
-                              set sub-list10 lput "MODIFY_STANCE" sub-list10
-                              set sub-list10 lput id sub-list10
-                              set sub-list10 lput change_stance sub-list10
-                              set sub-list10 lput "0" sub-list10
-                              set sub-list10 lput "0" sub-list10
-                              set sub-list10 lput tick-count sub-list10
-                              set sub-list10 lput "1" sub-list10
-                              ;set sub-list10 lput date-and-time sub-list10
-                         set identity-list lput sub-list10 identity-list
-
-
+                               identity_action_func agent-id "MODIFY_STANCE" id change_stance "0" "0" tick-count "1"
                   ]
                   set len len + 1
                 ]
@@ -1168,7 +1024,7 @@ to go
   repeat Select_no_of_Ticks [
     set tick-count tick-count + 1
     ; Get New IPs from IPsInput_tick_tick-count.csv, if it exists
-    get-next-IPs
+    ;get-next-IPs
     send
     read
     track_agents
@@ -1179,21 +1035,51 @@ end
 
 
 
-to setup_list
+;to setup_list
+;
+;  clear-all
+;  let original-list ["IP-192" "IP-193" "IP-194" "IP-195" "IP-196" "IP-197" "IP-198" "IP-199" "IP-200" "IP-201"]
+;  let random-list []
+;  repeat 4 [
+;    let random-index random length(original-list)
+;    let random-item item random-index original-list
+;    set random-list lput random-item random-list
+;    set original-list remove-item random-index original-list
+;  ]
+;  print random-list
+;
+;end
 
-  clear-all
-  let original-list ["IP-192" "IP-193" "IP-194" "IP-195" "IP-196" "IP-197" "IP-198" "IP-199" "IP-200" "IP-201"]
-  let random-list []
-  repeat 4 [
-    let random-index random length(original-list)
-    let random-item item random-index original-list
-    set random-list lput random-item random-list
-    set original-list remove-item random-index original-list
-  ]
-  print random-list
-
+to information_action_func [info_action_type sending_agent_id receiving_agent_id information_packet_id endorsed_agent_id change_in_amplif tick_no sim_id]
+  set sub_list_IA []
+            set actionid actionid + 1
+            set sub_list_IA lput word "InfoAct_id_" actionid sub_list_IA
+            set sub_list_IA lput info_action_type sub_list_IA
+            set sub_list_IA lput sending_agent_id sub_list_IA
+            set sub_list_IA lput receiving_agent_id sub_list_IA
+            set sub_list_IA lput information_packet_id sub_list_IA
+            set sub_list_IA lput endorsed_agent_id sub_list_IA
+            set sub_list_IA lput change_in_amplif  sub_list_IA
+            set sub_list_IA lput tick_no sub_list_IA
+            set sub_list_IA lput sim_id sub_list_IA
+            set Information_Action_list lput sub_list_IA Information_Action_list
 end
 
+to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id]
+   set sub-list10[]
+          set identityactionid identityactionid + 1
+          set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
+          set sub-list10 lput agent_id sub-list10
+          set sub-list10 lput identity_action_type sub-list10
+          set sub-list10 lput word "Triad_ID_" triad_id_no sub-list10
+          set sub-list10 lput change_in_stance sub-list10
+          set sub-list10 lput change_in_latitude sub-list10
+          set sub-list10 lput change_in_longitude sub-list10
+          set sub-list10 lput tick_no sub-list10
+          set sub-list10 lput sim_id sub-list10
+          ;set sub-list10 lput date-and-time sub-list10
+          set identity-list lput sub-list10 identity-list
+end
 
 @#$#@#$#@
 GRAPHICS-WINDOW
