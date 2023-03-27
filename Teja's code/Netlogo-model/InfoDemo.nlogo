@@ -21,31 +21,21 @@ globals[
   nb-live-agents
   nb-flow-manipulator-agents
   nb-total-agents
-  threshold
-
+ 
   actionid
   initial_track_list_IA
   Information_Action_list
   sub_list_IA
   information_action_type
   change_in_amplification
-  tick-count
+;  IncreaseMagnitudeofTopicStance
+;  DecreaseMagnitudeofTopicStance
 
-  IncreaseMagnitudeofTopicStance
-  DecreaseMagnitudeofTopicStance
+  tick-count
 
   identity-list
   initial-track-list10
   sub-list10
-
-  Triad-list
-  initial-track-list12
-  sub-list12
-
-
-  track-list
-  initial-track-list
-  sub-list
 
   Flag_IP_File
 ]
@@ -73,23 +63,27 @@ turtles-own
   SocioeconomicStatus
   EU
   NATODonovia
-  InformationDisseminationAgents
-  key_value_table
-  in_key_value
-  in-keys
   TriadStackID
   simulation_id
+
+  TriadStack 
+  Inbox
+  Outbox
 
   ;;; Donovian Agent Additional Attribute
   soldier_type
 
+  IPslist ; attribute to store IPs
+  ;;; IP specific
+]
+
+information-diss-agents-own
+[
   ;;; Information Dissemination Agent Attributes
-  Related-IP ; Info diss agent specific
-  IPslist ; Info diss agent attribute to store IPs
+  source-type ; TV, newspaper, leaflet, etc.
+]
 
-  triad_id
-
-
+IPs-own[
   ;;; Information Packet Attributes
   Information-Type ; e.g., IPs
   DocumentID
@@ -99,48 +93,6 @@ turtles-own
   stance
 
   Related-topic-id ;IP specific
-
-  temp-ip;
-  temp-in-ip; basic agent specific
-  temp-out-ip; basic agent specific
-  temp-in
-  agent-trying-to-send
-  Messages-allowed-per-clock-tick ; Limit to how many messages they can send in a virtual clock tick [value]
-  IdentitySignature; set of 0 or more Group memberships.
-  TriadStack;
-  nb-connections-in
-  nb-connections-out ;;should have in and out link connections
-  nb-group-affiliations?
-  nb-topics-read?
-  nb-interests?
-  Inbox
-  Outbox
-  track-list-test
-  Initial-Endorsement
-  connections?
-  in-trust ; represents row of an adjacency matrix. Turtle specific
-  out-trust
-  ;  received-IP
-  received-IP-list
-  sent-IP-list
-  connected-to-diss-agent?
-  ;;; IP specific
-  target-group   ; Ip specific
-  source    ; Ip specific
-  Endorsement-of-IP ; Ip specific
-  Amplification-of-IP ; Ip specific
-  censure ; Ip specific
-  Location ;IP specific
-  Ref_id_to_Info_Atrifact;;A reference ID to the original source information artifact.
-  Triad;;A Triad
-  group-prestige ;; group specific
-  group-id
-  ;track specific
-  initial-stance
-  initial-received-IPs
-  initial-sent-IPs
-  controlling_identity
-  Key_issue
 ]
 
 ;;Reset the entire world
@@ -222,7 +174,6 @@ to create-nb-basic-agents
         set Inbox []
         set Outbox []
         set triadstack []
-        set Received-IP-list []
         set triadtopics []
       ]
     ] ; end reading each line of the file
@@ -278,7 +229,6 @@ to create-nb-spokesperson-agents
         set Inbox []
         set Outbox []
         set triadstack []
-        set Received-IP-list []
         set triadtopics []
       ]
     ]
@@ -334,7 +284,6 @@ to create-nb-donovian-agents
         set Inbox []
         set Outbox []
         set triadstack []
-        set Received-IP-list []
         set triadtopics []
       ]
     ]
@@ -629,7 +578,6 @@ to send
   if (tick-count = 1 or Flag_IP_File = 0) [
     set identity-list[]
 set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
-    ;print(initial-track-list)
     set identity-list lput initial-track-list10 identity-list
   ;print tick-count
   let count_ba 0
@@ -921,10 +869,10 @@ if tick-count > 1[
 end
 
 to read
-set identity-list[]
-set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
-    ;print(initial-track-list)
-    set identity-list lput initial-track-list10 identity-list
+  set identity-list []
+  set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+  ;print(initial-track-list)
+  set identity-list lput initial-track-list10 identity-list
 
 ;let basic_agents_with_IPs turtles with [(agent-type = "basic" or agent-type = "spokesperson") and Inbox != [] ]
   let basic_agents_with_IPs (turtle-set basic-agents spokesperson-agents) with [Inbox != []]
@@ -1007,26 +955,25 @@ end
 
 
 to track_agents
-    set track-list []
-
-    set initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioecomonic_status" "eu" "nato_donovia" "triad_stack_id" "tick" "simulation_id"]
-    ;print(initial-track-list)
-    set track-list lput initial-track-list track-list
-   foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
+  let track-list []
+  let sub-list []
+  let initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioecomonic_status" "eu" "nato_donovia" "triad_stack_id" "tick" "simulation_id"]
+  ;print(initial-track-list)
+  set track-list lput initial-track-list track-list
+  foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
     ask t [
         set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "1")] of t
      set track-list lput sub-list track-list
-
-      ]
+    ]
   ]
   let agent_track_file  word "../Output-files/track_agents_"tick-count
   (csv:to-file word agent_track_file ".csv" track-list "~")
 end
 
 to track_triads
-    set Triad-list []
-
-    set initial-track-list12 ["triad_id" "triad_stack_id" "topic_id" "stance" "tick" "simulation_id"]
+  let Triad-list []
+  let sub-list12 []
+    let initial-track-list12 ["triad_id" "triad_stack_id" "topic_id" "stance" "tick" "simulation_id"]
     ;print(initial-track-list)
 
     set Triad-list lput initial-track-list12 Triad-list
@@ -1118,6 +1065,7 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           ;set sub-list10 lput date-and-time sub-list10
           set identity-list lput sub-list10 identity-list
 end
+
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
