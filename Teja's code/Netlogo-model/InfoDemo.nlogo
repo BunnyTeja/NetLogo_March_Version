@@ -41,13 +41,7 @@ globals[
 ]
 
 turtles-own
-[ triadtopics
-  ;;; Lists that Store All the Connected Agents for an Agent
-  connected_agents_list
-  trust_values_list
-  Id_trust_table
-
-  ;;; Basic Agent Attributes
+[  ;;; Agent Attributes
   agent-ID
   agent-type
   county
@@ -65,16 +59,21 @@ turtles-own
   NATODonovia
   TriadStackID
   simulation_id
-
-  TriadStack 
   Inbox
   Outbox
 
   ;;; Donovian Agent Additional Attribute
   soldier_type
 
+  ;;; Attributes that Store All the Connected Agents for an Agent
+  connected_agents_list
+  trust_values_list
+  Id_trust_table ; this is a combination of connected_agents_list and trust_values_list
+
+  TriadStack 
+  triadtopics
+
   IPslist ; attribute to store IPs
-  ;;; IP specific
 ]
 
 information-diss-agents-own
