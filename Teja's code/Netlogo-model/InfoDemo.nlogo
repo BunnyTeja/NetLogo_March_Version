@@ -21,7 +21,7 @@ globals[
   nb-live-agents
   nb-flow-manipulator-agents
   nb-total-agents
- 
+
   actionid
   initial_track_list_IA
   Information_Action_list
@@ -70,7 +70,7 @@ turtles-own
   trust_values_list
   Id_trust_table ; this is a combination of connected_agents_list and trust_values_list
 
-  TriadStack 
+  TriadStack
   triadtopics
 
   IPslist ; attribute to store IPs
@@ -592,6 +592,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
   let info_agent_id agent-id ; sending agent id
     set tempIpslist IPslist ; list of Ips that are being sent
     while [i < length(connected_agents_list)] [
+      set change_in_amplification 0
       let search_id item i connected_agents_list
       ;print search_id ; to see the current connected basic agent id ; receiving agent id
 
@@ -643,12 +644,12 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
             set change_in_amplification "+0.1"
               ]
             ]
-                if (AmplifyanInformationPacket = true or RefuteanInformationPacket = true)[
-            information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
-          ]
-          if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
-             information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 0 tick-count 1
-            ]
+;                if (AmplifyanInformationPacket = true or RefuteanInformationPacket = true)[
+;            information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
+;          ]
+;          if (AmplifyanInformationPacket = false and RefuteanInformationPacket = false)[
+;             information_action_func "SEND" info_agent_id search_id Ip_Id_log 0 0 tick-count 1
+;            ]
           ]
 
       let current_agent turtles with [agent-id = search_id]
@@ -664,7 +665,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
                set outbox lput temp outbox
 
               ]
-               information_action_func "SEND" info_agent_id search_id temp 0 "0" tick-count 1
+               information_action_func "SEND" info_agent_id search_id temp 0 change_in_amplification tick-count 1
           ]
 
          ; logic for creating triadstack for basic agents
@@ -728,6 +729,7 @@ if tick-count > 1[
    set tempIpslist Outbox
 ;       if tick-count > 2 [print Outbox]
     while [i < length(connected_agents_list)] [
+      set change_in_amplification 0
       let search_id item i connected_agents_list ; reveiving agent id
       ;print search_id
 
@@ -789,13 +791,13 @@ if tick-count > 1[
             ]
 
 
-                if AmplifyanInformationPacket = true or RefuteanInformationPacket = true[
-             ; if tick-count > 2 [print Ip_Id_log]
-              information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
-            ]
-            if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
-            information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 "0" tick-count 1
-            ]
+;                if AmplifyanInformationPacket = true or RefuteanInformationPacket = true[
+;             ; if tick-count > 2 [print Ip_Id_log]
+;              information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 change_in_amplification tick-count 1
+;            ]
+;            if AmplifyanInformationPacket = false and RefuteanInformationPacket = false[
+;            information_action_func "SEND" basic_agent_id search_id Ip_Id_log 0 "0" tick-count 1
+;            ]
           ]
           ;print trust_value
       let current_agent turtles with [agent-id = search_id]
@@ -840,7 +842,7 @@ if tick-count > 1[
                   ]
 
               ]
-            information_action_func "SEND" basic_agent_id search_id temp 0 "0" tick-count 1
+            information_action_func "SEND" basic_agent_id search_id temp 0 change_in_amplification tick-count 1
             ]
 
 ;      print agent-id
@@ -1064,7 +1066,6 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           ;set sub-list10 lput date-and-time sub-list10
           set identity-list lput sub-list10 identity-list
 end
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
@@ -1153,7 +1154,7 @@ Select_no_of_Ticks
 Select_no_of_Ticks
 0
 10
-3.0
+4.0
 1
 1
 NIL
