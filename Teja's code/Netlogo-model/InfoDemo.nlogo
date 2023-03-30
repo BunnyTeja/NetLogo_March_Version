@@ -57,13 +57,11 @@ turtles-own
   SocioeconomicStatus
   EU
   NATODonovia
+  soldier_type ; Additional Attribute for All Agents to Match Donovians 
   TriadStackID
   simulation_id
   Inbox
   Outbox
-
-  ;;; Donovian Agent Additional Attribute
-  soldier_type
 
   ;;; Attributes that Store All the Connected Agents for an Agent
   connected_agents_list
@@ -137,13 +135,13 @@ to create-nb-basic-agents
     user-message "No file '../Input-files/basicAgentsInput.csv' exists. Skipping to next agent type."
   ][
     file-open "../Input-files/basicAgentsInput.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     set nb-basic-agents 0
     while [ not file-at-end? ] [
       set nb-basic-agents nb-basic-agents + 1
       ; here the CSV extension grabs a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we can use that list to create a turtle with the saved properties
       create-basic-agents 1 [
         set shape "circle"
@@ -166,6 +164,7 @@ to create-nb-basic-agents
         set SocioeconomicStatus item 12 data
         set EU item 13 data
         set NATODonovia item 14 data
+        set soldier_type item 15 data
 
         set TriadStackID word "TS-" item 0 data
         set connected_agents_list []
@@ -192,13 +191,13 @@ to create-nb-spokesperson-agents
     user-message "No file '../Input-files/spokesperson-agents-input.csv' exists. Skipping to next agent type."
   ][
     file-open "../Input-files/spokespersonAgentsInput.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     set nb-spokesperson-agents 0
     while [ not file-at-end? ] [
       set nb-spokesperson-agents nb-spokesperson-agents + 1
       ; here the CSV extension grabs a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we can use that list to create a turtle with the saved properties
       create-spokesperson-agents 1 [
         set shape "circle"
@@ -221,6 +220,7 @@ to create-nb-spokesperson-agents
         set SocioeconomicStatus item 12 data
         set EU item 13 data
         set NATODonovia item 14 data
+        set soldier_type item 15 data
 
         set TriadStackID word "TS-" item 0 data
         set connected_agents_list []
@@ -246,13 +246,13 @@ to create-nb-donovian-agents
     user-message "No file '../Input-files/donovianAgentsInput.csv' exists. Skipping to next agent type."
   ][
     file-open "../Input-files/donovianAgentsInput.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     set nb-donovian-agents 0
     while [ not file-at-end? ] [
       set nb-donovian-agents nb-donovian-agents + 1
       ; here the CSV extension reads a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we use that list to create a turtle with the saved properties
       create-donovian-agents 1 [
         set shape "face sad"
@@ -301,13 +301,13 @@ to create-nb-information-diss-agents
     user-message "No file '../Input-files/InfoDissAgents.csv' exists. Skipping Information Dissemination Agents."
   ][
     file-open "../Input-files/InfoDissAgents.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     set nb-information-diss-agents 0
     while [ not file-at-end? ] [
       set nb-information-diss-agents nb-information-diss-agents + 1
       ; here the CSV extension grabs a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we can use that list to create a turtle with the saved properties
       create-information-diss-agents 1 [
         set shape "plant"
@@ -340,11 +340,11 @@ to create-nb-flow-manipulator-agents
     user-message "No file '../Input-files/flowManipulatorAgentsInput.csv' exists. Skipping Flow Manipulator Agents."
   ][
     file-open "../Input-files/flowManipulatorAgentsInput.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     while [ not file-at-end? ] [
       ; here the CSV extension reads a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we use that list to create a turtle with the saved properties
       create-flow-manipulator-agents 1 [
         set shape "wheel"
@@ -370,13 +370,13 @@ to create-nb-live-agents
     user-message "No file '../Input-files/liveAgentsInput.csv' exists. Skipping Flow Manipulator Agents."
   ][
     file-open "../Input-files/liveAgentsInput.csv" ; open the file with the turtle data
-    let data csv:from-row file-read-line
+    let data (csv:from-row file-read-line "~")
     ; We'll read all the data in a single loop
     set nb-live-agents 0
     while [ not file-at-end? ] [
       set nb-live-agents nb-live-agents + 1
       ; here the CSV extension reads a single line and puts the read data in a list
-      set data csv:from-row file-read-line
+      set data (csv:from-row file-read-line "~")
       ; now we use that list to create a turtle with the saved properties
       create-live-agents 1 [
         set shape "person"
@@ -401,7 +401,7 @@ end
 to setup-IP
   file-close-all ; close all open files
   if not file-exists? "../Input-files/IPsInput_tick_0.csv" [
-    user-message "No file '../Input-files/IPsInput_tick_0.csv' exists."
+    print "No file '../Input-files/IPsInput_tick_0.csv' exists."
     stop
   ]
   file-open "../Input-files/IPsInput_tick_0.csv" ; open the file with the turtle data
@@ -417,7 +417,7 @@ to setup-IP
     create-IPs 1 [
       set shape "square"
       set color orange
-      set size  0.4
+      set size 0.4
       set xcor -12
       set ycor random-ycor
       set agent-type item 0 data
@@ -456,13 +456,13 @@ to make-connections
   file-open "../Input-files/adjacency_matrix.csv" ; open the file with the links data
 ; We'll read all the data in a single loop
 let i 0 ; initializing the row number of the adjacency matrix
-let id_data csv:from-row file-read-line
+let id_data (csv:from-row file-read-line "~")
 set ids_list id_data
 set ids_list remove-item 0 ids_list
 ;print ids_list
 ;print data1
 while [ i < nb-total-agents ] [
-  let row_data csv:from-row file-read-line
+  let row_data (csv:from-row file-read-line "~")
   ;print row_data
   let row_agent_id item 0 row_data
   set row_data remove-item 0 row_data
@@ -512,7 +512,7 @@ to get-next-IPs
   set ipfile word ipfile ".csv"
   ifelse not file-exists? ipfile [
     set Flag_IP_File 1
-    user-message word "No file (new IPs) " ipfile
+    print word "No file (new IPs) " ipfile
   ][
     set Flag_IP_File 0
     file-open ipfile ; open the file with the new IPs
@@ -527,7 +527,7 @@ to get-next-IPs
       create-IPs 1 [
         set shape "square"
         set color orange
-        set size  0.4
+        set size 0.4
         set xcor -12
         set ycor random-ycor
         set agent-type item 0 data
@@ -536,7 +536,7 @@ to get-next-IPs
         set Related-topic-id item 3 data
         set IP-id item 4 data
         set stance item 5 data
-        ;Logic for updating the Info dissimination agents IPslist attribute with related IPs
+        ; Update the IPslist of the appropriate Info dissimination agents with the new IPs
         ;Creating a temp variable to store info agent id
         let IPsInformationSourceID InformationSourceID
         let IPsIP-id IP-id
@@ -545,18 +545,6 @@ to get-next-IPs
           set IPslist lput IPsIP-id IPslist
         ]
       ]
-;      set agent-type item 0 data
-;      let IPsDocumentID item 1 data
-;      let IPsInformationSourceID item 2 data
-;      set Related-topic-id item 3 data
-;      let IPsIP-id item 4 data
-;      set stance item 5 data
-;      ; Update the IPslist of the appropriate info-diss-agents with the new IPs
-;      let current_agents information-diss-agents with [agent-ID = IPsInformationSourceID]
-;      ask current_agents [
-;        set IPslist lput IPsIP-id IPslist
-;        ;set IPslist lput data IPslist
-;      ]
     ]
     print IPs-read
   ]
@@ -726,17 +714,16 @@ if tick-count > 1[
   let tempIpslist []
   let selected_random_IPs []
   let basic_agent_id agent-id ; sending agent id
-   set tempIpslist Outbox
+  set tempIpslist Outbox
 ;       if tick-count > 2 [print Outbox]
-    while [i < length(connected_agents_list)] [
+  while [i < length(connected_agents_list)] [
       set change_in_amplification 0
       let search_id item i connected_agents_list ; reveiving agent id
       ;print search_id
 
-      let trust_value table:get Id_trust_table search_id; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
+      let trust_value table:get Id_trust_table search_id ; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.4[
-
+      if trust_value > 0.7 [ ; MNH changed to 0.7 from 0.4, so that fewer IPs are forwarded
               ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         let originalIpslist [] ; original list of all IPs
         set originalIpslist tempIpslist
@@ -747,21 +734,21 @@ if tick-count > 1[
           let random-item item random-index originalIpslist
           set random_IPslist lput random-item random_IPslist
           set originalIpslist remove-item random-index originalIpslist
-         ]
+        ]
 
         set selected_random_IPs lput random_IPslist selected_random_IPs
         let random_IPs IPs with [IP-id = item 0 random_IPslist]
 ;          if tick-count > 2 [print random_IPslist]
 
-         ask random_IPs[
+        ask random_IPs[
 
 ;                ifelse tick-count = 1[set tempstance 3][set tempstance 2]
 
-           let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
+          let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
            ;if tick-count > 2 [print Ip_Id_log]
-           let AmplifyanInformationPacket false
-            let RefuteanInformationPacket false
-            ifelse random 100 < 50 and (stance < 3 and stance > -3)[
+          let AmplifyanInformationPacket false
+          let RefuteanInformationPacket false
+          ifelse random 100 < 50 and (stance < 3 and stance > -3)[
               set AmplifyanInformationPacket true
             ]
             [
@@ -958,12 +945,12 @@ end
 to track_agents
   let track-list []
   let sub-list []
-  let initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioecomonic_status" "eu" "nato_donovia" "triad_stack_id" "tick" "simulation_id"]
+  let initial-track-list ["agent_id" "agent_type" "country" "county" "municipality" "latitude" "longitude" "gender" "age" "language" "nationality" "political_spectrum" "socioeconomic_status" "eu" "nato_donovia" "soldier_type" "triad_stack_id" "tick" "simulation_id"]
   ;print(initial-track-list)
   set track-list lput initial-track-list track-list
   foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
     ask t [
-        set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia TriadStackID tick-count "1")] of t
+        set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia soldier_type TriadStackID tick-count "1")] of t
      set track-list lput sub-list track-list
     ]
   ]
