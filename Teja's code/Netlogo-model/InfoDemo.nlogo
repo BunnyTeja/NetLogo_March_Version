@@ -9,8 +9,9 @@ breed [flow-manipulator-agents flow-manipulator-agent]
 breed [IPs IP]
 
 globals[
-  identityactionid
-  tempstance
+  tick-count
+  simulation_id
+
   ; Count Attributes
   total-initial-IPs
   nb-basic-agents
@@ -23,6 +24,8 @@ globals[
   nb-total-agents
 
   actionid
+  identityactionid
+  tempstance
   initial_track_list_IA
   Information_Action_list
   sub_list_IA
@@ -30,8 +33,6 @@ globals[
   change_in_amplification
 ;  IncreaseMagnitudeofTopicStance
 ;  DecreaseMagnitudeofTopicStance
-
-  tick-count
 
   identity-list
   initial-track-list10
@@ -57,9 +58,8 @@ turtles-own
   SocioeconomicStatus
   EU
   NATODonovia
-  soldier_type ; Additional Attribute for All Agents to Match Donovians 
+  soldier_type ; Additional Attribute for All Agents to Match Donovians
   TriadStackID
-  simulation_id
   Inbox
   Outbox
 
@@ -110,6 +110,10 @@ end
 ;;; Method to setup the environment by creating agents and connections
 ;;;
 to setup-agents
+  set simulation_id user-input "Enter the simulation ID: "
+  set simulation_id word "Sim" simulation_id
+;  print word "simulation_id is " simulation_id
+
   create-nb-basic-agents
   create-nb-spokesperson-agents
 ;  create-nb-donovian-agents
@@ -653,7 +657,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
                set outbox lput temp outbox
 
               ]
-               information_action_func "SEND" info_agent_id search_id temp 0 change_in_amplification tick-count 1
+               information_action_func "SEND" info_agent_id search_id temp 0 change_in_amplification tick-count simulation_id
           ]
 
          ; logic for creating triadstack for basic agents
@@ -669,7 +673,7 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
             set temptriad lput stance temptriad
             set temptopic lput Related-topic-id temptopic
 
-          identity_action_func search_id "CREATE" triadno stance "0" "0" tick-count "1"
+          identity_action_func search_id "CREATE" triadno stance "0" "0" tick-count simulation_id
             ]
           if temptriad != [] [
           ;print temptriad
@@ -691,11 +695,13 @@ set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type"
 set count_ba count_ba + 1
     ]
 
-    let trackID  word "../Output-files/identity_action_tick_"tick-count
+    let trackID  word "../Output-files/identity_action_tick_" tick-count
+    set trackID (word trackID "_" simulation_id)
     (csv:to-file word trackID ".csv" identity-list "~")
 
     ;print count_ba
-    let infoAct  word "../Output-files/information-actions-tick-"tick-count
+    let infoAct  word "../Output-files/information-actions-tick-" tick-count
+    set infoAct (word infoAct "_" simulation_id)
     (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
@@ -723,7 +729,7 @@ if tick-count > 1[
 
       let trust_value table:get Id_trust_table search_id ; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
           ;print trust_value
-      if trust_value > 0.7 [ ; MNH changed to 0.7 from 0.4, so that fewer IPs are forwarded
+      if trust_value > 0.7 [ ; MNH changed 0.4 to 0.7, so that fewer IPs are forwarded
               ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         let originalIpslist [] ; original list of all IPs
         set originalIpslist tempIpslist
@@ -806,7 +812,7 @@ if tick-count > 1[
 
             if member? Ip_topic triad_topics [
               let received_tick tick-count + 1
-              information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick 1
+              information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick simulation_id
                     ]
                   ]
 
@@ -824,12 +830,12 @@ if tick-count > 1[
            let Ip_topic Related-topic-id
            if member? Ip_topic triad_topics [
                let received_tick tick-count + 1
-               information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick 1
+               information_action_func "RECEIVE" basic_agent_id search_id temp 0 "0" received_tick simulation_id
              ]
                   ]
 
               ]
-            information_action_func "SEND" basic_agent_id search_id temp 0 change_in_amplification tick-count 1
+            information_action_func "SEND" basic_agent_id search_id temp 0 change_in_amplification tick-count simulation_id
             ]
 
 ;      print agent-id
@@ -848,7 +854,8 @@ if tick-count > 1[
 
   ]
   if tick-count > 1[
-  let infoAct  word "../Output-files/information-actions-tick-" tick-count
+    let infoAct  word "../Output-files/information-actions-tick-" tick-count
+    set infoAct (word infoAct "_" simulation_id)
     (csv:to-file word infoAct".csv" Information_Action_list "~")
   ]
 
@@ -918,7 +925,7 @@ ask basic_agents_with_IPs [
 
                       set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) new_stance_calculated ))
                       let id (item 0 (item len(triadstack)) )
-                               identity_action_func agent-id "MODIFY_STANCE" id change_stance "0" "0" tick-count "1"
+                               identity_action_func agent-id "MODIFY_STANCE" id change_stance "0" "0" tick-count simulation_id
                   ]
                   set len len + 1
                 ]
@@ -933,7 +940,8 @@ ask basic_agents_with_IPs [
         ]
       ]
 
-    let trackID  word "../Output-files/identity_action_tick_"tick-count
+    let trackID  word "../Output-files/identity_action_tick_" tick-count
+    set trackID (word trackID "_" simulation_id)
     (csv:to-file word trackID ".csv" identity-list "~")
   ;  set inbox []
       ]
@@ -950,11 +958,12 @@ to track_agents
   set track-list lput initial-track-list track-list
   foreach sort (turtle-set basic-agents spokesperson-agents) [ t ->
     ask t [
-        set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia soldier_type TriadStackID tick-count "1")] of t
+        set sub-list [ (list agent-id agent-type country county municipality latitude longitude  Gender Age Language Nationality PoliticalSpectrum SocioeconomicStatus EU NATODonovia soldier_type TriadStackID tick-count simulation_id)] of t
      set track-list lput sub-list track-list
     ]
   ]
-  let agent_track_file  word "../Output-files/track_agents_"tick-count
+  let agent_track_file  word "../Output-files/track_agents_" tick-count
+  set agent_track_file (word agent_track_file "_" simulation_id)
   (csv:to-file word agent_track_file ".csv" track-list "~")
 end
 
@@ -974,7 +983,7 @@ to track_triads
         let temp_topic_id item 1 (item len(triadstack))
         let temp_stance item 2 (item len(triadstack))
 
-        set sub-list12 [ (list temp_triad_id triadstackid temp_topic_id temp_stance tick-count "1")] of t
+        set sub-list12 [ (list temp_triad_id triadstackid temp_topic_id temp_stance tick-count simulation_id)] of t
         set Triad-list lput sub-list12 Triad-list
 
         set len len + 1
@@ -982,7 +991,8 @@ to track_triads
      ]
    ]
 
-  let triad_track_file  word "../Output-files/track_triads_"tick-count
+  let triad_track_file  word "../Output-files/track_triads_" tick-count
+  set triad_track_file (word triad_track_file "_" simulation_id)
   (csv:to-file word triad_track_file ".csv" Triad-list "~")
 
 end
@@ -1141,7 +1151,7 @@ Select_no_of_Ticks
 Select_no_of_Ticks
 0
 10
-4.0
+2.0
 1
 1
 NIL
