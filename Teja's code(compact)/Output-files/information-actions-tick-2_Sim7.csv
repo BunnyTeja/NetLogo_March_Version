@@ -1,0 +1,1651 @@
+information_action_id~information_action_type~sending_agent_id~receiving_agent_id~information_packet_id~endorsed_agent_id~change_in_amplification~tick~simulation_id
+InfoAct_id_8966~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-262~0~0~2~Sim7
+InfoAct_id_8967~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-263~0~0~2~Sim7
+InfoAct_id_8968~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-264~0~0.1~2~Sim7
+InfoAct_id_8969~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-265~0~0.1~2~Sim7
+InfoAct_id_8970~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-266~0~0.1~2~Sim7
+InfoAct_id_8971~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-267~0~0.1~2~Sim7
+InfoAct_id_8972~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-268~0~0.1~2~Sim7
+InfoAct_id_8973~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-269~0~0~2~Sim7
+InfoAct_id_8974~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-270~0~0~2~Sim7
+InfoAct_id_8975~SEND~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~IP-271~0~0~2~Sim7
+InfoAct_id_8976~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-262~0~0~2~Sim7
+InfoAct_id_8977~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-263~0~0~2~Sim7
+InfoAct_id_8978~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-264~0~0~2~Sim7
+InfoAct_id_8979~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-265~0~0~2~Sim7
+InfoAct_id_8980~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-266~0~0~2~Sim7
+InfoAct_id_8981~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-267~0~0~2~Sim7
+InfoAct_id_8982~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-268~0~0~2~Sim7
+InfoAct_id_8983~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-269~0~0~2~Sim7
+InfoAct_id_8984~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-270~0~0~2~Sim7
+InfoAct_id_8985~SEND~MG Arkady Vilktotovich Bakhin~GEN Nikolai Yegorovich Makarov~IP-271~0~0~2~Sim7
+InfoAct_id_8986~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-262~0~0~2~Sim7
+InfoAct_id_8987~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-263~0~0~2~Sim7
+InfoAct_id_8988~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-264~0~0~2~Sim7
+InfoAct_id_8989~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-265~0~0~2~Sim7
+InfoAct_id_8990~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-266~0~0~2~Sim7
+InfoAct_id_8991~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-267~0~0~2~Sim7
+InfoAct_id_8992~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-268~0~0~2~Sim7
+InfoAct_id_8993~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-269~0~0~2~Sim7
+InfoAct_id_8994~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-270~0~0~2~Sim7
+InfoAct_id_8995~SEND~MG Arkady Vilktotovich Bakhin~GEN Vladimir Sergeyevich Mikhaylov~IP-271~0~0~2~Sim7
+InfoAct_id_8996~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-262~0~0~2~Sim7
+InfoAct_id_8997~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-263~0~0~2~Sim7
+InfoAct_id_8998~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-264~0~0~2~Sim7
+InfoAct_id_8999~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-265~0~0~2~Sim7
+InfoAct_id_9000~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-266~0~0~2~Sim7
+InfoAct_id_9001~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-267~0~0~2~Sim7
+InfoAct_id_9002~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-268~0~0~2~Sim7
+InfoAct_id_9003~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-269~0~0~2~Sim7
+InfoAct_id_9004~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-270~0~0~2~Sim7
+InfoAct_id_9005~SEND~MG Arkady Vilktotovich Bakhin~GEN Alexey Fydorovich Maslov~IP-271~0~0~2~Sim7
+InfoAct_id_9006~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-262~0~0~2~Sim7
+InfoAct_id_9007~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-263~0~0~2~Sim7
+InfoAct_id_9008~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-264~0~0~2~Sim7
+InfoAct_id_9009~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-265~0~0~2~Sim7
+InfoAct_id_9010~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-266~0~0~2~Sim7
+InfoAct_id_9011~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-267~0~0~2~Sim7
+InfoAct_id_9012~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-268~0~0~2~Sim7
+InfoAct_id_9013~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-269~0~0~2~Sim7
+InfoAct_id_9014~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-270~0~0~2~Sim7
+InfoAct_id_9015~SEND~MG Arkady Vilktotovich Bakhin~LTG Viktor Nikolaevich Samsonov~IP-271~0~0~2~Sim7
+InfoAct_id_9016~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-262~0~0~2~Sim7
+InfoAct_id_9017~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-263~0~0~2~Sim7
+InfoAct_id_9018~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-264~0~0~2~Sim7
+InfoAct_id_9019~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-265~0~0~2~Sim7
+InfoAct_id_9020~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-266~0~0~2~Sim7
+InfoAct_id_9021~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-267~0~0~2~Sim7
+InfoAct_id_9022~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-268~0~0~2~Sim7
+InfoAct_id_9023~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-269~0~0~2~Sim7
+InfoAct_id_9024~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-270~0~0~2~Sim7
+InfoAct_id_9025~SEND~MG Arkady Vilktotovich Bakhin~Sergey Kuzhugetovich Shoygu~IP-271~0~0~2~Sim7
+InfoAct_id_9026~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-262~0~0~2~Sim7
+InfoAct_id_9027~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-263~0~0~2~Sim7
+InfoAct_id_9028~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-264~0~0~2~Sim7
+InfoAct_id_9029~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-265~0~0~2~Sim7
+InfoAct_id_9030~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-266~0~0~2~Sim7
+InfoAct_id_9031~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-267~0~0~2~Sim7
+InfoAct_id_9032~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-268~0~0~2~Sim7
+InfoAct_id_9033~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-269~0~0~2~Sim7
+InfoAct_id_9034~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-270~0~0~2~Sim7
+InfoAct_id_9035~SEND~MG Arkady Vilktotovich Bakhin~MG Ruslan Khazhismelovich Tsalikov~IP-271~0~0~2~Sim7
+InfoAct_id_9036~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-262~0~0~2~Sim7
+InfoAct_id_9037~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-263~0~0~2~Sim7
+InfoAct_id_9038~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-264~0~0~2~Sim7
+InfoAct_id_9039~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-265~0~0~2~Sim7
+InfoAct_id_9040~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-266~0~0~2~Sim7
+InfoAct_id_9041~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-267~0~0~2~Sim7
+InfoAct_id_9042~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-268~0~0~2~Sim7
+InfoAct_id_9043~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-269~0~0~2~Sim7
+InfoAct_id_9044~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-270~0~0~2~Sim7
+InfoAct_id_9045~SEND~MG Arkady Vilktotovich Bakhin~MAJ Ganushevich Artem Romanovich~IP-271~0~0~2~Sim7
+InfoAct_id_9046~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-262~0~0~2~Sim7
+InfoAct_id_9047~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-263~0~0~2~Sim7
+InfoAct_id_9048~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-264~0~0~2~Sim7
+InfoAct_id_9049~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-265~0~0~2~Sim7
+InfoAct_id_9050~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-266~0~0~2~Sim7
+InfoAct_id_9051~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-267~0~0~2~Sim7
+InfoAct_id_9052~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-268~0~0~2~Sim7
+InfoAct_id_9053~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-269~0~0~2~Sim7
+InfoAct_id_9054~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-270~0~0~2~Sim7
+InfoAct_id_9055~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Alexander Zhuravlyov~IP-271~0~0~2~Sim7
+InfoAct_id_9056~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-262~0~0~2~Sim7
+InfoAct_id_9057~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-263~0~0~2~Sim7
+InfoAct_id_9058~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-264~0~0~2~Sim7
+InfoAct_id_9059~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-265~0~0~2~Sim7
+InfoAct_id_9060~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-266~0~0~2~Sim7
+InfoAct_id_9061~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-267~0~0~2~Sim7
+InfoAct_id_9062~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-268~0~0~2~Sim7
+InfoAct_id_9063~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-269~0~0~2~Sim7
+InfoAct_id_9064~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-270~0~0~2~Sim7
+InfoAct_id_9065~SEND~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~IP-271~0~0~2~Sim7
+InfoAct_id_9066~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-262~0~0~2~Sim7
+InfoAct_id_9067~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-263~0~0~2~Sim7
+InfoAct_id_9068~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-264~0~0~2~Sim7
+InfoAct_id_9069~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-265~0~0~2~Sim7
+InfoAct_id_9070~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-266~0~0~2~Sim7
+InfoAct_id_9071~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-267~0~0~2~Sim7
+InfoAct_id_9072~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-268~0~0~2~Sim7
+InfoAct_id_9073~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-269~0~0~2~Sim7
+InfoAct_id_9074~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-270~0~0~2~Sim7
+InfoAct_id_9075~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~IP-271~0~0~2~Sim7
+InfoAct_id_9076~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-262~0~0~2~Sim7
+InfoAct_id_9077~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-263~0~0~2~Sim7
+InfoAct_id_9078~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-264~0~0~2~Sim7
+InfoAct_id_9079~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-265~0~0~2~Sim7
+InfoAct_id_9080~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-266~0~0~2~Sim7
+InfoAct_id_9081~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-267~0~0~2~Sim7
+InfoAct_id_9082~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-268~0~0~2~Sim7
+InfoAct_id_9083~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-269~0~0~2~Sim7
+InfoAct_id_9084~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-270~0~0~2~Sim7
+InfoAct_id_9085~SEND~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~IP-271~0~0~2~Sim7
+InfoAct_id_9086~SEND~Paulius Keras~Egle Juzu~IP-262~0~0~2~Sim7
+InfoAct_id_9087~SEND~Paulius Keras~Egle Juzu~IP-263~0~0~2~Sim7
+InfoAct_id_9088~SEND~Paulius Keras~Egle Juzu~IP-264~0~0~2~Sim7
+InfoAct_id_9089~SEND~Paulius Keras~Egle Juzu~IP-265~0~0~2~Sim7
+InfoAct_id_9090~SEND~Paulius Keras~Egle Juzu~IP-266~0~0~2~Sim7
+InfoAct_id_9091~SEND~Paulius Keras~Egle Juzu~IP-267~0~0~2~Sim7
+InfoAct_id_9092~SEND~Paulius Keras~Egle Juzu~IP-268~0~0~2~Sim7
+InfoAct_id_9093~SEND~Paulius Keras~Egle Juzu~IP-269~0~0~2~Sim7
+InfoAct_id_9094~SEND~Paulius Keras~Egle Juzu~IP-270~0~0~2~Sim7
+InfoAct_id_9095~SEND~Paulius Keras~Egle Juzu~IP-271~0~0~2~Sim7
+InfoAct_id_9096~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9097~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9098~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-334~0~0.1~2~Sim7
+InfoAct_id_9099~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-335~0~0.1~2~Sim7
+InfoAct_id_9100~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-336~0~0.1~2~Sim7
+InfoAct_id_9101~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-337~0~0.1~2~Sim7
+InfoAct_id_9102~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-338~0~0.1~2~Sim7
+InfoAct_id_9103~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-339~0~0.1~2~Sim7
+InfoAct_id_9104~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9105~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9106~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9107~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9108~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-334~0~0~2~Sim7
+InfoAct_id_9109~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-335~0~0~2~Sim7
+InfoAct_id_9110~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-336~0~0~2~Sim7
+InfoAct_id_9111~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-337~0~0~2~Sim7
+InfoAct_id_9112~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-338~0~0~2~Sim7
+InfoAct_id_9113~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-339~0~0~2~Sim7
+InfoAct_id_9114~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9115~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9116~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-332~0~0~2~Sim7
+InfoAct_id_9117~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-333~0~0~2~Sim7
+InfoAct_id_9118~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-334~0~0~2~Sim7
+InfoAct_id_9119~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-335~0~0~2~Sim7
+InfoAct_id_9120~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-336~0~0~2~Sim7
+InfoAct_id_9121~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-337~0~0~2~Sim7
+InfoAct_id_9122~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-338~0~0~2~Sim7
+InfoAct_id_9123~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-339~0~0~2~Sim7
+InfoAct_id_9124~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-340~0~0~2~Sim7
+InfoAct_id_9125~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-341~0~0~2~Sim7
+InfoAct_id_9126~SEND~B-ID-10~Gitanas Nauseda~IP-412~0~0~2~Sim7
+InfoAct_id_9127~SEND~B-ID-10~Gitanas Nauseda~IP-413~0~0.1~2~Sim7
+InfoAct_id_9128~SEND~B-ID-10~Gitanas Nauseda~IP-414~0~0.1~2~Sim7
+InfoAct_id_9129~SEND~B-ID-10~Gitanas Nauseda~IP-415~0~0.1~2~Sim7
+InfoAct_id_9130~SEND~B-ID-10~Gitanas Nauseda~IP-416~0~0.1~2~Sim7
+InfoAct_id_9131~SEND~B-ID-10~Gitanas Nauseda~IP-417~0~0.1~2~Sim7
+InfoAct_id_9132~SEND~B-ID-10~Gitanas Nauseda~IP-418~0~0.1~2~Sim7
+InfoAct_id_9133~SEND~B-ID-10~Gitanas Nauseda~IP-419~0~0~2~Sim7
+InfoAct_id_9134~SEND~B-ID-10~Gitanas Nauseda~IP-420~0~0~2~Sim7
+InfoAct_id_9135~SEND~B-ID-10~Gitanas Nauseda~IP-421~0~0~2~Sim7
+InfoAct_id_9136~SEND~B-ID-10~Ingrida Simonyte~IP-412~0~0~2~Sim7
+InfoAct_id_9137~SEND~B-ID-10~Ingrida Simonyte~IP-413~0~0~2~Sim7
+InfoAct_id_9138~SEND~B-ID-10~Ingrida Simonyte~IP-414~0~0~2~Sim7
+InfoAct_id_9139~SEND~B-ID-10~Ingrida Simonyte~IP-415~0~0~2~Sim7
+InfoAct_id_9140~SEND~B-ID-10~Ingrida Simonyte~IP-416~0~0~2~Sim7
+InfoAct_id_9141~SEND~B-ID-10~Ingrida Simonyte~IP-417~0~0~2~Sim7
+InfoAct_id_9142~SEND~B-ID-10~Ingrida Simonyte~IP-418~0~0~2~Sim7
+InfoAct_id_9143~SEND~B-ID-10~Ingrida Simonyte~IP-419~0~0~2~Sim7
+InfoAct_id_9144~SEND~B-ID-10~Ingrida Simonyte~IP-420~0~0~2~Sim7
+InfoAct_id_9145~SEND~B-ID-10~Ingrida Simonyte~IP-421~0~0~2~Sim7
+InfoAct_id_9146~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9147~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9148~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-334~0~0~2~Sim7
+InfoAct_id_9149~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-335~0~0~2~Sim7
+InfoAct_id_9150~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-336~0~0~2~Sim7
+InfoAct_id_9151~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-337~0~0~2~Sim7
+InfoAct_id_9152~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-338~0~0~2~Sim7
+InfoAct_id_9153~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-339~0~0~2~Sim7
+InfoAct_id_9154~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9155~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9156~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9157~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9158~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-334~0~0~2~Sim7
+InfoAct_id_9159~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-335~0~0~2~Sim7
+InfoAct_id_9160~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-336~0~0~2~Sim7
+InfoAct_id_9161~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-337~0~0~2~Sim7
+InfoAct_id_9162~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-338~0~0~2~Sim7
+InfoAct_id_9163~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-339~0~0~2~Sim7
+InfoAct_id_9164~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9165~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9166~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9167~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9168~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-334~0~0~2~Sim7
+InfoAct_id_9169~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-335~0~0~2~Sim7
+InfoAct_id_9170~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-336~0~0~2~Sim7
+InfoAct_id_9171~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-337~0~0~2~Sim7
+InfoAct_id_9172~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-338~0~0~2~Sim7
+InfoAct_id_9173~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-339~0~0~2~Sim7
+InfoAct_id_9174~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9175~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9176~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-332~0~0~2~Sim7
+InfoAct_id_9177~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-333~0~0~2~Sim7
+InfoAct_id_9178~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-334~0~0~2~Sim7
+InfoAct_id_9179~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-335~0~0~2~Sim7
+InfoAct_id_9180~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-336~0~0~2~Sim7
+InfoAct_id_9181~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-337~0~0~2~Sim7
+InfoAct_id_9182~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-338~0~0~2~Sim7
+InfoAct_id_9183~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-339~0~0~2~Sim7
+InfoAct_id_9184~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-340~0~0~2~Sim7
+InfoAct_id_9185~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-341~0~0~2~Sim7
+InfoAct_id_9186~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-332~0~0~2~Sim7
+InfoAct_id_9187~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-333~0~0~2~Sim7
+InfoAct_id_9188~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-334~0~0~2~Sim7
+InfoAct_id_9189~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim7
+InfoAct_id_9190~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-336~0~0~2~Sim7
+InfoAct_id_9191~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-337~0~0~2~Sim7
+InfoAct_id_9192~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-338~0~0~2~Sim7
+InfoAct_id_9193~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-339~0~0~2~Sim7
+InfoAct_id_9194~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-340~0~0~2~Sim7
+InfoAct_id_9195~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-341~0~0~2~Sim7
+InfoAct_id_9196~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-332~0~0~2~Sim7
+InfoAct_id_9197~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-333~0~0~2~Sim7
+InfoAct_id_9198~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-334~0~0~2~Sim7
+InfoAct_id_9199~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-335~0~0~2~Sim7
+InfoAct_id_9200~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-336~0~0~2~Sim7
+InfoAct_id_9201~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-337~0~0~2~Sim7
+InfoAct_id_9202~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-338~0~0~2~Sim7
+InfoAct_id_9203~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-339~0~0~2~Sim7
+InfoAct_id_9204~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-340~0~0~2~Sim7
+InfoAct_id_9205~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-341~0~0~2~Sim7
+InfoAct_id_9206~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-332~0~0~2~Sim7
+InfoAct_id_9207~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-333~0~0~2~Sim7
+InfoAct_id_9208~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-334~0~0~2~Sim7
+InfoAct_id_9209~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-335~0~0~2~Sim7
+InfoAct_id_9210~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-336~0~0~2~Sim7
+InfoAct_id_9211~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-337~0~0~2~Sim7
+InfoAct_id_9212~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-338~0~0~2~Sim7
+InfoAct_id_9213~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-339~0~0~2~Sim7
+InfoAct_id_9214~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-340~0~0~2~Sim7
+InfoAct_id_9215~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-341~0~0~2~Sim7
+InfoAct_id_9216~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-332~0~0~2~Sim7
+InfoAct_id_9217~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-333~0~0~2~Sim7
+InfoAct_id_9218~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-334~0~0~2~Sim7
+InfoAct_id_9219~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-335~0~0~2~Sim7
+InfoAct_id_9220~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-336~0~0~2~Sim7
+InfoAct_id_9221~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-337~0~0~2~Sim7
+InfoAct_id_9222~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-338~0~0~2~Sim7
+InfoAct_id_9223~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-339~0~0~2~Sim7
+InfoAct_id_9224~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-340~0~0~2~Sim7
+InfoAct_id_9225~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-341~0~0~2~Sim7
+InfoAct_id_9226~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-332~0~0~2~Sim7
+InfoAct_id_9227~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-333~0~0~2~Sim7
+InfoAct_id_9228~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-334~0~0~2~Sim7
+InfoAct_id_9229~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-335~0~0~2~Sim7
+InfoAct_id_9230~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-336~0~0~2~Sim7
+InfoAct_id_9231~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-337~0~0~2~Sim7
+InfoAct_id_9232~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-338~0~0~2~Sim7
+InfoAct_id_9233~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-339~0~0~2~Sim7
+InfoAct_id_9234~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-340~0~0~2~Sim7
+InfoAct_id_9235~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-341~0~0~2~Sim7
+InfoAct_id_9236~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-332~0~0~2~Sim7
+InfoAct_id_9237~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-333~0~0~2~Sim7
+InfoAct_id_9238~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-334~0~0~2~Sim7
+InfoAct_id_9239~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-335~0~0~2~Sim7
+InfoAct_id_9240~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-336~0~0~2~Sim7
+InfoAct_id_9241~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-337~0~0~2~Sim7
+InfoAct_id_9242~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-338~0~0~2~Sim7
+InfoAct_id_9243~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-339~0~0~2~Sim7
+InfoAct_id_9244~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-340~0~0~2~Sim7
+InfoAct_id_9245~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-341~0~0~2~Sim7
+InfoAct_id_9246~SEND~B-ID-41~B-ID-37~IP-492~0~0~2~Sim7
+InfoAct_id_9247~SEND~B-ID-41~B-ID-37~IP-493~0~0~2~Sim7
+InfoAct_id_9248~SEND~B-ID-41~B-ID-37~IP-494~0~0.1~2~Sim7
+InfoAct_id_9249~SEND~B-ID-41~B-ID-37~IP-495~0~0.1~2~Sim7
+InfoAct_id_9250~SEND~B-ID-41~B-ID-37~IP-496~0~0.1~2~Sim7
+InfoAct_id_9251~SEND~B-ID-41~B-ID-37~IP-497~0~0.1~2~Sim7
+InfoAct_id_9252~SEND~B-ID-41~B-ID-37~IP-498~0~0.1~2~Sim7
+InfoAct_id_9253~SEND~B-ID-41~B-ID-37~IP-499~0~0~2~Sim7
+InfoAct_id_9254~SEND~B-ID-41~B-ID-37~IP-500~0~0~2~Sim7
+InfoAct_id_9255~SEND~B-ID-41~B-ID-37~IP-501~0~0~2~Sim7
+InfoAct_id_9256~SEND~Edita Baniene~Austeja Landsbergiene~IP-492~0~0~2~Sim7
+InfoAct_id_9257~SEND~Edita Baniene~Austeja Landsbergiene~IP-493~0~0~2~Sim7
+InfoAct_id_9258~SEND~Edita Baniene~Austeja Landsbergiene~IP-494~0~0~2~Sim7
+InfoAct_id_9259~SEND~Edita Baniene~Austeja Landsbergiene~IP-495~0~0~2~Sim7
+InfoAct_id_9260~SEND~Edita Baniene~Austeja Landsbergiene~IP-496~0~0~2~Sim7
+InfoAct_id_9261~SEND~Edita Baniene~Austeja Landsbergiene~IP-497~0~0~2~Sim7
+InfoAct_id_9262~SEND~Edita Baniene~Austeja Landsbergiene~IP-498~0~0~2~Sim7
+InfoAct_id_9263~SEND~Edita Baniene~Austeja Landsbergiene~IP-499~0~0~2~Sim7
+InfoAct_id_9264~SEND~Edita Baniene~Austeja Landsbergiene~IP-500~0~0~2~Sim7
+InfoAct_id_9265~SEND~Edita Baniene~Austeja Landsbergiene~IP-501~0~0~2~Sim7
+InfoAct_id_9266~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-492~0~0~2~Sim7
+InfoAct_id_9267~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-493~0~0~2~Sim7
+InfoAct_id_9268~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-494~0~0~2~Sim7
+InfoAct_id_9269~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-495~0~0~2~Sim7
+InfoAct_id_9270~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-496~0~0~2~Sim7
+InfoAct_id_9271~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-497~0~0~2~Sim7
+InfoAct_id_9272~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-498~0~0~2~Sim7
+InfoAct_id_9273~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-499~0~0~2~Sim7
+InfoAct_id_9274~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-500~0~0~2~Sim7
+InfoAct_id_9275~SEND~Edita Baniene~Viktorija Smilyte-Nielsen~IP-501~0~0~2~Sim7
+InfoAct_id_9276~SEND~Edita Baniene~Simonas Gurevicius~IP-492~0~0~2~Sim7
+InfoAct_id_9277~SEND~Edita Baniene~Simonas Gurevicius~IP-493~0~0~2~Sim7
+InfoAct_id_9278~SEND~Edita Baniene~Simonas Gurevicius~IP-494~0~0~2~Sim7
+InfoAct_id_9279~SEND~Edita Baniene~Simonas Gurevicius~IP-495~0~0~2~Sim7
+InfoAct_id_9280~SEND~Edita Baniene~Simonas Gurevicius~IP-496~0~0~2~Sim7
+InfoAct_id_9281~SEND~Edita Baniene~Simonas Gurevicius~IP-497~0~0~2~Sim7
+InfoAct_id_9282~SEND~Edita Baniene~Simonas Gurevicius~IP-498~0~0~2~Sim7
+InfoAct_id_9283~SEND~Edita Baniene~Simonas Gurevicius~IP-499~0~0~2~Sim7
+InfoAct_id_9284~SEND~Edita Baniene~Simonas Gurevicius~IP-500~0~0~2~Sim7
+InfoAct_id_9285~SEND~Edita Baniene~Simonas Gurevicius~IP-501~0~0~2~Sim7
+InfoAct_id_9286~SEND~Edita Baniene~Saulius Andrasi?nas~IP-492~0~0~2~Sim7
+InfoAct_id_9287~SEND~Edita Baniene~Saulius Andrasi?nas~IP-493~0~0~2~Sim7
+InfoAct_id_9288~SEND~Edita Baniene~Saulius Andrasi?nas~IP-494~0~0~2~Sim7
+InfoAct_id_9289~SEND~Edita Baniene~Saulius Andrasi?nas~IP-495~0~0~2~Sim7
+InfoAct_id_9290~SEND~Edita Baniene~Saulius Andrasi?nas~IP-496~0~0~2~Sim7
+InfoAct_id_9291~SEND~Edita Baniene~Saulius Andrasi?nas~IP-497~0~0~2~Sim7
+InfoAct_id_9292~SEND~Edita Baniene~Saulius Andrasi?nas~IP-498~0~0~2~Sim7
+InfoAct_id_9293~SEND~Edita Baniene~Saulius Andrasi?nas~IP-499~0~0~2~Sim7
+InfoAct_id_9294~SEND~Edita Baniene~Saulius Andrasi?nas~IP-500~0~0~2~Sim7
+InfoAct_id_9295~SEND~Edita Baniene~Saulius Andrasi?nas~IP-501~0~0~2~Sim7
+InfoAct_id_9296~SEND~Edita Baniene~Sonata Patkauskait?~IP-492~0~0~2~Sim7
+InfoAct_id_9297~SEND~Edita Baniene~Sonata Patkauskait?~IP-493~0~0~2~Sim7
+InfoAct_id_9298~SEND~Edita Baniene~Sonata Patkauskait?~IP-494~0~0~2~Sim7
+InfoAct_id_9299~SEND~Edita Baniene~Sonata Patkauskait?~IP-495~0~0~2~Sim7
+InfoAct_id_9300~SEND~Edita Baniene~Sonata Patkauskait?~IP-496~0~0~2~Sim7
+InfoAct_id_9301~SEND~Edita Baniene~Sonata Patkauskait?~IP-497~0~0~2~Sim7
+InfoAct_id_9302~SEND~Edita Baniene~Sonata Patkauskait?~IP-498~0~0~2~Sim7
+InfoAct_id_9303~SEND~Edita Baniene~Sonata Patkauskait?~IP-499~0~0~2~Sim7
+InfoAct_id_9304~SEND~Edita Baniene~Sonata Patkauskait?~IP-500~0~0~2~Sim7
+InfoAct_id_9305~SEND~Edita Baniene~Sonata Patkauskait?~IP-501~0~0~2~Sim7
+InfoAct_id_9306~SEND~Edita Baniene~Edvinas Regelskis~IP-492~0~0~2~Sim7
+InfoAct_id_9307~SEND~Edita Baniene~Edvinas Regelskis~IP-493~0~0~2~Sim7
+InfoAct_id_9308~SEND~Edita Baniene~Edvinas Regelskis~IP-494~0~0~2~Sim7
+InfoAct_id_9309~SEND~Edita Baniene~Edvinas Regelskis~IP-495~0~0~2~Sim7
+InfoAct_id_9310~SEND~Edita Baniene~Edvinas Regelskis~IP-496~0~0~2~Sim7
+InfoAct_id_9311~SEND~Edita Baniene~Edvinas Regelskis~IP-497~0~0~2~Sim7
+InfoAct_id_9312~SEND~Edita Baniene~Edvinas Regelskis~IP-498~0~0~2~Sim7
+InfoAct_id_9313~SEND~Edita Baniene~Edvinas Regelskis~IP-499~0~0~2~Sim7
+InfoAct_id_9314~SEND~Edita Baniene~Edvinas Regelskis~IP-500~0~0~2~Sim7
+InfoAct_id_9315~SEND~Edita Baniene~Edvinas Regelskis~IP-501~0~0~2~Sim7
+InfoAct_id_9316~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-492~0~0~2~Sim7
+InfoAct_id_9317~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-493~0~0~2~Sim7
+InfoAct_id_9318~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-494~0~0~2~Sim7
+InfoAct_id_9319~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-495~0~0~2~Sim7
+InfoAct_id_9320~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-496~0~0~2~Sim7
+InfoAct_id_9321~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-497~0~0~2~Sim7
+InfoAct_id_9322~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-498~0~0~2~Sim7
+InfoAct_id_9323~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-499~0~0~2~Sim7
+InfoAct_id_9324~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-500~0~0~2~Sim7
+InfoAct_id_9325~SEND~Edita Baniene~Gintare Guzevi?i?t?~IP-501~0~0~2~Sim7
+InfoAct_id_9326~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-492~0~0~2~Sim7
+InfoAct_id_9327~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-493~0~0~2~Sim7
+InfoAct_id_9328~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-494~0~0~2~Sim7
+InfoAct_id_9329~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-495~0~0~2~Sim7
+InfoAct_id_9330~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-496~0~0~2~Sim7
+InfoAct_id_9331~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-497~0~0~2~Sim7
+InfoAct_id_9332~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-498~0~0~2~Sim7
+InfoAct_id_9333~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-499~0~0~2~Sim7
+InfoAct_id_9334~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-500~0~0~2~Sim7
+InfoAct_id_9335~SEND~Gabrielius Landsbergis~Austeja Landsbergiene~IP-501~0~0~2~Sim7
+InfoAct_id_9336~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-492~0~0~2~Sim7
+InfoAct_id_9337~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-493~0~0~2~Sim7
+InfoAct_id_9338~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-494~0~0~2~Sim7
+InfoAct_id_9339~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-495~0~0~2~Sim7
+InfoAct_id_9340~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-496~0~0~2~Sim7
+InfoAct_id_9341~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-497~0~0~2~Sim7
+InfoAct_id_9342~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-498~0~0~2~Sim7
+InfoAct_id_9343~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-499~0~0~2~Sim7
+InfoAct_id_9344~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-500~0~0~2~Sim7
+InfoAct_id_9345~SEND~Gabrielius Landsbergis~Viktorija Smilyte-Nielsen~IP-501~0~0~2~Sim7
+InfoAct_id_9346~SEND~Egle Juzu~Paulius Keras~IP-492~0~0~2~Sim7
+InfoAct_id_9347~SEND~Egle Juzu~Paulius Keras~IP-493~0~0~2~Sim7
+InfoAct_id_9348~SEND~Egle Juzu~Paulius Keras~IP-494~0~0~2~Sim7
+InfoAct_id_9349~SEND~Egle Juzu~Paulius Keras~IP-495~0~0~2~Sim7
+InfoAct_id_9350~SEND~Egle Juzu~Paulius Keras~IP-496~0~0~2~Sim7
+InfoAct_id_9351~SEND~Egle Juzu~Paulius Keras~IP-497~0~0~2~Sim7
+InfoAct_id_9352~SEND~Egle Juzu~Paulius Keras~IP-498~0~0~2~Sim7
+InfoAct_id_9353~SEND~Egle Juzu~Paulius Keras~IP-499~0~0~2~Sim7
+InfoAct_id_9354~SEND~Egle Juzu~Paulius Keras~IP-500~0~0~2~Sim7
+InfoAct_id_9355~SEND~Egle Juzu~Paulius Keras~IP-501~0~0~2~Sim7
+InfoAct_id_9356~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-472~0~0~2~Sim7
+InfoAct_id_9357~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-473~0~0~2~Sim7
+InfoAct_id_9358~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-474~0~0~2~Sim7
+InfoAct_id_9359~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-475~0~0~2~Sim7
+InfoAct_id_9360~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-476~0~0~2~Sim7
+InfoAct_id_9361~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-477~0~0.1~2~Sim7
+InfoAct_id_9362~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-478~0~0.1~2~Sim7
+InfoAct_id_9363~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-479~0~0~2~Sim7
+InfoAct_id_9364~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-480~0~0~2~Sim7
+InfoAct_id_9365~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-481~0~0~2~Sim7
+InfoAct_id_9366~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-102~0~0~2~Sim7
+InfoAct_id_9367~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-103~0~0~2~Sim7
+InfoAct_id_9368~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-104~0~0~2~Sim7
+InfoAct_id_9369~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-105~0~0~2~Sim7
+InfoAct_id_9370~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-106~0~0~2~Sim7
+InfoAct_id_9371~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-107~0~0.1~2~Sim7
+InfoAct_id_9372~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-108~0~0.1~2~Sim7
+InfoAct_id_9373~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-109~0~0~2~Sim7
+InfoAct_id_9374~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-110~0~0~2~Sim7
+InfoAct_id_9375~SEND~LTC Lapin Denis Alexandrovich~GEN Nikolai Yegorovich Makarov~IP-111~0~0~2~Sim7
+InfoAct_id_9376~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-472~0~0~2~Sim7
+InfoAct_id_9377~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-473~0~0~2~Sim7
+InfoAct_id_9378~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-474~0~0~2~Sim7
+InfoAct_id_9379~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-475~0~0~2~Sim7
+InfoAct_id_9380~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-476~0~0~2~Sim7
+InfoAct_id_9381~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-477~0~0~2~Sim7
+InfoAct_id_9382~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-478~0~0~2~Sim7
+InfoAct_id_9383~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-479~0~0~2~Sim7
+InfoAct_id_9384~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-480~0~0~2~Sim7
+InfoAct_id_9385~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-481~0~0~2~Sim7
+InfoAct_id_9386~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-102~0~0~2~Sim7
+InfoAct_id_9387~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-103~0~0~2~Sim7
+InfoAct_id_9388~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-104~0~0~2~Sim7
+InfoAct_id_9389~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-105~0~0~2~Sim7
+InfoAct_id_9390~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-106~0~0~2~Sim7
+InfoAct_id_9391~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-107~0~0~2~Sim7
+InfoAct_id_9392~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-108~0~0~2~Sim7
+InfoAct_id_9393~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-109~0~0~2~Sim7
+InfoAct_id_9394~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-110~0~0~2~Sim7
+InfoAct_id_9395~SEND~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~IP-111~0~0~2~Sim7
+InfoAct_id_9396~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-472~0~0~2~Sim7
+InfoAct_id_9397~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-473~0~0~2~Sim7
+InfoAct_id_9398~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-474~0~0~2~Sim7
+InfoAct_id_9399~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-475~0~0~2~Sim7
+InfoAct_id_9400~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-476~0~0~2~Sim7
+InfoAct_id_9401~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-477~0~0~2~Sim7
+InfoAct_id_9402~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-478~0~0~2~Sim7
+InfoAct_id_9403~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-479~0~0~2~Sim7
+InfoAct_id_9404~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-480~0~0~2~Sim7
+InfoAct_id_9405~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-481~0~0~2~Sim7
+InfoAct_id_9406~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-102~0~0~2~Sim7
+InfoAct_id_9407~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-103~0~0~2~Sim7
+InfoAct_id_9408~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-104~0~0~2~Sim7
+InfoAct_id_9409~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-105~0~0~2~Sim7
+InfoAct_id_9410~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-106~0~0~2~Sim7
+InfoAct_id_9411~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-107~0~0~2~Sim7
+InfoAct_id_9412~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-108~0~0~2~Sim7
+InfoAct_id_9413~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-109~0~0~2~Sim7
+InfoAct_id_9414~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-110~0~0~2~Sim7
+InfoAct_id_9415~SEND~LTC Lapin Denis Alexandrovich~GEN Vladimir Sergeyevich Mikhaylov~IP-111~0~0~2~Sim7
+InfoAct_id_9416~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-472~0~0~2~Sim7
+InfoAct_id_9417~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-473~0~0~2~Sim7
+InfoAct_id_9418~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-474~0~0~2~Sim7
+InfoAct_id_9419~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-475~0~0~2~Sim7
+InfoAct_id_9420~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-476~0~0~2~Sim7
+InfoAct_id_9421~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-477~0~0~2~Sim7
+InfoAct_id_9422~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-478~0~0~2~Sim7
+InfoAct_id_9423~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-479~0~0~2~Sim7
+InfoAct_id_9424~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-480~0~0~2~Sim7
+InfoAct_id_9425~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-481~0~0~2~Sim7
+InfoAct_id_9426~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-102~0~0~2~Sim7
+InfoAct_id_9427~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-103~0~0~2~Sim7
+InfoAct_id_9428~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-104~0~0~2~Sim7
+InfoAct_id_9429~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-105~0~0~2~Sim7
+InfoAct_id_9430~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-106~0~0~2~Sim7
+InfoAct_id_9431~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-107~0~0~2~Sim7
+InfoAct_id_9432~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-108~0~0~2~Sim7
+InfoAct_id_9433~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-109~0~0~2~Sim7
+InfoAct_id_9434~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-110~0~0~2~Sim7
+InfoAct_id_9435~SEND~LTC Lapin Denis Alexandrovich~GEN Alexey Fydorovich Maslov~IP-111~0~0~2~Sim7
+InfoAct_id_9436~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-472~0~0~2~Sim7
+InfoAct_id_9437~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-473~0~0~2~Sim7
+InfoAct_id_9438~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-474~0~0~2~Sim7
+InfoAct_id_9439~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-475~0~0~2~Sim7
+InfoAct_id_9440~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-476~0~0~2~Sim7
+InfoAct_id_9441~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-477~0~0~2~Sim7
+InfoAct_id_9442~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-478~0~0~2~Sim7
+InfoAct_id_9443~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-479~0~0~2~Sim7
+InfoAct_id_9444~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-480~0~0~2~Sim7
+InfoAct_id_9445~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-481~0~0~2~Sim7
+InfoAct_id_9446~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-102~0~0~2~Sim7
+InfoAct_id_9447~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-103~0~0~2~Sim7
+InfoAct_id_9448~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-104~0~0~2~Sim7
+InfoAct_id_9449~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-105~0~0~2~Sim7
+InfoAct_id_9450~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-106~0~0~2~Sim7
+InfoAct_id_9451~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-107~0~0~2~Sim7
+InfoAct_id_9452~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-108~0~0~2~Sim7
+InfoAct_id_9453~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-109~0~0~2~Sim7
+InfoAct_id_9454~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-110~0~0~2~Sim7
+InfoAct_id_9455~SEND~LTC Lapin Denis Alexandrovich~LTG Viktor Nikolaevich Samsonov~IP-111~0~0~2~Sim7
+InfoAct_id_9456~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-472~0~0~2~Sim7
+InfoAct_id_9457~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-473~0~0~2~Sim7
+InfoAct_id_9458~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-474~0~0~2~Sim7
+InfoAct_id_9459~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-475~0~0~2~Sim7
+InfoAct_id_9460~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-476~0~0~2~Sim7
+InfoAct_id_9461~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-477~0~0~2~Sim7
+InfoAct_id_9462~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-478~0~0~2~Sim7
+InfoAct_id_9463~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-479~0~0~2~Sim7
+InfoAct_id_9464~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-480~0~0~2~Sim7
+InfoAct_id_9465~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-481~0~0~2~Sim7
+InfoAct_id_9466~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-102~0~0~2~Sim7
+InfoAct_id_9467~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-103~0~0~2~Sim7
+InfoAct_id_9468~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-104~0~0~2~Sim7
+InfoAct_id_9469~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-105~0~0~2~Sim7
+InfoAct_id_9470~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-106~0~0~2~Sim7
+InfoAct_id_9471~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-107~0~0~2~Sim7
+InfoAct_id_9472~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-108~0~0~2~Sim7
+InfoAct_id_9473~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-109~0~0~2~Sim7
+InfoAct_id_9474~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-110~0~0~2~Sim7
+InfoAct_id_9475~SEND~LTC Lapin Denis Alexandrovich~Sergey Kuzhugetovich Shoygu~IP-111~0~0~2~Sim7
+InfoAct_id_9476~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-472~0~0~2~Sim7
+InfoAct_id_9477~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-473~0~0~2~Sim7
+InfoAct_id_9478~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-474~0~0~2~Sim7
+InfoAct_id_9479~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-475~0~0~2~Sim7
+InfoAct_id_9480~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-476~0~0~2~Sim7
+InfoAct_id_9481~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-477~0~0~2~Sim7
+InfoAct_id_9482~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-478~0~0~2~Sim7
+InfoAct_id_9483~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-479~0~0~2~Sim7
+InfoAct_id_9484~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-480~0~0~2~Sim7
+InfoAct_id_9485~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-481~0~0~2~Sim7
+InfoAct_id_9486~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-102~0~0~2~Sim7
+InfoAct_id_9487~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-103~0~0~2~Sim7
+InfoAct_id_9488~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-104~0~0~2~Sim7
+InfoAct_id_9489~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-105~0~0~2~Sim7
+InfoAct_id_9490~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-106~0~0~2~Sim7
+InfoAct_id_9491~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-107~0~0~2~Sim7
+InfoAct_id_9492~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-108~0~0~2~Sim7
+InfoAct_id_9493~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-109~0~0~2~Sim7
+InfoAct_id_9494~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-110~0~0~2~Sim7
+InfoAct_id_9495~SEND~LTC Lapin Denis Alexandrovich~MG Ruslan Khazhismelovich Tsalikov~IP-111~0~0~2~Sim7
+InfoAct_id_9496~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-472~0~0~2~Sim7
+InfoAct_id_9497~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-473~0~0~2~Sim7
+InfoAct_id_9498~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-474~0~0~2~Sim7
+InfoAct_id_9499~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-475~0~0~2~Sim7
+InfoAct_id_9500~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-476~0~0~2~Sim7
+InfoAct_id_9501~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-477~0~0~2~Sim7
+InfoAct_id_9502~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-478~0~0~2~Sim7
+InfoAct_id_9503~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-479~0~0~2~Sim7
+InfoAct_id_9504~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-480~0~0~2~Sim7
+InfoAct_id_9505~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-481~0~0~2~Sim7
+InfoAct_id_9506~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-102~0~0~2~Sim7
+InfoAct_id_9507~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-103~0~0~2~Sim7
+InfoAct_id_9508~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-104~0~0~2~Sim7
+InfoAct_id_9509~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-105~0~0~2~Sim7
+InfoAct_id_9510~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-106~0~0~2~Sim7
+InfoAct_id_9511~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-107~0~0~2~Sim7
+InfoAct_id_9512~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-108~0~0~2~Sim7
+InfoAct_id_9513~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-109~0~0~2~Sim7
+InfoAct_id_9514~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-110~0~0~2~Sim7
+InfoAct_id_9515~SEND~LTC Lapin Denis Alexandrovich~MAJ Ganushevich Artem Romanovich~IP-111~0~0~2~Sim7
+InfoAct_id_9516~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-472~0~0~2~Sim7
+InfoAct_id_9517~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-473~0~0~2~Sim7
+InfoAct_id_9518~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-474~0~0~2~Sim7
+InfoAct_id_9519~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-475~0~0~2~Sim7
+InfoAct_id_9520~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-476~0~0~2~Sim7
+InfoAct_id_9521~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-477~0~0~2~Sim7
+InfoAct_id_9522~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-478~0~0~2~Sim7
+InfoAct_id_9523~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-479~0~0~2~Sim7
+InfoAct_id_9524~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-480~0~0~2~Sim7
+InfoAct_id_9525~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-481~0~0~2~Sim7
+InfoAct_id_9526~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-102~0~0~2~Sim7
+InfoAct_id_9527~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-103~0~0~2~Sim7
+InfoAct_id_9528~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-104~0~0~2~Sim7
+InfoAct_id_9529~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-105~0~0~2~Sim7
+InfoAct_id_9530~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-106~0~0~2~Sim7
+InfoAct_id_9531~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-107~0~0~2~Sim7
+InfoAct_id_9532~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-108~0~0~2~Sim7
+InfoAct_id_9533~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-109~0~0~2~Sim7
+InfoAct_id_9534~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-110~0~0~2~Sim7
+InfoAct_id_9535~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Alexander Zhuravlyov~IP-111~0~0~2~Sim7
+InfoAct_id_9536~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-472~0~0~2~Sim7
+InfoAct_id_9537~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-473~0~0~2~Sim7
+InfoAct_id_9538~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-474~0~0~2~Sim7
+InfoAct_id_9539~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-475~0~0~2~Sim7
+InfoAct_id_9540~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-476~0~0~2~Sim7
+InfoAct_id_9541~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-477~0~0~2~Sim7
+InfoAct_id_9542~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-478~0~0~2~Sim7
+InfoAct_id_9543~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-479~0~0~2~Sim7
+InfoAct_id_9544~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-480~0~0~2~Sim7
+InfoAct_id_9545~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-481~0~0~2~Sim7
+InfoAct_id_9546~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-102~0~0~2~Sim7
+InfoAct_id_9547~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-103~0~0~2~Sim7
+InfoAct_id_9548~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-104~0~0~2~Sim7
+InfoAct_id_9549~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-105~0~0~2~Sim7
+InfoAct_id_9550~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-106~0~0~2~Sim7
+InfoAct_id_9551~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-107~0~0~2~Sim7
+InfoAct_id_9552~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-108~0~0~2~Sim7
+InfoAct_id_9553~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-109~0~0~2~Sim7
+InfoAct_id_9554~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-110~0~0~2~Sim7
+InfoAct_id_9555~SEND~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~IP-111~0~0~2~Sim7
+InfoAct_id_9556~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-472~0~0~2~Sim7
+InfoAct_id_9557~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-473~0~0~2~Sim7
+InfoAct_id_9558~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-474~0~0~2~Sim7
+InfoAct_id_9559~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-475~0~0~2~Sim7
+InfoAct_id_9560~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-476~0~0~2~Sim7
+InfoAct_id_9561~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-477~0~0~2~Sim7
+InfoAct_id_9562~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-478~0~0~2~Sim7
+InfoAct_id_9563~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-479~0~0~2~Sim7
+InfoAct_id_9564~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-480~0~0~2~Sim7
+InfoAct_id_9565~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-481~0~0~2~Sim7
+InfoAct_id_9566~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-102~0~0~2~Sim7
+InfoAct_id_9567~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-103~0~0~2~Sim7
+InfoAct_id_9568~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-104~0~0~2~Sim7
+InfoAct_id_9569~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-105~0~0~2~Sim7
+InfoAct_id_9570~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-106~0~0~2~Sim7
+InfoAct_id_9571~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-107~0~0~2~Sim7
+InfoAct_id_9572~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-108~0~0~2~Sim7
+InfoAct_id_9573~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-109~0~0~2~Sim7
+InfoAct_id_9574~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-110~0~0~2~Sim7
+InfoAct_id_9575~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~IP-111~0~0~2~Sim7
+InfoAct_id_9576~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-472~0~0~2~Sim7
+InfoAct_id_9577~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-473~0~0~2~Sim7
+InfoAct_id_9578~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-474~0~0~2~Sim7
+InfoAct_id_9579~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-475~0~0~2~Sim7
+InfoAct_id_9580~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-476~0~0~2~Sim7
+InfoAct_id_9581~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-477~0~0~2~Sim7
+InfoAct_id_9582~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-478~0~0~2~Sim7
+InfoAct_id_9583~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-479~0~0~2~Sim7
+InfoAct_id_9584~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-480~0~0~2~Sim7
+InfoAct_id_9585~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-481~0~0~2~Sim7
+InfoAct_id_9586~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-102~0~0~2~Sim7
+InfoAct_id_9587~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-103~0~0~2~Sim7
+InfoAct_id_9588~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-104~0~0~2~Sim7
+InfoAct_id_9589~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-105~0~0~2~Sim7
+InfoAct_id_9590~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-106~0~0~2~Sim7
+InfoAct_id_9591~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-107~0~0~2~Sim7
+InfoAct_id_9592~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-108~0~0~2~Sim7
+InfoAct_id_9593~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-109~0~0~2~Sim7
+InfoAct_id_9594~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-110~0~0~2~Sim7
+InfoAct_id_9595~SEND~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-111~0~0~2~Sim7
+InfoAct_id_9596~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-492~0~0~2~Sim7
+InfoAct_id_9597~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-493~0~0~2~Sim7
+InfoAct_id_9598~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-494~0~0~2~Sim7
+InfoAct_id_9599~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-495~0~0~2~Sim7
+InfoAct_id_9600~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-496~0~0~2~Sim7
+InfoAct_id_9601~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-497~0~0~2~Sim7
+InfoAct_id_9602~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-498~0~0~2~Sim7
+InfoAct_id_9603~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-499~0~0~2~Sim7
+InfoAct_id_9604~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-500~0~0~2~Sim7
+InfoAct_id_9605~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-501~0~0~2~Sim7
+InfoAct_id_9606~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-262~0~0~2~Sim7
+InfoAct_id_9607~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-263~0~0~2~Sim7
+InfoAct_id_9608~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-264~0~0~2~Sim7
+InfoAct_id_9609~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-265~0~0~2~Sim7
+InfoAct_id_9610~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-266~0~0~2~Sim7
+InfoAct_id_9611~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-267~0~0~2~Sim7
+InfoAct_id_9612~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-268~0~0~2~Sim7
+InfoAct_id_9613~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-269~0~0~2~Sim7
+InfoAct_id_9614~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-270~0~0~2~Sim7
+InfoAct_id_9615~SEND~Simonas Gurevicius~Austeja Landsbergiene~IP-271~0~0~2~Sim7
+InfoAct_id_9616~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-492~0~0~2~Sim7
+InfoAct_id_9617~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-493~0~0~2~Sim7
+InfoAct_id_9618~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-494~0~0~2~Sim7
+InfoAct_id_9619~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-495~0~0~2~Sim7
+InfoAct_id_9620~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-496~0~0~2~Sim7
+InfoAct_id_9621~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-497~0~0~2~Sim7
+InfoAct_id_9622~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-498~0~0~2~Sim7
+InfoAct_id_9623~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-499~0~0~2~Sim7
+InfoAct_id_9624~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-500~0~0~2~Sim7
+InfoAct_id_9625~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-501~0~0~2~Sim7
+InfoAct_id_9626~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-262~0~0~2~Sim7
+InfoAct_id_9627~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-263~0~0~2~Sim7
+InfoAct_id_9628~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-264~0~0~2~Sim7
+InfoAct_id_9629~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-265~0~0~2~Sim7
+InfoAct_id_9630~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-266~0~0~2~Sim7
+InfoAct_id_9631~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-267~0~0~2~Sim7
+InfoAct_id_9632~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-268~0~0~2~Sim7
+InfoAct_id_9633~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-269~0~0~2~Sim7
+InfoAct_id_9634~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-270~0~0~2~Sim7
+InfoAct_id_9635~SEND~Simonas Gurevicius~Viktorija Smilyte-Nielsen~IP-271~0~0~2~Sim7
+InfoAct_id_9636~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-492~0~0~2~Sim7
+InfoAct_id_9637~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-493~0~0~2~Sim7
+InfoAct_id_9638~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-494~0~0~2~Sim7
+InfoAct_id_9639~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-495~0~0~2~Sim7
+InfoAct_id_9640~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-496~0~0~2~Sim7
+InfoAct_id_9641~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-497~0~0~2~Sim7
+InfoAct_id_9642~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-498~0~0~2~Sim7
+InfoAct_id_9643~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-499~0~0~2~Sim7
+InfoAct_id_9644~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-500~0~0~2~Sim7
+InfoAct_id_9645~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-501~0~0~2~Sim7
+InfoAct_id_9646~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-262~0~0~2~Sim7
+InfoAct_id_9647~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-263~0~0~2~Sim7
+InfoAct_id_9648~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-264~0~0~2~Sim7
+InfoAct_id_9649~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-265~0~0~2~Sim7
+InfoAct_id_9650~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-266~0~0~2~Sim7
+InfoAct_id_9651~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-267~0~0~2~Sim7
+InfoAct_id_9652~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-268~0~0~2~Sim7
+InfoAct_id_9653~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-269~0~0~2~Sim7
+InfoAct_id_9654~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-270~0~0~2~Sim7
+InfoAct_id_9655~SEND~Simonas Gurevicius~Saulius Andrasi?nas~IP-271~0~0~2~Sim7
+InfoAct_id_9656~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-492~0~0~2~Sim7
+InfoAct_id_9657~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-493~0~0~2~Sim7
+InfoAct_id_9658~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-494~0~0~2~Sim7
+InfoAct_id_9659~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-495~0~0~2~Sim7
+InfoAct_id_9660~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-496~0~0~2~Sim7
+InfoAct_id_9661~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-497~0~0~2~Sim7
+InfoAct_id_9662~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-498~0~0~2~Sim7
+InfoAct_id_9663~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-499~0~0~2~Sim7
+InfoAct_id_9664~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-500~0~0~2~Sim7
+InfoAct_id_9665~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-501~0~0~2~Sim7
+InfoAct_id_9666~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-262~0~0~2~Sim7
+InfoAct_id_9667~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-263~0~0~2~Sim7
+InfoAct_id_9668~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-264~0~0~2~Sim7
+InfoAct_id_9669~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-265~0~0~2~Sim7
+InfoAct_id_9670~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-266~0~0~2~Sim7
+InfoAct_id_9671~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-267~0~0~2~Sim7
+InfoAct_id_9672~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-268~0~0~2~Sim7
+InfoAct_id_9673~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-269~0~0~2~Sim7
+InfoAct_id_9674~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-270~0~0~2~Sim7
+InfoAct_id_9675~SEND~Simonas Gurevicius~Sonata Patkauskait?~IP-271~0~0~2~Sim7
+InfoAct_id_9676~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-492~0~0~2~Sim7
+InfoAct_id_9677~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-493~0~0~2~Sim7
+InfoAct_id_9678~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-494~0~0~2~Sim7
+InfoAct_id_9679~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-495~0~0~2~Sim7
+InfoAct_id_9680~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-496~0~0~2~Sim7
+InfoAct_id_9681~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-497~0~0~2~Sim7
+InfoAct_id_9682~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-498~0~0~2~Sim7
+InfoAct_id_9683~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-499~0~0~2~Sim7
+InfoAct_id_9684~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-500~0~0~2~Sim7
+InfoAct_id_9685~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-501~0~0~2~Sim7
+InfoAct_id_9686~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-262~0~0~2~Sim7
+InfoAct_id_9687~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-263~0~0~2~Sim7
+InfoAct_id_9688~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-264~0~0~2~Sim7
+InfoAct_id_9689~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-265~0~0~2~Sim7
+InfoAct_id_9690~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-266~0~0~2~Sim7
+InfoAct_id_9691~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-267~0~0~2~Sim7
+InfoAct_id_9692~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-268~0~0~2~Sim7
+InfoAct_id_9693~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-269~0~0~2~Sim7
+InfoAct_id_9694~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-270~0~0~2~Sim7
+InfoAct_id_9695~SEND~Simonas Gurevicius~Edvinas Regelskis~IP-271~0~0~2~Sim7
+InfoAct_id_9696~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-492~0~0~2~Sim7
+InfoAct_id_9697~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-493~0~0~2~Sim7
+InfoAct_id_9698~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-494~0~0~2~Sim7
+InfoAct_id_9699~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-495~0~0~2~Sim7
+InfoAct_id_9700~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-496~0~0~2~Sim7
+InfoAct_id_9701~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-497~0~0~2~Sim7
+InfoAct_id_9702~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-498~0~0~2~Sim7
+InfoAct_id_9703~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-499~0~0~2~Sim7
+InfoAct_id_9704~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-500~0~0~2~Sim7
+InfoAct_id_9705~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-501~0~0~2~Sim7
+InfoAct_id_9706~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-262~0~0~2~Sim7
+InfoAct_id_9707~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-263~0~0~2~Sim7
+InfoAct_id_9708~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-264~0~0~2~Sim7
+InfoAct_id_9709~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-265~0~0~2~Sim7
+InfoAct_id_9710~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-266~0~0~2~Sim7
+InfoAct_id_9711~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-267~0~0~2~Sim7
+InfoAct_id_9712~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-268~0~0~2~Sim7
+InfoAct_id_9713~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-269~0~0~2~Sim7
+InfoAct_id_9714~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-270~0~0~2~Sim7
+InfoAct_id_9715~SEND~Simonas Gurevicius~Gintare Guzevi?i?t?~IP-271~0~0~2~Sim7
+InfoAct_id_9716~SEND~Simonas Gurevicius~Edita Baniene~IP-492~0~0~2~Sim7
+InfoAct_id_9717~SEND~Simonas Gurevicius~Edita Baniene~IP-493~0~0~2~Sim7
+InfoAct_id_9718~SEND~Simonas Gurevicius~Edita Baniene~IP-494~0~0~2~Sim7
+InfoAct_id_9719~SEND~Simonas Gurevicius~Edita Baniene~IP-495~0~0~2~Sim7
+InfoAct_id_9720~SEND~Simonas Gurevicius~Edita Baniene~IP-496~0~0~2~Sim7
+InfoAct_id_9721~SEND~Simonas Gurevicius~Edita Baniene~IP-497~0~0~2~Sim7
+InfoAct_id_9722~SEND~Simonas Gurevicius~Edita Baniene~IP-498~0~0~2~Sim7
+InfoAct_id_9723~SEND~Simonas Gurevicius~Edita Baniene~IP-499~0~0~2~Sim7
+InfoAct_id_9724~SEND~Simonas Gurevicius~Edita Baniene~IP-500~0~0~2~Sim7
+InfoAct_id_9725~SEND~Simonas Gurevicius~Edita Baniene~IP-501~0~0~2~Sim7
+InfoAct_id_9726~SEND~Simonas Gurevicius~Edita Baniene~IP-262~0~0~2~Sim7
+InfoAct_id_9727~SEND~Simonas Gurevicius~Edita Baniene~IP-263~0~0~2~Sim7
+InfoAct_id_9728~SEND~Simonas Gurevicius~Edita Baniene~IP-264~0~0~2~Sim7
+InfoAct_id_9729~SEND~Simonas Gurevicius~Edita Baniene~IP-265~0~0~2~Sim7
+InfoAct_id_9730~SEND~Simonas Gurevicius~Edita Baniene~IP-266~0~0~2~Sim7
+InfoAct_id_9731~SEND~Simonas Gurevicius~Edita Baniene~IP-267~0~0~2~Sim7
+InfoAct_id_9732~SEND~Simonas Gurevicius~Edita Baniene~IP-268~0~0~2~Sim7
+InfoAct_id_9733~SEND~Simonas Gurevicius~Edita Baniene~IP-269~0~0~2~Sim7
+InfoAct_id_9734~SEND~Simonas Gurevicius~Edita Baniene~IP-270~0~0~2~Sim7
+InfoAct_id_9735~SEND~Simonas Gurevicius~Edita Baniene~IP-271~0~0~2~Sim7
+InfoAct_id_9736~SEND~B-ID-37~B-ID-41~IP-472~0~0~2~Sim7
+InfoAct_id_9737~SEND~B-ID-37~B-ID-41~IP-473~0~0~2~Sim7
+InfoAct_id_9738~SEND~B-ID-37~B-ID-41~IP-474~0~0~2~Sim7
+InfoAct_id_9739~SEND~B-ID-37~B-ID-41~IP-475~0~0~2~Sim7
+InfoAct_id_9740~SEND~B-ID-37~B-ID-41~IP-476~0~0~2~Sim7
+InfoAct_id_9741~SEND~B-ID-37~B-ID-41~IP-477~0~0~2~Sim7
+InfoAct_id_9742~SEND~B-ID-37~B-ID-41~IP-478~0~0~2~Sim7
+InfoAct_id_9743~SEND~B-ID-37~B-ID-41~IP-479~0~0~2~Sim7
+InfoAct_id_9744~SEND~B-ID-37~B-ID-41~IP-480~0~0~2~Sim7
+InfoAct_id_9745~SEND~B-ID-37~B-ID-41~IP-481~0~0~2~Sim7
+InfoAct_id_9746~SEND~B-ID-37~B-ID-41~IP-102~0~0~2~Sim7
+InfoAct_id_9747~SEND~B-ID-37~B-ID-41~IP-103~0~0~2~Sim7
+InfoAct_id_9748~SEND~B-ID-37~B-ID-41~IP-104~0~0~2~Sim7
+InfoAct_id_9749~SEND~B-ID-37~B-ID-41~IP-105~0~0~2~Sim7
+InfoAct_id_9750~SEND~B-ID-37~B-ID-41~IP-106~0~0~2~Sim7
+InfoAct_id_9751~SEND~B-ID-37~B-ID-41~IP-107~0~0~2~Sim7
+InfoAct_id_9752~SEND~B-ID-37~B-ID-41~IP-108~0~0~2~Sim7
+InfoAct_id_9753~SEND~B-ID-37~B-ID-41~IP-109~0~0~2~Sim7
+InfoAct_id_9754~SEND~B-ID-37~B-ID-41~IP-110~0~0~2~Sim7
+InfoAct_id_9755~SEND~B-ID-37~B-ID-41~IP-111~0~0~2~Sim7
+InfoAct_id_9756~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-472~0~0~2~Sim7
+InfoAct_id_9757~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-473~0~0~2~Sim7
+InfoAct_id_9758~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-474~0~0~2~Sim7
+InfoAct_id_9759~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-475~0~0~2~Sim7
+InfoAct_id_9760~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-476~0~0~2~Sim7
+InfoAct_id_9761~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-477~0~0~2~Sim7
+InfoAct_id_9762~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-478~0~0~2~Sim7
+InfoAct_id_9763~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-479~0~0~2~Sim7
+InfoAct_id_9764~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-480~0~0~2~Sim7
+InfoAct_id_9765~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-481~0~0~2~Sim7
+InfoAct_id_9766~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-102~0~0~2~Sim7
+InfoAct_id_9767~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-103~0~0~2~Sim7
+InfoAct_id_9768~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-104~0~0~2~Sim7
+InfoAct_id_9769~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-105~0~0~2~Sim7
+InfoAct_id_9770~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-106~0~0~2~Sim7
+InfoAct_id_9771~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-107~0~0~2~Sim7
+InfoAct_id_9772~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-108~0~0~2~Sim7
+InfoAct_id_9773~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-109~0~0~2~Sim7
+InfoAct_id_9774~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-110~0~0~2~Sim7
+InfoAct_id_9775~SEND~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~IP-111~0~0~2~Sim7
+InfoAct_id_9776~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-472~0~0~2~Sim7
+InfoAct_id_9777~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-473~0~0~2~Sim7
+InfoAct_id_9778~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-474~0~0~2~Sim7
+InfoAct_id_9779~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-475~0~0~2~Sim7
+InfoAct_id_9780~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-476~0~0~2~Sim7
+InfoAct_id_9781~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-477~0~0~2~Sim7
+InfoAct_id_9782~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-478~0~0~2~Sim7
+InfoAct_id_9783~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-479~0~0~2~Sim7
+InfoAct_id_9784~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-480~0~0~2~Sim7
+InfoAct_id_9785~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-481~0~0~2~Sim7
+InfoAct_id_9786~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-102~0~0~2~Sim7
+InfoAct_id_9787~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-103~0~0~2~Sim7
+InfoAct_id_9788~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-104~0~0~2~Sim7
+InfoAct_id_9789~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-105~0~0~2~Sim7
+InfoAct_id_9790~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-106~0~0~2~Sim7
+InfoAct_id_9791~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-107~0~0~2~Sim7
+InfoAct_id_9792~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-108~0~0~2~Sim7
+InfoAct_id_9793~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-109~0~0~2~Sim7
+InfoAct_id_9794~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-110~0~0~2~Sim7
+InfoAct_id_9795~SEND~COL-GEN Victor Borisovich Astapov~GEN Nikolai Yegorovich Makarov~IP-111~0~0~2~Sim7
+InfoAct_id_9796~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-472~0~0~2~Sim7
+InfoAct_id_9797~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-473~0~0~2~Sim7
+InfoAct_id_9798~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-474~0~0~2~Sim7
+InfoAct_id_9799~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-475~0~0~2~Sim7
+InfoAct_id_9800~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-476~0~0~2~Sim7
+InfoAct_id_9801~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-477~0~0~2~Sim7
+InfoAct_id_9802~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-478~0~0~2~Sim7
+InfoAct_id_9803~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-479~0~0~2~Sim7
+InfoAct_id_9804~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-480~0~0~2~Sim7
+InfoAct_id_9805~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-481~0~0~2~Sim7
+InfoAct_id_9806~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-102~0~0~2~Sim7
+InfoAct_id_9807~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-103~0~0~2~Sim7
+InfoAct_id_9808~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-104~0~0~2~Sim7
+InfoAct_id_9809~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-105~0~0~2~Sim7
+InfoAct_id_9810~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-106~0~0~2~Sim7
+InfoAct_id_9811~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-107~0~0~2~Sim7
+InfoAct_id_9812~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-108~0~0~2~Sim7
+InfoAct_id_9813~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-109~0~0~2~Sim7
+InfoAct_id_9814~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-110~0~0~2~Sim7
+InfoAct_id_9815~SEND~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~IP-111~0~0~2~Sim7
+InfoAct_id_9816~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-472~0~0~2~Sim7
+InfoAct_id_9817~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-473~0~0~2~Sim7
+InfoAct_id_9818~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-474~0~0~2~Sim7
+InfoAct_id_9819~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-475~0~0~2~Sim7
+InfoAct_id_9820~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-476~0~0~2~Sim7
+InfoAct_id_9821~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-477~0~0~2~Sim7
+InfoAct_id_9822~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-478~0~0~2~Sim7
+InfoAct_id_9823~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-479~0~0~2~Sim7
+InfoAct_id_9824~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-480~0~0~2~Sim7
+InfoAct_id_9825~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-481~0~0~2~Sim7
+InfoAct_id_9826~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-102~0~0~2~Sim7
+InfoAct_id_9827~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-103~0~0~2~Sim7
+InfoAct_id_9828~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-104~0~0~2~Sim7
+InfoAct_id_9829~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-105~0~0~2~Sim7
+InfoAct_id_9830~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-106~0~0~2~Sim7
+InfoAct_id_9831~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-107~0~0~2~Sim7
+InfoAct_id_9832~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-108~0~0~2~Sim7
+InfoAct_id_9833~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-109~0~0~2~Sim7
+InfoAct_id_9834~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-110~0~0~2~Sim7
+InfoAct_id_9835~SEND~COL-GEN Victor Borisovich Astapov~GEN Vladimir Sergeyevich Mikhaylov~IP-111~0~0~2~Sim7
+InfoAct_id_9836~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-472~0~0~2~Sim7
+InfoAct_id_9837~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-473~0~0~2~Sim7
+InfoAct_id_9838~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-474~0~0~2~Sim7
+InfoAct_id_9839~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-475~0~0~2~Sim7
+InfoAct_id_9840~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-476~0~0~2~Sim7
+InfoAct_id_9841~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-477~0~0~2~Sim7
+InfoAct_id_9842~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-478~0~0~2~Sim7
+InfoAct_id_9843~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-479~0~0~2~Sim7
+InfoAct_id_9844~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-480~0~0~2~Sim7
+InfoAct_id_9845~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-481~0~0~2~Sim7
+InfoAct_id_9846~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-102~0~0~2~Sim7
+InfoAct_id_9847~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-103~0~0~2~Sim7
+InfoAct_id_9848~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-104~0~0~2~Sim7
+InfoAct_id_9849~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-105~0~0~2~Sim7
+InfoAct_id_9850~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-106~0~0~2~Sim7
+InfoAct_id_9851~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-107~0~0~2~Sim7
+InfoAct_id_9852~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-108~0~0~2~Sim7
+InfoAct_id_9853~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-109~0~0~2~Sim7
+InfoAct_id_9854~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-110~0~0~2~Sim7
+InfoAct_id_9855~SEND~COL-GEN Victor Borisovich Astapov~GEN Alexey Fydorovich Maslov~IP-111~0~0~2~Sim7
+InfoAct_id_9856~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-472~0~0~2~Sim7
+InfoAct_id_9857~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-473~0~0~2~Sim7
+InfoAct_id_9858~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-474~0~0~2~Sim7
+InfoAct_id_9859~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-475~0~0~2~Sim7
+InfoAct_id_9860~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-476~0~0~2~Sim7
+InfoAct_id_9861~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-477~0~0~2~Sim7
+InfoAct_id_9862~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-478~0~0~2~Sim7
+InfoAct_id_9863~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-479~0~0~2~Sim7
+InfoAct_id_9864~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-480~0~0~2~Sim7
+InfoAct_id_9865~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-481~0~0~2~Sim7
+InfoAct_id_9866~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-102~0~0~2~Sim7
+InfoAct_id_9867~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-103~0~0~2~Sim7
+InfoAct_id_9868~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-104~0~0~2~Sim7
+InfoAct_id_9869~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-105~0~0~2~Sim7
+InfoAct_id_9870~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-106~0~0~2~Sim7
+InfoAct_id_9871~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-107~0~0~2~Sim7
+InfoAct_id_9872~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-108~0~0~2~Sim7
+InfoAct_id_9873~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-109~0~0~2~Sim7
+InfoAct_id_9874~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-110~0~0~2~Sim7
+InfoAct_id_9875~SEND~COL-GEN Victor Borisovich Astapov~LTG Viktor Nikolaevich Samsonov~IP-111~0~0~2~Sim7
+InfoAct_id_9876~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-472~0~0~2~Sim7
+InfoAct_id_9877~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-473~0~0~2~Sim7
+InfoAct_id_9878~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-474~0~0~2~Sim7
+InfoAct_id_9879~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-475~0~0~2~Sim7
+InfoAct_id_9880~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-476~0~0~2~Sim7
+InfoAct_id_9881~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-477~0~0~2~Sim7
+InfoAct_id_9882~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-478~0~0~2~Sim7
+InfoAct_id_9883~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-479~0~0~2~Sim7
+InfoAct_id_9884~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-480~0~0~2~Sim7
+InfoAct_id_9885~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-481~0~0~2~Sim7
+InfoAct_id_9886~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-102~0~0~2~Sim7
+InfoAct_id_9887~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-103~0~0~2~Sim7
+InfoAct_id_9888~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-104~0~0~2~Sim7
+InfoAct_id_9889~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-105~0~0~2~Sim7
+InfoAct_id_9890~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-106~0~0~2~Sim7
+InfoAct_id_9891~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-107~0~0~2~Sim7
+InfoAct_id_9892~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-108~0~0~2~Sim7
+InfoAct_id_9893~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-109~0~0~2~Sim7
+InfoAct_id_9894~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-110~0~0~2~Sim7
+InfoAct_id_9895~SEND~COL-GEN Victor Borisovich Astapov~Sergey Kuzhugetovich Shoygu~IP-111~0~0~2~Sim7
+InfoAct_id_9896~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-472~0~0~2~Sim7
+InfoAct_id_9897~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-473~0~0~2~Sim7
+InfoAct_id_9898~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-474~0~0~2~Sim7
+InfoAct_id_9899~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-475~0~0~2~Sim7
+InfoAct_id_9900~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-476~0~0~2~Sim7
+InfoAct_id_9901~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-477~0~0~2~Sim7
+InfoAct_id_9902~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-478~0~0~2~Sim7
+InfoAct_id_9903~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-479~0~0~2~Sim7
+InfoAct_id_9904~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-480~0~0~2~Sim7
+InfoAct_id_9905~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-481~0~0~2~Sim7
+InfoAct_id_9906~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-102~0~0~2~Sim7
+InfoAct_id_9907~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-103~0~0~2~Sim7
+InfoAct_id_9908~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-104~0~0~2~Sim7
+InfoAct_id_9909~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-105~0~0~2~Sim7
+InfoAct_id_9910~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-106~0~0~2~Sim7
+InfoAct_id_9911~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-107~0~0~2~Sim7
+InfoAct_id_9912~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-108~0~0~2~Sim7
+InfoAct_id_9913~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-109~0~0~2~Sim7
+InfoAct_id_9914~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-110~0~0~2~Sim7
+InfoAct_id_9915~SEND~COL-GEN Victor Borisovich Astapov~MG Ruslan Khazhismelovich Tsalikov~IP-111~0~0~2~Sim7
+InfoAct_id_9916~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-472~0~0~2~Sim7
+InfoAct_id_9917~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-473~0~0~2~Sim7
+InfoAct_id_9918~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-474~0~0~2~Sim7
+InfoAct_id_9919~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-475~0~0~2~Sim7
+InfoAct_id_9920~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-476~0~0~2~Sim7
+InfoAct_id_9921~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-477~0~0~2~Sim7
+InfoAct_id_9922~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-478~0~0~2~Sim7
+InfoAct_id_9923~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-479~0~0~2~Sim7
+InfoAct_id_9924~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-480~0~0~2~Sim7
+InfoAct_id_9925~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-481~0~0~2~Sim7
+InfoAct_id_9926~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-102~0~0~2~Sim7
+InfoAct_id_9927~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-103~0~0~2~Sim7
+InfoAct_id_9928~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-104~0~0~2~Sim7
+InfoAct_id_9929~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-105~0~0~2~Sim7
+InfoAct_id_9930~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-106~0~0~2~Sim7
+InfoAct_id_9931~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-107~0~0~2~Sim7
+InfoAct_id_9932~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-108~0~0~2~Sim7
+InfoAct_id_9933~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-109~0~0~2~Sim7
+InfoAct_id_9934~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-110~0~0~2~Sim7
+InfoAct_id_9935~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Alexander Zhuravlyov~IP-111~0~0~2~Sim7
+InfoAct_id_9936~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-472~0~0~2~Sim7
+InfoAct_id_9937~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-473~0~0~2~Sim7
+InfoAct_id_9938~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-474~0~0~2~Sim7
+InfoAct_id_9939~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-475~0~0~2~Sim7
+InfoAct_id_9940~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-476~0~0~2~Sim7
+InfoAct_id_9941~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-477~0~0~2~Sim7
+InfoAct_id_9942~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-478~0~0~2~Sim7
+InfoAct_id_9943~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-479~0~0~2~Sim7
+InfoAct_id_9944~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-480~0~0~2~Sim7
+InfoAct_id_9945~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-481~0~0~2~Sim7
+InfoAct_id_9946~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-102~0~0~2~Sim7
+InfoAct_id_9947~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-103~0~0~2~Sim7
+InfoAct_id_9948~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-104~0~0~2~Sim7
+InfoAct_id_9949~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-105~0~0~2~Sim7
+InfoAct_id_9950~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-106~0~0~2~Sim7
+InfoAct_id_9951~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-107~0~0~2~Sim7
+InfoAct_id_9952~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-108~0~0~2~Sim7
+InfoAct_id_9953~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-109~0~0~2~Sim7
+InfoAct_id_9954~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-110~0~0~2~Sim7
+InfoAct_id_9955~SEND~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~IP-111~0~0~2~Sim7
+InfoAct_id_9956~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-472~0~0~2~Sim7
+InfoAct_id_9957~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-473~0~0~2~Sim7
+InfoAct_id_9958~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-474~0~0~2~Sim7
+InfoAct_id_9959~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-475~0~0~2~Sim7
+InfoAct_id_9960~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-476~0~0~2~Sim7
+InfoAct_id_9961~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-477~0~0~2~Sim7
+InfoAct_id_9962~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-478~0~0~2~Sim7
+InfoAct_id_9963~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-479~0~0~2~Sim7
+InfoAct_id_9964~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-480~0~0~2~Sim7
+InfoAct_id_9965~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-481~0~0~2~Sim7
+InfoAct_id_9966~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-102~0~0~2~Sim7
+InfoAct_id_9967~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-103~0~0~2~Sim7
+InfoAct_id_9968~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-104~0~0~2~Sim7
+InfoAct_id_9969~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-105~0~0~2~Sim7
+InfoAct_id_9970~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-106~0~0~2~Sim7
+InfoAct_id_9971~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-107~0~0~2~Sim7
+InfoAct_id_9972~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-108~0~0~2~Sim7
+InfoAct_id_9973~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-109~0~0~2~Sim7
+InfoAct_id_9974~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-110~0~0~2~Sim7
+InfoAct_id_9975~SEND~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~IP-111~0~0~2~Sim7
+InfoAct_id_9976~SEND~B-ID-76~B-ID-78~IP-412~0~0~2~Sim7
+InfoAct_id_9977~SEND~B-ID-76~B-ID-78~IP-413~0~0~2~Sim7
+InfoAct_id_9978~SEND~B-ID-76~B-ID-78~IP-414~0~0~2~Sim7
+InfoAct_id_9979~SEND~B-ID-76~B-ID-78~IP-415~0~0~2~Sim7
+InfoAct_id_9980~SEND~B-ID-76~B-ID-78~IP-416~0~0~2~Sim7
+InfoAct_id_9981~SEND~B-ID-76~B-ID-78~IP-417~0~0~2~Sim7
+InfoAct_id_9982~SEND~B-ID-76~B-ID-78~IP-418~0~0~2~Sim7
+InfoAct_id_9983~SEND~B-ID-76~B-ID-78~IP-419~0~0~2~Sim7
+InfoAct_id_9984~SEND~B-ID-76~B-ID-78~IP-420~0~0~2~Sim7
+InfoAct_id_9985~SEND~B-ID-76~B-ID-78~IP-421~0~0~2~Sim7
+InfoAct_id_9986~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-332~0~0~2~Sim7
+InfoAct_id_9987~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-333~0~0~2~Sim7
+InfoAct_id_9988~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-334~0~0~2~Sim7
+InfoAct_id_9989~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-335~0~0~2~Sim7
+InfoAct_id_9990~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-336~0~0~2~Sim7
+InfoAct_id_9991~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-337~0~0~2~Sim7
+InfoAct_id_9992~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-338~0~0~2~Sim7
+InfoAct_id_9993~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-339~0~0~2~Sim7
+InfoAct_id_9994~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-340~0~0~2~Sim7
+InfoAct_id_9995~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-341~0~0~2~Sim7
+InfoAct_id_9996~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-332~0~0~2~Sim7
+InfoAct_id_9997~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-333~0~0~2~Sim7
+InfoAct_id_9998~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-334~0~0~2~Sim7
+InfoAct_id_9999~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-335~0~0~2~Sim7
+InfoAct_id_10000~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-336~0~0~2~Sim7
+InfoAct_id_10001~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-337~0~0~2~Sim7
+InfoAct_id_10002~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-338~0~0~2~Sim7
+InfoAct_id_10003~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-339~0~0~2~Sim7
+InfoAct_id_10004~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-340~0~0~2~Sim7
+InfoAct_id_10005~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-341~0~0~2~Sim7
+InfoAct_id_10006~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-332~0~0~2~Sim7
+InfoAct_id_10007~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-333~0~0~2~Sim7
+InfoAct_id_10008~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-334~0~0~2~Sim7
+InfoAct_id_10009~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim7
+InfoAct_id_10010~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-336~0~0~2~Sim7
+InfoAct_id_10011~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-337~0~0~2~Sim7
+InfoAct_id_10012~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-338~0~0~2~Sim7
+InfoAct_id_10013~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-339~0~0~2~Sim7
+InfoAct_id_10014~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-340~0~0~2~Sim7
+InfoAct_id_10015~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-341~0~0~2~Sim7
+InfoAct_id_10016~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-332~0~0~2~Sim7
+InfoAct_id_10017~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-333~0~0~2~Sim7
+InfoAct_id_10018~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-334~0~0~2~Sim7
+InfoAct_id_10019~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-335~0~0~2~Sim7
+InfoAct_id_10020~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-336~0~0~2~Sim7
+InfoAct_id_10021~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-337~0~0~2~Sim7
+InfoAct_id_10022~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-338~0~0~2~Sim7
+InfoAct_id_10023~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-339~0~0~2~Sim7
+InfoAct_id_10024~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-340~0~0~2~Sim7
+InfoAct_id_10025~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-341~0~0~2~Sim7
+InfoAct_id_10026~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-332~0~0~2~Sim7
+InfoAct_id_10027~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-333~0~0~2~Sim7
+InfoAct_id_10028~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-334~0~0~2~Sim7
+InfoAct_id_10029~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-335~0~0~2~Sim7
+InfoAct_id_10030~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-336~0~0~2~Sim7
+InfoAct_id_10031~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-337~0~0~2~Sim7
+InfoAct_id_10032~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-338~0~0~2~Sim7
+InfoAct_id_10033~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-339~0~0~2~Sim7
+InfoAct_id_10034~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-340~0~0~2~Sim7
+InfoAct_id_10035~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-341~0~0~2~Sim7
+InfoAct_id_10036~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-332~0~0~2~Sim7
+InfoAct_id_10037~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-333~0~0~2~Sim7
+InfoAct_id_10038~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-334~0~0~2~Sim7
+InfoAct_id_10039~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-335~0~0~2~Sim7
+InfoAct_id_10040~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-336~0~0~2~Sim7
+InfoAct_id_10041~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-337~0~0~2~Sim7
+InfoAct_id_10042~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-338~0~0~2~Sim7
+InfoAct_id_10043~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-339~0~0~2~Sim7
+InfoAct_id_10044~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-340~0~0~2~Sim7
+InfoAct_id_10045~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-341~0~0~2~Sim7
+InfoAct_id_10046~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-332~0~0~2~Sim7
+InfoAct_id_10047~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-333~0~0~2~Sim7
+InfoAct_id_10048~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-334~0~0~2~Sim7
+InfoAct_id_10049~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim7
+InfoAct_id_10050~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-336~0~0~2~Sim7
+InfoAct_id_10051~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-337~0~0~2~Sim7
+InfoAct_id_10052~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-338~0~0~2~Sim7
+InfoAct_id_10053~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-339~0~0~2~Sim7
+InfoAct_id_10054~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-340~0~0~2~Sim7
+InfoAct_id_10055~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-341~0~0~2~Sim7
+InfoAct_id_10056~SEND~Edvinas Regelskis~Edita Baniene~IP-332~0~0~2~Sim7
+InfoAct_id_10057~SEND~Edvinas Regelskis~Edita Baniene~IP-333~0~0~2~Sim7
+InfoAct_id_10058~SEND~Edvinas Regelskis~Edita Baniene~IP-334~0~0~2~Sim7
+InfoAct_id_10059~SEND~Edvinas Regelskis~Edita Baniene~IP-335~0~0~2~Sim7
+InfoAct_id_10060~SEND~Edvinas Regelskis~Edita Baniene~IP-336~0~0~2~Sim7
+InfoAct_id_10061~SEND~Edvinas Regelskis~Edita Baniene~IP-337~0~0~2~Sim7
+InfoAct_id_10062~SEND~Edvinas Regelskis~Edita Baniene~IP-338~0~0~2~Sim7
+InfoAct_id_10063~SEND~Edvinas Regelskis~Edita Baniene~IP-339~0~0~2~Sim7
+InfoAct_id_10064~SEND~Edvinas Regelskis~Edita Baniene~IP-340~0~0~2~Sim7
+InfoAct_id_10065~SEND~Edvinas Regelskis~Edita Baniene~IP-341~0~0~2~Sim7
+InfoAct_id_10066~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-472~0~0~2~Sim7
+InfoAct_id_10067~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-473~0~0~2~Sim7
+InfoAct_id_10068~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-474~0~0~2~Sim7
+InfoAct_id_10069~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-475~0~0~2~Sim7
+InfoAct_id_10070~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-476~0~0~2~Sim7
+InfoAct_id_10071~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-477~0~0~2~Sim7
+InfoAct_id_10072~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-478~0~0~2~Sim7
+InfoAct_id_10073~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-479~0~0~2~Sim7
+InfoAct_id_10074~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-480~0~0~2~Sim7
+InfoAct_id_10075~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-481~0~0~2~Sim7
+InfoAct_id_10076~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-102~0~0~2~Sim7
+InfoAct_id_10077~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-103~0~0~2~Sim7
+InfoAct_id_10078~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-104~0~0~2~Sim7
+InfoAct_id_10079~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-105~0~0~2~Sim7
+InfoAct_id_10080~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-106~0~0~2~Sim7
+InfoAct_id_10081~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-107~0~0~2~Sim7
+InfoAct_id_10082~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-108~0~0~2~Sim7
+InfoAct_id_10083~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-109~0~0~2~Sim7
+InfoAct_id_10084~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-110~0~0~2~Sim7
+InfoAct_id_10085~SEND~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~IP-111~0~0~2~Sim7
+InfoAct_id_10086~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-472~0~0~2~Sim7
+InfoAct_id_10087~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-473~0~0~2~Sim7
+InfoAct_id_10088~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-474~0~0~2~Sim7
+InfoAct_id_10089~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-475~0~0~2~Sim7
+InfoAct_id_10090~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-476~0~0~2~Sim7
+InfoAct_id_10091~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-477~0~0~2~Sim7
+InfoAct_id_10092~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-478~0~0~2~Sim7
+InfoAct_id_10093~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-479~0~0~2~Sim7
+InfoAct_id_10094~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-480~0~0~2~Sim7
+InfoAct_id_10095~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-481~0~0~2~Sim7
+InfoAct_id_10096~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-102~0~0~2~Sim7
+InfoAct_id_10097~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-103~0~0~2~Sim7
+InfoAct_id_10098~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-104~0~0~2~Sim7
+InfoAct_id_10099~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-105~0~0~2~Sim7
+InfoAct_id_10100~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-106~0~0~2~Sim7
+InfoAct_id_10101~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-107~0~0~2~Sim7
+InfoAct_id_10102~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-108~0~0~2~Sim7
+InfoAct_id_10103~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-109~0~0~2~Sim7
+InfoAct_id_10104~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-110~0~0~2~Sim7
+InfoAct_id_10105~SEND~COL Maximov Sergei Viktorovich~GEN Nikolai Yegorovich Makarov~IP-111~0~0~2~Sim7
+InfoAct_id_10106~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-472~0~0~2~Sim7
+InfoAct_id_10107~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-473~0~0~2~Sim7
+InfoAct_id_10108~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-474~0~0~2~Sim7
+InfoAct_id_10109~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-475~0~0~2~Sim7
+InfoAct_id_10110~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-476~0~0~2~Sim7
+InfoAct_id_10111~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-477~0~0~2~Sim7
+InfoAct_id_10112~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-478~0~0~2~Sim7
+InfoAct_id_10113~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-479~0~0~2~Sim7
+InfoAct_id_10114~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-480~0~0~2~Sim7
+InfoAct_id_10115~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-481~0~0~2~Sim7
+InfoAct_id_10116~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-102~0~0~2~Sim7
+InfoAct_id_10117~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-103~0~0~2~Sim7
+InfoAct_id_10118~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-104~0~0~2~Sim7
+InfoAct_id_10119~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-105~0~0~2~Sim7
+InfoAct_id_10120~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-106~0~0~2~Sim7
+InfoAct_id_10121~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-107~0~0~2~Sim7
+InfoAct_id_10122~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-108~0~0~2~Sim7
+InfoAct_id_10123~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-109~0~0~2~Sim7
+InfoAct_id_10124~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-110~0~0~2~Sim7
+InfoAct_id_10125~SEND~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~IP-111~0~0~2~Sim7
+InfoAct_id_10126~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-472~0~0~2~Sim7
+InfoAct_id_10127~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-473~0~0~2~Sim7
+InfoAct_id_10128~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-474~0~0~2~Sim7
+InfoAct_id_10129~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-475~0~0~2~Sim7
+InfoAct_id_10130~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-476~0~0~2~Sim7
+InfoAct_id_10131~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-477~0~0~2~Sim7
+InfoAct_id_10132~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-478~0~0~2~Sim7
+InfoAct_id_10133~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-479~0~0~2~Sim7
+InfoAct_id_10134~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-480~0~0~2~Sim7
+InfoAct_id_10135~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-481~0~0~2~Sim7
+InfoAct_id_10136~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-102~0~0~2~Sim7
+InfoAct_id_10137~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-103~0~0~2~Sim7
+InfoAct_id_10138~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-104~0~0~2~Sim7
+InfoAct_id_10139~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-105~0~0~2~Sim7
+InfoAct_id_10140~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-106~0~0~2~Sim7
+InfoAct_id_10141~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-107~0~0~2~Sim7
+InfoAct_id_10142~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-108~0~0~2~Sim7
+InfoAct_id_10143~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-109~0~0~2~Sim7
+InfoAct_id_10144~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-110~0~0~2~Sim7
+InfoAct_id_10145~SEND~COL Maximov Sergei Viktorovich~GEN Vladimir Sergeyevich Mikhaylov~IP-111~0~0~2~Sim7
+InfoAct_id_10146~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-472~0~0~2~Sim7
+InfoAct_id_10147~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-473~0~0~2~Sim7
+InfoAct_id_10148~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-474~0~0~2~Sim7
+InfoAct_id_10149~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-475~0~0~2~Sim7
+InfoAct_id_10150~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-476~0~0~2~Sim7
+InfoAct_id_10151~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-477~0~0~2~Sim7
+InfoAct_id_10152~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-478~0~0~2~Sim7
+InfoAct_id_10153~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-479~0~0~2~Sim7
+InfoAct_id_10154~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-480~0~0~2~Sim7
+InfoAct_id_10155~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-481~0~0~2~Sim7
+InfoAct_id_10156~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-102~0~0~2~Sim7
+InfoAct_id_10157~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-103~0~0~2~Sim7
+InfoAct_id_10158~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-104~0~0~2~Sim7
+InfoAct_id_10159~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-105~0~0~2~Sim7
+InfoAct_id_10160~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-106~0~0~2~Sim7
+InfoAct_id_10161~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-107~0~0~2~Sim7
+InfoAct_id_10162~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-108~0~0~2~Sim7
+InfoAct_id_10163~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-109~0~0~2~Sim7
+InfoAct_id_10164~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-110~0~0~2~Sim7
+InfoAct_id_10165~SEND~COL Maximov Sergei Viktorovich~GEN Alexey Fydorovich Maslov~IP-111~0~0~2~Sim7
+InfoAct_id_10166~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-472~0~0~2~Sim7
+InfoAct_id_10167~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-473~0~0~2~Sim7
+InfoAct_id_10168~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-474~0~0~2~Sim7
+InfoAct_id_10169~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-475~0~0~2~Sim7
+InfoAct_id_10170~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-476~0~0~2~Sim7
+InfoAct_id_10171~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-477~0~0~2~Sim7
+InfoAct_id_10172~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-478~0~0~2~Sim7
+InfoAct_id_10173~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-479~0~0~2~Sim7
+InfoAct_id_10174~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-480~0~0~2~Sim7
+InfoAct_id_10175~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-481~0~0~2~Sim7
+InfoAct_id_10176~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-102~0~0~2~Sim7
+InfoAct_id_10177~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-103~0~0~2~Sim7
+InfoAct_id_10178~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-104~0~0~2~Sim7
+InfoAct_id_10179~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-105~0~0~2~Sim7
+InfoAct_id_10180~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-106~0~0~2~Sim7
+InfoAct_id_10181~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-107~0~0~2~Sim7
+InfoAct_id_10182~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-108~0~0~2~Sim7
+InfoAct_id_10183~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-109~0~0~2~Sim7
+InfoAct_id_10184~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-110~0~0~2~Sim7
+InfoAct_id_10185~SEND~COL Maximov Sergei Viktorovich~LTG Viktor Nikolaevich Samsonov~IP-111~0~0~2~Sim7
+InfoAct_id_10186~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-472~0~0~2~Sim7
+InfoAct_id_10187~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-473~0~0~2~Sim7
+InfoAct_id_10188~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-474~0~0~2~Sim7
+InfoAct_id_10189~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-475~0~0~2~Sim7
+InfoAct_id_10190~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-476~0~0~2~Sim7
+InfoAct_id_10191~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-477~0~0~2~Sim7
+InfoAct_id_10192~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-478~0~0~2~Sim7
+InfoAct_id_10193~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-479~0~0~2~Sim7
+InfoAct_id_10194~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-480~0~0~2~Sim7
+InfoAct_id_10195~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-481~0~0~2~Sim7
+InfoAct_id_10196~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-102~0~0~2~Sim7
+InfoAct_id_10197~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-103~0~0~2~Sim7
+InfoAct_id_10198~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-104~0~0~2~Sim7
+InfoAct_id_10199~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-105~0~0~2~Sim7
+InfoAct_id_10200~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-106~0~0~2~Sim7
+InfoAct_id_10201~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-107~0~0~2~Sim7
+InfoAct_id_10202~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-108~0~0~2~Sim7
+InfoAct_id_10203~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-109~0~0~2~Sim7
+InfoAct_id_10204~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-110~0~0~2~Sim7
+InfoAct_id_10205~SEND~COL Maximov Sergei Viktorovich~Sergey Kuzhugetovich Shoygu~IP-111~0~0~2~Sim7
+InfoAct_id_10206~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-472~0~0~2~Sim7
+InfoAct_id_10207~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-473~0~0~2~Sim7
+InfoAct_id_10208~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-474~0~0~2~Sim7
+InfoAct_id_10209~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-475~0~0~2~Sim7
+InfoAct_id_10210~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-476~0~0~2~Sim7
+InfoAct_id_10211~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-477~0~0~2~Sim7
+InfoAct_id_10212~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-478~0~0~2~Sim7
+InfoAct_id_10213~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-479~0~0~2~Sim7
+InfoAct_id_10214~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-480~0~0~2~Sim7
+InfoAct_id_10215~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-481~0~0~2~Sim7
+InfoAct_id_10216~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-102~0~0~2~Sim7
+InfoAct_id_10217~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-103~0~0~2~Sim7
+InfoAct_id_10218~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-104~0~0~2~Sim7
+InfoAct_id_10219~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-105~0~0~2~Sim7
+InfoAct_id_10220~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-106~0~0~2~Sim7
+InfoAct_id_10221~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-107~0~0~2~Sim7
+InfoAct_id_10222~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-108~0~0~2~Sim7
+InfoAct_id_10223~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-109~0~0~2~Sim7
+InfoAct_id_10224~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-110~0~0~2~Sim7
+InfoAct_id_10225~SEND~COL Maximov Sergei Viktorovich~MG Ruslan Khazhismelovich Tsalikov~IP-111~0~0~2~Sim7
+InfoAct_id_10226~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-472~0~0~2~Sim7
+InfoAct_id_10227~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-473~0~0~2~Sim7
+InfoAct_id_10228~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-474~0~0~2~Sim7
+InfoAct_id_10229~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-475~0~0~2~Sim7
+InfoAct_id_10230~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-476~0~0~2~Sim7
+InfoAct_id_10231~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-477~0~0~2~Sim7
+InfoAct_id_10232~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-478~0~0~2~Sim7
+InfoAct_id_10233~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-479~0~0~2~Sim7
+InfoAct_id_10234~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-480~0~0~2~Sim7
+InfoAct_id_10235~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-481~0~0~2~Sim7
+InfoAct_id_10236~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-102~0~0~2~Sim7
+InfoAct_id_10237~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-103~0~0~2~Sim7
+InfoAct_id_10238~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-104~0~0~2~Sim7
+InfoAct_id_10239~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-105~0~0~2~Sim7
+InfoAct_id_10240~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-106~0~0~2~Sim7
+InfoAct_id_10241~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-107~0~0~2~Sim7
+InfoAct_id_10242~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-108~0~0~2~Sim7
+InfoAct_id_10243~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-109~0~0~2~Sim7
+InfoAct_id_10244~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-110~0~0~2~Sim7
+InfoAct_id_10245~SEND~COL Maximov Sergei Viktorovich~COL-GEN Alexander Zhuravlyov~IP-111~0~0~2~Sim7
+InfoAct_id_10246~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-472~0~0~2~Sim7
+InfoAct_id_10247~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-473~0~0~2~Sim7
+InfoAct_id_10248~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-474~0~0~2~Sim7
+InfoAct_id_10249~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-475~0~0~2~Sim7
+InfoAct_id_10250~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-476~0~0~2~Sim7
+InfoAct_id_10251~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-477~0~0~2~Sim7
+InfoAct_id_10252~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-478~0~0~2~Sim7
+InfoAct_id_10253~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-479~0~0~2~Sim7
+InfoAct_id_10254~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-480~0~0~2~Sim7
+InfoAct_id_10255~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-481~0~0~2~Sim7
+InfoAct_id_10256~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-102~0~0~2~Sim7
+InfoAct_id_10257~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-103~0~0~2~Sim7
+InfoAct_id_10258~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-104~0~0~2~Sim7
+InfoAct_id_10259~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-105~0~0~2~Sim7
+InfoAct_id_10260~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-106~0~0~2~Sim7
+InfoAct_id_10261~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-107~0~0~2~Sim7
+InfoAct_id_10262~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-108~0~0~2~Sim7
+InfoAct_id_10263~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-109~0~0~2~Sim7
+InfoAct_id_10264~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-110~0~0~2~Sim7
+InfoAct_id_10265~SEND~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~IP-111~0~0~2~Sim7
+InfoAct_id_10266~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-472~0~0~2~Sim7
+InfoAct_id_10267~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-473~0~0~2~Sim7
+InfoAct_id_10268~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-474~0~0~2~Sim7
+InfoAct_id_10269~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-475~0~0~2~Sim7
+InfoAct_id_10270~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-476~0~0~2~Sim7
+InfoAct_id_10271~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-477~0~0~2~Sim7
+InfoAct_id_10272~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-478~0~0~2~Sim7
+InfoAct_id_10273~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-479~0~0~2~Sim7
+InfoAct_id_10274~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-480~0~0~2~Sim7
+InfoAct_id_10275~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-481~0~0~2~Sim7
+InfoAct_id_10276~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-102~0~0~2~Sim7
+InfoAct_id_10277~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-103~0~0~2~Sim7
+InfoAct_id_10278~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-104~0~0~2~Sim7
+InfoAct_id_10279~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-105~0~0~2~Sim7
+InfoAct_id_10280~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-106~0~0~2~Sim7
+InfoAct_id_10281~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-107~0~0~2~Sim7
+InfoAct_id_10282~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-108~0~0~2~Sim7
+InfoAct_id_10283~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-109~0~0~2~Sim7
+InfoAct_id_10284~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-110~0~0~2~Sim7
+InfoAct_id_10285~SEND~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~IP-111~0~0~2~Sim7
+InfoAct_id_10286~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-332~0~0~2~Sim7
+InfoAct_id_10287~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-333~0~0~2~Sim7
+InfoAct_id_10288~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-334~0~0~2~Sim7
+InfoAct_id_10289~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-335~0~0~2~Sim7
+InfoAct_id_10290~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-336~0~0~2~Sim7
+InfoAct_id_10291~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-337~0~0~2~Sim7
+InfoAct_id_10292~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-338~0~0~2~Sim7
+InfoAct_id_10293~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-339~0~0~2~Sim7
+InfoAct_id_10294~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-340~0~0~2~Sim7
+InfoAct_id_10295~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-341~0~0~2~Sim7
+InfoAct_id_10296~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-332~0~0~2~Sim7
+InfoAct_id_10297~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-333~0~0~2~Sim7
+InfoAct_id_10298~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-334~0~0~2~Sim7
+InfoAct_id_10299~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim7
+InfoAct_id_10300~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-336~0~0~2~Sim7
+InfoAct_id_10301~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-337~0~0~2~Sim7
+InfoAct_id_10302~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-338~0~0~2~Sim7
+InfoAct_id_10303~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-339~0~0~2~Sim7
+InfoAct_id_10304~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-340~0~0~2~Sim7
+InfoAct_id_10305~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-341~0~0~2~Sim7
+InfoAct_id_10306~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-332~0~0~2~Sim7
+InfoAct_id_10307~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-333~0~0~2~Sim7
+InfoAct_id_10308~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-334~0~0~2~Sim7
+InfoAct_id_10309~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-335~0~0~2~Sim7
+InfoAct_id_10310~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-336~0~0~2~Sim7
+InfoAct_id_10311~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-337~0~0~2~Sim7
+InfoAct_id_10312~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-338~0~0~2~Sim7
+InfoAct_id_10313~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-339~0~0~2~Sim7
+InfoAct_id_10314~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-340~0~0~2~Sim7
+InfoAct_id_10315~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-341~0~0~2~Sim7
+InfoAct_id_10316~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-332~0~0~2~Sim7
+InfoAct_id_10317~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-333~0~0~2~Sim7
+InfoAct_id_10318~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-334~0~0~2~Sim7
+InfoAct_id_10319~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-335~0~0~2~Sim7
+InfoAct_id_10320~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-336~0~0~2~Sim7
+InfoAct_id_10321~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-337~0~0~2~Sim7
+InfoAct_id_10322~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-338~0~0~2~Sim7
+InfoAct_id_10323~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-339~0~0~2~Sim7
+InfoAct_id_10324~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-340~0~0~2~Sim7
+InfoAct_id_10325~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-341~0~0~2~Sim7
+InfoAct_id_10326~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-332~0~0~2~Sim7
+InfoAct_id_10327~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-333~0~0~2~Sim7
+InfoAct_id_10328~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-334~0~0~2~Sim7
+InfoAct_id_10329~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-335~0~0~2~Sim7
+InfoAct_id_10330~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-336~0~0~2~Sim7
+InfoAct_id_10331~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-337~0~0~2~Sim7
+InfoAct_id_10332~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-338~0~0~2~Sim7
+InfoAct_id_10333~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-339~0~0~2~Sim7
+InfoAct_id_10334~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-340~0~0~2~Sim7
+InfoAct_id_10335~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-341~0~0~2~Sim7
+InfoAct_id_10336~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-332~0~0~2~Sim7
+InfoAct_id_10337~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-333~0~0~2~Sim7
+InfoAct_id_10338~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-334~0~0~2~Sim7
+InfoAct_id_10339~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim7
+InfoAct_id_10340~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-336~0~0~2~Sim7
+InfoAct_id_10341~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-337~0~0~2~Sim7
+InfoAct_id_10342~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-338~0~0~2~Sim7
+InfoAct_id_10343~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-339~0~0~2~Sim7
+InfoAct_id_10344~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-340~0~0~2~Sim7
+InfoAct_id_10345~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-341~0~0~2~Sim7
+InfoAct_id_10346~SEND~Sonata Patkauskait?~Edita Baniene~IP-332~0~0~2~Sim7
+InfoAct_id_10347~SEND~Sonata Patkauskait?~Edita Baniene~IP-333~0~0~2~Sim7
+InfoAct_id_10348~SEND~Sonata Patkauskait?~Edita Baniene~IP-334~0~0~2~Sim7
+InfoAct_id_10349~SEND~Sonata Patkauskait?~Edita Baniene~IP-335~0~0~2~Sim7
+InfoAct_id_10350~SEND~Sonata Patkauskait?~Edita Baniene~IP-336~0~0~2~Sim7
+InfoAct_id_10351~SEND~Sonata Patkauskait?~Edita Baniene~IP-337~0~0~2~Sim7
+InfoAct_id_10352~SEND~Sonata Patkauskait?~Edita Baniene~IP-338~0~0~2~Sim7
+InfoAct_id_10353~SEND~Sonata Patkauskait?~Edita Baniene~IP-339~0~0~2~Sim7
+InfoAct_id_10354~SEND~Sonata Patkauskait?~Edita Baniene~IP-340~0~0~2~Sim7
+InfoAct_id_10355~SEND~Sonata Patkauskait?~Edita Baniene~IP-341~0~0~2~Sim7
+InfoAct_id_10356~SEND~Ingrida Simonyte~B-ID-10~IP-492~0~0~2~Sim7
+InfoAct_id_10357~SEND~Ingrida Simonyte~B-ID-10~IP-493~0~0~2~Sim7
+InfoAct_id_10358~SEND~Ingrida Simonyte~B-ID-10~IP-494~0~0~2~Sim7
+InfoAct_id_10359~SEND~Ingrida Simonyte~B-ID-10~IP-495~0~0~2~Sim7
+InfoAct_id_10360~SEND~Ingrida Simonyte~B-ID-10~IP-496~0~0~2~Sim7
+InfoAct_id_10361~SEND~Ingrida Simonyte~B-ID-10~IP-497~0~0~2~Sim7
+InfoAct_id_10362~SEND~Ingrida Simonyte~B-ID-10~IP-498~0~0~2~Sim7
+InfoAct_id_10363~SEND~Ingrida Simonyte~B-ID-10~IP-499~0~0~2~Sim7
+InfoAct_id_10364~SEND~Ingrida Simonyte~B-ID-10~IP-500~0~0~2~Sim7
+InfoAct_id_10365~SEND~Ingrida Simonyte~B-ID-10~IP-501~0~0~2~Sim7
+InfoAct_id_10366~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-492~0~0~2~Sim7
+InfoAct_id_10367~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-493~0~0~2~Sim7
+InfoAct_id_10368~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-494~0~0~2~Sim7
+InfoAct_id_10369~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-495~0~0~2~Sim7
+InfoAct_id_10370~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-496~0~0~2~Sim7
+InfoAct_id_10371~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-497~0~0~2~Sim7
+InfoAct_id_10372~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-498~0~0~2~Sim7
+InfoAct_id_10373~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-499~0~0~2~Sim7
+InfoAct_id_10374~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-500~0~0~2~Sim7
+InfoAct_id_10375~SEND~Ingrida Simonyte~Austeja Landsbergiene~IP-501~0~0~2~Sim7
+InfoAct_id_10376~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-492~0~0~2~Sim7
+InfoAct_id_10377~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-493~0~0~2~Sim7
+InfoAct_id_10378~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-494~0~0~2~Sim7
+InfoAct_id_10379~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-495~0~0~2~Sim7
+InfoAct_id_10380~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-496~0~0~2~Sim7
+InfoAct_id_10381~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-497~0~0~2~Sim7
+InfoAct_id_10382~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-498~0~0~2~Sim7
+InfoAct_id_10383~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-499~0~0~2~Sim7
+InfoAct_id_10384~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-500~0~0~2~Sim7
+InfoAct_id_10385~SEND~Ingrida Simonyte~Dalia Grybauskaite~IP-501~0~0~2~Sim7
+InfoAct_id_10386~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-492~0~0~2~Sim7
+InfoAct_id_10387~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-493~0~0~2~Sim7
+InfoAct_id_10388~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-494~0~0~2~Sim7
+InfoAct_id_10389~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-495~0~0~2~Sim7
+InfoAct_id_10390~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-496~0~0~2~Sim7
+InfoAct_id_10391~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-497~0~0~2~Sim7
+InfoAct_id_10392~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-498~0~0~2~Sim7
+InfoAct_id_10393~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-499~0~0~2~Sim7
+InfoAct_id_10394~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-500~0~0~2~Sim7
+InfoAct_id_10395~SEND~Ingrida Simonyte~Gitanas Nauseda~IP-501~0~0~2~Sim7
+InfoAct_id_10396~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-492~0~0~2~Sim7
+InfoAct_id_10397~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-493~0~0~2~Sim7
+InfoAct_id_10398~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-494~0~0~2~Sim7
+InfoAct_id_10399~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-495~0~0~2~Sim7
+InfoAct_id_10400~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-496~0~0~2~Sim7
+InfoAct_id_10401~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-497~0~0~2~Sim7
+InfoAct_id_10402~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-498~0~0~2~Sim7
+InfoAct_id_10403~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-499~0~0~2~Sim7
+InfoAct_id_10404~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-500~0~0~2~Sim7
+InfoAct_id_10405~SEND~Ingrida Simonyte~Viktorija Smilyte-Nielsen~IP-501~0~0~2~Sim7
+InfoAct_id_10406~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-332~0~0~2~Sim7
+InfoAct_id_10407~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-333~0~0~2~Sim7
+InfoAct_id_10408~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-334~0~0~2~Sim7
+InfoAct_id_10409~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-335~0~0~2~Sim7
+InfoAct_id_10410~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-336~0~0~2~Sim7
+InfoAct_id_10411~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-337~0~0~2~Sim7
+InfoAct_id_10412~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-338~0~0~2~Sim7
+InfoAct_id_10413~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-339~0~0~2~Sim7
+InfoAct_id_10414~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-340~0~0~2~Sim7
+InfoAct_id_10415~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-341~0~0~2~Sim7
+InfoAct_id_10416~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-332~0~0~2~Sim7
+InfoAct_id_10417~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-333~0~0~2~Sim7
+InfoAct_id_10418~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-334~0~0~2~Sim7
+InfoAct_id_10419~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-335~0~0~2~Sim7
+InfoAct_id_10420~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-336~0~0~2~Sim7
+InfoAct_id_10421~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-337~0~0~2~Sim7
+InfoAct_id_10422~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-338~0~0~2~Sim7
+InfoAct_id_10423~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-339~0~0~2~Sim7
+InfoAct_id_10424~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-340~0~0~2~Sim7
+InfoAct_id_10425~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-341~0~0~2~Sim7
+InfoAct_id_10426~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-332~0~0~2~Sim7
+InfoAct_id_10427~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-333~0~0~2~Sim7
+InfoAct_id_10428~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-334~0~0~2~Sim7
+InfoAct_id_10429~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-335~0~0~2~Sim7
+InfoAct_id_10430~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-336~0~0~2~Sim7
+InfoAct_id_10431~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-337~0~0~2~Sim7
+InfoAct_id_10432~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-338~0~0~2~Sim7
+InfoAct_id_10433~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-339~0~0~2~Sim7
+InfoAct_id_10434~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-340~0~0~2~Sim7
+InfoAct_id_10435~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-341~0~0~2~Sim7
+InfoAct_id_10436~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-332~0~0~2~Sim7
+InfoAct_id_10437~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-333~0~0~2~Sim7
+InfoAct_id_10438~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-334~0~0~2~Sim7
+InfoAct_id_10439~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim7
+InfoAct_id_10440~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-336~0~0~2~Sim7
+InfoAct_id_10441~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-337~0~0~2~Sim7
+InfoAct_id_10442~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-338~0~0~2~Sim7
+InfoAct_id_10443~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-339~0~0~2~Sim7
+InfoAct_id_10444~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-340~0~0~2~Sim7
+InfoAct_id_10445~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-341~0~0~2~Sim7
+InfoAct_id_10446~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-332~0~0~2~Sim7
+InfoAct_id_10447~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-333~0~0~2~Sim7
+InfoAct_id_10448~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-334~0~0~2~Sim7
+InfoAct_id_10449~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-335~0~0~2~Sim7
+InfoAct_id_10450~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-336~0~0~2~Sim7
+InfoAct_id_10451~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-337~0~0~2~Sim7
+InfoAct_id_10452~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-338~0~0~2~Sim7
+InfoAct_id_10453~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-339~0~0~2~Sim7
+InfoAct_id_10454~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-340~0~0~2~Sim7
+InfoAct_id_10455~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-341~0~0~2~Sim7
+InfoAct_id_10456~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-332~0~0~2~Sim7
+InfoAct_id_10457~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-333~0~0~2~Sim7
+InfoAct_id_10458~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-334~0~0~2~Sim7
+InfoAct_id_10459~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-335~0~0~2~Sim7
+InfoAct_id_10460~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-336~0~0~2~Sim7
+InfoAct_id_10461~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-337~0~0~2~Sim7
+InfoAct_id_10462~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-338~0~0~2~Sim7
+InfoAct_id_10463~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-339~0~0~2~Sim7
+InfoAct_id_10464~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-340~0~0~2~Sim7
+InfoAct_id_10465~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-341~0~0~2~Sim7
+InfoAct_id_10466~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-332~0~0~2~Sim7
+InfoAct_id_10467~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-333~0~0~2~Sim7
+InfoAct_id_10468~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-334~0~0~2~Sim7
+InfoAct_id_10469~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-335~0~0~2~Sim7
+InfoAct_id_10470~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-336~0~0~2~Sim7
+InfoAct_id_10471~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-337~0~0~2~Sim7
+InfoAct_id_10472~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-338~0~0~2~Sim7
+InfoAct_id_10473~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-339~0~0~2~Sim7
+InfoAct_id_10474~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-340~0~0~2~Sim7
+InfoAct_id_10475~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-341~0~0~2~Sim7
+InfoAct_id_10476~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-332~0~0~2~Sim7
+InfoAct_id_10477~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-333~0~0~2~Sim7
+InfoAct_id_10478~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-334~0~0~2~Sim7
+InfoAct_id_10479~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-335~0~0~2~Sim7
+InfoAct_id_10480~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-336~0~0~2~Sim7
+InfoAct_id_10481~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-337~0~0~2~Sim7
+InfoAct_id_10482~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-338~0~0~2~Sim7
+InfoAct_id_10483~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-339~0~0~2~Sim7
+InfoAct_id_10484~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-340~0~0~2~Sim7
+InfoAct_id_10485~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-341~0~0~2~Sim7
+InfoAct_id_10486~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-332~0~0~2~Sim7
+InfoAct_id_10487~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-333~0~0~2~Sim7
+InfoAct_id_10488~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-334~0~0~2~Sim7
+InfoAct_id_10489~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim7
+InfoAct_id_10490~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-336~0~0~2~Sim7
+InfoAct_id_10491~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-337~0~0~2~Sim7
+InfoAct_id_10492~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-338~0~0~2~Sim7
+InfoAct_id_10493~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-339~0~0~2~Sim7
+InfoAct_id_10494~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-340~0~0~2~Sim7
+InfoAct_id_10495~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-341~0~0~2~Sim7
+InfoAct_id_10496~SEND~Austeja Landsbergiene~Edita Baniene~IP-332~0~0~2~Sim7
+InfoAct_id_10497~SEND~Austeja Landsbergiene~Edita Baniene~IP-333~0~0~2~Sim7
+InfoAct_id_10498~SEND~Austeja Landsbergiene~Edita Baniene~IP-334~0~0~2~Sim7
+InfoAct_id_10499~SEND~Austeja Landsbergiene~Edita Baniene~IP-335~0~0~2~Sim7
+InfoAct_id_10500~SEND~Austeja Landsbergiene~Edita Baniene~IP-336~0~0~2~Sim7
+InfoAct_id_10501~SEND~Austeja Landsbergiene~Edita Baniene~IP-337~0~0~2~Sim7
+InfoAct_id_10502~SEND~Austeja Landsbergiene~Edita Baniene~IP-338~0~0~2~Sim7
+InfoAct_id_10503~SEND~Austeja Landsbergiene~Edita Baniene~IP-339~0~0~2~Sim7
+InfoAct_id_10504~SEND~Austeja Landsbergiene~Edita Baniene~IP-340~0~0~2~Sim7
+InfoAct_id_10505~SEND~Austeja Landsbergiene~Edita Baniene~IP-341~0~0~2~Sim7
+InfoAct_id_10506~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-102~0~0~2~Sim7
+InfoAct_id_10507~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-103~0~0~2~Sim7
+InfoAct_id_10508~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-104~0~0.1~2~Sim7
+InfoAct_id_10509~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-105~0~0.1~2~Sim7
+InfoAct_id_10510~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-106~0~0.1~2~Sim7
+InfoAct_id_10511~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-107~0~0~2~Sim7
+InfoAct_id_10512~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-108~0~0~2~Sim7
+InfoAct_id_10513~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-109~0~0~2~Sim7
+InfoAct_id_10514~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-110~0~0~2~Sim7
+InfoAct_id_10515~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~IP-111~0~0~2~Sim7
+InfoAct_id_10516~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-102~0~0~2~Sim7
+InfoAct_id_10517~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-103~0~0~2~Sim7
+InfoAct_id_10518~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-104~0~0~2~Sim7
+InfoAct_id_10519~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-105~0~0~2~Sim7
+InfoAct_id_10520~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-106~0~0~2~Sim7
+InfoAct_id_10521~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-107~0~0~2~Sim7
+InfoAct_id_10522~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-108~0~0~2~Sim7
+InfoAct_id_10523~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-109~0~0~2~Sim7
+InfoAct_id_10524~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-110~0~0~2~Sim7
+InfoAct_id_10525~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Nikolai Yegorovich Makarov~IP-111~0~0~2~Sim7
+InfoAct_id_10526~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-102~0~0~2~Sim7
+InfoAct_id_10527~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-103~0~0~2~Sim7
+InfoAct_id_10528~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-104~0~0~2~Sim7
+InfoAct_id_10529~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-105~0~0~2~Sim7
+InfoAct_id_10530~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-106~0~0~2~Sim7
+InfoAct_id_10531~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-107~0~0~2~Sim7
+InfoAct_id_10532~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-108~0~0~2~Sim7
+InfoAct_id_10533~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-109~0~0~2~Sim7
+InfoAct_id_10534~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-110~0~0~2~Sim7
+InfoAct_id_10535~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~IP-111~0~0~2~Sim7
+InfoAct_id_10536~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-102~0~0~2~Sim7
+InfoAct_id_10537~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-103~0~0~2~Sim7
+InfoAct_id_10538~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-104~0~0~2~Sim7
+InfoAct_id_10539~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-105~0~0~2~Sim7
+InfoAct_id_10540~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-106~0~0~2~Sim7
+InfoAct_id_10541~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-107~0~0~2~Sim7
+InfoAct_id_10542~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-108~0~0~2~Sim7
+InfoAct_id_10543~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-109~0~0~2~Sim7
+InfoAct_id_10544~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-110~0~0~2~Sim7
+InfoAct_id_10545~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Vladimir Sergeyevich Mikhaylov~IP-111~0~0~2~Sim7
+InfoAct_id_10546~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-102~0~0~2~Sim7
+InfoAct_id_10547~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-103~0~0~2~Sim7
+InfoAct_id_10548~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-104~0~0~2~Sim7
+InfoAct_id_10549~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-105~0~0~2~Sim7
+InfoAct_id_10550~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-106~0~0~2~Sim7
+InfoAct_id_10551~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-107~0~0~2~Sim7
+InfoAct_id_10552~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-108~0~0~2~Sim7
+InfoAct_id_10553~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-109~0~0~2~Sim7
+InfoAct_id_10554~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-110~0~0~2~Sim7
+InfoAct_id_10555~SEND~COL-GEN Anatoly Alekseyevich Sidorov~GEN Alexey Fydorovich Maslov~IP-111~0~0~2~Sim7
+InfoAct_id_10556~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-102~0~0~2~Sim7
+InfoAct_id_10557~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-103~0~0~2~Sim7
+InfoAct_id_10558~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-104~0~0~2~Sim7
+InfoAct_id_10559~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-105~0~0~2~Sim7
+InfoAct_id_10560~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-106~0~0~2~Sim7
+InfoAct_id_10561~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-107~0~0~2~Sim7
+InfoAct_id_10562~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-108~0~0~2~Sim7
+InfoAct_id_10563~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-109~0~0~2~Sim7
+InfoAct_id_10564~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-110~0~0~2~Sim7
+InfoAct_id_10565~SEND~COL-GEN Anatoly Alekseyevich Sidorov~LTG Viktor Nikolaevich Samsonov~IP-111~0~0~2~Sim7
+InfoAct_id_10566~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-102~0~0~2~Sim7
+InfoAct_id_10567~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-103~0~0~2~Sim7
+InfoAct_id_10568~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-104~0~0~2~Sim7
+InfoAct_id_10569~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-105~0~0~2~Sim7
+InfoAct_id_10570~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-106~0~0~2~Sim7
+InfoAct_id_10571~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-107~0~0~2~Sim7
+InfoAct_id_10572~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-108~0~0~2~Sim7
+InfoAct_id_10573~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-109~0~0~2~Sim7
+InfoAct_id_10574~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-110~0~0~2~Sim7
+InfoAct_id_10575~SEND~COL-GEN Anatoly Alekseyevich Sidorov~Sergey Kuzhugetovich Shoygu~IP-111~0~0~2~Sim7
+InfoAct_id_10576~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-102~0~0~2~Sim7
+InfoAct_id_10577~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-103~0~0~2~Sim7
+InfoAct_id_10578~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-104~0~0~2~Sim7
+InfoAct_id_10579~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-105~0~0~2~Sim7
+InfoAct_id_10580~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-106~0~0~2~Sim7
+InfoAct_id_10581~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-107~0~0~2~Sim7
+InfoAct_id_10582~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-108~0~0~2~Sim7
+InfoAct_id_10583~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-109~0~0~2~Sim7
+InfoAct_id_10584~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-110~0~0~2~Sim7
+InfoAct_id_10585~SEND~COL-GEN Anatoly Alekseyevich Sidorov~MG Ruslan Khazhismelovich Tsalikov~IP-111~0~0~2~Sim7
+InfoAct_id_10586~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-102~0~0~2~Sim7
+InfoAct_id_10587~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-103~0~0~2~Sim7
+InfoAct_id_10588~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-104~0~0~2~Sim7
+InfoAct_id_10589~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-105~0~0~2~Sim7
+InfoAct_id_10590~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-106~0~0~2~Sim7
+InfoAct_id_10591~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-107~0~0~2~Sim7
+InfoAct_id_10592~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-108~0~0~2~Sim7
+InfoAct_id_10593~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-109~0~0~2~Sim7
+InfoAct_id_10594~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-110~0~0~2~Sim7
+InfoAct_id_10595~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Alexander Zhuravlyov~IP-111~0~0~2~Sim7
+InfoAct_id_10596~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-102~0~0~2~Sim7
+InfoAct_id_10597~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-103~0~0~2~Sim7
+InfoAct_id_10598~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-104~0~0~2~Sim7
+InfoAct_id_10599~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-105~0~0~2~Sim7
+InfoAct_id_10600~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-106~0~0~2~Sim7
+InfoAct_id_10601~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-107~0~0~2~Sim7
+InfoAct_id_10602~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-108~0~0~2~Sim7
+InfoAct_id_10603~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-109~0~0~2~Sim7
+InfoAct_id_10604~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-110~0~0~2~Sim7
+InfoAct_id_10605~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~IP-111~0~0~2~Sim7
+InfoAct_id_10606~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-102~0~0~2~Sim7
+InfoAct_id_10607~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-103~0~0~2~Sim7
+InfoAct_id_10608~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-104~0~0~2~Sim7
+InfoAct_id_10609~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-105~0~0~2~Sim7
+InfoAct_id_10610~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-106~0~0~2~Sim7
+InfoAct_id_10611~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-107~0~0~2~Sim7
+InfoAct_id_10612~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-108~0~0~2~Sim7
+InfoAct_id_10613~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-109~0~0~2~Sim7
+InfoAct_id_10614~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-110~0~0~2~Sim7
+InfoAct_id_10615~SEND~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~IP-111~0~0~2~Sim7
