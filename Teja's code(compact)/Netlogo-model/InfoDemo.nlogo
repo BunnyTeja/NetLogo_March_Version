@@ -745,12 +745,13 @@ to read
                   let temptopic []
                   ask current_IP[
                     let temp_t_name word "_" triadno
+                    let new_triad_id word "Triad_ID_" triadno
                     let temp_triad_name word tick-count temp_t_name
                     set temptriad lput word "Triad_ID_" temp_triad_name temptriad
                     set temptriad lput topic-id temptriad
                     set temptriad lput stance temptriad
                     set temptopic lput topic-id temptopic
-                    identity_action_func reading_agent_id "CREATE" triadno stance "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                   ]
                   if temptriad != [] [
                     ;print temptriad
@@ -758,7 +759,7 @@ to read
                     set triadstack lput temptriad triadstack
                     set triadtopics temptopic ]]
                   set triadno triadno + 1
-                   ask reading_agent[
+                  ask reading_agent[
                     ifelse member? Ip_Id_log outbox []
                   [
                set outbox lput Ip_Id_log outbox
@@ -776,12 +777,13 @@ to read
                   ask current_IP[
                     ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
                     let temp_t_name word "_" triadno
+                    let new_triad_id word "Triad_ID_" triadno
                     let temp_triad_name word tick-count temp_t_name
                     set temptriad lput word "Triad_ID_" temp_triad_name temptriad
                     set temptriad lput topic-id temptriad
                     set temptriad lput stance temptriad
                     set temptopic lput topic-id temptopic
-                    identity_action_func reading_agent_id "CREATE" triadno stance "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                   ]
                   if temptriad != [] [
                      ask reading_agent[
@@ -922,7 +924,7 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
           set sub-list10 lput agent_id sub-list10
           set sub-list10 lput identity_action_type sub-list10
-          set sub-list10 lput word "Triad_ID_" triad_id_no sub-list10
+          set sub-list10 lput triad_id_no sub-list10
           set sub-list10 lput change_in_stance sub-list10
           set sub-list10 lput change_in_latitude sub-list10
           set sub-list10 lput change_in_longitude sub-list10
