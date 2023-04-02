@@ -1,0 +1,58 @@
+relationship_action_id~source_agent_id~target_agent_id~action~change_in_trust~tick~simulation_id
+Relation_Act_id_1~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_2~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_3~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_4~Gintare Guzevi?i?t?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_5~Gintare Guzevi?i?t?~Austeja Landsbergiene~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_6~Gintare Guzevi?i?t?~Austeja Landsbergiene~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_7~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_8~Gintare Guzevi?i?t?~Simonas Gurevicius~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_9~Gintare Guzevi?i?t?~Simonas Gurevicius~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_10~Gintare Guzevi?i?t?~Edvinas Regelskis~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_11~Gintare Guzevi?i?t?~Edita Baniene~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_12~Gabrielius Landsbergis~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_13~Egle Juzu~Paulius Keras~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_14~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_15~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_16~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_17~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_18~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_19~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_20~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_21~Edvinas Regelskis~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_22~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_23~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_24~Edvinas Regelskis~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_25~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_26~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_27~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_28~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_29~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_30~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_31~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_32~Simonas Gurevicius~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_33~Simonas Gurevicius~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_34~Paulius Keras~Egle Juzu~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_35~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_36~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_37~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_38~Ingrida Simonyte~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_39~B-ID-41~B-ID-37~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_40~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_41~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_42~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_43~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_44~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_45~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_46~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_47~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_48~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_49~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_50~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~DECREASE_TRUST~-0.1~2~Sim0
+Relation_Act_id_51~B-ID-37~B-ID-41~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_52~Austeja Landsbergiene~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_53~Austeja Landsbergiene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_54~Austeja Landsbergiene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_55~Austeja Landsbergiene~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_56~Austeja Landsbergiene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_57~Austeja Landsbergiene~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
