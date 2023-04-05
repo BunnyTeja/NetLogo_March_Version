@@ -361,6 +361,7 @@ to create-nb-information-diss-agents
         set ycor random-ycor
         set agent-ID item 0 data
         set agent-type item 1 data
+        set source-type item 2 data
         set latitude 54.684
         set longitude 25.289871 ; this assumes all information dissemination agents are in Vilnius
         set IPslist []
@@ -715,7 +716,6 @@ to read
                   let temptopic []
                   ask current_IP [
                     let temp_t_name word "_" triadno
-                    let new_triad_id word "Triad_ID_" triadno
                     let new_triad_id word "Triad_ID_" triadno
                     let temp_triad_name word tick-count temp_t_name
                     set temptriad lput word "Triad_ID_" temp_triad_name temptriad
