@@ -657,28 +657,33 @@ to read
           ask reading_agent[
             ifelse member? Ip_topic triad_topics [
               ; The topic already exists, so maybe update the triad's stance and update the relationship with the sender
+              ; Look through the stack to find the triad
               let len 0
               while [len < length(triadstack)] [
-                if item 1 (item len(triadstack)) = Ip_topic [
-
-                  if ( abs((item 2 (item len(triadstack))) - current_IP_stance)  < 0.5 ) [
-                    let new_stance_calculated (item 2 (item len(triadstack)) + (0.001 * ( (item 2 (item len(triadstack))) - current_IP_stance )) )
-                    let change_stance (0.001 * ( (item 2 (item len(triadstack))) - current_IP_stance ))
+                let indexed_triad item len triadstack
+                if item 1 indexed_triad = Ip_topic [
+                  ; The triad with the matching topic is found
+                  let itm2 (item 2 indexed_triad) ; get the stance of the triad
+                  let stance_difference (current_IP_stance - itm2)
+                  if ( abs(stance_difference) < 0.5 ) [
+                    let change_stance (0.002 * stance_difference)
+                    let new_stance_calculated (itm2 + change_stance) ; MNH fixed 4/5/2023
                     if new_stance_calculated > 3 [
                       set new_stance_calculated 3
-                      set change_stance ( 3 - (item 2 (item len(triadstack))) )
+                      set change_stance ( 3 - itm2 )
                     ]
                     if new_stance_calculated < -3 [
                       set new_stance_calculated -3
-                      set change_stance ( -3 - (item 2 (item len(triadstack))) )
+                      set change_stance ( -3 - itm2 )
                     ]
                     ; this updates the triad's stance
-                    set triadstack (replace-item len triadstack(replace-item 2 (item len  triadstack) new_stance_calculated ))
-                    let id (item 0 (item len(triadstack)) )
+                    set triadstack (replace-item len triadstack (replace-item 2 indexed_triad new_stance_calculated ))
+                    let id (item 0 indexed_triad)
                     identity_action_func reading_agent_id "MODIFY_STANCE" id change_stance "0" "0" tick-count simulation_id
                     information_action_func "RECEIVE" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
                   ]
-                  if ( abs((item 2 (item len(triadstack))) - current_IP_stance) < 0.25 ) [
+                  if ( abs(stance_difference) < 0.25 ) [
+                    ; there is sufficient stance agreement for forwarding
                     ifelse member? Ip_Id_log outbox []
                     [
                       set outbox lput Ip_Id_log outbox
@@ -686,7 +691,7 @@ to read
                     ]
                   ]
                   ; this potentially updates the relationship
-                  if ( abs((item 2 (item len(triadstack))) - current_IP_stance) < 0.05)[
+                  if ( abs(stance_difference) < 0.05 ) [
 
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
@@ -695,7 +700,7 @@ to read
                     ]
                   ]
 
-                  if ( abs((item 2 (item len(triadstack))) - current_IP_stance)  > 5.0)[
+                  if ( abs(stance_difference) > 5.0 ) [
 
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
@@ -722,7 +727,6 @@ to read
                     set temptriad lput topic-id temptriad
                     set temptriad lput stance temptriad
                     set temptopic lput topic-id temptopic
-                    identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                     identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                   ]
                   if temptriad != [] [
