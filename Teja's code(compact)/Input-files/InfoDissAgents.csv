@@ -1,67 +1,67 @@
-id~type
-Belarus Segodnya (sb.by)~information-diss-agents
-1st National Channel (tvr.by)~information-diss-agents
-ONT (ont.by)~information-diss-agents
-Charter97.org~information-diss-agents
-Twitter(LT)~information-diss-agents
-Onliner (onliner.by)~information-diss-agents
-Euroradio (euroradio.fm)~information-diss-agents
-wPolityce (wpolityce.pl)~information-diss-agents
-RMF FM (rmf.fm)~information-diss-agents
-Interia (interia.pl)~information-diss-agents
-Belsat (Belsat.eu)~information-diss-agents
-Twitter(BY)~information-diss-agents
-Alfa (alfa.lt)~information-diss-agents
-TVN24 (tvn24.pl)~information-diss-agents
-TV3 LT (tv3.lt)~information-diss-agents
-Rzeczpospolita (rp.pl)~information-diss-agents
-Lietuvos Rytas (lrytas.lt)~information-diss-agents
-Odnoklassniki(LT)~information-diss-agents
-Wprost (Wprost.eu)~information-diss-agents
-Lietus radio (lietus.fm)~information-diss-agents
-Premise~information-diss-agents
-NashaNiva.com~information-diss-agents
-Facebook(BY)~information-diss-agents
-Gazeta Wyborcza (wyborcza.pl)~information-diss-agents
-Delfi LT (delfi.lt)~information-diss-agents
-VK(BY)~information-diss-agents
-Onet (Onet.pl)~information-diss-agents
-Niezalezna (niezalezna.pl)~information-diss-agents
-LNK~information-diss-agents
-Lenta (lenta.ru)~information-diss-agents
-radio ZET (radiozet.pl)~information-diss-agents
-KP.ru~information-diss-agents
-Wirtualna Polska (wp.pl)~information-diss-agents
-Facebook(LT)~information-diss-agents
-VK(LT)~information-diss-agents
-Verslo Zinios (vz.lt)~information-diss-agents
-TVP Info (tvp.info)~information-diss-agents
-Odnoklassniki(BY)~information-diss-agents
-Pulse~information-diss-agents
-Facebook(PL)~information-diss-agents
-TNT (tnt-online.ru)~information-diss-agents
-KrytykaPolitczyna.pl~information-diss-agents
-Twitter(PL)~information-diss-agents
-VK(PL)~information-diss-agents
-Telegram~information-diss-agents
-TVP1 (tvp.pl)~information-diss-agents
-15min (15min.lt)~information-diss-agents
-Kauno Diena (kauno.diena.lt)~information-diss-agents
-Fakt (fakt.pl)~information-diss-agents
-PBK LT~information-diss-agents
-RIA Novosti (ria.ru)~information-diss-agents
-Sputnik Belarus (sputnik.by)~information-diss-agents
-RUSRADIO (rusradio.lt)~information-diss-agents
-Vakaru Ekspresas (ve.lt)~information-diss-agents
-Respublika (respublika.lt)~information-diss-agents
-Argumenty i Fakty v Belarusi (aif.ru)~information-diss-agents
-O2 (o2.pl)~information-diss-agents
-Odnoklassniki(PL)~information-diss-agents
-Do Rzeczy (dorzeczy.pl)~information-diss-agents
-RBC (rbc.ru)~information-diss-agents
-Belta (eng.belta.by)~information-diss-agents
-LRT (lrt.lt)~information-diss-agents
-Diena (Diena.lt)~information-diss-agents
-Sputnik News LT (sputniknews.ru)~information-diss-agents
-Chain of Command~information-diss-agents
-L24 (l24.lt)~information-diss-agents
+id~type~source
+TV3 LT (tv3.lt)~information-diss-agents~tv
+LRT (lrt.lt)~information-diss-agents~tv
+PBK LT~information-diss-agents~tv
+LNK~information-diss-agents~tv
+Lietus radio (lietus.fm)~information-diss-agents~radio
+RUSRADIO (rusradio.lt)~information-diss-agents~radio
+Kauno Diena (kauno.diena.lt)~information-diss-agents~print_news
+Lietuvos Rytas (lrytas.lt)~information-diss-agents~online_news
+Respublika (respublika.lt)~information-diss-agents~online_news
+Delfi LT (delfi.lt)~information-diss-agents~online_news
+15min (15min.lt)~information-diss-agents~online_news
+Verslo Zinios (vz.lt)~information-diss-agents~online_news
+Lenta (lenta.ru)~information-diss-agents~online_news
+Sputnik News LT (sputniknews.ru)~information-diss-agents~online_news
+Diena (Diena.lt)~information-diss-agents~online_news
+Alfa (alfa.lt)~information-diss-agents~online_news
+Vakaru Ekspresas (ve.lt)~information-diss-agents~online_news
+L24 (l24.lt)~information-diss-agents~online_news
+Facebook(LT)~information-diss-agents~social_media
+Odnoklassniki(LT)~information-diss-agents~social_media
+Twitter(LT)~information-diss-agents~social_media
+VK(LT)~information-diss-agents~social_media
+Pulse~information-diss-agents~type?
+Premise~information-diss-agents~type?
+Chain of Command~information-diss-agents~type?
+TVP1 (tvp.pl)~information-diss-agents~tv
+TVP Info (tvp.info)~information-diss-agents~tv
+TVN24 (tvn24.pl)~information-diss-agents~tv
+RMF FM (rmf.fm)~information-diss-agents~radio
+radio ZET (radiozet.pl)~information-diss-agents~radio
+Fakt (fakt.pl)~information-diss-agents~print_news
+Do Rzeczy (dorzeczy.pl)~information-diss-agents~online_news
+Gazeta Wyborcza (wyborcza.pl)~information-diss-agents~online_news
+Rzeczpospolita (rp.pl)~information-diss-agents~online_news
+Wirtualna Polska (wp.pl)~information-diss-agents~online_news
+Onet (Onet.pl)~information-diss-agents~online_news
+Interia (interia.pl)~information-diss-agents~online_news
+O2 (o2.pl)~information-diss-agents~online_news
+Niezalezna (niezalezna.pl)~information-diss-agents~online_news
+wPolityce (wpolityce.pl)~information-diss-agents~online_news
+Wprost (Wprost.eu)~information-diss-agents~online_news
+KrytykaPolitczyna.pl~information-diss-agents~online_news
+Facebook(PL)~information-diss-agents~social_media
+Odnoklassniki(PL)~information-diss-agents~social_media
+Twitter(PL)~information-diss-agents~social_media
+VK(PL)~information-diss-agents~social_media
+ONT (ont.by)~information-diss-agents~tv
+Belsat (Belsat.eu)~information-diss-agents~tv
+TNT (tnt-online.ru)~information-diss-agents~tv
+Euroradio (euroradio.fm)~information-diss-agents~radio
+1st National Channel (tvr.by)~information-diss-agents~radio
+Argumenty i Fakty v Belarusi (aif.ru)~information-diss-agents~print_news
+Belarus Segodnya (sb.by)~information-diss-agents~online_news
+Sputnik Belarus (sputnik.by)~information-diss-agents~online_news
+Onliner (onliner.by)~information-diss-agents~online_news
+RIA Novosti (ria.ru)~information-diss-agents~online_news
+Belta (eng.belta.by)~information-diss-agents~online_news
+RBC (rbc.ru)~information-diss-agents~online_news
+KP.ru~information-diss-agents~online_news
+NashaNiva.com~information-diss-agents~online_news
+Charter97.org~information-diss-agents~online_news
+Facebook(BY)~information-diss-agents~social_media
+Odnoklassniki(BY)~information-diss-agents~social_media
+Telegram~information-diss-agents~social_media
+Twitter(BY)~information-diss-agents~social_media
+VK(BY)~information-diss-agents~social_media
