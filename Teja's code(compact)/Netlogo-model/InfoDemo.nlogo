@@ -640,7 +640,7 @@ to read
       set tempIpslist inbox
       let j 0
       while [j < length(tempIpslist)] [
-        ;;;; Process the jth item in an inbox
+        ;;;; Process the jth item in an Inbox
         ;;     If the topic is new, maybe add it to the triadstack and create/update the relationship
         ;;     If the topic already exists, update the triad's stance and update the relationship
         ;;     If the stance is strong enough, forward the IP by putting it in the Outbox
@@ -692,31 +692,31 @@ to read
                   ]
                   ; this potentially updates the relationship
                   if ( abs(stance_difference) < 0.05 ) [
-
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
                       table:put Id_trust_table sending_agent_id trust_value + 0.1
                       relationship_action_func reading_agent_id sending_agent_id "INCREASE_TRUST" 0.1 tick-count simulation_id
                     ]
                   ]
-
+                  ; this potentially updates the relationship
                   if ( abs(stance_difference) > 5.0 ) [
-
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
                       table:put Id_trust_table sending_agent_id trust_value - 0.1
                       relationship_action_func reading_agent_id sending_agent_id "DECREASE_TRUST" -0.1 tick-count simulation_id
                     ]
                   ]
-
+                  ; If the 0.5 <= abs(stance_difference) <= 5.0, then the received IP is ignored
+                  set len length(triadstack) ; In any case, the received IP has been considered, so stop searching the triadstack
                 ]
                 set len len + 1
                 ]
               ]
-              [ ; The topic is new, so maybe update the triad's stance and update the relationship with the sender
+              [ ; Else, the topic is new, so maybe update the triad's stance and update the relationship with the sender
               let sending_agents turtles with [breed != IPs and agent-id = sending_agent_id]
               ask sending_agents [
                 if agent-type = "information-diss-agents" [
+                  ; The new topic was received from an information-dissemination agent, so add a triad to the stack
                   let temptriad []
                   let temptopic []
                   ask current_IP [
@@ -729,11 +729,10 @@ to read
                     set temptopic lput topic-id temptopic
                     identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                   ]
-                  if temptriad != [] [
-                    ;print temptriad
-                    ask reading_agent[
-                      set triadstack lput temptriad triadstack
-                      set triadtopics temptopic ]]
+                  ask reading_agent[
+                    set triadstack lput temptriad triadstack
+                    set triadtopics lput temptopic triadtopics
+                  ]
                   set triadno triadno + 1
                   ask reading_agent[
                     ifelse member? Ip_Id_log outbox []
@@ -745,11 +744,12 @@ to read
                   ]
                 ]
                 if (agent-type = "spokesperson" or agent-type = "basic") [
+                  ; The new topic was received from a basic or spokespeerson agent,
+                  ;   so add a triad to the stack if the sender is trusted
                   let trust_value table:get Id_trust_table reading_agent_id
                   if trust_value > 0.8 [
                   let temptriad []
                   let temptopic []
-                  ;let current_IP IPs with [IP-id = item 0 temp]
                   ask current_IP [
                     ;let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
                     let temp_t_name word "_" triadno
@@ -761,11 +761,12 @@ to read
                     set temptopic lput topic-id temptopic
                     identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
                   ]
-                    if temptriad != [] [
+;                    if temptriad != [] [
                      ask reading_agent [
-                        ;print temptriad
                         set triadstack lput temptriad triadstack
-                        set triadtopics temptopic ]]
+                        set triadtopics lput temptopic triadtopics
+                    ]
+;                  ]
                     set triadno triadno + 1
                     ask reading_agent[
                       ifelse member? Ip_Id_log outbox []
@@ -888,7 +889,7 @@ to information_action_func [info_action_type sending_agent_id receiving_agent_id
 end
 
 to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id]
-   set sub-list10[]
+   set sub-list10 []
           set identityactionid identityactionid + 1
           set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
           set sub-list10 lput agent_id sub-list10
@@ -1005,16 +1006,16 @@ to other_agent_send_func
      ;logic for sending the IPs
         let current_agent turtles with [ breed != IPs and agent-id = receiving_agent_id]
      ask current_agent [
-          let j 0
+        let j 0
         while [j < length(tempIpslist)] [
           let triad_topics triadtopics
 
           let temp []
-          set temp lput item j tempIpslist temp; temp stores the current IP id and sending agent id
+          set temp lput item j tempIpslist temp ; temp stores the current IP id and sending agent id
           set temp lput sending_agent_id temp
-             ifelse member? item 0 temp inbox[
-              ]
-              [
+          ifelse member? item 0 temp inbox [
+            ]
+            [
                set inbox lput temp inbox
                ifelse member? item 0 temp amplif_IPslist [
                 information_action_func "SEND" sending_agent_id receiving_agent_id item 0 temp 0 0.1 tick-count simulation_id
