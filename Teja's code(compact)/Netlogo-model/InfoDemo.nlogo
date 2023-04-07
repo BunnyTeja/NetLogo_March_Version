@@ -657,18 +657,20 @@ to read
           ask reading_agent[
 
 
-            ifelse member? Ip_topic triad_topics [
+            ifelse member? Ip_topic triadtopics [
               ; The topic already exists, so maybe update the triad's stance and update the relationship with the sender
               ; Look through the stack to find the triad
               let len 0
               while [len < length(triadstack)] [
                 let indexed_triad item len triadstack
+                let change_stance 0
+                let triad_id_to_log 0
                 if item 1 indexed_triad = Ip_topic [
                   ; The triad with the matching topic is found
                   let itm2 (item 2 indexed_triad) ; get the stance of the triad
                   let stance_difference (current_IP_stance - itm2)
                   if ( abs(stance_difference) < 0.5 ) [
-                    let change_stance (0.002 * stance_difference)
+                    set change_stance (0.002 * stance_difference)
                     let new_stance_calculated (itm2 + change_stance) ; MNH fixed 4/5/2023
                     if new_stance_calculated > 3 [
                       set new_stance_calculated 3
@@ -681,13 +683,10 @@ to read
 
                       if change_stance != 0[
                       set triadstack (replace-item len triadstack(replace-item 2  (item len  triadstack) new_stance_calculated ))
-                      let triad_id_to_log (item 0 (item len(triadstack)) )
-                      identity_action_func reading_agent_id "MODIFY_STANCE" triad_id_to_log change_stance "0" "0" tick-count simulation_id
+                      set triad_id_to_log (item 0 (item len(triadstack)) )
+                      ;identity_action_func reading_agent_id "MODIFY_STANCE" triad_id_to_log change_stance "0" "0" tick-count simulation_id
                     ]
                       information_action_func "RECEIVE" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
-
-                    ; this updates the triad's stance
-
 
                   ]
                   if ( abs(stance_difference) < 0.25 ) [
@@ -716,17 +715,15 @@ to read
                   ]
 
                   ]
+                 if change_stance != 0[
 
-
-
-;                    [
-            ;      ]
-
-
+                      identity_action_func reading_agent_id "MODIFY_STANCE" triad_id_to_log change_stance "0" "0" tick-count simulation_id 0
+                    ]
                   ; If the 0.5 <= abs(stance_difference) <= 5.0, then the received IP is ignored
-                  set len length(triadstack) ; In any case, the received IP has been considered, so stop searching the triadstac
+                  ;set len length(triadstack) ; In any case, the received IP has been considered, so stop searching the triadstac
+                 set len len + 1
                 ]
-                set len len + 1
+
                 ]
 
               [ ; Else, the topic is new, so maybe update the triad's stance and update the relationship with the sender
@@ -741,8 +738,8 @@ to read
                   ;if temptriad != [] [
                     ;print temptriad
                     ask reading_agent[
-;                    ifelse member? Ip_topic triadtopics []
-;                    [
+                    ifelse member? Ip_topic triadtopics []
+                    [
                     let triad_to_log 0
                     let test_triadtopics triadtopics
                     ask current_IP[
@@ -756,23 +753,12 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                       ]
-                    identity_action_func reading_agent_id "CREATE_by_info" triad_to_log 0 "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE_by_info" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
-                    ;]
+                    ]
                   ]
-                ;]
-;                   ask reading_agent[
-;
-;                    set temptopic lput topic-id temptopic
-;                    identity_action_func reading_agent_id "CREATE" new_triad_id stance "0" "0" tick-count simulation_id
-;                  ]
-;                  ask reading_agent[
-;                    set triadstack lput temptriad triadstack
-;                    set triadtopics lput temptopic triadtopics
-;                  ]
-;                  set triadno triadno + 1
                   ask reading_agent[
 
                     ifelse member? Ip_Id_log outbox []
@@ -793,8 +779,8 @@ to read
                   let temptopic 0
                   ;let current_IP IPs with [IP-id = item 0 temp]
                   ask reading_agent[
-;                      ifelse member? Ip_topic triadtopics []
-;                    [
+                      ifelse member? Ip_topic triadtopics []
+                    [
                     let triad_to_log 0
                     let test_triadtopics triadtopics
                     ask current_IP[
@@ -809,11 +795,11 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                     ]
-                    identity_action_func reading_agent_id "CREATE_by_other" triad_to_log 0 "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE_by_other" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
-                      ;]
+                      ]
                     ]
                     ask reading_agent[
                       ifelse member? Ip_Id_log outbox []
@@ -935,7 +921,7 @@ to information_action_func [info_action_type sending_agent_id receiving_agent_id
             set Information_Action_list lput sub_list_IA Information_Action_list
 end
 
-to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id]
+to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id temp_top_id ]
    set sub-list10 []
           set identityactionid identityactionid + 1
           set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
@@ -953,7 +939,7 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           set sub-list10 lput tick_no sub-list10
           set sub-list10 lput sim_id sub-list10
     ;      set sub-list10 lput ts_test sub-list10
-;          set sub-list10 lput temp_top_id sub-list10
+          set sub-list10 lput temp_top_id sub-list10
           ;set sub-list10 lput date-and-time sub-list10
           set identity-list lput sub-list10 identity-list
 end

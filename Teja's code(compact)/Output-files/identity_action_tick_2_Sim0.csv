@@ -1,1006 +1,643 @@
 identity_action_id~agent_id~identity_action_type~triad_id~change_in_stance~change_in_latitude~change_in_longitude~tick~simulation_id
-Identity_Act_id_1500~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_94~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1501~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_94~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1502~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_94~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_1503~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1504~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1505~Edita Baniene~CREATE_by_other~Triad_ID_2_1~0~0~0~2~Sim0
-Identity_Act_id_1506~Edita Baniene~CREATE_by_other~Triad_ID_2_2~0~0~0~2~Sim0
-Identity_Act_id_1507~Edita Baniene~CREATE_by_other~Triad_ID_2_3~0~0~0~2~Sim0
-Identity_Act_id_1508~Edita Baniene~CREATE_by_other~Triad_ID_2_4~0~0~0~2~Sim0
-Identity_Act_id_1509~Edita Baniene~CREATE_by_other~Triad_ID_2_5~0~0~0~2~Sim0
-Identity_Act_id_1510~Edita Baniene~CREATE_by_other~Triad_ID_2_6~0~0~0~2~Sim0
-Identity_Act_id_1511~Edita Baniene~CREATE_by_other~Triad_ID_2_7~0~0~0~2~Sim0
-Identity_Act_id_1512~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_1513~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.968071952000001E-4~0~0~2~Sim0
-Identity_Act_id_1514~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.956135808096001E-4~0~0~2~Sim0
-Identity_Act_id_1515~Edita Baniene~CREATE_by_other~Triad_ID_2_8~0~0~0~2~Sim0
-Identity_Act_id_1516~Edita Baniene~CREATE_by_other~Triad_ID_2_9~0~0~0~2~Sim0
-Identity_Act_id_1517~Edita Baniene~CREATE_by_other~Triad_ID_2_10~0~0~0~2~Sim0
-Identity_Act_id_1518~Edita Baniene~CREATE_by_other~Triad_ID_2_11~0~0~0~2~Sim0
-Identity_Act_id_1519~Edita Baniene~CREATE_by_other~Triad_ID_2_12~0~0~0~2~Sim0
-Identity_Act_id_1520~Edita Baniene~CREATE_by_other~Triad_ID_2_13~0~0~0~2~Sim0
-Identity_Act_id_1521~Edita Baniene~CREATE_by_other~Triad_ID_2_14~0~0~0~2~Sim0
-Identity_Act_id_1522~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~3.9442235364798087E-4~0~0~2~Sim0
-Identity_Act_id_1523~Edita Baniene~CREATE_by_other~Triad_ID_2_15~0~0~0~2~Sim0
-Identity_Act_id_1524~Edita Baniene~CREATE_by_other~Triad_ID_2_16~0~0~0~2~Sim0
-Identity_Act_id_1525~Edita Baniene~CREATE_by_other~Triad_ID_2_17~0~0~0~2~Sim0
-Identity_Act_id_1526~Edita Baniene~CREATE_by_other~Triad_ID_2_18~0~0~0~2~Sim0
-Identity_Act_id_1527~Edita Baniene~CREATE_by_other~Triad_ID_2_19~0~0~0~2~Sim0
-Identity_Act_id_1528~Edita Baniene~CREATE_by_other~Triad_ID_2_20~0~0~0~2~Sim0
-Identity_Act_id_1529~Edita Baniene~CREATE_by_other~Triad_ID_2_21~0~0~0~2~Sim0
-Identity_Act_id_1530~Edita Baniene~CREATE_by_other~Triad_ID_2_22~0~0~0~2~Sim0
-Identity_Act_id_1531~Edita Baniene~CREATE_by_other~Triad_ID_2_23~0~0~0~2~Sim0
-Identity_Act_id_1532~Edita Baniene~CREATE_by_other~Triad_ID_2_24~0~0~0~2~Sim0
-Identity_Act_id_1533~Edita Baniene~CREATE_by_other~Triad_ID_2_25~0~0~0~2~Sim0
-Identity_Act_id_1534~Edita Baniene~CREATE_by_other~Triad_ID_2_26~0~0~0~2~Sim0
-Identity_Act_id_1535~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.936335089406849E-4~0~0~2~Sim0
-Identity_Act_id_1536~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.924462419228036E-4~0~0~2~Sim0
-Identity_Act_id_1537~Edita Baniene~CREATE_by_other~Triad_ID_2_27~0~0~0~2~Sim0
-Identity_Act_id_1538~Edita Baniene~CREATE_by_other~Triad_ID_2_28~0~0~0~2~Sim0
-Identity_Act_id_1539~Edita Baniene~CREATE_by_other~Triad_ID_2_29~0~0~0~2~Sim0
-Identity_Act_id_1540~Edita Baniene~CREATE_by_other~Triad_ID_2_30~0~0~0~2~Sim0
-Identity_Act_id_1541~Edita Baniene~CREATE_by_other~Triad_ID_2_31~0~0~0~2~Sim0
-Identity_Act_id_1542~Edita Baniene~CREATE_by_other~Triad_ID_2_32~0~0~0~2~Sim0
-Identity_Act_id_1543~Edita Baniene~CREATE_by_other~Triad_ID_2_33~0~0~0~2~Sim0
-Identity_Act_id_1544~Edita Baniene~CREATE_by_other~Triad_ID_2_34~0~0~0~2~Sim0
-Identity_Act_id_1545~Edita Baniene~CREATE_by_other~Triad_ID_2_35~0~0~0~2~Sim0
-Identity_Act_id_1546~Edita Baniene~CREATE_by_other~Triad_ID_2_36~0~0~0~2~Sim0
-Identity_Act_id_1547~Edita Baniene~CREATE_by_other~Triad_ID_2_37~0~0~0~2~Sim0
-Identity_Act_id_1548~Edita Baniene~CREATE_by_other~Triad_ID_2_38~0~0~0~2~Sim0
-Identity_Act_id_1549~Edita Baniene~CREATE_by_other~Triad_ID_2_39~0~0~0~2~Sim0
-Identity_Act_id_1550~Edita Baniene~CREATE_by_other~Triad_ID_2_40~0~0~0~2~Sim0
-Identity_Act_id_1551~Edita Baniene~CREATE_by_other~Triad_ID_2_41~0~0~0~2~Sim0
-Identity_Act_id_1552~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.91261349438958E-4~0~0~2~Sim0
-Identity_Act_id_1553~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~5.900788267400801E-4~0~0~2~Sim0
-Identity_Act_id_1554~Edita Baniene~MODIFY_STANCE~Triad_ID_1_1026~3.888986690865998E-4~0~0~2~Sim0
-Identity_Act_id_1555~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_42~0~0~0~2~Sim0
-Identity_Act_id_1556~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_43~0~0~0~2~Sim0
-Identity_Act_id_1557~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_44~0~0~0~2~Sim0
-Identity_Act_id_1558~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_45~0~0~0~2~Sim0
-Identity_Act_id_1559~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_46~0~0~0~2~Sim0
-Identity_Act_id_1560~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_47~0~0~0~2~Sim0
-Identity_Act_id_1561~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_48~0~0~0~2~Sim0
-Identity_Act_id_1562~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_49~0~0~0~2~Sim0
-Identity_Act_id_1563~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_50~0~0~0~2~Sim0
-Identity_Act_id_1564~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_51~0~0~0~2~Sim0
-Identity_Act_id_1565~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1566~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_1567~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_1568~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_52~0~0~0~2~Sim0
-Identity_Act_id_1569~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_53~0~0~0~2~Sim0
-Identity_Act_id_1570~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_54~0~0~0~2~Sim0
-Identity_Act_id_1571~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_55~0~0~0~2~Sim0
-Identity_Act_id_1572~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_56~0~0~0~2~Sim0
-Identity_Act_id_1573~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_57~0~0~0~2~Sim0
-Identity_Act_id_1574~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_58~0~0~0~2~Sim0
-Identity_Act_id_1575~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_59~0~0~0~2~Sim0
-Identity_Act_id_1576~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_60~0~0~0~2~Sim0
-Identity_Act_id_1577~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_61~0~0~0~2~Sim0
-Identity_Act_id_1578~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~3.9680719520000004E-4~0~0~2~Sim0
-Identity_Act_id_1579~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_62~0~0~0~2~Sim0
-Identity_Act_id_1580~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_63~0~0~0~2~Sim0
-Identity_Act_id_1581~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_64~0~0~0~2~Sim0
-Identity_Act_id_1582~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_65~0~0~0~2~Sim0
-Identity_Act_id_1583~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_66~0~0~0~2~Sim0
-Identity_Act_id_1584~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_67~0~0~0~2~Sim0
-Identity_Act_id_1585~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_68~0~0~0~2~Sim0
-Identity_Act_id_1586~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_69~0~0~0~2~Sim0
-Identity_Act_id_1587~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_70~0~0~0~2~Sim0
-Identity_Act_id_1588~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_71~0~0~0~2~Sim0
-Identity_Act_id_1589~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~3.9601358080960003E-4~0~0~2~Sim0
-Identity_Act_id_1590~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_72~0~0~0~2~Sim0
-Identity_Act_id_1591~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_73~0~0~0~2~Sim0
-Identity_Act_id_1592~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_74~0~0~0~2~Sim0
-Identity_Act_id_1593~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_75~0~0~0~2~Sim0
-Identity_Act_id_1594~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_76~0~0~0~2~Sim0
-Identity_Act_id_1595~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_77~0~0~0~2~Sim0
-Identity_Act_id_1596~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_78~0~0~0~2~Sim0
-Identity_Act_id_1597~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_79~0~0~0~2~Sim0
-Identity_Act_id_1598~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_80~0~0~0~2~Sim0
-Identity_Act_id_1599~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_81~0~0~0~2~Sim0
-Identity_Act_id_1600~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_82~0~0~0~2~Sim0
-Identity_Act_id_1601~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_83~0~0~0~2~Sim0
-Identity_Act_id_1602~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_84~0~0~0~2~Sim0
-Identity_Act_id_1603~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_85~0~0~0~2~Sim0
-Identity_Act_id_1604~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_86~0~0~0~2~Sim0
-Identity_Act_id_1605~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_87~0~0~0~2~Sim0
-Identity_Act_id_1606~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_88~0~0~0~2~Sim0
-Identity_Act_id_1607~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_89~0~0~0~2~Sim0
-Identity_Act_id_1608~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_90~0~0~0~2~Sim0
-Identity_Act_id_1609~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_91~0~0~0~2~Sim0
-Identity_Act_id_1610~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_92~0~0~0~2~Sim0
-Identity_Act_id_1611~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_93~0~0~0~2~Sim0
-Identity_Act_id_1612~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_94~0~0~0~2~Sim0
-Identity_Act_id_1613~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_95~0~0~0~2~Sim0
-Identity_Act_id_1614~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_96~0~0~0~2~Sim0
-Identity_Act_id_1615~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_97~0~0~0~2~Sim0
-Identity_Act_id_1616~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_98~0~0~0~2~Sim0
-Identity_Act_id_1617~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_99~0~0~0~2~Sim0
-Identity_Act_id_1618~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_100~0~0~0~2~Sim0
-Identity_Act_id_1619~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_101~0~0~0~2~Sim0
-Identity_Act_id_1620~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_102~0~0~0~2~Sim0
-Identity_Act_id_1621~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_103~0~0~0~2~Sim0
-Identity_Act_id_1622~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_104~0~0~0~2~Sim0
-Identity_Act_id_1623~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~5.952215536479809E-4~0~0~2~Sim0
-Identity_Act_id_1624~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~5.94031110540685E-4~0~0~2~Sim0
-Identity_Act_id_1625~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_105~0~0~0~2~Sim0
-Identity_Act_id_1626~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_106~0~0~0~2~Sim0
-Identity_Act_id_1627~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_107~0~0~0~2~Sim0
-Identity_Act_id_1628~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_108~0~0~0~2~Sim0
-Identity_Act_id_1629~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_109~0~0~0~2~Sim0
-Identity_Act_id_1630~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_110~0~0~0~2~Sim0
-Identity_Act_id_1631~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_111~0~0~0~2~Sim0
-Identity_Act_id_1632~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_112~0~0~0~2~Sim0
-Identity_Act_id_1633~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_113~0~0~0~2~Sim0
-Identity_Act_id_1634~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_114~0~0~0~2~Sim0
-Identity_Act_id_1635~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_115~0~0~0~2~Sim0
-Identity_Act_id_1636~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_116~0~0~0~2~Sim0
-Identity_Act_id_1637~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_117~0~0~0~2~Sim0
-Identity_Act_id_1638~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_118~0~0~0~2~Sim0
-Identity_Act_id_1639~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~5.928430483196035E-4~0~0~2~Sim0
-Identity_Act_id_1640~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~5.916573622229644E-4~0~0~2~Sim0
-Identity_Act_id_1641~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_300~3.9047404749851833E-4~0~0~2~Sim0
-Identity_Act_id_1642~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_119~0~0~0~2~Sim0
-Identity_Act_id_1643~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_120~0~0~0~2~Sim0
-Identity_Act_id_1644~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_121~0~0~0~2~Sim0
-Identity_Act_id_1645~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_122~0~0~0~2~Sim0
-Identity_Act_id_1646~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_123~0~0~0~2~Sim0
-Identity_Act_id_1647~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_124~0~0~0~2~Sim0
-Identity_Act_id_1648~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_125~0~0~0~2~Sim0
-Identity_Act_id_1649~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_126~0~0~0~2~Sim0
-Identity_Act_id_1650~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_127~0~0~0~2~Sim0
-Identity_Act_id_1651~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_128~0~0~0~2~Sim0
-Identity_Act_id_1652~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_129~0~0~0~2~Sim0
-Identity_Act_id_1653~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_130~0~0~0~2~Sim0
-Identity_Act_id_1654~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_131~0~0~0~2~Sim0
-Identity_Act_id_1655~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_132~0~0~0~2~Sim0
-Identity_Act_id_1656~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_133~0~0~0~2~Sim0
-Identity_Act_id_1657~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_134~0~0~0~2~Sim0
-Identity_Act_id_1658~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_135~0~0~0~2~Sim0
-Identity_Act_id_1659~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_136~0~0~0~2~Sim0
-Identity_Act_id_1660~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_137~0~0~0~2~Sim0
-Identity_Act_id_1661~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_138~0~0~0~2~Sim0
-Identity_Act_id_1662~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_139~0~0~0~2~Sim0
-Identity_Act_id_1663~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_140~0~0~0~2~Sim0
-Identity_Act_id_1664~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_141~0~0~0~2~Sim0
-Identity_Act_id_1665~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_142~0~0~0~2~Sim0
-Identity_Act_id_1666~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_143~0~0~0~2~Sim0
-Identity_Act_id_1667~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_144~0~0~0~2~Sim0
-Identity_Act_id_1668~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_145~0~0~0~2~Sim0
-Identity_Act_id_1669~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_146~0~0~0~2~Sim0
-Identity_Act_id_1670~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_147~0~0~0~2~Sim0
-Identity_Act_id_1671~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_148~0~0~0~2~Sim0
-Identity_Act_id_1672~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_149~0~0~0~2~Sim0
-Identity_Act_id_1673~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_150~0~0~0~2~Sim0
-Identity_Act_id_1674~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_151~0~0~0~2~Sim0
-Identity_Act_id_1675~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_152~0~0~0~2~Sim0
-Identity_Act_id_1676~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_153~0~0~0~2~Sim0
-Identity_Act_id_1677~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_154~0~0~0~2~Sim0
-Identity_Act_id_1678~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_155~0~0~0~2~Sim0
-Identity_Act_id_1679~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_156~0~0~0~2~Sim0
-Identity_Act_id_1680~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_157~0~0~0~2~Sim0
-Identity_Act_id_1681~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_158~0~0~0~2~Sim0
-Identity_Act_id_1682~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_159~0~0~0~2~Sim0
-Identity_Act_id_1683~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_160~0~0~0~2~Sim0
-Identity_Act_id_1684~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_161~0~0~0~2~Sim0
-Identity_Act_id_1685~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_162~0~0~0~2~Sim0
-Identity_Act_id_1686~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_163~0~0~0~2~Sim0
-Identity_Act_id_1687~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_164~0~0~0~2~Sim0
-Identity_Act_id_1688~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_165~0~0~0~2~Sim0
-Identity_Act_id_1689~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_166~0~0~0~2~Sim0
-Identity_Act_id_1690~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_167~0~0~0~2~Sim0
-Identity_Act_id_1691~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_168~0~0~0~2~Sim0
-Identity_Act_id_1692~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_169~0~0~0~2~Sim0
-Identity_Act_id_1693~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_170~0~0~0~2~Sim0
-Identity_Act_id_1694~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_171~0~0~0~2~Sim0
-Identity_Act_id_1695~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_172~0~0~0~2~Sim0
-Identity_Act_id_1696~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_173~0~0~0~2~Sim0
-Identity_Act_id_1697~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_174~0~0~0~2~Sim0
-Identity_Act_id_1698~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_175~0~0~0~2~Sim0
-Identity_Act_id_1699~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_176~0~0~0~2~Sim0
-Identity_Act_id_1700~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_177~0~0~0~2~Sim0
-Identity_Act_id_1701~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_178~0~0~0~2~Sim0
-Identity_Act_id_1702~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_179~0~0~0~2~Sim0
-Identity_Act_id_1703~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_180~0~0~0~2~Sim0
-Identity_Act_id_1704~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_181~0~0~0~2~Sim0
-Identity_Act_id_1705~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_182~0~0~0~2~Sim0
-Identity_Act_id_1706~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_183~0~0~0~2~Sim0
-Identity_Act_id_1707~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_184~0~0~0~2~Sim0
-Identity_Act_id_1708~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_185~0~0~0~2~Sim0
-Identity_Act_id_1709~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_186~0~0~0~2~Sim0
-Identity_Act_id_1710~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_187~0~0~0~2~Sim0
-Identity_Act_id_1711~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_188~0~0~0~2~Sim0
-Identity_Act_id_1712~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_189~0~0~0~2~Sim0
-Identity_Act_id_1713~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_190~0~0~0~2~Sim0
-Identity_Act_id_1714~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_191~0~0~0~2~Sim0
-Identity_Act_id_1715~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_192~0~0~0~2~Sim0
-Identity_Act_id_1716~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_193~0~0~0~2~Sim0
-Identity_Act_id_1717~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_194~0~0~0~2~Sim0
-Identity_Act_id_1718~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_195~0~0~0~2~Sim0
-Identity_Act_id_1719~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_196~0~0~0~2~Sim0
-Identity_Act_id_1720~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_197~0~0~0~2~Sim0
-Identity_Act_id_1721~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_198~0~0~0~2~Sim0
-Identity_Act_id_1722~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_199~0~0~0~2~Sim0
-Identity_Act_id_1723~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_200~0~0~0~2~Sim0
-Identity_Act_id_1724~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_201~0~0~0~2~Sim0
-Identity_Act_id_1725~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_202~0~0~0~2~Sim0
-Identity_Act_id_1726~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_203~0~0~0~2~Sim0
-Identity_Act_id_1727~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_204~0~0~0~2~Sim0
-Identity_Act_id_1728~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_205~0~0~0~2~Sim0
-Identity_Act_id_1729~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_206~0~0~0~2~Sim0
-Identity_Act_id_1730~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_207~0~0~0~2~Sim0
-Identity_Act_id_1731~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_208~0~0~0~2~Sim0
-Identity_Act_id_1732~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_209~0~0~0~2~Sim0
-Identity_Act_id_1733~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_210~0~0~0~2~Sim0
-Identity_Act_id_1734~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_211~0~0~0~2~Sim0
-Identity_Act_id_1735~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_212~0~0~0~2~Sim0
-Identity_Act_id_1736~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_213~0~0~0~2~Sim0
-Identity_Act_id_1737~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_214~0~0~0~2~Sim0
-Identity_Act_id_1738~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_215~0~0~0~2~Sim0
-Identity_Act_id_1739~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_216~0~0~0~2~Sim0
-Identity_Act_id_1740~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_217~0~0~0~2~Sim0
-Identity_Act_id_1741~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_218~0~0~0~2~Sim0
-Identity_Act_id_1742~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_219~0~0~0~2~Sim0
-Identity_Act_id_1743~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_220~0~0~0~2~Sim0
-Identity_Act_id_1744~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_221~0~0~0~2~Sim0
-Identity_Act_id_1745~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_222~0~0~0~2~Sim0
-Identity_Act_id_1746~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_223~0~0~0~2~Sim0
-Identity_Act_id_1747~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_224~0~0~0~2~Sim0
-Identity_Act_id_1748~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_225~0~0~0~2~Sim0
-Identity_Act_id_1749~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_226~0~0~0~2~Sim0
-Identity_Act_id_1750~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_227~0~0~0~2~Sim0
-Identity_Act_id_1751~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_228~0~0~0~2~Sim0
-Identity_Act_id_1752~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_229~0~0~0~2~Sim0
-Identity_Act_id_1753~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_230~0~0~0~2~Sim0
-Identity_Act_id_1754~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_231~0~0~0~2~Sim0
-Identity_Act_id_1755~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_232~0~0~0~2~Sim0
-Identity_Act_id_1756~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_233~0~0~0~2~Sim0
-Identity_Act_id_1757~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_234~0~0~0~2~Sim0
-Identity_Act_id_1758~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_235~0~0~0~2~Sim0
-Identity_Act_id_1759~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_236~0~0~0~2~Sim0
-Identity_Act_id_1760~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_237~0~0~0~2~Sim0
-Identity_Act_id_1761~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_238~0~0~0~2~Sim0
-Identity_Act_id_1762~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_239~0~0~0~2~Sim0
-Identity_Act_id_1763~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_240~0~0~0~2~Sim0
-Identity_Act_id_1764~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_241~0~0~0~2~Sim0
-Identity_Act_id_1765~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_242~0~0~0~2~Sim0
-Identity_Act_id_1766~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_243~0~0~0~2~Sim0
-Identity_Act_id_1767~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_244~0~0~0~2~Sim0
-Identity_Act_id_1768~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_245~0~0~0~2~Sim0
-Identity_Act_id_1769~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_246~0~0~0~2~Sim0
-Identity_Act_id_1770~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_247~0~0~0~2~Sim0
-Identity_Act_id_1771~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_248~0~0~0~2~Sim0
-Identity_Act_id_1772~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_249~0~0~0~2~Sim0
-Identity_Act_id_1773~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_250~0~0~0~2~Sim0
-Identity_Act_id_1774~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_251~0~0~0~2~Sim0
-Identity_Act_id_1775~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_252~0~0~0~2~Sim0
-Identity_Act_id_1776~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_253~0~0~0~2~Sim0
-Identity_Act_id_1777~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_254~0~0~0~2~Sim0
-Identity_Act_id_1778~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~4.0E-4~0~0~2~Sim0
-Identity_Act_id_1779~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.992E-4~0~0~2~Sim0
-Identity_Act_id_1780~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.980016000000001E-4~0~0~2~Sim0
-Identity_Act_id_1781~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~3.9680559680000006E-4~0~0~2~Sim0
-Identity_Act_id_1782~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_255~0~0~0~2~Sim0
-Identity_Act_id_1783~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_256~0~0~0~2~Sim0
-Identity_Act_id_1784~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_257~0~0~0~2~Sim0
-Identity_Act_id_1785~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_258~0~0~0~2~Sim0
-Identity_Act_id_1786~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_259~0~0~0~2~Sim0
-Identity_Act_id_1787~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_260~0~0~0~2~Sim0
-Identity_Act_id_1788~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_261~0~0~0~2~Sim0
-Identity_Act_id_1789~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_262~0~0~0~2~Sim0
-Identity_Act_id_1790~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_263~0~0~0~2~Sim0
-Identity_Act_id_1791~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_264~0~0~0~2~Sim0
-Identity_Act_id_1792~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_265~0~0~0~2~Sim0
-Identity_Act_id_1793~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_266~0~0~0~2~Sim0
-Identity_Act_id_1794~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.960119856064001E-4~0~0~2~Sim0
-Identity_Act_id_1795~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.948199616351873E-4~0~0~2~Sim0
-Identity_Act_id_1796~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_267~0~0~0~2~Sim0
-Identity_Act_id_1797~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_268~0~0~0~2~Sim0
-Identity_Act_id_1798~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_269~0~0~0~2~Sim0
-Identity_Act_id_1799~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_270~0~0~0~2~Sim0
-Identity_Act_id_1800~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_271~0~0~0~2~Sim0
-Identity_Act_id_1801~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_272~0~0~0~2~Sim0
-Identity_Act_id_1802~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_273~0~0~0~2~Sim0
-Identity_Act_id_1803~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_274~0~0~0~2~Sim0
-Identity_Act_id_1804~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.936303217119169E-4~0~0~2~Sim0
-Identity_Act_id_1805~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~5.924430610684932E-4~0~0~2~Sim0
-Identity_Act_id_1806~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_978~3.91258174946356E-4~0~0~2~Sim0
-Identity_Act_id_1807~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_1441~4.0E-4~0~0~2~Sim0
-Identity_Act_id_1808~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_1441~3.992E-4~0~0~2~Sim0
-Identity_Act_id_1809~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_275~0~0~0~2~Sim0
-Identity_Act_id_1810~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_276~0~0~0~2~Sim0
-Identity_Act_id_1811~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_277~0~0~0~2~Sim0
-Identity_Act_id_1812~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_278~0~0~0~2~Sim0
-Identity_Act_id_1813~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_279~0~0~0~2~Sim0
-Identity_Act_id_1814~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_280~0~0~0~2~Sim0
-Identity_Act_id_1815~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_281~0~0~0~2~Sim0
-Identity_Act_id_1816~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_282~0~0~0~2~Sim0
-Identity_Act_id_1817~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_283~0~0~0~2~Sim0
-Identity_Act_id_1818~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_284~0~0~0~2~Sim0
-Identity_Act_id_1819~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_285~0~0~0~2~Sim0
-Identity_Act_id_1820~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_286~0~0~0~2~Sim0
-Identity_Act_id_1821~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_287~0~0~0~2~Sim0
-Identity_Act_id_1822~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_288~0~0~0~2~Sim0
-Identity_Act_id_1823~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_289~0~0~0~2~Sim0
-Identity_Act_id_1824~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_290~0~0~0~2~Sim0
-Identity_Act_id_1825~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_291~0~0~0~2~Sim0
-Identity_Act_id_1826~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_292~0~0~0~2~Sim0
-Identity_Act_id_1827~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_293~0~0~0~2~Sim0
-Identity_Act_id_1828~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_294~0~0~0~2~Sim0
-Identity_Act_id_1829~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_295~0~0~0~2~Sim0
-Identity_Act_id_1830~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_296~0~0~0~2~Sim0
-Identity_Act_id_1831~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_297~0~0~0~2~Sim0
-Identity_Act_id_1832~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_298~0~0~0~2~Sim0
-Identity_Act_id_1833~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_299~0~0~0~2~Sim0
-Identity_Act_id_1834~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_300~0~0~0~2~Sim0
-Identity_Act_id_1835~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_301~0~0~0~2~Sim0
-Identity_Act_id_1836~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_302~0~0~0~2~Sim0
-Identity_Act_id_1837~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_303~0~0~0~2~Sim0
-Identity_Act_id_1838~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_304~0~0~0~2~Sim0
-Identity_Act_id_1839~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_305~0~0~0~2~Sim0
-Identity_Act_id_1840~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_306~0~0~0~2~Sim0
-Identity_Act_id_1841~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_307~0~0~0~2~Sim0
-Identity_Act_id_1842~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_308~0~0~0~2~Sim0
-Identity_Act_id_1843~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_309~0~0~0~2~Sim0
-Identity_Act_id_1844~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_310~0~0~0~2~Sim0
-Identity_Act_id_1845~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_311~0~0~0~2~Sim0
-Identity_Act_id_1846~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_312~0~0~0~2~Sim0
-Identity_Act_id_1847~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_313~0~0~0~2~Sim0
-Identity_Act_id_1848~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_314~0~0~0~2~Sim0
-Identity_Act_id_1849~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_315~0~0~0~2~Sim0
-Identity_Act_id_1850~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_316~0~0~0~2~Sim0
-Identity_Act_id_1851~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_317~0~0~0~2~Sim0
-Identity_Act_id_1852~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_318~0~0~0~2~Sim0
-Identity_Act_id_1853~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_319~0~0~0~2~Sim0
-Identity_Act_id_1854~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_320~0~0~0~2~Sim0
-Identity_Act_id_1855~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_321~0~0~0~2~Sim0
-Identity_Act_id_1856~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_322~0~0~0~2~Sim0
-Identity_Act_id_1857~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_323~0~0~0~2~Sim0
-Identity_Act_id_1858~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_324~0~0~0~2~Sim0
-Identity_Act_id_1859~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_325~0~0~0~2~Sim0
-Identity_Act_id_1860~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_326~0~0~0~2~Sim0
-Identity_Act_id_1861~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_327~0~0~0~2~Sim0
-Identity_Act_id_1862~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_328~0~0~0~2~Sim0
-Identity_Act_id_1863~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_329~0~0~0~2~Sim0
-Identity_Act_id_1864~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_330~0~0~0~2~Sim0
-Identity_Act_id_1865~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_331~0~0~0~2~Sim0
-Identity_Act_id_1866~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_332~0~0~0~2~Sim0
-Identity_Act_id_1867~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_333~0~0~0~2~Sim0
-Identity_Act_id_1868~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_334~0~0~0~2~Sim0
-Identity_Act_id_1869~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_335~0~0~0~2~Sim0
-Identity_Act_id_1870~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_336~0~0~0~2~Sim0
-Identity_Act_id_1871~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_337~0~0~0~2~Sim0
-Identity_Act_id_1872~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_338~0~0~0~2~Sim0
-Identity_Act_id_1873~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_339~0~0~0~2~Sim0
-Identity_Act_id_1874~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_340~0~0~0~2~Sim0
-Identity_Act_id_1875~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_341~0~0~0~2~Sim0
-Identity_Act_id_1876~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_342~0~0~0~2~Sim0
-Identity_Act_id_1877~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_343~0~0~0~2~Sim0
-Identity_Act_id_1878~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_344~0~0~0~2~Sim0
-Identity_Act_id_1879~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_345~0~0~0~2~Sim0
-Identity_Act_id_1880~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_346~0~0~0~2~Sim0
-Identity_Act_id_1881~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_347~0~0~0~2~Sim0
-Identity_Act_id_1882~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_348~0~0~0~2~Sim0
-Identity_Act_id_1883~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_349~0~0~0~2~Sim0
-Identity_Act_id_1884~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_350~0~0~0~2~Sim0
-Identity_Act_id_1885~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_351~0~0~0~2~Sim0
-Identity_Act_id_1886~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_352~0~0~0~2~Sim0
-Identity_Act_id_1887~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_353~0~0~0~2~Sim0
-Identity_Act_id_1888~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_354~0~0~0~2~Sim0
-Identity_Act_id_1889~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_355~0~0~0~2~Sim0
-Identity_Act_id_1890~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_356~0~0~0~2~Sim0
-Identity_Act_id_1891~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_357~0~0~0~2~Sim0
-Identity_Act_id_1892~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_358~0~0~0~2~Sim0
-Identity_Act_id_1893~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_359~0~0~0~2~Sim0
-Identity_Act_id_1894~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_360~0~0~0~2~Sim0
-Identity_Act_id_1895~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_361~0~0~0~2~Sim0
-Identity_Act_id_1896~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_362~0~0~0~2~Sim0
-Identity_Act_id_1897~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_363~0~0~0~2~Sim0
-Identity_Act_id_1898~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_364~0~0~0~2~Sim0
-Identity_Act_id_1899~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_365~0~0~0~2~Sim0
-Identity_Act_id_1900~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_366~0~0~0~2~Sim0
-Identity_Act_id_1901~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_367~0~0~0~2~Sim0
-Identity_Act_id_1902~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_368~0~0~0~2~Sim0
-Identity_Act_id_1903~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_369~0~0~0~2~Sim0
-Identity_Act_id_1904~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_370~0~0~0~2~Sim0
-Identity_Act_id_1905~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_371~0~0~0~2~Sim0
-Identity_Act_id_1906~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_372~0~0~0~2~Sim0
-Identity_Act_id_1907~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_373~0~0~0~2~Sim0
-Identity_Act_id_1908~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_374~0~0~0~2~Sim0
-Identity_Act_id_1909~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_375~0~0~0~2~Sim0
-Identity_Act_id_1910~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_376~0~0~0~2~Sim0
-Identity_Act_id_1911~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_377~0~0~0~2~Sim0
-Identity_Act_id_1912~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_378~0~0~0~2~Sim0
-Identity_Act_id_1913~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_379~0~0~0~2~Sim0
-Identity_Act_id_1914~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_380~0~0~0~2~Sim0
-Identity_Act_id_1915~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_381~0~0~0~2~Sim0
-Identity_Act_id_1916~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_382~0~0~0~2~Sim0
-Identity_Act_id_1917~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_383~0~0~0~2~Sim0
-Identity_Act_id_1918~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_384~0~0~0~2~Sim0
-Identity_Act_id_1919~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_385~0~0~0~2~Sim0
-Identity_Act_id_1920~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_386~0~0~0~2~Sim0
-Identity_Act_id_1921~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_387~0~0~0~2~Sim0
-Identity_Act_id_1922~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_388~0~0~0~2~Sim0
-Identity_Act_id_1923~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_389~0~0~0~2~Sim0
-Identity_Act_id_1924~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_390~0~0~0~2~Sim0
-Identity_Act_id_1925~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_391~0~0~0~2~Sim0
-Identity_Act_id_1926~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_392~0~0~0~2~Sim0
-Identity_Act_id_1927~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_393~0~0~0~2~Sim0
-Identity_Act_id_1928~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_394~0~0~0~2~Sim0
-Identity_Act_id_1929~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_395~0~0~0~2~Sim0
-Identity_Act_id_1930~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_396~0~0~0~2~Sim0
-Identity_Act_id_1931~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_397~0~0~0~2~Sim0
-Identity_Act_id_1932~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_398~0~0~0~2~Sim0
-Identity_Act_id_1933~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_399~0~0~0~2~Sim0
-Identity_Act_id_1934~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_400~0~0~0~2~Sim0
-Identity_Act_id_1935~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_401~0~0~0~2~Sim0
-Identity_Act_id_1936~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_402~0~0~0~2~Sim0
-Identity_Act_id_1937~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_403~0~0~0~2~Sim0
-Identity_Act_id_1938~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_404~0~0~0~2~Sim0
-Identity_Act_id_1939~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_405~0~0~0~2~Sim0
-Identity_Act_id_1940~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_406~0~0~0~2~Sim0
-Identity_Act_id_1941~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_407~0~0~0~2~Sim0
-Identity_Act_id_1942~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_408~0~0~0~2~Sim0
-Identity_Act_id_1943~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_409~0~0~0~2~Sim0
-Identity_Act_id_1944~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_410~0~0~0~2~Sim0
-Identity_Act_id_1945~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_411~0~0~0~2~Sim0
-Identity_Act_id_1946~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_412~0~0~0~2~Sim0
-Identity_Act_id_1947~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_413~0~0~0~2~Sim0
-Identity_Act_id_1948~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_414~0~0~0~2~Sim0
-Identity_Act_id_1949~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_415~0~0~0~2~Sim0
-Identity_Act_id_1950~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_416~0~0~0~2~Sim0
-Identity_Act_id_1951~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_417~0~0~0~2~Sim0
-Identity_Act_id_1952~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_418~0~0~0~2~Sim0
-Identity_Act_id_1953~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_419~0~0~0~2~Sim0
-Identity_Act_id_1954~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_420~0~0~0~2~Sim0
-Identity_Act_id_1955~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_421~0~0~0~2~Sim0
-Identity_Act_id_1956~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_422~0~0~0~2~Sim0
-Identity_Act_id_1957~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_423~0~0~0~2~Sim0
-Identity_Act_id_1958~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_424~0~0~0~2~Sim0
-Identity_Act_id_1959~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_425~0~0~0~2~Sim0
-Identity_Act_id_1960~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_426~0~0~0~2~Sim0
-Identity_Act_id_1961~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_427~0~0~0~2~Sim0
-Identity_Act_id_1962~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_428~0~0~0~2~Sim0
-Identity_Act_id_1963~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_429~0~0~0~2~Sim0
-Identity_Act_id_1964~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_430~0~0~0~2~Sim0
-Identity_Act_id_1965~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_431~0~0~0~2~Sim0
-Identity_Act_id_1966~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_432~0~0~0~2~Sim0
-Identity_Act_id_1967~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_433~0~0~0~2~Sim0
-Identity_Act_id_1968~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_434~0~0~0~2~Sim0
-Identity_Act_id_1969~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_435~0~0~0~2~Sim0
-Identity_Act_id_1970~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_436~0~0~0~2~Sim0
-Identity_Act_id_1971~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_437~0~0~0~2~Sim0
-Identity_Act_id_1972~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_438~0~0~0~2~Sim0
-Identity_Act_id_1973~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_439~0~0~0~2~Sim0
-Identity_Act_id_1974~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_440~0~0~0~2~Sim0
-Identity_Act_id_1975~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_441~0~0~0~2~Sim0
-Identity_Act_id_1976~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_56~4.0E-4~0~0~2~Sim0
-Identity_Act_id_1977~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_56~3.992E-4~0~0~2~Sim0
-Identity_Act_id_1978~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_442~0~0~0~2~Sim0
-Identity_Act_id_1979~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_443~0~0~0~2~Sim0
-Identity_Act_id_1980~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_444~0~0~0~2~Sim0
-Identity_Act_id_1981~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_445~0~0~0~2~Sim0
-Identity_Act_id_1982~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_446~0~0~0~2~Sim0
-Identity_Act_id_1983~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_447~0~0~0~2~Sim0
-Identity_Act_id_1984~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_448~0~0~0~2~Sim0
-Identity_Act_id_1985~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_449~0~0~0~2~Sim0
-Identity_Act_id_1986~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_450~0~0~0~2~Sim0
-Identity_Act_id_1987~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_451~0~0~0~2~Sim0
-Identity_Act_id_1988~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_452~0~0~0~2~Sim0
-Identity_Act_id_1989~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_453~0~0~0~2~Sim0
-Identity_Act_id_1990~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_454~0~0~0~2~Sim0
-Identity_Act_id_1991~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_455~0~0~0~2~Sim0
-Identity_Act_id_1992~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_456~0~0~0~2~Sim0
-Identity_Act_id_1993~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_457~0~0~0~2~Sim0
-Identity_Act_id_1994~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_458~0~0~0~2~Sim0
-Identity_Act_id_1995~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_459~0~0~0~2~Sim0
-Identity_Act_id_1996~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_460~0~0~0~2~Sim0
-Identity_Act_id_1997~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_461~0~0~0~2~Sim0
-Identity_Act_id_1998~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_462~0~0~0~2~Sim0
-Identity_Act_id_1999~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_463~0~0~0~2~Sim0
-Identity_Act_id_2000~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_464~0~0~0~2~Sim0
-Identity_Act_id_2001~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_465~0~0~0~2~Sim0
-Identity_Act_id_2002~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_466~0~0~0~2~Sim0
-Identity_Act_id_2003~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_467~0~0~0~2~Sim0
-Identity_Act_id_2004~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_468~0~0~0~2~Sim0
-Identity_Act_id_2005~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_469~0~0~0~2~Sim0
-Identity_Act_id_2006~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_470~0~0~0~2~Sim0
-Identity_Act_id_2007~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_471~0~0~0~2~Sim0
-Identity_Act_id_2008~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_472~0~0~0~2~Sim0
-Identity_Act_id_2009~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_473~0~0~0~2~Sim0
-Identity_Act_id_2010~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_474~0~0~0~2~Sim0
-Identity_Act_id_2011~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_475~0~0~0~2~Sim0
-Identity_Act_id_2012~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_476~0~0~0~2~Sim0
-Identity_Act_id_2013~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_477~0~0~0~2~Sim0
-Identity_Act_id_2014~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_478~0~0~0~2~Sim0
-Identity_Act_id_2015~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_479~0~0~0~2~Sim0
-Identity_Act_id_2016~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_480~0~0~0~2~Sim0
-Identity_Act_id_2017~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_481~0~0~0~2~Sim0
-Identity_Act_id_2018~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_482~0~0~0~2~Sim0
-Identity_Act_id_2019~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_483~0~0~0~2~Sim0
-Identity_Act_id_2020~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_484~0~0~0~2~Sim0
-Identity_Act_id_2021~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_485~0~0~0~2~Sim0
-Identity_Act_id_2022~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_486~0~0~0~2~Sim0
-Identity_Act_id_2023~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_487~0~0~0~2~Sim0
-Identity_Act_id_2024~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_488~0~0~0~2~Sim0
-Identity_Act_id_2025~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_489~0~0~0~2~Sim0
-Identity_Act_id_2026~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_490~0~0~0~2~Sim0
-Identity_Act_id_2027~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_491~0~0~0~2~Sim0
-Identity_Act_id_2028~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_492~0~0~0~2~Sim0
-Identity_Act_id_2029~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_493~0~0~0~2~Sim0
-Identity_Act_id_2030~B-ID-37~MODIFY_STANCE~Triad_ID_1_1100~4.0E-4~0~0~2~Sim0
-Identity_Act_id_2031~B-ID-37~MODIFY_STANCE~Triad_ID_1_1100~3.992E-4~0~0~2~Sim0
-Identity_Act_id_2032~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_494~0~0~0~2~Sim0
-Identity_Act_id_2033~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_495~0~0~0~2~Sim0
-Identity_Act_id_2034~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_496~0~0~0~2~Sim0
-Identity_Act_id_2035~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_497~0~0~0~2~Sim0
-Identity_Act_id_2036~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_498~0~0~0~2~Sim0
-Identity_Act_id_2037~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_499~0~0~0~2~Sim0
-Identity_Act_id_2038~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_500~0~0~0~2~Sim0
-Identity_Act_id_2039~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_501~0~0~0~2~Sim0
-Identity_Act_id_2040~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_502~0~0~0~2~Sim0
-Identity_Act_id_2041~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_503~0~0~0~2~Sim0
-Identity_Act_id_2042~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_504~0~0~0~2~Sim0
-Identity_Act_id_2043~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_505~0~0~0~2~Sim0
-Identity_Act_id_2044~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_506~0~0~0~2~Sim0
-Identity_Act_id_2045~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_507~0~0~0~2~Sim0
-Identity_Act_id_2046~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_508~0~0~0~2~Sim0
-Identity_Act_id_2047~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_509~0~0~0~2~Sim0
-Identity_Act_id_2048~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_510~0~0~0~2~Sim0
-Identity_Act_id_2049~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_511~0~0~0~2~Sim0
-Identity_Act_id_2050~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_512~0~0~0~2~Sim0
-Identity_Act_id_2051~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_513~0~0~0~2~Sim0
-Identity_Act_id_2052~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_514~0~0~0~2~Sim0
-Identity_Act_id_2053~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_515~0~0~0~2~Sim0
-Identity_Act_id_2054~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_516~0~0~0~2~Sim0
-Identity_Act_id_2055~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_517~0~0~0~2~Sim0
-Identity_Act_id_2056~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_518~0~0~0~2~Sim0
-Identity_Act_id_2057~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_519~0~0~0~2~Sim0
-Identity_Act_id_2058~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_520~0~0~0~2~Sim0
-Identity_Act_id_2059~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_521~0~0~0~2~Sim0
-Identity_Act_id_2060~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_522~0~0~0~2~Sim0
-Identity_Act_id_2061~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_523~0~0~0~2~Sim0
-Identity_Act_id_2062~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_524~0~0~0~2~Sim0
-Identity_Act_id_2063~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_525~0~0~0~2~Sim0
-Identity_Act_id_2064~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_526~0~0~0~2~Sim0
-Identity_Act_id_2065~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_527~0~0~0~2~Sim0
-Identity_Act_id_2066~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_528~0~0~0~2~Sim0
-Identity_Act_id_2067~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_529~0~0~0~2~Sim0
-Identity_Act_id_2068~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_530~0~0~0~2~Sim0
-Identity_Act_id_2069~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_531~0~0~0~2~Sim0
-Identity_Act_id_2070~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_532~0~0~0~2~Sim0
-Identity_Act_id_2071~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_533~0~0~0~2~Sim0
-Identity_Act_id_2072~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_534~0~0~0~2~Sim0
-Identity_Act_id_2073~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_535~0~0~0~2~Sim0
-Identity_Act_id_2074~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_536~0~0~0~2~Sim0
-Identity_Act_id_2075~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_537~0~0~0~2~Sim0
-Identity_Act_id_2076~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_538~0~0~0~2~Sim0
-Identity_Act_id_2077~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_539~0~0~0~2~Sim0
-Identity_Act_id_2078~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_540~0~0~0~2~Sim0
-Identity_Act_id_2079~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_541~0~0~0~2~Sim0
-Identity_Act_id_2080~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_542~0~0~0~2~Sim0
-Identity_Act_id_2081~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_543~0~0~0~2~Sim0
-Identity_Act_id_2082~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_544~0~0~0~2~Sim0
-Identity_Act_id_2083~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_545~0~0~0~2~Sim0
-Identity_Act_id_2084~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_546~0~0~0~2~Sim0
-Identity_Act_id_2085~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_547~0~0~0~2~Sim0
-Identity_Act_id_2086~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_548~0~0~0~2~Sim0
-Identity_Act_id_2087~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_549~0~0~0~2~Sim0
-Identity_Act_id_2088~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_550~0~0~0~2~Sim0
-Identity_Act_id_2089~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_551~0~0~0~2~Sim0
-Identity_Act_id_2090~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_552~0~0~0~2~Sim0
-Identity_Act_id_2091~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_553~0~0~0~2~Sim0
-Identity_Act_id_2092~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_554~0~0~0~2~Sim0
-Identity_Act_id_2093~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_555~0~0~0~2~Sim0
-Identity_Act_id_2094~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_556~0~0~0~2~Sim0
-Identity_Act_id_2095~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_557~0~0~0~2~Sim0
-Identity_Act_id_2096~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_558~0~0~0~2~Sim0
-Identity_Act_id_2097~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_559~0~0~0~2~Sim0
-Identity_Act_id_2098~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_560~0~0~0~2~Sim0
-Identity_Act_id_2099~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_561~0~0~0~2~Sim0
-Identity_Act_id_2100~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_765~4.0E-4~0~0~2~Sim0
-Identity_Act_id_2101~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_765~5.992E-4~0~0~2~Sim0
-Identity_Act_id_2102~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_765~5.980016000000001E-4~0~0~2~Sim0
-Identity_Act_id_2103~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_765~3.9680559680000006E-4~0~0~2~Sim0
-Identity_Act_id_2104~B-ID-10~MODIFY_STANCE~Triad_ID_1_1182~4.0E-4~0~0~2~Sim0
-Identity_Act_id_2105~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_509~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2106~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_509~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2107~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_934~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2108~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_934~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2109~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_562~0~0~0~2~Sim0
-Identity_Act_id_2110~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_563~0~0~0~2~Sim0
-Identity_Act_id_2111~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_564~0~0~0~2~Sim0
-Identity_Act_id_2112~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_565~0~0~0~2~Sim0
-Identity_Act_id_2113~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_566~0~0~0~2~Sim0
-Identity_Act_id_2114~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_567~0~0~0~2~Sim0
-Identity_Act_id_2115~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_568~0~0~0~2~Sim0
-Identity_Act_id_2116~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_569~0~0~0~2~Sim0
-Identity_Act_id_2117~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_570~0~0~0~2~Sim0
-Identity_Act_id_2118~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_571~0~0~0~2~Sim0
-Identity_Act_id_2119~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_572~0~0~0~2~Sim0
-Identity_Act_id_2120~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_573~0~0~0~2~Sim0
-Identity_Act_id_2121~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_574~0~0~0~2~Sim0
-Identity_Act_id_2122~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_575~0~0~0~2~Sim0
-Identity_Act_id_2123~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_576~0~0~0~2~Sim0
-Identity_Act_id_2124~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_577~0~0~0~2~Sim0
-Identity_Act_id_2125~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_578~0~0~0~2~Sim0
-Identity_Act_id_2126~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_579~0~0~0~2~Sim0
-Identity_Act_id_2127~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_580~0~0~0~2~Sim0
-Identity_Act_id_2128~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_581~0~0~0~2~Sim0
-Identity_Act_id_2129~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_582~0~0~0~2~Sim0
-Identity_Act_id_2130~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_583~0~0~0~2~Sim0
-Identity_Act_id_2131~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_584~0~0~0~2~Sim0
-Identity_Act_id_2132~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_585~0~0~0~2~Sim0
-Identity_Act_id_2133~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_586~0~0~0~2~Sim0
-Identity_Act_id_2134~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_587~0~0~0~2~Sim0
-Identity_Act_id_2135~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_588~0~0~0~2~Sim0
-Identity_Act_id_2136~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_589~0~0~0~2~Sim0
-Identity_Act_id_2137~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_590~0~0~0~2~Sim0
-Identity_Act_id_2138~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_591~0~0~0~2~Sim0
-Identity_Act_id_2139~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_592~0~0~0~2~Sim0
-Identity_Act_id_2140~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_593~0~0~0~2~Sim0
-Identity_Act_id_2141~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_594~0~0~0~2~Sim0
-Identity_Act_id_2142~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_595~0~0~0~2~Sim0
-Identity_Act_id_2143~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_596~0~0~0~2~Sim0
-Identity_Act_id_2144~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_597~0~0~0~2~Sim0
-Identity_Act_id_2145~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_598~0~0~0~2~Sim0
-Identity_Act_id_2146~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_599~0~0~0~2~Sim0
-Identity_Act_id_2147~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_600~0~0~0~2~Sim0
-Identity_Act_id_2148~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_601~0~0~0~2~Sim0
-Identity_Act_id_2149~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_602~0~0~0~2~Sim0
-Identity_Act_id_2150~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_603~0~0~0~2~Sim0
-Identity_Act_id_2151~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_604~0~0~0~2~Sim0
-Identity_Act_id_2152~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_605~0~0~0~2~Sim0
-Identity_Act_id_2153~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_606~0~0~0~2~Sim0
-Identity_Act_id_2154~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_607~0~0~0~2~Sim0
-Identity_Act_id_2155~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_608~0~0~0~2~Sim0
-Identity_Act_id_2156~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_609~0~0~0~2~Sim0
-Identity_Act_id_2157~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_610~0~0~0~2~Sim0
-Identity_Act_id_2158~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_611~0~0~0~2~Sim0
-Identity_Act_id_2159~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_612~0~0~0~2~Sim0
-Identity_Act_id_2160~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_613~0~0~0~2~Sim0
-Identity_Act_id_2161~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_614~0~0~0~2~Sim0
-Identity_Act_id_2162~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_615~0~0~0~2~Sim0
-Identity_Act_id_2163~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_616~0~0~0~2~Sim0
-Identity_Act_id_2164~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_617~0~0~0~2~Sim0
-Identity_Act_id_2165~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_618~0~0~0~2~Sim0
-Identity_Act_id_2166~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_619~0~0~0~2~Sim0
-Identity_Act_id_2167~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_620~0~0~0~2~Sim0
-Identity_Act_id_2168~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_621~0~0~0~2~Sim0
-Identity_Act_id_2169~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_622~0~0~0~2~Sim0
-Identity_Act_id_2170~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_623~0~0~0~2~Sim0
-Identity_Act_id_2171~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_624~0~0~0~2~Sim0
-Identity_Act_id_2172~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_625~0~0~0~2~Sim0
-Identity_Act_id_2173~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_626~0~0~0~2~Sim0
-Identity_Act_id_2174~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_627~0~0~0~2~Sim0
-Identity_Act_id_2175~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_628~0~0~0~2~Sim0
-Identity_Act_id_2176~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_629~0~0~0~2~Sim0
-Identity_Act_id_2177~B-ID-41~MODIFY_STANCE~Triad_ID_1_215~4.0E-4~0~0~2~Sim0
-Identity_Act_id_2178~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2179~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2180~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_2181~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_630~0~0~0~2~Sim0
-Identity_Act_id_2182~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_631~0~0~0~2~Sim0
-Identity_Act_id_2183~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_632~0~0~0~2~Sim0
-Identity_Act_id_2184~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_633~0~0~0~2~Sim0
-Identity_Act_id_2185~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_634~0~0~0~2~Sim0
-Identity_Act_id_2186~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~3.9680719520000004E-4~0~0~2~Sim0
-Identity_Act_id_2187~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_635~0~0~0~2~Sim0
-Identity_Act_id_2188~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_636~0~0~0~2~Sim0
-Identity_Act_id_2189~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_637~0~0~0~2~Sim0
-Identity_Act_id_2190~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_638~0~0~0~2~Sim0
-Identity_Act_id_2191~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_639~0~0~0~2~Sim0
-Identity_Act_id_2192~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~5.960135808096001E-4~0~0~2~Sim0
-Identity_Act_id_2193~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~5.948215536479808E-4~0~0~2~Sim0
-Identity_Act_id_2194~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~3.9363191054068487E-4~0~0~2~Sim0
-Identity_Act_id_2195~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_640~0~0~0~2~Sim0
-Identity_Act_id_2196~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_641~0~0~0~2~Sim0
-Identity_Act_id_2197~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_642~0~0~0~2~Sim0
-Identity_Act_id_2198~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_643~0~0~0~2~Sim0
-Identity_Act_id_2199~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_644~0~0~0~2~Sim0
-Identity_Act_id_2200~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_645~0~0~0~2~Sim0
-Identity_Act_id_2201~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_646~0~0~0~2~Sim0
-Identity_Act_id_2202~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_647~0~0~0~2~Sim0
-Identity_Act_id_2203~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_648~0~0~0~2~Sim0
-Identity_Act_id_2204~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_649~0~0~0~2~Sim0
-Identity_Act_id_2205~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_650~0~0~0~2~Sim0
-Identity_Act_id_2206~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_651~0~0~0~2~Sim0
-Identity_Act_id_2207~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_652~0~0~0~2~Sim0
-Identity_Act_id_2208~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_653~0~0~0~2~Sim0
-Identity_Act_id_2209~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~5.928446467196036E-4~0~0~2~Sim0
-Identity_Act_id_2210~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~5.916589574261644E-4~0~0~2~Sim0
-Identity_Act_id_2211~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_180~3.90475639511312E-4~0~0~2~Sim0
-Identity_Act_id_2212~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_654~0~0~0~2~Sim0
-Identity_Act_id_2213~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_655~0~0~0~2~Sim0
-Identity_Act_id_2214~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_656~0~0~0~2~Sim0
-Identity_Act_id_2215~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_657~0~0~0~2~Sim0
-Identity_Act_id_2216~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_658~0~0~0~2~Sim0
-Identity_Act_id_2217~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_659~0~0~0~2~Sim0
-Identity_Act_id_2218~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_660~0~0~0~2~Sim0
-Identity_Act_id_2219~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_661~0~0~0~2~Sim0
-Identity_Act_id_2220~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_662~0~0~0~2~Sim0
-Identity_Act_id_2221~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_663~0~0~0~2~Sim0
-Identity_Act_id_2222~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_664~0~0~0~2~Sim0
-Identity_Act_id_2223~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_665~0~0~0~2~Sim0
-Identity_Act_id_2224~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_666~0~0~0~2~Sim0
-Identity_Act_id_2225~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_667~0~0~0~2~Sim0
-Identity_Act_id_2226~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_668~0~0~0~2~Sim0
-Identity_Act_id_2227~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_669~0~0~0~2~Sim0
-Identity_Act_id_2228~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_670~0~0~0~2~Sim0
-Identity_Act_id_2229~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_671~0~0~0~2~Sim0
-Identity_Act_id_2230~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_672~0~0~0~2~Sim0
-Identity_Act_id_2231~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_673~0~0~0~2~Sim0
-Identity_Act_id_2232~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_674~0~0~0~2~Sim0
-Identity_Act_id_2233~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_675~0~0~0~2~Sim0
-Identity_Act_id_2234~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_676~0~0~0~2~Sim0
-Identity_Act_id_2235~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_677~0~0~0~2~Sim0
-Identity_Act_id_2236~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_678~0~0~0~2~Sim0
-Identity_Act_id_2237~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_679~0~0~0~2~Sim0
-Identity_Act_id_2238~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_680~0~0~0~2~Sim0
-Identity_Act_id_2239~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_681~0~0~0~2~Sim0
-Identity_Act_id_2240~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_682~0~0~0~2~Sim0
-Identity_Act_id_2241~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_683~0~0~0~2~Sim0
-Identity_Act_id_2242~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_684~0~0~0~2~Sim0
-Identity_Act_id_2243~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_685~0~0~0~2~Sim0
-Identity_Act_id_2244~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_686~0~0~0~2~Sim0
-Identity_Act_id_2245~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_687~0~0~0~2~Sim0
-Identity_Act_id_2246~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_688~0~0~0~2~Sim0
-Identity_Act_id_2247~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_689~0~0~0~2~Sim0
-Identity_Act_id_2248~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_690~0~0~0~2~Sim0
-Identity_Act_id_2249~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_691~0~0~0~2~Sim0
-Identity_Act_id_2250~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_692~0~0~0~2~Sim0
-Identity_Act_id_2251~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_693~0~0~0~2~Sim0
-Identity_Act_id_2252~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_694~0~0~0~2~Sim0
-Identity_Act_id_2253~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_695~0~0~0~2~Sim0
-Identity_Act_id_2254~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_696~0~0~0~2~Sim0
-Identity_Act_id_2255~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_697~0~0~0~2~Sim0
-Identity_Act_id_2256~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_698~0~0~0~2~Sim0
-Identity_Act_id_2257~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_699~0~0~0~2~Sim0
-Identity_Act_id_2258~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_700~0~0~0~2~Sim0
-Identity_Act_id_2259~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_701~0~0~0~2~Sim0
-Identity_Act_id_2260~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_702~0~0~0~2~Sim0
-Identity_Act_id_2261~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_703~0~0~0~2~Sim0
-Identity_Act_id_2262~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_704~0~0~0~2~Sim0
-Identity_Act_id_2263~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_705~0~0~0~2~Sim0
-Identity_Act_id_2264~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_706~0~0~0~2~Sim0
-Identity_Act_id_2265~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_707~0~0~0~2~Sim0
-Identity_Act_id_2266~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_708~0~0~0~2~Sim0
-Identity_Act_id_2267~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_709~0~0~0~2~Sim0
-Identity_Act_id_2268~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_710~0~0~0~2~Sim0
-Identity_Act_id_2269~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_711~0~0~0~2~Sim0
-Identity_Act_id_2270~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_712~0~0~0~2~Sim0
-Identity_Act_id_2271~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_713~0~0~0~2~Sim0
-Identity_Act_id_2272~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_714~0~0~0~2~Sim0
-Identity_Act_id_2273~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_715~0~0~0~2~Sim0
-Identity_Act_id_2274~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_716~0~0~0~2~Sim0
-Identity_Act_id_2275~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_717~0~0~0~2~Sim0
-Identity_Act_id_2276~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_718~0~0~0~2~Sim0
-Identity_Act_id_2277~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_719~0~0~0~2~Sim0
-Identity_Act_id_2278~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_720~0~0~0~2~Sim0
-Identity_Act_id_2279~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_721~0~0~0~2~Sim0
-Identity_Act_id_2280~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2281~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2282~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_2283~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~3.9680719520000004E-4~0~0~2~Sim0
-Identity_Act_id_2284~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~3.9601358080960003E-4~0~0~2~Sim0
-Identity_Act_id_2285~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~3.9522155364798083E-4~0~0~2~Sim0
-Identity_Act_id_2286~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~5.94431110540685E-4~0~0~2~Sim0
-Identity_Act_id_2287~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~5.932422483196036E-4~0~0~2~Sim0
-Identity_Act_id_2288~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~3.920557638229643E-4~0~0~2~Sim0
-Identity_Act_id_2289~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~5.912716522953184E-4~0~0~2~Sim0
-Identity_Act_id_2290~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_595~5.900891089907278E-4~0~0~2~Sim0
-Identity_Act_id_2291~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_540~4.0E-4~0~0~2~Sim0
-Identity_Act_id_2292~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_722~0~0~0~2~Sim0
-Identity_Act_id_2293~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_723~0~0~0~2~Sim0
-Identity_Act_id_2294~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_724~0~0~0~2~Sim0
-Identity_Act_id_2295~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_725~0~0~0~2~Sim0
-Identity_Act_id_2296~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_540~3.992E-4~0~0~2~Sim0
-Identity_Act_id_2297~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~6.000000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2298~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.988000000000001E-4~0~0~2~Sim0
-Identity_Act_id_2299~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_726~0~0~0~2~Sim0
-Identity_Act_id_2300~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_727~0~0~0~2~Sim0
-Identity_Act_id_2301~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_728~0~0~0~2~Sim0
-Identity_Act_id_2302~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_729~0~0~0~2~Sim0
-Identity_Act_id_2303~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_730~0~0~0~2~Sim0
-Identity_Act_id_2304~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_731~0~0~0~2~Sim0
-Identity_Act_id_2305~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_732~0~0~0~2~Sim0
-Identity_Act_id_2306~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~3.976024E-4~0~0~2~Sim0
-Identity_Act_id_2307~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~3.9680719520000004E-4~0~0~2~Sim0
-Identity_Act_id_2308~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.960135808096001E-4~0~0~2~Sim0
-Identity_Act_id_2309~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.948215536479808E-4~0~0~2~Sim0
-Identity_Act_id_2310~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_733~0~0~0~2~Sim0
-Identity_Act_id_2311~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_734~0~0~0~2~Sim0
-Identity_Act_id_2312~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_735~0~0~0~2~Sim0
-Identity_Act_id_2313~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_736~0~0~0~2~Sim0
-Identity_Act_id_2314~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_737~0~0~0~2~Sim0
-Identity_Act_id_2315~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_738~0~0~0~2~Sim0
-Identity_Act_id_2316~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_739~0~0~0~2~Sim0
-Identity_Act_id_2317~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.936319105406849E-4~0~0~2~Sim0
-Identity_Act_id_2318~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.924446467196036E-4~0~0~2~Sim0
-Identity_Act_id_2319~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_740~0~0~0~2~Sim0
-Identity_Act_id_2320~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_741~0~0~0~2~Sim0
-Identity_Act_id_2321~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_742~0~0~0~2~Sim0
-Identity_Act_id_2322~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_743~0~0~0~2~Sim0
-Identity_Act_id_2323~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_744~0~0~0~2~Sim0
-Identity_Act_id_2324~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_745~0~0~0~2~Sim0
-Identity_Act_id_2325~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_746~0~0~0~2~Sim0
-Identity_Act_id_2326~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.912597574261643E-4~0~0~2~Sim0
-Identity_Act_id_2327~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~5.900772379113121E-4~0~0~2~Sim0
-Identity_Act_id_2328~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_1236~3.8889708343548934E-4~0~0~2~Sim0
-Identity_Act_id_2329~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_747~0~0~0~2~Sim0
-Identity_Act_id_2330~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_748~0~0~0~2~Sim0
-Identity_Act_id_2331~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_749~0~0~0~2~Sim0
-Identity_Act_id_2332~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_750~0~0~0~2~Sim0
-Identity_Act_id_2333~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_751~0~0~0~2~Sim0
-Identity_Act_id_2334~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_752~0~0~0~2~Sim0
-Identity_Act_id_2335~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_753~0~0~0~2~Sim0
-Identity_Act_id_2336~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_754~0~0~0~2~Sim0
-Identity_Act_id_2337~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_755~0~0~0~2~Sim0
-Identity_Act_id_2338~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_756~0~0~0~2~Sim0
-Identity_Act_id_2339~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_757~0~0~0~2~Sim0
-Identity_Act_id_2340~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_758~0~0~0~2~Sim0
-Identity_Act_id_2341~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_759~0~0~0~2~Sim0
-Identity_Act_id_2342~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_760~0~0~0~2~Sim0
-Identity_Act_id_2343~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_761~0~0~0~2~Sim0
-Identity_Act_id_2344~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_762~0~0~0~2~Sim0
-Identity_Act_id_2345~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_763~0~0~0~2~Sim0
-Identity_Act_id_2346~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_764~0~0~0~2~Sim0
-Identity_Act_id_2347~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_765~0~0~0~2~Sim0
-Identity_Act_id_2348~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_766~0~0~0~2~Sim0
-Identity_Act_id_2349~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_767~0~0~0~2~Sim0
-Identity_Act_id_2350~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_768~0~0~0~2~Sim0
-Identity_Act_id_2351~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_769~0~0~0~2~Sim0
-Identity_Act_id_2352~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_770~0~0~0~2~Sim0
-Identity_Act_id_2353~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_771~0~0~0~2~Sim0
-Identity_Act_id_2354~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_772~0~0~0~2~Sim0
-Identity_Act_id_2355~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_773~0~0~0~2~Sim0
-Identity_Act_id_2356~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_774~0~0~0~2~Sim0
-Identity_Act_id_2357~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_775~0~0~0~2~Sim0
-Identity_Act_id_2358~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_776~0~0~0~2~Sim0
-Identity_Act_id_2359~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_777~0~0~0~2~Sim0
-Identity_Act_id_2360~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_778~0~0~0~2~Sim0
-Identity_Act_id_2361~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_779~0~0~0~2~Sim0
-Identity_Act_id_2362~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_780~0~0~0~2~Sim0
-Identity_Act_id_2363~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_781~0~0~0~2~Sim0
-Identity_Act_id_2364~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_782~0~0~0~2~Sim0
-Identity_Act_id_2365~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_783~0~0~0~2~Sim0
-Identity_Act_id_2366~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_784~0~0~0~2~Sim0
-Identity_Act_id_2367~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_785~0~0~0~2~Sim0
-Identity_Act_id_2368~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_786~0~0~0~2~Sim0
-Identity_Act_id_2369~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_787~0~0~0~2~Sim0
-Identity_Act_id_2370~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_788~0~0~0~2~Sim0
-Identity_Act_id_2371~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_789~0~0~0~2~Sim0
-Identity_Act_id_2372~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_790~0~0~0~2~Sim0
-Identity_Act_id_2373~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_791~0~0~0~2~Sim0
-Identity_Act_id_2374~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_792~0~0~0~2~Sim0
-Identity_Act_id_2375~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_793~0~0~0~2~Sim0
-Identity_Act_id_2376~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_794~0~0~0~2~Sim0
-Identity_Act_id_2377~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_795~0~0~0~2~Sim0
-Identity_Act_id_2378~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_796~0~0~0~2~Sim0
-Identity_Act_id_2379~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_797~0~0~0~2~Sim0
-Identity_Act_id_2380~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_798~0~0~0~2~Sim0
-Identity_Act_id_2381~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_799~0~0~0~2~Sim0
-Identity_Act_id_2382~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_800~0~0~0~2~Sim0
-Identity_Act_id_2383~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_801~0~0~0~2~Sim0
-Identity_Act_id_2384~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_802~0~0~0~2~Sim0
-Identity_Act_id_2385~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_803~0~0~0~2~Sim0
-Identity_Act_id_2386~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_804~0~0~0~2~Sim0
-Identity_Act_id_2387~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_805~0~0~0~2~Sim0
-Identity_Act_id_2388~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_806~0~0~0~2~Sim0
-Identity_Act_id_2389~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_807~0~0~0~2~Sim0
-Identity_Act_id_2390~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_808~0~0~0~2~Sim0
-Identity_Act_id_2391~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_809~0~0~0~2~Sim0
-Identity_Act_id_2392~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_810~0~0~0~2~Sim0
-Identity_Act_id_2393~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_811~0~0~0~2~Sim0
-Identity_Act_id_2394~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_812~0~0~0~2~Sim0
-Identity_Act_id_2395~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_813~0~0~0~2~Sim0
-Identity_Act_id_2396~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_814~0~0~0~2~Sim0
-Identity_Act_id_2397~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_815~0~0~0~2~Sim0
-Identity_Act_id_2398~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_816~0~0~0~2~Sim0
-Identity_Act_id_2399~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_817~0~0~0~2~Sim0
-Identity_Act_id_2400~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_818~0~0~0~2~Sim0
-Identity_Act_id_2401~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_819~0~0~0~2~Sim0
-Identity_Act_id_2402~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_820~0~0~0~2~Sim0
-Identity_Act_id_2403~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_821~0~0~0~2~Sim0
-Identity_Act_id_2404~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_822~0~0~0~2~Sim0
-Identity_Act_id_2405~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_823~0~0~0~2~Sim0
-Identity_Act_id_2406~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_824~0~0~0~2~Sim0
-Identity_Act_id_2407~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_825~0~0~0~2~Sim0
-Identity_Act_id_2408~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_826~0~0~0~2~Sim0
-Identity_Act_id_2409~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_827~0~0~0~2~Sim0
-Identity_Act_id_2410~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_828~0~0~0~2~Sim0
-Identity_Act_id_2411~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_829~0~0~0~2~Sim0
-Identity_Act_id_2412~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_830~0~0~0~2~Sim0
-Identity_Act_id_2413~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_831~0~0~0~2~Sim0
-Identity_Act_id_2414~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_832~0~0~0~2~Sim0
-Identity_Act_id_2415~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_833~0~0~0~2~Sim0
-Identity_Act_id_2416~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_834~0~0~0~2~Sim0
-Identity_Act_id_2417~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_835~0~0~0~2~Sim0
-Identity_Act_id_2418~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_836~0~0~0~2~Sim0
-Identity_Act_id_2419~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_837~0~0~0~2~Sim0
-Identity_Act_id_2420~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_838~0~0~0~2~Sim0
-Identity_Act_id_2421~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_839~0~0~0~2~Sim0
-Identity_Act_id_2422~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_840~0~0~0~2~Sim0
-Identity_Act_id_2423~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_841~0~0~0~2~Sim0
-Identity_Act_id_2424~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_842~0~0~0~2~Sim0
-Identity_Act_id_2425~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_843~0~0~0~2~Sim0
-Identity_Act_id_2426~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_844~0~0~0~2~Sim0
-Identity_Act_id_2427~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_845~0~0~0~2~Sim0
-Identity_Act_id_2428~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_846~0~0~0~2~Sim0
-Identity_Act_id_2429~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_847~0~0~0~2~Sim0
-Identity_Act_id_2430~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_848~0~0~0~2~Sim0
-Identity_Act_id_2431~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_849~0~0~0~2~Sim0
-Identity_Act_id_2432~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_850~0~0~0~2~Sim0
-Identity_Act_id_2433~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_851~0~0~0~2~Sim0
-Identity_Act_id_2434~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_852~0~0~0~2~Sim0
-Identity_Act_id_2435~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_853~0~0~0~2~Sim0
-Identity_Act_id_2436~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_854~0~0~0~2~Sim0
-Identity_Act_id_2437~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_855~0~0~0~2~Sim0
-Identity_Act_id_2438~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_856~0~0~0~2~Sim0
-Identity_Act_id_2439~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_857~0~0~0~2~Sim0
-Identity_Act_id_2440~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_858~0~0~0~2~Sim0
-Identity_Act_id_2441~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_859~0~0~0~2~Sim0
-Identity_Act_id_2442~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_860~0~0~0~2~Sim0
-Identity_Act_id_2443~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_861~0~0~0~2~Sim0
-Identity_Act_id_2444~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_862~0~0~0~2~Sim0
-Identity_Act_id_2445~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_863~0~0~0~2~Sim0
-Identity_Act_id_2446~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_864~0~0~0~2~Sim0
-Identity_Act_id_2447~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_865~0~0~0~2~Sim0
-Identity_Act_id_2448~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_866~0~0~0~2~Sim0
-Identity_Act_id_2449~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_867~0~0~0~2~Sim0
-Identity_Act_id_2450~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_868~0~0~0~2~Sim0
-Identity_Act_id_2451~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_869~0~0~0~2~Sim0
-Identity_Act_id_2452~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_870~0~0~0~2~Sim0
-Identity_Act_id_2453~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_871~0~0~0~2~Sim0
-Identity_Act_id_2454~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_872~0~0~0~2~Sim0
-Identity_Act_id_2455~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_873~0~0~0~2~Sim0
-Identity_Act_id_2456~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_874~0~0~0~2~Sim0
-Identity_Act_id_2457~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_875~0~0~0~2~Sim0
-Identity_Act_id_2458~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_876~0~0~0~2~Sim0
-Identity_Act_id_2459~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_877~0~0~0~2~Sim0
-Identity_Act_id_2460~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_878~0~0~0~2~Sim0
-Identity_Act_id_2461~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_879~0~0~0~2~Sim0
-Identity_Act_id_2462~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_880~0~0~0~2~Sim0
-Identity_Act_id_2463~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_881~0~0~0~2~Sim0
-Identity_Act_id_2464~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_882~0~0~0~2~Sim0
-Identity_Act_id_2465~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_883~0~0~0~2~Sim0
-Identity_Act_id_2466~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_884~0~0~0~2~Sim0
-Identity_Act_id_2467~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_885~0~0~0~2~Sim0
-Identity_Act_id_2468~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_886~0~0~0~2~Sim0
-Identity_Act_id_2469~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_887~0~0~0~2~Sim0
-Identity_Act_id_2470~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_888~0~0~0~2~Sim0
-Identity_Act_id_2471~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_889~0~0~0~2~Sim0
-Identity_Act_id_2472~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_890~0~0~0~2~Sim0
-Identity_Act_id_2473~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_891~0~0~0~2~Sim0
-Identity_Act_id_2474~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_892~0~0~0~2~Sim0
-Identity_Act_id_2475~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_893~0~0~0~2~Sim0
-Identity_Act_id_2476~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_894~0~0~0~2~Sim0
-Identity_Act_id_2477~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_895~0~0~0~2~Sim0
-Identity_Act_id_2478~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_896~0~0~0~2~Sim0
-Identity_Act_id_2479~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_897~0~0~0~2~Sim0
-Identity_Act_id_2480~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_898~0~0~0~2~Sim0
-Identity_Act_id_2481~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_899~0~0~0~2~Sim0
-Identity_Act_id_2482~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_900~0~0~0~2~Sim0
-Identity_Act_id_2483~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_901~0~0~0~2~Sim0
-Identity_Act_id_2484~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_902~0~0~0~2~Sim0
-Identity_Act_id_2485~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_903~0~0~0~2~Sim0
-Identity_Act_id_2486~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_904~0~0~0~2~Sim0
-Identity_Act_id_2487~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_905~0~0~0~2~Sim0
-Identity_Act_id_2488~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_906~0~0~0~2~Sim0
-Identity_Act_id_2489~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_907~0~0~0~2~Sim0
-Identity_Act_id_2490~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_908~0~0~0~2~Sim0
-Identity_Act_id_2491~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_909~0~0~0~2~Sim0
-Identity_Act_id_2492~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_910~0~0~0~2~Sim0
-Identity_Act_id_2493~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_911~0~0~0~2~Sim0
-Identity_Act_id_2494~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_912~0~0~0~2~Sim0
-Identity_Act_id_2495~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_913~0~0~0~2~Sim0
-Identity_Act_id_2496~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_914~0~0~0~2~Sim0
-Identity_Act_id_2497~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_915~0~0~0~2~Sim0
-Identity_Act_id_2498~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_916~0~0~0~2~Sim0
-Identity_Act_id_2499~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_917~0~0~0~2~Sim0
-Identity_Act_id_2500~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_918~0~0~0~2~Sim0
-Identity_Act_id_2501~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_919~0~0~0~2~Sim0
-Identity_Act_id_2502~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_920~0~0~0~2~Sim0
-Identity_Act_id_2503~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_921~0~0~0~2~Sim0
-Identity_Act_id_2504~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_922~0~0~0~2~Sim0
+Identity_Act_id_522~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_1~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_523~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_2~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_524~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_3~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_525~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_4~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_526~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_5~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_527~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_6~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_528~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_7~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_529~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_8~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_530~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_9~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_531~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_10~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_532~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_11~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_533~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_12~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_534~GEN Nikolai Yegorovich Makarov~CREATE_by_other~Triad_ID_2_13~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_535~B-ID-37~MODIFY_STANCE~Triad_ID_1_507~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_536~B-ID-37~MODIFY_STANCE~Triad_ID_1_507~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_537~B-ID-37~MODIFY_STANCE~Triad_ID_1_513~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_538~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_275~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_539~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_276~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_540~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_541~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_278~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_542~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_279~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_543~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_280~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_544~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_281~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_545~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_546~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_283~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_547~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_275~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_548~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_276~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_549~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_550~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_278~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_551~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_279~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_552~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_280~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_553~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_281~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_554~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_283~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_555~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_275~1.9920079999999986E-4~0~0~2~Sim0~0
+Identity_Act_id_556~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_276~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_557~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_558~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_278~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_559~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_279~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_560~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_280~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_561~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_281~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_562~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_563~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_283~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_564~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_275~1.988023983999998E-4~0~0~2~Sim0~0
+Identity_Act_id_565~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_276~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_566~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_277~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_567~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_278~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_568~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_279~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_569~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_280~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_570~COL Maximov Sergei Viktorovich~MODIFY_STANCE~Triad_ID_1_281~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_571~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_187~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_572~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_188~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_573~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_574~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_190~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_575~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_191~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_576~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_192~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_577~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_193~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_578~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_579~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_195~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_580~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_187~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_581~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_188~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_582~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_583~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_190~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_584~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_191~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_585~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_192~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_586~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_193~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_587~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_195~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_588~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_187~1.9920079999999986E-4~0~0~2~Sim0~0
+Identity_Act_id_589~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_188~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_590~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_591~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_190~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_592~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_191~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_593~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_192~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_594~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_193~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_595~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_596~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_195~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_597~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_187~1.988023983999998E-4~0~0~2~Sim0~0
+Identity_Act_id_598~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_188~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_599~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_189~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_600~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_190~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_601~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_191~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_602~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_192~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_603~COL-GEN Victor Borisovich Astapov~MODIFY_STANCE~Triad_ID_1_193~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_604~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_180~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_605~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_180~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_606~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_181~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_607~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_182~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_608~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_183~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_609~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_184~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_610~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_185~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_611~B-ID-41~CREATE_by_other~Triad_ID_2_14~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_612~B-ID-41~CREATE_by_other~Triad_ID_2_15~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_613~B-ID-41~MODIFY_STANCE~Triad_ID_1_423~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_614~B-ID-41~CREATE_by_other~Triad_ID_2_16~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_615~B-ID-41~CREATE_by_other~Triad_ID_2_17~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_616~B-ID-41~MODIFY_STANCE~Triad_ID_1_423~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_617~B-ID-41~MODIFY_STANCE~Triad_ID_1_431~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_618~Egle Juzu~MODIFY_STANCE~Triad_ID_1_472~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_619~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_18~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_620~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_19~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_621~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_20~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_622~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_21~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_623~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_22~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_624~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_23~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_625~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_24~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_626~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_25~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_627~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_26~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_628~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_27~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_629~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_28~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_630~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_29~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_631~GEN Alexey Fydorovich Maslov~CREATE_by_other~Triad_ID_2_30~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_632~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_31~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_633~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_32~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_634~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_33~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_635~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_34~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_636~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_35~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_637~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_36~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_638~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_37~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_639~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_38~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_640~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_39~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_641~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_40~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_642~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_41~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_643~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_42~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_644~MG Ruslan Khazhismelovich Tsalikov~CREATE_by_other~Triad_ID_2_43~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_645~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_44~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_646~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_45~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_647~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_46~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_648~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_47~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_649~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_48~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_650~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_49~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_651~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_50~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_652~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_51~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_653~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_52~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_654~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_53~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_655~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_312~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_656~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_312~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_657~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_313~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_658~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_314~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_659~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_315~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_660~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_316~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_661~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_317~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_662~B-ID-10~MODIFY_STANCE~Triad_ID_1_229~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_663~B-ID-10~MODIFY_STANCE~Triad_ID_1_230~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_664~B-ID-10~MODIFY_STANCE~Triad_ID_1_231~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_665~B-ID-10~MODIFY_STANCE~Triad_ID_1_232~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_666~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_262~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_667~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_263~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_668~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_669~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_265~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_670~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_266~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_671~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_267~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_672~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_268~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_673~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_674~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_262~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_675~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_263~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_676~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_677~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_265~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_678~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_266~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_679~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_267~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_680~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_268~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_681~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_262~1.9920079999999986E-4~0~0~2~Sim0~0
+Identity_Act_id_682~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_263~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_683~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_684~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_265~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_685~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_266~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_686~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_267~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_687~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_268~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_688~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_689~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_54~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_690~COL-GEN Anatoly Alekseyevich Sidorov~CREATE_by_other~Triad_ID_2_55~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_691~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_262~1.988023983999998E-4~0~0~2~Sim0~0
+Identity_Act_id_692~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_263~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_693~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_694~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_265~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_695~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_266~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_696~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_267~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_697~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_268~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_698~COL-GEN Anatoly Alekseyevich Sidorov~MODIFY_STANCE~Triad_ID_1_264~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_699~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_450~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_700~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_450~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_701~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_451~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_702~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_454~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_703~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_451~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_704~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_454~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_705~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_450~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_706~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_451~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_707~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_454~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_708~Gabrielius Landsbergis~MODIFY_STANCE~Triad_ID_1_455~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_709~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_56~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_710~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_57~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_711~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_58~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_712~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_59~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_713~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_60~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_714~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_61~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_715~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_62~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_716~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_63~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_717~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_64~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_718~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_65~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_719~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_66~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_720~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_67~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_721~Sergey Kuzhugetovich Shoygu~CREATE_by_other~Triad_ID_2_68~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_722~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_723~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_724~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_725~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_726~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_127~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_727~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_128~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_728~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_129~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_729~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_730~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_731~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_732~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_733~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_734~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_735~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_736~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_737~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_131~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_738~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_739~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_132~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_740~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_133~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_741~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_134~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_742~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_135~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_743~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_744~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_745~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_746~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.984047936032E-4~0~0~2~Sim0~0
+Identity_Act_id_747~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_748~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_749~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_750~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_127~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_751~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_128~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_752~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_129~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_753~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9761196804796163E-4~0~0~2~Sim0~0
+Identity_Act_id_754~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_755~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_756~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_757~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9721674411186572E-4~0~0~2~Sim0~0
+Identity_Act_id_758~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_759~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_760~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_761~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_127~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_762~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_128~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_763~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_129~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_764~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_131~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_765~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_766~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_132~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_767~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_133~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_768~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_134~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_769~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_135~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_770~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_771~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_124~1.964286660023947E-4~0~0~2~Sim0~0
+Identity_Act_id_772~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_125~1.9642866600239463E-4~0~0~2~Sim0~0
+Identity_Act_id_773~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_126~1.9721674411186574E-4~0~0~2~Sim0~0
+Identity_Act_id_774~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_136~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_775~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_69~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_776~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_70~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_777~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_71~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_778~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_72~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_779~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_73~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_780~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_74~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_781~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_75~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_782~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_76~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_783~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_77~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_784~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_78~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_785~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_79~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_786~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_80~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_787~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_81~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_788~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_82~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_789~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_790~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_791~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_792~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_793~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_477~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_794~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_478~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_795~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_479~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_796~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_797~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_798~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_83~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_799~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_84~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_800~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_801~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_85~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_802~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_86~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_803~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_804~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.984047936032E-4~0~0~2~Sim0~0
+Identity_Act_id_805~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_806~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_807~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_477~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_808~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_478~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_809~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_479~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_810~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_811~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_812~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_813~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_814~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_815~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_87~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_816~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_88~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_817~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_818~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_89~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_819~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_90~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_820~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_91~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_821~Sonata Patkauskait?~CREATE_by_other~Triad_ID_2_92~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_822~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_823~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9761196804796163E-4~0~0~2~Sim0~0
+Identity_Act_id_824~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9721674411186572E-4~0~0~2~Sim0~0
+Identity_Act_id_825~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_826~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_827~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_477~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_828~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_478~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_829~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_479~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_830~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_831~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_832~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_474~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_833~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_475~1.9642866600239463E-4~0~0~2~Sim0~0
+Identity_Act_id_834~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_476~1.9721674411186574E-4~0~0~2~Sim0~0
+Identity_Act_id_835~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_93~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_836~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_94~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_837~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_95~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_838~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_96~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_839~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_97~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_840~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_98~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_841~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_99~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_842~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_100~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_843~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_101~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_844~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_102~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_845~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_103~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_846~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_104~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_847~COL-GEN Alexander Zhuravlyov~CREATE_by_other~Triad_ID_2_105~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_848~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_106~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_849~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_107~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_850~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_108~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_851~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_109~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_852~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_110~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_853~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_111~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_854~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_112~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_855~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_113~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_856~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_114~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_857~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_115~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_858~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_116~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_859~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_117~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_860~GEN Vladimir Sergeyevich Mikhaylov~CREATE_by_other~Triad_ID_2_118~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_861~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_862~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_863~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_864~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_865~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_497~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_866~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_498~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_867~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_499~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_868~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_119~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_869~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_120~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_870~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_871~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_121~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_872~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_122~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_873~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_874~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_875~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_876~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_877~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_502~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_878~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_879~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_123~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_880~Edvinas Regelskis~CREATE_by_other~Triad_ID_2_124~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_881~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_502~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_882~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_883~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_502~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_884~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_885~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.984047936032E-4~0~0~2~Sim0~0
+Identity_Act_id_886~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_887~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_888~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_497~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_889~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_498~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_890~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_499~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_891~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_892~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.9761196804796163E-4~0~0~2~Sim0~0
+Identity_Act_id_893~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_894~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_895~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_497~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_896~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_498~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_897~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_499~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_898~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_899~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_900~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_494~1.9721674411186572E-4~0~0~2~Sim0~0
+Identity_Act_id_901~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_495~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_902~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_500~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_903~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_501~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_904~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_496~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_905~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_502~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_906~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_198~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_907~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_199~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_908~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_909~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_201~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_910~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_202~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_911~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_203~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_912~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_204~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_913~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_125~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_914~LTC Lapin Denis Alexandrovich~CREATE_by_other~Triad_ID_2_126~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_915~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_206~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_916~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_198~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_917~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_199~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_918~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_919~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_201~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_920~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_202~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_921~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_203~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_922~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_204~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_923~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_924~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_206~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_925~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_198~1.9920079999999986E-4~0~0~2~Sim0~0
+Identity_Act_id_926~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_199~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_927~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_928~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_201~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_929~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_202~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_930~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_203~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_931~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_204~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_932~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_933~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_206~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_934~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_198~1.988023983999998E-4~0~0~2~Sim0~0
+Identity_Act_id_935~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_199~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_936~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_200~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_937~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_201~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_938~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_202~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_939~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_203~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_940~LTC Lapin Denis Alexandrovich~MODIFY_STANCE~Triad_ID_1_204~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_941~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_942~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_127~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_943~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_128~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_944~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_129~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_945~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_946~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_335~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_947~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_948~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_325~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_949~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_950~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_328~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_951~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_329~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_952~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_330~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_953~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_331~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_954~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_955~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_335~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_956~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_957~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_958~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_325~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_959~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_960~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_328~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_961~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_329~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_962~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_330~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_963~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_331~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_964~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_327~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_965~Simonas Gurevicius~MODIFY_STANCE~Triad_ID_1_335~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_966~Paulius Keras~CREATE_by_other~Triad_ID_2_130~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_967~Paulius Keras~CREATE_by_other~Triad_ID_2_131~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_968~Paulius Keras~CREATE_by_other~Triad_ID_2_132~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_969~Paulius Keras~CREATE_by_other~Triad_ID_2_133~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_970~Paulius Keras~CREATE_by_other~Triad_ID_2_134~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_971~Paulius Keras~MODIFY_STANCE~Triad_ID_1_272~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_972~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_410~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_973~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_411~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_974~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_975~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_413~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_976~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_414~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_977~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_415~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_978~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_416~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_979~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_980~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_420~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_981~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_410~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_982~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_411~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_983~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_984~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_413~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_985~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_414~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_986~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_415~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_987~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_416~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_988~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_989~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_420~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_990~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_410~1.9920079999999986E-4~0~0~2~Sim0~0
+Identity_Act_id_991~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_411~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_992~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_993~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_413~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_994~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_414~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_995~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_415~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_996~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_416~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_997~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_998~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_420~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_999~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_410~1.988023983999998E-4~0~0~2~Sim0~0
+Identity_Act_id_1000~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_411~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_1001~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_412~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_1002~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_413~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1003~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_414~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1004~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_415~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1005~MG Arkady Vilktotovich Bakhin~MODIFY_STANCE~Triad_ID_1_416~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1006~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_135~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_1007~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_136~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_1008~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_137~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_1009~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_138~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_1010~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_139~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_1011~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_140~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_1012~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_141~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_1013~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_142~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_1014~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_143~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_1015~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_144~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_1016~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_145~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_1017~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_146~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_1018~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_147~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_1019~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_148~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_1020~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_149~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_1021~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_150~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_1022~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_151~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_1023~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_152~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_1024~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_153~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_1025~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_154~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_1026~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_155~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_1027~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_156~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_1028~LTG Viktor Nikolaevich Samsonov~CREATE_by_other~Triad_ID_2_157~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_1029~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_158~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_1030~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_159~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_1031~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_160~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_1032~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_161~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_1033~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_162~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_1034~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_163~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_1035~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_164~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_1036~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_165~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_1037~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_166~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_1038~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_167~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_1039~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_168~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_1040~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_169~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_1041~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_170~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_1042~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_171~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_1043~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_172~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_1044~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_173~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_1045~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1046~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1047~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1048~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1049~Edita Baniene~CREATE_by_other~Triad_ID_2_174~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_1050~Edita Baniene~CREATE_by_other~Triad_ID_2_175~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_1051~Edita Baniene~CREATE_by_other~Triad_ID_2_176~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_1052~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_1053~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_1054~Edita Baniene~MODIFY_STANCE~Triad_ID_1_210~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1055~Edita Baniene~MODIFY_STANCE~Triad_ID_1_211~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1056~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1057~Edita Baniene~MODIFY_STANCE~Triad_ID_1_213~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1058~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1059~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.984047936032E-4~0~0~2~Sim0~0
+Identity_Act_id_1060~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_1061~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_1062~Edita Baniene~CREATE_by_other~Triad_ID_2_177~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_1063~Edita Baniene~CREATE_by_other~Triad_ID_2_178~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_1064~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_1065~Edita Baniene~CREATE_by_other~Triad_ID_2_179~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_1066~Edita Baniene~CREATE_by_other~Triad_ID_2_180~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_1067~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1068~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1069~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_1070~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_1071~Edita Baniene~MODIFY_STANCE~Triad_ID_1_213~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_1072~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1073~Edita Baniene~CREATE_by_other~Triad_ID_2_181~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_1074~Edita Baniene~CREATE_by_other~Triad_ID_2_182~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_1075~Edita Baniene~MODIFY_STANCE~Triad_ID_1_213~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_1076~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_1077~Edita Baniene~MODIFY_STANCE~Triad_ID_1_213~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_1078~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9761196804796163E-4~0~0~2~Sim0~0
+Identity_Act_id_1079~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9721674411186572E-4~0~0~2~Sim0~0
+Identity_Act_id_1080~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_1081~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1082~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_1083~Edita Baniene~MODIFY_STANCE~Triad_ID_1_208~1.964286660023947E-4~0~0~2~Sim0~0
+Identity_Act_id_1084~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_1085~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_1086~Edita Baniene~MODIFY_STANCE~Triad_ID_1_209~1.9642866600239463E-4~0~0~2~Sim0~0
+Identity_Act_id_1087~Edita Baniene~MODIFY_STANCE~Triad_ID_1_212~1.9721674411186574E-4~0~0~2~Sim0~0
+Identity_Act_id_1088~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_183~0~0~0~2~Sim0~NATO military actions in Lithuania
+Identity_Act_id_1089~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_184~0~0~0~2~Sim0~Donovian military actions in Lithuania
+Identity_Act_id_1090~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_185~0~0~0~2~Sim0~Article 5 invoked by NATO
+Identity_Act_id_1091~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_186~0~0~0~2~Sim0~Civil protests against Donovia
+Identity_Act_id_1092~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_187~0~0~0~2~Sim0~IDPs migrate to Poland as result of war
+Identity_Act_id_1093~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_188~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_1094~Gitanas Nauseda~CREATE_by_other~Triad_ID_2_189~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_1095~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_244~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1096~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_244~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1097~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_245~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1098~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_248~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1099~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_190~0~0~0~2~Sim0~Censorship of media by Donovia
+Identity_Act_id_1100~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_191~0~0~0~2~Sim0~Low Morale of Donovian soldiers
+Identity_Act_id_1101~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_192~0~0~0~2~Sim0~Low Morale of Lithuanian civilians
+Identity_Act_id_1102~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_193~0~0~0~2~Sim0~COVID-19 pandemic in Lithuania
+Identity_Act_id_1103~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_194~0~0~0~2~Sim0~Great Synagogue of Vilna
+Identity_Act_id_1104~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_245~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_1105~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_195~0~0~0~2~Sim0~Humanitarian aid by NATO
+Identity_Act_id_1106~Ingrida Simonyte~CREATE_by_other~Triad_ID_2_196~0~0~0~2~Sim0~IDPs migrate within Lithuania as result of war
+Identity_Act_id_1107~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_248~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1108~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_244~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_1109~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_245~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_1110~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_248~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_1111~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_249~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1112~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_244~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1113~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_245~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_1114~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_246~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1115~Ingrida Simonyte~MODIFY_STANCE~Triad_ID_1_247~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1116~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1117~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1118~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1119~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1120~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_115~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1121~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_116~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1122~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_117~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1123~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_1124~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_1125~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1126~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_197~0~0~0~2~Sim0~NATO war crimes
+Identity_Act_id_1127~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_198~0~0~0~2~Sim0~Donovian war crimes
+Identity_Act_id_1128~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1129~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.984047936032E-4~0~0~2~Sim0~0
+Identity_Act_id_1130~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.992008000000003E-4~0~0~2~Sim0~0
+Identity_Act_id_1131~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_1132~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_115~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1133~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_116~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1134~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_117~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1135~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_119~2.0000000000000017E-4~0~0~2~Sim0~0
+Identity_Act_id_1136~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9880239840000026E-4~0~0~2~Sim0~0
+Identity_Act_id_1137~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_120~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1138~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_121~2.0E-4~0~0~2~Sim0~0
+Identity_Act_id_1139~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_122~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1140~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_123~1.9999999999999996E-4~0~0~2~Sim0~0
+Identity_Act_id_1141~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9880239840000004E-4~0~0~2~Sim0~0
+Identity_Act_id_1142~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1143~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_1144~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9840479360320006E-4~0~0~2~Sim0~0
+Identity_Act_id_1145~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_119~1.9960000000000022E-4~0~0~2~Sim0~0
+Identity_Act_id_1146~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1147~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_120~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1148~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_121~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1149~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_122~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1150~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_123~1.996E-4~0~0~2~Sim0~0
+Identity_Act_id_1151~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_199~0~0~0~2~Sim0~NATO propaganda
+Identity_Act_id_1152~Gintare Guzevi?i?t?~CREATE_by_other~Triad_ID_2_200~0~0~0~2~Sim0~Donovian propaganda
+Identity_Act_id_1153~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9761196804796155E-4~0~0~2~Sim0~0
+Identity_Act_id_1154~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9761196804796163E-4~0~0~2~Sim0~0
+Identity_Act_id_1155~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9721674411186572E-4~0~0~2~Sim0~0
+Identity_Act_id_1156~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9721674411186553E-4~0~0~2~Sim0~0
+Identity_Act_id_1157~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9800798401599362E-4~0~0~2~Sim0~0
+Identity_Act_id_1158~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_115~1.9920080000000002E-4~0~0~2~Sim0~0
+Identity_Act_id_1159~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_116~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_1160~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_117~1.9920080000000007E-4~0~0~2~Sim0~0
+Identity_Act_id_1161~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_112~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_1162~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_113~1.9682231062364197E-4~0~0~2~Sim0~0
+Identity_Act_id_1163~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_114~1.9761196804796155E-4~0~0~2~Sim0~0
