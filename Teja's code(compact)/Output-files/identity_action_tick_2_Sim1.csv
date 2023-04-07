@@ -1,0 +1,399 @@
+identity_action_id~agent_id~identity_action_type~triad_id~change_in_stance~change_in_latitude~change_in_longitude~tick~simulation_id~topic
+Identity_Act_id_667~B-ID-118~MODIFY_STANCE~Triad_ID_1_163~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_668~B-ID-118~MODIFY_STANCE~Triad_ID_1_163~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_669~B-ID-118~MODIFY_STANCE~Triad_ID_1_164~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_670~B-ID-118~MODIFY_STANCE~Triad_ID_1_165~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_671~B-ID-118~MODIFY_STANCE~Triad_ID_1_166~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_672~B-ID-118~MODIFY_STANCE~Triad_ID_1_167~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_673~B-ID-118~MODIFY_STANCE~Triad_ID_1_168~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_674~B-ID-491~MODIFY_STANCE~Triad_ID_1_139~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_675~B-ID-491~MODIFY_STANCE~Triad_ID_1_139~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_676~B-ID-491~MODIFY_STANCE~Triad_ID_1_140~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_677~B-ID-491~MODIFY_STANCE~Triad_ID_1_141~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_678~B-ID-491~MODIFY_STANCE~Triad_ID_1_142~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_679~B-ID-491~MODIFY_STANCE~Triad_ID_1_143~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_680~B-ID-491~MODIFY_STANCE~Triad_ID_1_144~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_681~B-ID-120~MODIFY_STANCE~Triad_ID_1_643~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_682~B-ID-120~MODIFY_STANCE~Triad_ID_1_643~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_683~B-ID-120~MODIFY_STANCE~Triad_ID_1_644~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_684~B-ID-120~MODIFY_STANCE~Triad_ID_1_645~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_685~B-ID-120~MODIFY_STANCE~Triad_ID_1_646~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_686~B-ID-120~MODIFY_STANCE~Triad_ID_1_647~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_687~B-ID-120~MODIFY_STANCE~Triad_ID_1_648~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_688~B-ID-120~MODIFY_STANCE~Triad_ID_1_643~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_689~B-ID-120~MODIFY_STANCE~Triad_ID_1_643~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_690~B-ID-120~MODIFY_STANCE~Triad_ID_1_644~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_691~B-ID-120~MODIFY_STANCE~Triad_ID_1_645~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_692~B-ID-120~MODIFY_STANCE~Triad_ID_1_646~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_693~B-ID-120~MODIFY_STANCE~Triad_ID_1_647~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_694~B-ID-120~MODIFY_STANCE~Triad_ID_1_648~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_695~B-ID-161~MODIFY_STANCE~Triad_ID_1_445~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_696~B-ID-161~MODIFY_STANCE~Triad_ID_1_445~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_697~B-ID-161~MODIFY_STANCE~Triad_ID_1_446~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_698~B-ID-161~MODIFY_STANCE~Triad_ID_1_447~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_699~B-ID-161~MODIFY_STANCE~Triad_ID_1_448~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_700~B-ID-161~MODIFY_STANCE~Triad_ID_1_449~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_701~B-ID-161~MODIFY_STANCE~Triad_ID_1_450~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_702~B-ID-42~MODIFY_STANCE~Triad_ID_1_517~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_703~B-ID-42~MODIFY_STANCE~Triad_ID_1_517~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_704~B-ID-42~MODIFY_STANCE~Triad_ID_1_518~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_705~B-ID-42~MODIFY_STANCE~Triad_ID_1_519~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_706~B-ID-42~MODIFY_STANCE~Triad_ID_1_520~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_707~B-ID-42~MODIFY_STANCE~Triad_ID_1_521~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_708~B-ID-42~MODIFY_STANCE~Triad_ID_1_522~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_709~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_710~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_711~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_344~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_712~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_345~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_713~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_346~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_714~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_347~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_715~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_348~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_716~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_717~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_718~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_344~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_719~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_345~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_720~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_346~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_721~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_347~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_722~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_348~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_723~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~1.984047936032E-4~0~0~2~Sim1~0
+Identity_Act_id_724~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_343~1.9800798401599362E-4~0~0~2~Sim1~0
+Identity_Act_id_725~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_344~1.992008000000003E-4~0~0~2~Sim1~0
+Identity_Act_id_726~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_345~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_727~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_346~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_728~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_347~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_729~Austeja Landsbergiene~MODIFY_STANCE~Triad_ID_1_348~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_730~B-ID-520~MODIFY_STANCE~Triad_ID_1_193~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_731~B-ID-520~MODIFY_STANCE~Triad_ID_1_193~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_732~B-ID-520~MODIFY_STANCE~Triad_ID_1_194~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_733~B-ID-520~MODIFY_STANCE~Triad_ID_1_195~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_734~B-ID-520~MODIFY_STANCE~Triad_ID_1_196~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_735~B-ID-520~MODIFY_STANCE~Triad_ID_1_197~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_736~B-ID-520~MODIFY_STANCE~Triad_ID_1_198~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_737~B-ID-520~MODIFY_STANCE~Triad_ID_1_193~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_738~B-ID-520~MODIFY_STANCE~Triad_ID_1_193~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_739~B-ID-520~MODIFY_STANCE~Triad_ID_1_194~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_740~B-ID-520~MODIFY_STANCE~Triad_ID_1_195~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_741~B-ID-520~MODIFY_STANCE~Triad_ID_1_196~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_742~B-ID-520~MODIFY_STANCE~Triad_ID_1_197~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_743~B-ID-520~MODIFY_STANCE~Triad_ID_1_198~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_744~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_1~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_745~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_2~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_746~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_3~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_747~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_4~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_748~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_5~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_749~Saulius Andrasi?nas~CREATE_by_other~Triad_ID_2_6~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_750~B-ID-308~MODIFY_STANCE~Triad_ID_1_529~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_751~B-ID-308~MODIFY_STANCE~Triad_ID_1_529~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_752~B-ID-308~MODIFY_STANCE~Triad_ID_1_530~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_753~B-ID-308~MODIFY_STANCE~Triad_ID_1_531~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_754~B-ID-308~MODIFY_STANCE~Triad_ID_1_532~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_755~B-ID-308~MODIFY_STANCE~Triad_ID_1_533~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_756~B-ID-308~MODIFY_STANCE~Triad_ID_1_534~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_757~B-ID-308~MODIFY_STANCE~Triad_ID_1_529~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_758~B-ID-308~MODIFY_STANCE~Triad_ID_1_529~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_759~B-ID-308~MODIFY_STANCE~Triad_ID_1_530~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_760~B-ID-308~MODIFY_STANCE~Triad_ID_1_531~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_761~B-ID-308~MODIFY_STANCE~Triad_ID_1_532~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_762~B-ID-308~MODIFY_STANCE~Triad_ID_1_533~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_763~B-ID-308~MODIFY_STANCE~Triad_ID_1_534~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_764~B-ID-84~MODIFY_STANCE~Triad_ID_1_511~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_765~B-ID-84~MODIFY_STANCE~Triad_ID_1_511~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_766~B-ID-84~MODIFY_STANCE~Triad_ID_1_512~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_767~B-ID-84~MODIFY_STANCE~Triad_ID_1_513~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_768~B-ID-84~MODIFY_STANCE~Triad_ID_1_514~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_769~B-ID-84~MODIFY_STANCE~Triad_ID_1_515~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_770~B-ID-84~MODIFY_STANCE~Triad_ID_1_516~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_771~B-ID-88~MODIFY_STANCE~Triad_ID_1_589~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_772~B-ID-88~MODIFY_STANCE~Triad_ID_1_589~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_773~B-ID-88~MODIFY_STANCE~Triad_ID_1_590~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_774~B-ID-88~MODIFY_STANCE~Triad_ID_1_591~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_775~B-ID-88~MODIFY_STANCE~Triad_ID_1_592~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_776~B-ID-88~MODIFY_STANCE~Triad_ID_1_593~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_777~B-ID-88~MODIFY_STANCE~Triad_ID_1_594~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_778~B-ID-446~MODIFY_STANCE~Triad_ID_1_439~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_779~B-ID-446~MODIFY_STANCE~Triad_ID_1_439~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_780~B-ID-446~MODIFY_STANCE~Triad_ID_1_440~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_781~B-ID-446~MODIFY_STANCE~Triad_ID_1_441~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_782~B-ID-446~MODIFY_STANCE~Triad_ID_1_442~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_783~B-ID-446~MODIFY_STANCE~Triad_ID_1_443~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_784~B-ID-446~MODIFY_STANCE~Triad_ID_1_444~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_785~B-ID-446~MODIFY_STANCE~Triad_ID_1_439~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_786~B-ID-446~MODIFY_STANCE~Triad_ID_1_439~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_787~B-ID-446~MODIFY_STANCE~Triad_ID_1_440~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_788~B-ID-446~MODIFY_STANCE~Triad_ID_1_441~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_789~B-ID-446~MODIFY_STANCE~Triad_ID_1_442~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_790~B-ID-446~MODIFY_STANCE~Triad_ID_1_443~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_791~B-ID-446~MODIFY_STANCE~Triad_ID_1_444~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_792~Edita Baniene~CREATE_by_other~Triad_ID_2_7~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_793~Edita Baniene~CREATE_by_other~Triad_ID_2_8~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_794~Edita Baniene~CREATE_by_other~Triad_ID_2_9~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_795~Edita Baniene~CREATE_by_other~Triad_ID_2_10~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_796~Edita Baniene~CREATE_by_other~Triad_ID_2_11~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_797~Edita Baniene~CREATE_by_other~Triad_ID_2_12~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_798~B-ID-404~MODIFY_STANCE~Triad_ID_1_601~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_799~B-ID-404~MODIFY_STANCE~Triad_ID_1_601~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_800~B-ID-404~MODIFY_STANCE~Triad_ID_1_602~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_801~B-ID-404~MODIFY_STANCE~Triad_ID_1_603~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_802~B-ID-404~MODIFY_STANCE~Triad_ID_1_604~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_803~B-ID-404~MODIFY_STANCE~Triad_ID_1_605~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_804~B-ID-404~MODIFY_STANCE~Triad_ID_1_606~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_805~B-ID-688~MODIFY_STANCE~Triad_ID_1_385~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_806~B-ID-688~MODIFY_STANCE~Triad_ID_1_385~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_807~B-ID-688~MODIFY_STANCE~Triad_ID_1_386~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_808~B-ID-688~MODIFY_STANCE~Triad_ID_1_387~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_809~B-ID-688~MODIFY_STANCE~Triad_ID_1_388~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_810~B-ID-688~MODIFY_STANCE~Triad_ID_1_389~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_811~B-ID-688~MODIFY_STANCE~Triad_ID_1_390~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_812~B-ID-688~MODIFY_STANCE~Triad_ID_1_385~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_813~B-ID-688~MODIFY_STANCE~Triad_ID_1_385~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_814~B-ID-688~MODIFY_STANCE~Triad_ID_1_386~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_815~B-ID-688~MODIFY_STANCE~Triad_ID_1_387~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_816~B-ID-688~MODIFY_STANCE~Triad_ID_1_388~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_817~B-ID-688~MODIFY_STANCE~Triad_ID_1_389~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_818~B-ID-688~MODIFY_STANCE~Triad_ID_1_390~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_819~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_13~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_820~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_14~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_821~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_15~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_822~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_16~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_823~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_17~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_824~Simonas Gurevicius~CREATE_by_other~Triad_ID_2_18~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_825~B-ID-409~MODIFY_STANCE~Triad_ID_1_25~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_826~B-ID-409~MODIFY_STANCE~Triad_ID_1_25~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_827~B-ID-409~MODIFY_STANCE~Triad_ID_1_26~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_828~B-ID-409~MODIFY_STANCE~Triad_ID_1_27~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_829~B-ID-409~MODIFY_STANCE~Triad_ID_1_28~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_830~B-ID-409~MODIFY_STANCE~Triad_ID_1_29~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_831~B-ID-409~MODIFY_STANCE~Triad_ID_1_30~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_832~B-ID-83~MODIFY_STANCE~Triad_ID_1_319~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_833~B-ID-83~MODIFY_STANCE~Triad_ID_1_319~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_834~B-ID-83~MODIFY_STANCE~Triad_ID_1_320~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_835~B-ID-83~MODIFY_STANCE~Triad_ID_1_321~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_836~B-ID-83~MODIFY_STANCE~Triad_ID_1_322~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_837~B-ID-83~MODIFY_STANCE~Triad_ID_1_323~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_838~B-ID-83~MODIFY_STANCE~Triad_ID_1_324~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_839~B-ID-83~MODIFY_STANCE~Triad_ID_1_319~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_840~B-ID-83~MODIFY_STANCE~Triad_ID_1_319~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_841~B-ID-83~MODIFY_STANCE~Triad_ID_1_320~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_842~B-ID-83~MODIFY_STANCE~Triad_ID_1_321~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_843~B-ID-83~MODIFY_STANCE~Triad_ID_1_322~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_844~B-ID-83~MODIFY_STANCE~Triad_ID_1_323~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_845~B-ID-83~MODIFY_STANCE~Triad_ID_1_324~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_846~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_847~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_848~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_80~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_849~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_81~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_850~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_82~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_851~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_83~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_852~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_84~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_853~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_854~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_855~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_80~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_856~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_81~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_857~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_82~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_858~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_83~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_859~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_84~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_860~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~1.984047936032E-4~0~0~2~Sim1~0
+Identity_Act_id_861~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_79~1.9800798401599362E-4~0~0~2~Sim1~0
+Identity_Act_id_862~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_80~1.992008000000003E-4~0~0~2~Sim1~0
+Identity_Act_id_863~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_81~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_864~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_82~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_865~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_83~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_866~Edvinas Regelskis~MODIFY_STANCE~Triad_ID_1_84~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_867~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_295~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_868~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_295~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_869~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_296~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_870~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_297~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_871~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_298~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_872~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_299~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_873~Bishop Ambrose of Trakai ROC~MODIFY_STANCE~Triad_ID_1_300~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_874~B-ID-583~MODIFY_STANCE~Triad_ID_1_19~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_875~B-ID-583~MODIFY_STANCE~Triad_ID_1_19~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_876~B-ID-583~MODIFY_STANCE~Triad_ID_1_20~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_877~B-ID-583~MODIFY_STANCE~Triad_ID_1_21~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_878~B-ID-583~MODIFY_STANCE~Triad_ID_1_22~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_879~B-ID-583~MODIFY_STANCE~Triad_ID_1_23~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_880~B-ID-583~MODIFY_STANCE~Triad_ID_1_24~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_881~B-ID-102~MODIFY_STANCE~Triad_ID_1_145~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_882~B-ID-102~MODIFY_STANCE~Triad_ID_1_145~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_883~B-ID-102~MODIFY_STANCE~Triad_ID_1_146~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_884~B-ID-102~MODIFY_STANCE~Triad_ID_1_147~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_885~B-ID-102~MODIFY_STANCE~Triad_ID_1_148~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_886~B-ID-102~MODIFY_STANCE~Triad_ID_1_149~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_887~B-ID-102~MODIFY_STANCE~Triad_ID_1_150~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_888~B-ID-102~MODIFY_STANCE~Triad_ID_1_145~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_889~B-ID-102~MODIFY_STANCE~Triad_ID_1_145~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_890~B-ID-102~MODIFY_STANCE~Triad_ID_1_146~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_891~B-ID-102~MODIFY_STANCE~Triad_ID_1_147~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_892~B-ID-102~MODIFY_STANCE~Triad_ID_1_148~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_893~B-ID-102~MODIFY_STANCE~Triad_ID_1_149~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_894~B-ID-102~MODIFY_STANCE~Triad_ID_1_150~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_895~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_19~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_896~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_20~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_897~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_21~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_898~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_22~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_899~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_23~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_900~Deacon John Stankevicius~CREATE_by_other~Triad_ID_2_24~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_901~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_25~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_902~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_26~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_903~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_27~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_904~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_28~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_905~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_29~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_906~Viktorija Smilyte-Nielsen~CREATE_by_other~Triad_ID_2_30~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_907~B-ID-203~MODIFY_STANCE~Triad_ID_1_55~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_908~B-ID-203~MODIFY_STANCE~Triad_ID_1_55~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_909~B-ID-203~MODIFY_STANCE~Triad_ID_1_56~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_910~B-ID-203~MODIFY_STANCE~Triad_ID_1_57~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_911~B-ID-203~MODIFY_STANCE~Triad_ID_1_58~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_912~B-ID-203~MODIFY_STANCE~Triad_ID_1_59~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_913~B-ID-203~MODIFY_STANCE~Triad_ID_1_60~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_914~B-ID-322~MODIFY_STANCE~Triad_ID_1_325~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_915~B-ID-322~MODIFY_STANCE~Triad_ID_1_325~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_916~B-ID-322~MODIFY_STANCE~Triad_ID_1_326~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_917~B-ID-322~MODIFY_STANCE~Triad_ID_1_327~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_918~B-ID-322~MODIFY_STANCE~Triad_ID_1_328~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_919~B-ID-322~MODIFY_STANCE~Triad_ID_1_329~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_920~B-ID-322~MODIFY_STANCE~Triad_ID_1_330~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_921~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_922~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_923~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_266~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_924~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_267~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_925~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_268~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_926~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_269~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_927~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_270~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_928~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_929~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_930~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_266~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_931~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_267~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_932~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_268~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_933~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_269~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_934~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_270~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_935~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~1.984047936032E-4~0~0~2~Sim1~0
+Identity_Act_id_936~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_265~1.9800798401599362E-4~0~0~2~Sim1~0
+Identity_Act_id_937~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_266~1.992008000000003E-4~0~0~2~Sim1~0
+Identity_Act_id_938~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_267~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_939~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_268~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_940~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_269~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_941~Gintare Guzevi?i?t?~MODIFY_STANCE~Triad_ID_1_270~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_942~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_943~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_944~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_278~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_945~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_279~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_946~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_280~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_947~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_281~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_948~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_282~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_949~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_950~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_951~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_278~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_952~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_279~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_953~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_280~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_954~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_281~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_955~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_282~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_956~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~1.984047936032E-4~0~0~2~Sim1~0
+Identity_Act_id_957~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_277~1.9800798401599362E-4~0~0~2~Sim1~0
+Identity_Act_id_958~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_278~1.992008000000003E-4~0~0~2~Sim1~0
+Identity_Act_id_959~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_279~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_960~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_280~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_961~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_281~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_962~Sonata Patkauskait?~MODIFY_STANCE~Triad_ID_1_282~1.9920080000000007E-4~0~0~2~Sim1~0
+Identity_Act_id_963~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_31~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_964~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_32~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_965~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_33~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_966~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_34~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_967~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_35~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_968~Father James Karklys ROC~CREATE_by_other~Triad_ID_2_36~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_969~B-ID-678~MODIFY_STANCE~Triad_ID_1_13~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_970~B-ID-678~MODIFY_STANCE~Triad_ID_1_13~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_971~B-ID-678~MODIFY_STANCE~Triad_ID_1_14~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_972~B-ID-678~MODIFY_STANCE~Triad_ID_1_15~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_973~B-ID-678~MODIFY_STANCE~Triad_ID_1_16~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_974~B-ID-678~MODIFY_STANCE~Triad_ID_1_17~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_975~B-ID-678~MODIFY_STANCE~Triad_ID_1_18~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_976~B-ID-678~MODIFY_STANCE~Triad_ID_1_13~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_977~B-ID-678~MODIFY_STANCE~Triad_ID_1_13~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_978~B-ID-678~MODIFY_STANCE~Triad_ID_1_14~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_979~B-ID-678~MODIFY_STANCE~Triad_ID_1_15~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_980~B-ID-678~MODIFY_STANCE~Triad_ID_1_16~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_981~B-ID-678~MODIFY_STANCE~Triad_ID_1_17~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_982~B-ID-678~MODIFY_STANCE~Triad_ID_1_18~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_983~B-ID-702~MODIFY_STANCE~Triad_ID_1_7~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_984~B-ID-702~MODIFY_STANCE~Triad_ID_1_7~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_985~B-ID-702~MODIFY_STANCE~Triad_ID_1_8~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_986~B-ID-702~MODIFY_STANCE~Triad_ID_1_9~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_987~B-ID-702~MODIFY_STANCE~Triad_ID_1_10~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_988~B-ID-702~MODIFY_STANCE~Triad_ID_1_11~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_989~B-ID-702~MODIFY_STANCE~Triad_ID_1_12~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_990~B-ID-702~MODIFY_STANCE~Triad_ID_1_7~1.9920080000000002E-4~0~0~2~Sim1~0
+Identity_Act_id_991~B-ID-702~MODIFY_STANCE~Triad_ID_1_7~1.9880239840000004E-4~0~0~2~Sim1~0
+Identity_Act_id_992~B-ID-702~MODIFY_STANCE~Triad_ID_1_8~1.9960000000000022E-4~0~0~2~Sim1~0
+Identity_Act_id_993~B-ID-702~MODIFY_STANCE~Triad_ID_1_9~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_994~B-ID-702~MODIFY_STANCE~Triad_ID_1_10~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_995~B-ID-702~MODIFY_STANCE~Triad_ID_1_11~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_996~B-ID-702~MODIFY_STANCE~Triad_ID_1_12~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_997~B-ID-135~CREATE_by_other~Triad_ID_2_37~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_998~B-ID-135~CREATE_by_other~Triad_ID_2_38~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_999~B-ID-135~CREATE_by_other~Triad_ID_2_39~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_1000~B-ID-135~CREATE_by_other~Triad_ID_2_40~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_1001~B-ID-135~CREATE_by_other~Triad_ID_2_41~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_1002~B-ID-135~CREATE_by_other~Triad_ID_2_42~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_1003~B-ID-57~MODIFY_STANCE~Triad_ID_1_229~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1004~B-ID-57~MODIFY_STANCE~Triad_ID_1_229~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1005~B-ID-57~MODIFY_STANCE~Triad_ID_1_230~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1006~B-ID-57~MODIFY_STANCE~Triad_ID_1_231~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1007~B-ID-57~MODIFY_STANCE~Triad_ID_1_232~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1008~B-ID-57~MODIFY_STANCE~Triad_ID_1_233~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1009~B-ID-57~MODIFY_STANCE~Triad_ID_1_234~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1010~B-ID-443~MODIFY_STANCE~Triad_ID_1_595~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1011~B-ID-443~MODIFY_STANCE~Triad_ID_1_595~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1012~B-ID-443~MODIFY_STANCE~Triad_ID_1_596~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1013~B-ID-443~MODIFY_STANCE~Triad_ID_1_597~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1014~B-ID-443~MODIFY_STANCE~Triad_ID_1_598~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1015~B-ID-443~MODIFY_STANCE~Triad_ID_1_599~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1016~B-ID-443~MODIFY_STANCE~Triad_ID_1_600~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1017~B-ID-121~MODIFY_STANCE~Triad_ID_1_301~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1018~B-ID-121~MODIFY_STANCE~Triad_ID_1_301~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1019~B-ID-121~MODIFY_STANCE~Triad_ID_1_302~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1020~B-ID-121~MODIFY_STANCE~Triad_ID_1_303~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1021~B-ID-121~MODIFY_STANCE~Triad_ID_1_304~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1022~B-ID-121~MODIFY_STANCE~Triad_ID_1_305~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1023~B-ID-121~MODIFY_STANCE~Triad_ID_1_306~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1024~B-ID-701~MODIFY_STANCE~Triad_ID_1_637~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1025~B-ID-701~MODIFY_STANCE~Triad_ID_1_637~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1026~B-ID-701~MODIFY_STANCE~Triad_ID_1_638~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1027~B-ID-701~MODIFY_STANCE~Triad_ID_1_639~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1028~B-ID-701~MODIFY_STANCE~Triad_ID_1_640~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1029~B-ID-701~MODIFY_STANCE~Triad_ID_1_641~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1030~B-ID-701~MODIFY_STANCE~Triad_ID_1_642~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1031~B-ID-78~CREATE_by_other~Triad_ID_2_43~0~0~0~2~Sim1~NATO military actions in Lithuania
+Identity_Act_id_1032~B-ID-78~CREATE_by_other~Triad_ID_2_44~0~0~0~2~Sim1~Donovian military actions in Lithuania
+Identity_Act_id_1033~B-ID-78~CREATE_by_other~Triad_ID_2_45~0~0~0~2~Sim1~IDPs migrate to Poland as result of war
+Identity_Act_id_1034~B-ID-78~CREATE_by_other~Triad_ID_2_46~0~0~0~2~Sim1~Censorship of media by Donovia
+Identity_Act_id_1035~B-ID-78~CREATE_by_other~Triad_ID_2_47~0~0~0~2~Sim1~Low Morale of Donovian soldiers
+Identity_Act_id_1036~B-ID-78~CREATE_by_other~Triad_ID_2_48~0~0~0~2~Sim1~Low Morale of Lithuanian civilians
+Identity_Act_id_1037~B-ID-282~MODIFY_STANCE~Triad_ID_1_157~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1038~B-ID-282~MODIFY_STANCE~Triad_ID_1_157~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1039~B-ID-282~MODIFY_STANCE~Triad_ID_1_158~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1040~B-ID-282~MODIFY_STANCE~Triad_ID_1_159~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1041~B-ID-282~MODIFY_STANCE~Triad_ID_1_160~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1042~B-ID-282~MODIFY_STANCE~Triad_ID_1_161~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1043~B-ID-282~MODIFY_STANCE~Triad_ID_1_162~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1044~B-ID-4~MODIFY_STANCE~Triad_ID_1_199~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1045~B-ID-4~MODIFY_STANCE~Triad_ID_1_199~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1046~B-ID-4~MODIFY_STANCE~Triad_ID_1_200~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1047~B-ID-4~MODIFY_STANCE~Triad_ID_1_201~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1048~B-ID-4~MODIFY_STANCE~Triad_ID_1_202~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1049~B-ID-4~MODIFY_STANCE~Triad_ID_1_203~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1050~B-ID-4~MODIFY_STANCE~Triad_ID_1_204~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1051~B-ID-337~MODIFY_STANCE~Triad_ID_1_379~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1052~B-ID-337~MODIFY_STANCE~Triad_ID_1_379~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1053~B-ID-337~MODIFY_STANCE~Triad_ID_1_380~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1054~B-ID-337~MODIFY_STANCE~Triad_ID_1_381~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1055~B-ID-337~MODIFY_STANCE~Triad_ID_1_382~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1056~B-ID-337~MODIFY_STANCE~Triad_ID_1_383~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1057~B-ID-337~MODIFY_STANCE~Triad_ID_1_384~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1058~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_505~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1059~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_505~1.996E-4~0~0~2~Sim1~0
+Identity_Act_id_1060~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_506~2.0000000000000017E-4~0~0~2~Sim1~0
+Identity_Act_id_1061~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_507~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1062~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_508~2.0E-4~0~0~2~Sim1~0
+Identity_Act_id_1063~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_509~1.9999999999999996E-4~0~0~2~Sim1~0
+Identity_Act_id_1064~Archbishop Innokenty of Vilnius ROC~MODIFY_STANCE~Triad_ID_1_510~1.9999999999999996E-4~0~0~2~Sim1~0

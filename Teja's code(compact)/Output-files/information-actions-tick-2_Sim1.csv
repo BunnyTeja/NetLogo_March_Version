@@ -1,0 +1,1534 @@
+information_action_id~information_action_type~sending_agent_id~receiving_agent_id~information_packet_id~endorsed_agent_id~change_in_amplification~tick~simulation_id
+InfoAct_id_2332~SEND~B-ID-388~B-ID-246~IP-274~0~0.1~2~Sim1
+InfoAct_id_2333~SEND~B-ID-388~B-ID-246~IP-278~0~0.1~2~Sim1
+InfoAct_id_2334~SEND~B-ID-388~B-ID-246~IP-282~0~0.1~2~Sim1
+InfoAct_id_2335~SEND~B-ID-388~B-ID-246~IP-307~0~0.1~2~Sim1
+InfoAct_id_2336~SEND~B-ID-388~B-ID-246~IP-315~0~0.1~2~Sim1
+InfoAct_id_2337~SEND~B-ID-388~B-ID-246~IP-323~0~0.1~2~Sim1
+InfoAct_id_2338~SEND~B-ID-388~B-ID-246~IP-335~0~0.1~2~Sim1
+InfoAct_id_2339~SEND~B-ID-388~B-ID-373~IP-274~0~0~2~Sim1
+InfoAct_id_2340~SEND~B-ID-388~B-ID-373~IP-278~0~0~2~Sim1
+InfoAct_id_2341~SEND~B-ID-388~B-ID-373~IP-282~0~0~2~Sim1
+InfoAct_id_2342~SEND~B-ID-388~B-ID-373~IP-307~0~0~2~Sim1
+InfoAct_id_2343~SEND~B-ID-388~B-ID-373~IP-315~0~0~2~Sim1
+InfoAct_id_2344~SEND~B-ID-388~B-ID-373~IP-323~0~0~2~Sim1
+InfoAct_id_2345~SEND~B-ID-388~B-ID-373~IP-335~0~0~2~Sim1
+InfoAct_id_2346~SEND~B-ID-388~B-ID-486~IP-274~0~0~2~Sim1
+InfoAct_id_2347~SEND~B-ID-388~B-ID-486~IP-278~0~0~2~Sim1
+InfoAct_id_2348~SEND~B-ID-388~B-ID-486~IP-282~0~0~2~Sim1
+InfoAct_id_2349~SEND~B-ID-388~B-ID-486~IP-307~0~0~2~Sim1
+InfoAct_id_2350~SEND~B-ID-388~B-ID-486~IP-315~0~0~2~Sim1
+InfoAct_id_2351~SEND~B-ID-388~B-ID-486~IP-323~0~0~2~Sim1
+InfoAct_id_2352~SEND~B-ID-388~B-ID-486~IP-335~0~0~2~Sim1
+InfoAct_id_2353~SEND~B-ID-388~B-ID-503~IP-274~0~0~2~Sim1
+InfoAct_id_2354~SEND~B-ID-388~B-ID-503~IP-278~0~0~2~Sim1
+InfoAct_id_2355~SEND~B-ID-388~B-ID-503~IP-282~0~0~2~Sim1
+InfoAct_id_2356~SEND~B-ID-388~B-ID-503~IP-307~0~0~2~Sim1
+InfoAct_id_2357~SEND~B-ID-388~B-ID-503~IP-315~0~0~2~Sim1
+InfoAct_id_2358~SEND~B-ID-388~B-ID-503~IP-323~0~0~2~Sim1
+InfoAct_id_2359~SEND~B-ID-388~B-ID-503~IP-335~0~0~2~Sim1
+InfoAct_id_2360~SEND~B-ID-388~B-ID-650~IP-274~0~0~2~Sim1
+InfoAct_id_2361~SEND~B-ID-388~B-ID-650~IP-278~0~0~2~Sim1
+InfoAct_id_2362~SEND~B-ID-388~B-ID-650~IP-282~0~0~2~Sim1
+InfoAct_id_2363~SEND~B-ID-388~B-ID-650~IP-307~0~0~2~Sim1
+InfoAct_id_2364~SEND~B-ID-388~B-ID-650~IP-315~0~0~2~Sim1
+InfoAct_id_2365~SEND~B-ID-388~B-ID-650~IP-323~0~0~2~Sim1
+InfoAct_id_2366~SEND~B-ID-388~B-ID-650~IP-335~0~0~2~Sim1
+InfoAct_id_2367~SEND~B-ID-388~B-ID-722~IP-274~0~0~2~Sim1
+InfoAct_id_2368~SEND~B-ID-388~B-ID-722~IP-278~0~0~2~Sim1
+InfoAct_id_2369~SEND~B-ID-388~B-ID-722~IP-282~0~0~2~Sim1
+InfoAct_id_2370~SEND~B-ID-388~B-ID-722~IP-307~0~0~2~Sim1
+InfoAct_id_2371~SEND~B-ID-388~B-ID-722~IP-315~0~0~2~Sim1
+InfoAct_id_2372~SEND~B-ID-388~B-ID-722~IP-323~0~0~2~Sim1
+InfoAct_id_2373~SEND~B-ID-388~B-ID-722~IP-335~0~0~2~Sim1
+InfoAct_id_2374~SEND~B-ID-337~B-ID-273~IP-274~0~0~2~Sim1
+InfoAct_id_2375~SEND~B-ID-337~B-ID-273~IP-278~0~0~2~Sim1
+InfoAct_id_2376~SEND~B-ID-337~B-ID-273~IP-282~0~0~2~Sim1
+InfoAct_id_2377~SEND~B-ID-337~B-ID-273~IP-307~0~0~2~Sim1
+InfoAct_id_2378~SEND~B-ID-337~B-ID-273~IP-315~0~0~2~Sim1
+InfoAct_id_2379~SEND~B-ID-337~B-ID-273~IP-323~0~0~2~Sim1
+InfoAct_id_2380~SEND~B-ID-337~B-ID-273~IP-335~0~0~2~Sim1
+InfoAct_id_2381~SEND~B-ID-337~B-ID-282~IP-274~0~0~2~Sim1
+InfoAct_id_2382~SEND~B-ID-337~B-ID-282~IP-278~0~0~2~Sim1
+InfoAct_id_2383~SEND~B-ID-337~B-ID-282~IP-282~0~0~2~Sim1
+InfoAct_id_2384~SEND~B-ID-337~B-ID-282~IP-307~0~0~2~Sim1
+InfoAct_id_2385~SEND~B-ID-337~B-ID-282~IP-315~0~0~2~Sim1
+InfoAct_id_2386~SEND~B-ID-337~B-ID-282~IP-323~0~0~2~Sim1
+InfoAct_id_2387~SEND~B-ID-337~B-ID-282~IP-335~0~0~2~Sim1
+InfoAct_id_2388~SEND~B-ID-337~B-ID-306~IP-274~0~0~2~Sim1
+InfoAct_id_2389~SEND~B-ID-337~B-ID-306~IP-278~0~0~2~Sim1
+InfoAct_id_2390~SEND~B-ID-337~B-ID-306~IP-282~0~0~2~Sim1
+InfoAct_id_2391~SEND~B-ID-337~B-ID-306~IP-307~0~0~2~Sim1
+InfoAct_id_2392~SEND~B-ID-337~B-ID-306~IP-315~0~0~2~Sim1
+InfoAct_id_2393~SEND~B-ID-337~B-ID-306~IP-323~0~0~2~Sim1
+InfoAct_id_2394~SEND~B-ID-337~B-ID-306~IP-335~0~0~2~Sim1
+InfoAct_id_2395~SEND~B-ID-337~B-ID-328~IP-274~0~0~2~Sim1
+InfoAct_id_2396~SEND~B-ID-337~B-ID-328~IP-278~0~0~2~Sim1
+InfoAct_id_2397~SEND~B-ID-337~B-ID-328~IP-282~0~0~2~Sim1
+InfoAct_id_2398~SEND~B-ID-337~B-ID-328~IP-307~0~0~2~Sim1
+InfoAct_id_2399~SEND~B-ID-337~B-ID-328~IP-315~0~0~2~Sim1
+InfoAct_id_2400~SEND~B-ID-337~B-ID-328~IP-323~0~0~2~Sim1
+InfoAct_id_2401~SEND~B-ID-337~B-ID-328~IP-335~0~0~2~Sim1
+InfoAct_id_2402~SEND~B-ID-337~B-ID-439~IP-274~0~0~2~Sim1
+InfoAct_id_2403~SEND~B-ID-337~B-ID-439~IP-278~0~0~2~Sim1
+InfoAct_id_2404~SEND~B-ID-337~B-ID-439~IP-282~0~0~2~Sim1
+InfoAct_id_2405~SEND~B-ID-337~B-ID-439~IP-307~0~0~2~Sim1
+InfoAct_id_2406~SEND~B-ID-337~B-ID-439~IP-315~0~0~2~Sim1
+InfoAct_id_2407~SEND~B-ID-337~B-ID-439~IP-323~0~0~2~Sim1
+InfoAct_id_2408~SEND~B-ID-337~B-ID-439~IP-335~0~0~2~Sim1
+InfoAct_id_2409~SEND~B-ID-563~B-ID-364~IP-274~0~0~2~Sim1
+InfoAct_id_2410~SEND~B-ID-563~B-ID-364~IP-278~0~0~2~Sim1
+InfoAct_id_2411~SEND~B-ID-563~B-ID-364~IP-282~0~0~2~Sim1
+InfoAct_id_2412~SEND~B-ID-563~B-ID-364~IP-307~0~0~2~Sim1
+InfoAct_id_2413~SEND~B-ID-563~B-ID-364~IP-315~0~0~2~Sim1
+InfoAct_id_2414~SEND~B-ID-563~B-ID-364~IP-323~0~0~2~Sim1
+InfoAct_id_2415~SEND~B-ID-563~B-ID-364~IP-335~0~0~2~Sim1
+InfoAct_id_2416~SEND~B-ID-563~B-ID-561~IP-274~0~0~2~Sim1
+InfoAct_id_2417~SEND~B-ID-563~B-ID-561~IP-278~0~0~2~Sim1
+InfoAct_id_2418~SEND~B-ID-563~B-ID-561~IP-282~0~0~2~Sim1
+InfoAct_id_2419~SEND~B-ID-563~B-ID-561~IP-307~0~0~2~Sim1
+InfoAct_id_2420~SEND~B-ID-563~B-ID-561~IP-315~0~0~2~Sim1
+InfoAct_id_2421~SEND~B-ID-563~B-ID-561~IP-323~0~0~2~Sim1
+InfoAct_id_2422~SEND~B-ID-563~B-ID-561~IP-335~0~0~2~Sim1
+InfoAct_id_2423~SEND~B-ID-322~B-ID-284~IP-274~0~0~2~Sim1
+InfoAct_id_2424~SEND~B-ID-322~B-ID-284~IP-278~0~0~2~Sim1
+InfoAct_id_2425~SEND~B-ID-322~B-ID-284~IP-282~0~0~2~Sim1
+InfoAct_id_2426~SEND~B-ID-322~B-ID-284~IP-307~0~0~2~Sim1
+InfoAct_id_2427~SEND~B-ID-322~B-ID-284~IP-315~0~0~2~Sim1
+InfoAct_id_2428~SEND~B-ID-322~B-ID-284~IP-323~0~0~2~Sim1
+InfoAct_id_2429~SEND~B-ID-322~B-ID-284~IP-335~0~0~2~Sim1
+InfoAct_id_2430~SEND~B-ID-322~B-ID-305~IP-274~0~0~2~Sim1
+InfoAct_id_2431~SEND~B-ID-322~B-ID-305~IP-278~0~0~2~Sim1
+InfoAct_id_2432~SEND~B-ID-322~B-ID-305~IP-282~0~0~2~Sim1
+InfoAct_id_2433~SEND~B-ID-322~B-ID-305~IP-307~0~0~2~Sim1
+InfoAct_id_2434~SEND~B-ID-322~B-ID-305~IP-315~0~0~2~Sim1
+InfoAct_id_2435~SEND~B-ID-322~B-ID-305~IP-323~0~0~2~Sim1
+InfoAct_id_2436~SEND~B-ID-322~B-ID-305~IP-335~0~0~2~Sim1
+InfoAct_id_2437~SEND~B-ID-322~B-ID-335~IP-274~0~0~2~Sim1
+InfoAct_id_2438~SEND~B-ID-322~B-ID-335~IP-278~0~0~2~Sim1
+InfoAct_id_2439~SEND~B-ID-322~B-ID-335~IP-282~0~0~2~Sim1
+InfoAct_id_2440~SEND~B-ID-322~B-ID-335~IP-307~0~0~2~Sim1
+InfoAct_id_2441~SEND~B-ID-322~B-ID-335~IP-315~0~0~2~Sim1
+InfoAct_id_2442~SEND~B-ID-322~B-ID-335~IP-323~0~0~2~Sim1
+InfoAct_id_2443~SEND~B-ID-322~B-ID-335~IP-335~0~0~2~Sim1
+InfoAct_id_2444~SEND~B-ID-322~B-ID-583~IP-274~0~0~2~Sim1
+InfoAct_id_2445~SEND~B-ID-322~B-ID-583~IP-278~0~0~2~Sim1
+InfoAct_id_2446~SEND~B-ID-322~B-ID-583~IP-282~0~0~2~Sim1
+InfoAct_id_2447~SEND~B-ID-322~B-ID-583~IP-307~0~0~2~Sim1
+InfoAct_id_2448~SEND~B-ID-322~B-ID-583~IP-315~0~0~2~Sim1
+InfoAct_id_2449~SEND~B-ID-322~B-ID-583~IP-323~0~0~2~Sim1
+InfoAct_id_2450~SEND~B-ID-322~B-ID-583~IP-335~0~0~2~Sim1
+InfoAct_id_2451~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-274~0~0~2~Sim1
+InfoAct_id_2452~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-278~0~0~2~Sim1
+InfoAct_id_2453~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-282~0~0~2~Sim1
+InfoAct_id_2454~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-307~0~0~2~Sim1
+InfoAct_id_2455~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-315~0~0~2~Sim1
+InfoAct_id_2456~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-323~0~0~2~Sim1
+InfoAct_id_2457~SEND~Bishop Ambrose of Trakai ROC~Father Vytenis Vaskelis ROC~IP-335~0~0~2~Sim1
+InfoAct_id_2458~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-274~0~0~2~Sim1
+InfoAct_id_2459~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-278~0~0~2~Sim1
+InfoAct_id_2460~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-282~0~0~2~Sim1
+InfoAct_id_2461~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-307~0~0~2~Sim1
+InfoAct_id_2462~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-315~0~0~2~Sim1
+InfoAct_id_2463~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-323~0~0~2~Sim1
+InfoAct_id_2464~SEND~Bishop Ambrose of Trakai ROC~Deacon Audrius Jesinskas ROC~IP-335~0~0~2~Sim1
+InfoAct_id_2465~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-274~0~0~2~Sim1
+InfoAct_id_2466~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-278~0~0~2~Sim1
+InfoAct_id_2467~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-282~0~0~2~Sim1
+InfoAct_id_2468~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-307~0~0~2~Sim1
+InfoAct_id_2469~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-315~0~0~2~Sim1
+InfoAct_id_2470~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-323~0~0~2~Sim1
+InfoAct_id_2471~SEND~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-335~0~0~2~Sim1
+InfoAct_id_2472~SEND~B-ID-404~B-ID-409~IP-274~0~0~2~Sim1
+InfoAct_id_2473~SEND~B-ID-404~B-ID-409~IP-278~0~0~2~Sim1
+InfoAct_id_2474~SEND~B-ID-404~B-ID-409~IP-282~0~0~2~Sim1
+InfoAct_id_2475~SEND~B-ID-404~B-ID-409~IP-307~0~0~2~Sim1
+InfoAct_id_2476~SEND~B-ID-404~B-ID-409~IP-315~0~0~2~Sim1
+InfoAct_id_2477~SEND~B-ID-404~B-ID-409~IP-323~0~0~2~Sim1
+InfoAct_id_2478~SEND~B-ID-404~B-ID-409~IP-335~0~0~2~Sim1
+InfoAct_id_2479~SEND~B-ID-446~B-ID-4~IP-274~0~0~2~Sim1
+InfoAct_id_2480~SEND~B-ID-446~B-ID-4~IP-278~0~0~2~Sim1
+InfoAct_id_2481~SEND~B-ID-446~B-ID-4~IP-282~0~0~2~Sim1
+InfoAct_id_2482~SEND~B-ID-446~B-ID-4~IP-307~0~0~2~Sim1
+InfoAct_id_2483~SEND~B-ID-446~B-ID-4~IP-315~0~0~2~Sim1
+InfoAct_id_2484~SEND~B-ID-446~B-ID-4~IP-323~0~0~2~Sim1
+InfoAct_id_2485~SEND~B-ID-446~B-ID-4~IP-335~0~0~2~Sim1
+InfoAct_id_2486~SEND~B-ID-446~B-ID-305~IP-274~0~0~2~Sim1
+InfoAct_id_2487~SEND~B-ID-446~B-ID-305~IP-278~0~0~2~Sim1
+InfoAct_id_2488~SEND~B-ID-446~B-ID-305~IP-282~0~0~2~Sim1
+InfoAct_id_2489~SEND~B-ID-446~B-ID-305~IP-307~0~0~2~Sim1
+InfoAct_id_2490~SEND~B-ID-446~B-ID-305~IP-315~0~0~2~Sim1
+InfoAct_id_2491~SEND~B-ID-446~B-ID-305~IP-323~0~0~2~Sim1
+InfoAct_id_2492~SEND~B-ID-446~B-ID-305~IP-335~0~0~2~Sim1
+InfoAct_id_2493~SEND~B-ID-446~B-ID-443~IP-274~0~0~2~Sim1
+InfoAct_id_2494~SEND~B-ID-446~B-ID-443~IP-278~0~0~2~Sim1
+InfoAct_id_2495~SEND~B-ID-446~B-ID-443~IP-282~0~0~2~Sim1
+InfoAct_id_2496~SEND~B-ID-446~B-ID-443~IP-307~0~0~2~Sim1
+InfoAct_id_2497~SEND~B-ID-446~B-ID-443~IP-315~0~0~2~Sim1
+InfoAct_id_2498~SEND~B-ID-446~B-ID-443~IP-323~0~0~2~Sim1
+InfoAct_id_2499~SEND~B-ID-446~B-ID-443~IP-335~0~0~2~Sim1
+InfoAct_id_2500~SEND~B-ID-164~B-ID-68~IP-274~0~0~2~Sim1
+InfoAct_id_2501~SEND~B-ID-164~B-ID-68~IP-278~0~0~2~Sim1
+InfoAct_id_2502~SEND~B-ID-164~B-ID-68~IP-282~0~0~2~Sim1
+InfoAct_id_2503~SEND~B-ID-164~B-ID-68~IP-307~0~0~2~Sim1
+InfoAct_id_2504~SEND~B-ID-164~B-ID-68~IP-315~0~0~2~Sim1
+InfoAct_id_2505~SEND~B-ID-164~B-ID-68~IP-323~0~0~2~Sim1
+InfoAct_id_2506~SEND~B-ID-164~B-ID-68~IP-335~0~0~2~Sim1
+InfoAct_id_2507~SEND~B-ID-164~B-ID-155~IP-274~0~0~2~Sim1
+InfoAct_id_2508~SEND~B-ID-164~B-ID-155~IP-278~0~0~2~Sim1
+InfoAct_id_2509~SEND~B-ID-164~B-ID-155~IP-282~0~0~2~Sim1
+InfoAct_id_2510~SEND~B-ID-164~B-ID-155~IP-307~0~0~2~Sim1
+InfoAct_id_2511~SEND~B-ID-164~B-ID-155~IP-315~0~0~2~Sim1
+InfoAct_id_2512~SEND~B-ID-164~B-ID-155~IP-323~0~0~2~Sim1
+InfoAct_id_2513~SEND~B-ID-164~B-ID-155~IP-335~0~0~2~Sim1
+InfoAct_id_2514~SEND~B-ID-164~B-ID-169~IP-274~0~0~2~Sim1
+InfoAct_id_2515~SEND~B-ID-164~B-ID-169~IP-278~0~0~2~Sim1
+InfoAct_id_2516~SEND~B-ID-164~B-ID-169~IP-282~0~0~2~Sim1
+InfoAct_id_2517~SEND~B-ID-164~B-ID-169~IP-307~0~0~2~Sim1
+InfoAct_id_2518~SEND~B-ID-164~B-ID-169~IP-315~0~0~2~Sim1
+InfoAct_id_2519~SEND~B-ID-164~B-ID-169~IP-323~0~0~2~Sim1
+InfoAct_id_2520~SEND~B-ID-164~B-ID-169~IP-335~0~0~2~Sim1
+InfoAct_id_2521~SEND~B-ID-164~B-ID-537~IP-274~0~0~2~Sim1
+InfoAct_id_2522~SEND~B-ID-164~B-ID-537~IP-278~0~0~2~Sim1
+InfoAct_id_2523~SEND~B-ID-164~B-ID-537~IP-282~0~0~2~Sim1
+InfoAct_id_2524~SEND~B-ID-164~B-ID-537~IP-307~0~0~2~Sim1
+InfoAct_id_2525~SEND~B-ID-164~B-ID-537~IP-315~0~0~2~Sim1
+InfoAct_id_2526~SEND~B-ID-164~B-ID-537~IP-323~0~0~2~Sim1
+InfoAct_id_2527~SEND~B-ID-164~B-ID-537~IP-335~0~0~2~Sim1
+InfoAct_id_2528~SEND~B-ID-164~B-ID-585~IP-274~0~0~2~Sim1
+InfoAct_id_2529~SEND~B-ID-164~B-ID-585~IP-278~0~0~2~Sim1
+InfoAct_id_2530~SEND~B-ID-164~B-ID-585~IP-282~0~0~2~Sim1
+InfoAct_id_2531~SEND~B-ID-164~B-ID-585~IP-307~0~0~2~Sim1
+InfoAct_id_2532~SEND~B-ID-164~B-ID-585~IP-315~0~0~2~Sim1
+InfoAct_id_2533~SEND~B-ID-164~B-ID-585~IP-323~0~0~2~Sim1
+InfoAct_id_2534~SEND~B-ID-164~B-ID-585~IP-335~0~0~2~Sim1
+InfoAct_id_2535~SEND~B-ID-450~B-ID-464~IP-274~0~0~2~Sim1
+InfoAct_id_2536~SEND~B-ID-450~B-ID-464~IP-278~0~0~2~Sim1
+InfoAct_id_2537~SEND~B-ID-450~B-ID-464~IP-282~0~0~2~Sim1
+InfoAct_id_2538~SEND~B-ID-450~B-ID-464~IP-307~0~0~2~Sim1
+InfoAct_id_2539~SEND~B-ID-450~B-ID-464~IP-315~0~0~2~Sim1
+InfoAct_id_2540~SEND~B-ID-450~B-ID-464~IP-323~0~0~2~Sim1
+InfoAct_id_2541~SEND~B-ID-450~B-ID-464~IP-335~0~0~2~Sim1
+InfoAct_id_2542~SEND~B-ID-699~B-ID-692~IP-274~0~0~2~Sim1
+InfoAct_id_2543~SEND~B-ID-699~B-ID-692~IP-278~0~0~2~Sim1
+InfoAct_id_2544~SEND~B-ID-699~B-ID-692~IP-282~0~0~2~Sim1
+InfoAct_id_2545~SEND~B-ID-699~B-ID-692~IP-307~0~0~2~Sim1
+InfoAct_id_2546~SEND~B-ID-699~B-ID-692~IP-315~0~0~2~Sim1
+InfoAct_id_2547~SEND~B-ID-699~B-ID-692~IP-323~0~0~2~Sim1
+InfoAct_id_2548~SEND~B-ID-699~B-ID-692~IP-335~0~0~2~Sim1
+InfoAct_id_2549~SEND~B-ID-628~B-ID-617~IP-274~0~0~2~Sim1
+InfoAct_id_2550~SEND~B-ID-628~B-ID-617~IP-278~0~0~2~Sim1
+InfoAct_id_2551~SEND~B-ID-628~B-ID-617~IP-282~0~0~2~Sim1
+InfoAct_id_2552~SEND~B-ID-628~B-ID-617~IP-307~0~0~2~Sim1
+InfoAct_id_2553~SEND~B-ID-628~B-ID-617~IP-315~0~0~2~Sim1
+InfoAct_id_2554~SEND~B-ID-628~B-ID-617~IP-323~0~0~2~Sim1
+InfoAct_id_2555~SEND~B-ID-628~B-ID-617~IP-335~0~0~2~Sim1
+InfoAct_id_2556~SEND~B-ID-409~B-ID-404~IP-274~0~0~2~Sim1
+InfoAct_id_2557~SEND~B-ID-409~B-ID-404~IP-278~0~0~2~Sim1
+InfoAct_id_2558~SEND~B-ID-409~B-ID-404~IP-282~0~0~2~Sim1
+InfoAct_id_2559~SEND~B-ID-409~B-ID-404~IP-307~0~0~2~Sim1
+InfoAct_id_2560~SEND~B-ID-409~B-ID-404~IP-315~0~0~2~Sim1
+InfoAct_id_2561~SEND~B-ID-409~B-ID-404~IP-323~0~0~2~Sim1
+InfoAct_id_2562~SEND~B-ID-409~B-ID-404~IP-335~0~0~2~Sim1
+InfoAct_id_2563~SEND~B-ID-410~B-ID-521~IP-274~0~0~2~Sim1
+InfoAct_id_2564~SEND~B-ID-410~B-ID-521~IP-278~0~0~2~Sim1
+InfoAct_id_2565~SEND~B-ID-410~B-ID-521~IP-282~0~0~2~Sim1
+InfoAct_id_2566~SEND~B-ID-410~B-ID-521~IP-307~0~0~2~Sim1
+InfoAct_id_2567~SEND~B-ID-410~B-ID-521~IP-315~0~0~2~Sim1
+InfoAct_id_2568~SEND~B-ID-410~B-ID-521~IP-323~0~0~2~Sim1
+InfoAct_id_2569~SEND~B-ID-410~B-ID-521~IP-335~0~0~2~Sim1
+InfoAct_id_2570~SEND~B-ID-4~B-ID-305~IP-274~0~0~2~Sim1
+InfoAct_id_2571~SEND~B-ID-4~B-ID-305~IP-278~0~0~2~Sim1
+InfoAct_id_2572~SEND~B-ID-4~B-ID-305~IP-282~0~0~2~Sim1
+InfoAct_id_2573~SEND~B-ID-4~B-ID-305~IP-307~0~0~2~Sim1
+InfoAct_id_2574~SEND~B-ID-4~B-ID-305~IP-315~0~0~2~Sim1
+InfoAct_id_2575~SEND~B-ID-4~B-ID-305~IP-323~0~0~2~Sim1
+InfoAct_id_2576~SEND~B-ID-4~B-ID-305~IP-335~0~0~2~Sim1
+InfoAct_id_2577~SEND~B-ID-4~B-ID-446~IP-274~0~0~2~Sim1
+InfoAct_id_2578~SEND~B-ID-4~B-ID-446~IP-278~0~0~2~Sim1
+InfoAct_id_2579~SEND~B-ID-4~B-ID-446~IP-282~0~0~2~Sim1
+InfoAct_id_2580~SEND~B-ID-4~B-ID-446~IP-307~0~0~2~Sim1
+InfoAct_id_2581~SEND~B-ID-4~B-ID-446~IP-315~0~0~2~Sim1
+InfoAct_id_2582~SEND~B-ID-4~B-ID-446~IP-323~0~0~2~Sim1
+InfoAct_id_2583~SEND~B-ID-4~B-ID-446~IP-335~0~0~2~Sim1
+InfoAct_id_2584~SEND~B-ID-283~B-ID-598~IP-274~0~0~2~Sim1
+InfoAct_id_2585~SEND~B-ID-283~B-ID-598~IP-278~0~0~2~Sim1
+InfoAct_id_2586~SEND~B-ID-283~B-ID-598~IP-282~0~0~2~Sim1
+InfoAct_id_2587~SEND~B-ID-283~B-ID-598~IP-307~0~0~2~Sim1
+InfoAct_id_2588~SEND~B-ID-283~B-ID-598~IP-315~0~0~2~Sim1
+InfoAct_id_2589~SEND~B-ID-283~B-ID-598~IP-323~0~0~2~Sim1
+InfoAct_id_2590~SEND~B-ID-283~B-ID-598~IP-335~0~0~2~Sim1
+InfoAct_id_2591~SEND~B-ID-483~B-ID-63~IP-274~0~0~2~Sim1
+InfoAct_id_2592~SEND~B-ID-483~B-ID-63~IP-278~0~0~2~Sim1
+InfoAct_id_2593~SEND~B-ID-483~B-ID-63~IP-282~0~0~2~Sim1
+InfoAct_id_2594~SEND~B-ID-483~B-ID-63~IP-307~0~0~2~Sim1
+InfoAct_id_2595~SEND~B-ID-483~B-ID-63~IP-315~0~0~2~Sim1
+InfoAct_id_2596~SEND~B-ID-483~B-ID-63~IP-323~0~0~2~Sim1
+InfoAct_id_2597~SEND~B-ID-483~B-ID-63~IP-335~0~0~2~Sim1
+InfoAct_id_2598~SEND~B-ID-483~B-ID-486~IP-274~0~0~2~Sim1
+InfoAct_id_2599~SEND~B-ID-483~B-ID-486~IP-278~0~0~2~Sim1
+InfoAct_id_2600~SEND~B-ID-483~B-ID-486~IP-282~0~0~2~Sim1
+InfoAct_id_2601~SEND~B-ID-483~B-ID-486~IP-307~0~0~2~Sim1
+InfoAct_id_2602~SEND~B-ID-483~B-ID-486~IP-315~0~0~2~Sim1
+InfoAct_id_2603~SEND~B-ID-483~B-ID-486~IP-323~0~0~2~Sim1
+InfoAct_id_2604~SEND~B-ID-483~B-ID-486~IP-335~0~0~2~Sim1
+InfoAct_id_2605~SEND~B-ID-483~B-ID-649~IP-274~0~0~2~Sim1
+InfoAct_id_2606~SEND~B-ID-483~B-ID-649~IP-278~0~0~2~Sim1
+InfoAct_id_2607~SEND~B-ID-483~B-ID-649~IP-282~0~0~2~Sim1
+InfoAct_id_2608~SEND~B-ID-483~B-ID-649~IP-307~0~0~2~Sim1
+InfoAct_id_2609~SEND~B-ID-483~B-ID-649~IP-315~0~0~2~Sim1
+InfoAct_id_2610~SEND~B-ID-483~B-ID-649~IP-323~0~0~2~Sim1
+InfoAct_id_2611~SEND~B-ID-483~B-ID-649~IP-335~0~0~2~Sim1
+InfoAct_id_2612~SEND~B-ID-361~B-ID-21~IP-274~0~0~2~Sim1
+InfoAct_id_2613~SEND~B-ID-361~B-ID-21~IP-278~0~0~2~Sim1
+InfoAct_id_2614~SEND~B-ID-361~B-ID-21~IP-282~0~0~2~Sim1
+InfoAct_id_2615~SEND~B-ID-361~B-ID-21~IP-307~0~0~2~Sim1
+InfoAct_id_2616~SEND~B-ID-361~B-ID-21~IP-315~0~0~2~Sim1
+InfoAct_id_2617~SEND~B-ID-361~B-ID-21~IP-323~0~0~2~Sim1
+InfoAct_id_2618~SEND~B-ID-361~B-ID-21~IP-335~0~0~2~Sim1
+InfoAct_id_2619~SEND~B-ID-361~B-ID-364~IP-274~0~0~2~Sim1
+InfoAct_id_2620~SEND~B-ID-361~B-ID-364~IP-278~0~0~2~Sim1
+InfoAct_id_2621~SEND~B-ID-361~B-ID-364~IP-282~0~0~2~Sim1
+InfoAct_id_2622~SEND~B-ID-361~B-ID-364~IP-307~0~0~2~Sim1
+InfoAct_id_2623~SEND~B-ID-361~B-ID-364~IP-315~0~0~2~Sim1
+InfoAct_id_2624~SEND~B-ID-361~B-ID-364~IP-323~0~0~2~Sim1
+InfoAct_id_2625~SEND~B-ID-361~B-ID-364~IP-335~0~0~2~Sim1
+InfoAct_id_2626~SEND~B-ID-361~B-ID-668~IP-274~0~0~2~Sim1
+InfoAct_id_2627~SEND~B-ID-361~B-ID-668~IP-278~0~0~2~Sim1
+InfoAct_id_2628~SEND~B-ID-361~B-ID-668~IP-282~0~0~2~Sim1
+InfoAct_id_2629~SEND~B-ID-361~B-ID-668~IP-307~0~0~2~Sim1
+InfoAct_id_2630~SEND~B-ID-361~B-ID-668~IP-315~0~0~2~Sim1
+InfoAct_id_2631~SEND~B-ID-361~B-ID-668~IP-323~0~0~2~Sim1
+InfoAct_id_2632~SEND~B-ID-361~B-ID-668~IP-335~0~0~2~Sim1
+InfoAct_id_2633~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_2634~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_2635~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_2636~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_2637~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_2638~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_2639~SEND~Sonata Patkauskait?~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_2640~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_2641~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_2642~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_2643~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_2644~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_2645~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_2646~SEND~Sonata Patkauskait?~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_2647~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_2648~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_2649~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_2650~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_2651~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_2652~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_2653~SEND~Sonata Patkauskait?~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_2654~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_2655~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_2656~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_2657~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_2658~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_2659~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_2660~SEND~Sonata Patkauskait?~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_2661~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_2662~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_2663~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_2664~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_2665~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_2666~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_2667~SEND~Sonata Patkauskait?~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_2668~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_2669~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_2670~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_2671~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_2672~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_2673~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_2674~SEND~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_2675~SEND~Sonata Patkauskait?~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_2676~SEND~Sonata Patkauskait?~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_2677~SEND~Sonata Patkauskait?~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_2678~SEND~Sonata Patkauskait?~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_2679~SEND~Sonata Patkauskait?~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_2680~SEND~Sonata Patkauskait?~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_2681~SEND~Sonata Patkauskait?~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_2682~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_2683~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_2684~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_2685~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_2686~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_2687~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_2688~SEND~Edvinas Regelskis~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_2689~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_2690~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_2691~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_2692~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_2693~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_2694~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_2695~SEND~Edvinas Regelskis~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_2696~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_2697~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_2698~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_2699~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_2700~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_2701~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_2702~SEND~Edvinas Regelskis~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_2703~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_2704~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_2705~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_2706~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_2707~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_2708~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_2709~SEND~Edvinas Regelskis~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_2710~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_2711~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_2712~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_2713~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_2714~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_2715~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_2716~SEND~Edvinas Regelskis~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_2717~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_2718~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_2719~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_2720~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_2721~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_2722~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_2723~SEND~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_2724~SEND~Edvinas Regelskis~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_2725~SEND~Edvinas Regelskis~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_2726~SEND~Edvinas Regelskis~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_2727~SEND~Edvinas Regelskis~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_2728~SEND~Edvinas Regelskis~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_2729~SEND~Edvinas Regelskis~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_2730~SEND~Edvinas Regelskis~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_2731~SEND~B-ID-678~B-ID-308~IP-274~0~0~2~Sim1
+InfoAct_id_2732~SEND~B-ID-678~B-ID-308~IP-278~0~0~2~Sim1
+InfoAct_id_2733~SEND~B-ID-678~B-ID-308~IP-282~0~0~2~Sim1
+InfoAct_id_2734~SEND~B-ID-678~B-ID-308~IP-307~0~0~2~Sim1
+InfoAct_id_2735~SEND~B-ID-678~B-ID-308~IP-315~0~0~2~Sim1
+InfoAct_id_2736~SEND~B-ID-678~B-ID-308~IP-323~0~0~2~Sim1
+InfoAct_id_2737~SEND~B-ID-678~B-ID-308~IP-335~0~0~2~Sim1
+InfoAct_id_2738~SEND~B-ID-678~B-ID-520~IP-274~0~0~2~Sim1
+InfoAct_id_2739~SEND~B-ID-678~B-ID-520~IP-278~0~0~2~Sim1
+InfoAct_id_2740~SEND~B-ID-678~B-ID-520~IP-282~0~0~2~Sim1
+InfoAct_id_2741~SEND~B-ID-678~B-ID-520~IP-307~0~0~2~Sim1
+InfoAct_id_2742~SEND~B-ID-678~B-ID-520~IP-315~0~0~2~Sim1
+InfoAct_id_2743~SEND~B-ID-678~B-ID-520~IP-323~0~0~2~Sim1
+InfoAct_id_2744~SEND~B-ID-678~B-ID-520~IP-335~0~0~2~Sim1
+InfoAct_id_2745~SEND~B-ID-701~B-ID-491~IP-274~0~0~2~Sim1
+InfoAct_id_2746~SEND~B-ID-701~B-ID-491~IP-278~0~0~2~Sim1
+InfoAct_id_2747~SEND~B-ID-701~B-ID-491~IP-282~0~0~2~Sim1
+InfoAct_id_2748~SEND~B-ID-701~B-ID-491~IP-307~0~0~2~Sim1
+InfoAct_id_2749~SEND~B-ID-701~B-ID-491~IP-315~0~0~2~Sim1
+InfoAct_id_2750~SEND~B-ID-701~B-ID-491~IP-323~0~0~2~Sim1
+InfoAct_id_2751~SEND~B-ID-701~B-ID-491~IP-335~0~0~2~Sim1
+InfoAct_id_2752~SEND~B-ID-395~B-ID-420~IP-274~0~0~2~Sim1
+InfoAct_id_2753~SEND~B-ID-395~B-ID-420~IP-278~0~0~2~Sim1
+InfoAct_id_2754~SEND~B-ID-395~B-ID-420~IP-282~0~0~2~Sim1
+InfoAct_id_2755~SEND~B-ID-395~B-ID-420~IP-307~0~0~2~Sim1
+InfoAct_id_2756~SEND~B-ID-395~B-ID-420~IP-315~0~0~2~Sim1
+InfoAct_id_2757~SEND~B-ID-395~B-ID-420~IP-323~0~0~2~Sim1
+InfoAct_id_2758~SEND~B-ID-395~B-ID-420~IP-335~0~0~2~Sim1
+InfoAct_id_2759~SEND~B-ID-282~B-ID-273~IP-274~0~0~2~Sim1
+InfoAct_id_2760~SEND~B-ID-282~B-ID-273~IP-278~0~0~2~Sim1
+InfoAct_id_2761~SEND~B-ID-282~B-ID-273~IP-282~0~0~2~Sim1
+InfoAct_id_2762~SEND~B-ID-282~B-ID-273~IP-307~0~0~2~Sim1
+InfoAct_id_2763~SEND~B-ID-282~B-ID-273~IP-315~0~0~2~Sim1
+InfoAct_id_2764~SEND~B-ID-282~B-ID-273~IP-323~0~0~2~Sim1
+InfoAct_id_2765~SEND~B-ID-282~B-ID-273~IP-335~0~0~2~Sim1
+InfoAct_id_2766~SEND~B-ID-282~B-ID-306~IP-274~0~0~2~Sim1
+InfoAct_id_2767~SEND~B-ID-282~B-ID-306~IP-278~0~0~2~Sim1
+InfoAct_id_2768~SEND~B-ID-282~B-ID-306~IP-282~0~0~2~Sim1
+InfoAct_id_2769~SEND~B-ID-282~B-ID-306~IP-307~0~0~2~Sim1
+InfoAct_id_2770~SEND~B-ID-282~B-ID-306~IP-315~0~0~2~Sim1
+InfoAct_id_2771~SEND~B-ID-282~B-ID-306~IP-323~0~0~2~Sim1
+InfoAct_id_2772~SEND~B-ID-282~B-ID-306~IP-335~0~0~2~Sim1
+InfoAct_id_2773~SEND~B-ID-282~B-ID-328~IP-274~0~0~2~Sim1
+InfoAct_id_2774~SEND~B-ID-282~B-ID-328~IP-278~0~0~2~Sim1
+InfoAct_id_2775~SEND~B-ID-282~B-ID-328~IP-282~0~0~2~Sim1
+InfoAct_id_2776~SEND~B-ID-282~B-ID-328~IP-307~0~0~2~Sim1
+InfoAct_id_2777~SEND~B-ID-282~B-ID-328~IP-315~0~0~2~Sim1
+InfoAct_id_2778~SEND~B-ID-282~B-ID-328~IP-323~0~0~2~Sim1
+InfoAct_id_2779~SEND~B-ID-282~B-ID-328~IP-335~0~0~2~Sim1
+InfoAct_id_2780~SEND~B-ID-282~B-ID-337~IP-274~0~0~2~Sim1
+InfoAct_id_2781~SEND~B-ID-282~B-ID-337~IP-278~0~0~2~Sim1
+InfoAct_id_2782~SEND~B-ID-282~B-ID-337~IP-282~0~0~2~Sim1
+InfoAct_id_2783~SEND~B-ID-282~B-ID-337~IP-307~0~0~2~Sim1
+InfoAct_id_2784~SEND~B-ID-282~B-ID-337~IP-315~0~0~2~Sim1
+InfoAct_id_2785~SEND~B-ID-282~B-ID-337~IP-323~0~0~2~Sim1
+InfoAct_id_2786~SEND~B-ID-282~B-ID-337~IP-335~0~0~2~Sim1
+InfoAct_id_2787~SEND~B-ID-282~B-ID-439~IP-274~0~0~2~Sim1
+InfoAct_id_2788~SEND~B-ID-282~B-ID-439~IP-278~0~0~2~Sim1
+InfoAct_id_2789~SEND~B-ID-282~B-ID-439~IP-282~0~0~2~Sim1
+InfoAct_id_2790~SEND~B-ID-282~B-ID-439~IP-307~0~0~2~Sim1
+InfoAct_id_2791~SEND~B-ID-282~B-ID-439~IP-315~0~0~2~Sim1
+InfoAct_id_2792~SEND~B-ID-282~B-ID-439~IP-323~0~0~2~Sim1
+InfoAct_id_2793~SEND~B-ID-282~B-ID-439~IP-335~0~0~2~Sim1
+InfoAct_id_2794~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-274~0~0~2~Sim1
+InfoAct_id_2795~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-278~0~0~2~Sim1
+InfoAct_id_2796~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-282~0~0~2~Sim1
+InfoAct_id_2797~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-307~0~0~2~Sim1
+InfoAct_id_2798~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-315~0~0~2~Sim1
+InfoAct_id_2799~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-323~0~0~2~Sim1
+InfoAct_id_2800~SEND~Austeja Landsbergiene~Gabrielius Landsbergis~IP-335~0~0~2~Sim1
+InfoAct_id_2801~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-274~0~0~2~Sim1
+InfoAct_id_2802~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-278~0~0~2~Sim1
+InfoAct_id_2803~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-282~0~0~2~Sim1
+InfoAct_id_2804~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-307~0~0~2~Sim1
+InfoAct_id_2805~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-315~0~0~2~Sim1
+InfoAct_id_2806~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-323~0~0~2~Sim1
+InfoAct_id_2807~SEND~Austeja Landsbergiene~Gitanas Nauseda~IP-335~0~0~2~Sim1
+InfoAct_id_2808~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-274~0~0~2~Sim1
+InfoAct_id_2809~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-278~0~0~2~Sim1
+InfoAct_id_2810~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-282~0~0~2~Sim1
+InfoAct_id_2811~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-307~0~0~2~Sim1
+InfoAct_id_2812~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-315~0~0~2~Sim1
+InfoAct_id_2813~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-323~0~0~2~Sim1
+InfoAct_id_2814~SEND~Austeja Landsbergiene~Ingrida Simonyte~IP-335~0~0~2~Sim1
+InfoAct_id_2815~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_2816~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_2817~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_2818~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_2819~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_2820~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_2821~SEND~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_2822~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_2823~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_2824~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_2825~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_2826~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_2827~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_2828~SEND~Austeja Landsbergiene~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_2829~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_2830~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_2831~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_2832~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_2833~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_2834~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_2835~SEND~Austeja Landsbergiene~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_2836~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_2837~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_2838~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_2839~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_2840~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_2841~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_2842~SEND~Austeja Landsbergiene~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_2843~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_2844~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_2845~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_2846~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_2847~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_2848~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_2849~SEND~Austeja Landsbergiene~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_2850~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_2851~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_2852~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_2853~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_2854~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_2855~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_2856~SEND~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_2857~SEND~Austeja Landsbergiene~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_2858~SEND~Austeja Landsbergiene~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_2859~SEND~Austeja Landsbergiene~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_2860~SEND~Austeja Landsbergiene~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_2861~SEND~Austeja Landsbergiene~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_2862~SEND~Austeja Landsbergiene~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_2863~SEND~Austeja Landsbergiene~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_2864~SEND~B-ID-88~B-ID-121~IP-274~0~0~2~Sim1
+InfoAct_id_2865~SEND~B-ID-88~B-ID-121~IP-278~0~0~2~Sim1
+InfoAct_id_2866~SEND~B-ID-88~B-ID-121~IP-282~0~0~2~Sim1
+InfoAct_id_2867~SEND~B-ID-88~B-ID-121~IP-307~0~0~2~Sim1
+InfoAct_id_2868~SEND~B-ID-88~B-ID-121~IP-315~0~0~2~Sim1
+InfoAct_id_2869~SEND~B-ID-88~B-ID-121~IP-323~0~0~2~Sim1
+InfoAct_id_2870~SEND~B-ID-88~B-ID-121~IP-335~0~0~2~Sim1
+InfoAct_id_2871~SEND~B-ID-102~B-ID-63~IP-274~0~0~2~Sim1
+InfoAct_id_2872~SEND~B-ID-102~B-ID-63~IP-278~0~0~2~Sim1
+InfoAct_id_2873~SEND~B-ID-102~B-ID-63~IP-282~0~0~2~Sim1
+InfoAct_id_2874~SEND~B-ID-102~B-ID-63~IP-307~0~0~2~Sim1
+InfoAct_id_2875~SEND~B-ID-102~B-ID-63~IP-315~0~0~2~Sim1
+InfoAct_id_2876~SEND~B-ID-102~B-ID-63~IP-323~0~0~2~Sim1
+InfoAct_id_2877~SEND~B-ID-102~B-ID-63~IP-335~0~0~2~Sim1
+InfoAct_id_2878~SEND~B-ID-102~B-ID-688~IP-274~0~0~2~Sim1
+InfoAct_id_2879~SEND~B-ID-102~B-ID-688~IP-278~0~0~2~Sim1
+InfoAct_id_2880~SEND~B-ID-102~B-ID-688~IP-282~0~0~2~Sim1
+InfoAct_id_2881~SEND~B-ID-102~B-ID-688~IP-307~0~0~2~Sim1
+InfoAct_id_2882~SEND~B-ID-102~B-ID-688~IP-315~0~0~2~Sim1
+InfoAct_id_2883~SEND~B-ID-102~B-ID-688~IP-323~0~0~2~Sim1
+InfoAct_id_2884~SEND~B-ID-102~B-ID-688~IP-335~0~0~2~Sim1
+InfoAct_id_2885~SEND~B-ID-102~B-ID-702~IP-274~0~0~2~Sim1
+InfoAct_id_2886~SEND~B-ID-102~B-ID-702~IP-278~0~0~2~Sim1
+InfoAct_id_2887~SEND~B-ID-102~B-ID-702~IP-282~0~0~2~Sim1
+InfoAct_id_2888~SEND~B-ID-102~B-ID-702~IP-307~0~0~2~Sim1
+InfoAct_id_2889~SEND~B-ID-102~B-ID-702~IP-315~0~0~2~Sim1
+InfoAct_id_2890~SEND~B-ID-102~B-ID-702~IP-323~0~0~2~Sim1
+InfoAct_id_2891~SEND~B-ID-102~B-ID-702~IP-335~0~0~2~Sim1
+InfoAct_id_2892~SEND~B-ID-84~B-ID-47~IP-274~0~0~2~Sim1
+InfoAct_id_2893~SEND~B-ID-84~B-ID-47~IP-278~0~0~2~Sim1
+InfoAct_id_2894~SEND~B-ID-84~B-ID-47~IP-282~0~0~2~Sim1
+InfoAct_id_2895~SEND~B-ID-84~B-ID-47~IP-307~0~0~2~Sim1
+InfoAct_id_2896~SEND~B-ID-84~B-ID-47~IP-315~0~0~2~Sim1
+InfoAct_id_2897~SEND~B-ID-84~B-ID-47~IP-323~0~0~2~Sim1
+InfoAct_id_2898~SEND~B-ID-84~B-ID-47~IP-335~0~0~2~Sim1
+InfoAct_id_2899~SEND~B-ID-84~B-ID-63~IP-274~0~0~2~Sim1
+InfoAct_id_2900~SEND~B-ID-84~B-ID-63~IP-278~0~0~2~Sim1
+InfoAct_id_2901~SEND~B-ID-84~B-ID-63~IP-282~0~0~2~Sim1
+InfoAct_id_2902~SEND~B-ID-84~B-ID-63~IP-307~0~0~2~Sim1
+InfoAct_id_2903~SEND~B-ID-84~B-ID-63~IP-315~0~0~2~Sim1
+InfoAct_id_2904~SEND~B-ID-84~B-ID-63~IP-323~0~0~2~Sim1
+InfoAct_id_2905~SEND~B-ID-84~B-ID-63~IP-335~0~0~2~Sim1
+InfoAct_id_2906~SEND~B-ID-84~B-ID-120~IP-274~0~0~2~Sim1
+InfoAct_id_2907~SEND~B-ID-84~B-ID-120~IP-278~0~0~2~Sim1
+InfoAct_id_2908~SEND~B-ID-84~B-ID-120~IP-282~0~0~2~Sim1
+InfoAct_id_2909~SEND~B-ID-84~B-ID-120~IP-307~0~0~2~Sim1
+InfoAct_id_2910~SEND~B-ID-84~B-ID-120~IP-315~0~0~2~Sim1
+InfoAct_id_2911~SEND~B-ID-84~B-ID-120~IP-323~0~0~2~Sim1
+InfoAct_id_2912~SEND~B-ID-84~B-ID-120~IP-335~0~0~2~Sim1
+InfoAct_id_2913~SEND~B-ID-84~B-ID-158~IP-274~0~0~2~Sim1
+InfoAct_id_2914~SEND~B-ID-84~B-ID-158~IP-278~0~0~2~Sim1
+InfoAct_id_2915~SEND~B-ID-84~B-ID-158~IP-282~0~0~2~Sim1
+InfoAct_id_2916~SEND~B-ID-84~B-ID-158~IP-307~0~0~2~Sim1
+InfoAct_id_2917~SEND~B-ID-84~B-ID-158~IP-315~0~0~2~Sim1
+InfoAct_id_2918~SEND~B-ID-84~B-ID-158~IP-323~0~0~2~Sim1
+InfoAct_id_2919~SEND~B-ID-84~B-ID-158~IP-335~0~0~2~Sim1
+InfoAct_id_2920~SEND~B-ID-84~B-ID-178~IP-274~0~0~2~Sim1
+InfoAct_id_2921~SEND~B-ID-84~B-ID-178~IP-278~0~0~2~Sim1
+InfoAct_id_2922~SEND~B-ID-84~B-ID-178~IP-282~0~0~2~Sim1
+InfoAct_id_2923~SEND~B-ID-84~B-ID-178~IP-307~0~0~2~Sim1
+InfoAct_id_2924~SEND~B-ID-84~B-ID-178~IP-315~0~0~2~Sim1
+InfoAct_id_2925~SEND~B-ID-84~B-ID-178~IP-323~0~0~2~Sim1
+InfoAct_id_2926~SEND~B-ID-84~B-ID-178~IP-335~0~0~2~Sim1
+InfoAct_id_2927~SEND~B-ID-84~B-ID-642~IP-274~0~0~2~Sim1
+InfoAct_id_2928~SEND~B-ID-84~B-ID-642~IP-278~0~0~2~Sim1
+InfoAct_id_2929~SEND~B-ID-84~B-ID-642~IP-282~0~0~2~Sim1
+InfoAct_id_2930~SEND~B-ID-84~B-ID-642~IP-307~0~0~2~Sim1
+InfoAct_id_2931~SEND~B-ID-84~B-ID-642~IP-315~0~0~2~Sim1
+InfoAct_id_2932~SEND~B-ID-84~B-ID-642~IP-323~0~0~2~Sim1
+InfoAct_id_2933~SEND~B-ID-84~B-ID-642~IP-335~0~0~2~Sim1
+InfoAct_id_2934~SEND~B-ID-118~B-ID-57~IP-274~0~0~2~Sim1
+InfoAct_id_2935~SEND~B-ID-118~B-ID-57~IP-278~0~0~2~Sim1
+InfoAct_id_2936~SEND~B-ID-118~B-ID-57~IP-282~0~0~2~Sim1
+InfoAct_id_2937~SEND~B-ID-118~B-ID-57~IP-307~0~0~2~Sim1
+InfoAct_id_2938~SEND~B-ID-118~B-ID-57~IP-315~0~0~2~Sim1
+InfoAct_id_2939~SEND~B-ID-118~B-ID-57~IP-323~0~0~2~Sim1
+InfoAct_id_2940~SEND~B-ID-118~B-ID-57~IP-335~0~0~2~Sim1
+InfoAct_id_2941~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-274~0~0~2~Sim1
+InfoAct_id_2942~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-278~0~0~2~Sim1
+InfoAct_id_2943~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-282~0~0~2~Sim1
+InfoAct_id_2944~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-307~0~0~2~Sim1
+InfoAct_id_2945~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-315~0~0~2~Sim1
+InfoAct_id_2946~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-323~0~0~2~Sim1
+InfoAct_id_2947~SEND~Archbishop Innokenty of Vilnius ROC~B-ID-602~IP-335~0~0~2~Sim1
+InfoAct_id_2948~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-274~0~0~2~Sim1
+InfoAct_id_2949~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-278~0~0~2~Sim1
+InfoAct_id_2950~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-282~0~0~2~Sim1
+InfoAct_id_2951~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-307~0~0~2~Sim1
+InfoAct_id_2952~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-315~0~0~2~Sim1
+InfoAct_id_2953~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-323~0~0~2~Sim1
+InfoAct_id_2954~SEND~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-335~0~0~2~Sim1
+InfoAct_id_2955~SEND~B-ID-766~B-ID-221~IP-274~0~0~2~Sim1
+InfoAct_id_2956~SEND~B-ID-766~B-ID-221~IP-278~0~0~2~Sim1
+InfoAct_id_2957~SEND~B-ID-766~B-ID-221~IP-282~0~0~2~Sim1
+InfoAct_id_2958~SEND~B-ID-766~B-ID-221~IP-307~0~0~2~Sim1
+InfoAct_id_2959~SEND~B-ID-766~B-ID-221~IP-315~0~0~2~Sim1
+InfoAct_id_2960~SEND~B-ID-766~B-ID-221~IP-323~0~0~2~Sim1
+InfoAct_id_2961~SEND~B-ID-766~B-ID-221~IP-335~0~0~2~Sim1
+InfoAct_id_2962~SEND~B-ID-766~B-ID-259~IP-274~0~0~2~Sim1
+InfoAct_id_2963~SEND~B-ID-766~B-ID-259~IP-278~0~0~2~Sim1
+InfoAct_id_2964~SEND~B-ID-766~B-ID-259~IP-282~0~0~2~Sim1
+InfoAct_id_2965~SEND~B-ID-766~B-ID-259~IP-307~0~0~2~Sim1
+InfoAct_id_2966~SEND~B-ID-766~B-ID-259~IP-315~0~0~2~Sim1
+InfoAct_id_2967~SEND~B-ID-766~B-ID-259~IP-323~0~0~2~Sim1
+InfoAct_id_2968~SEND~B-ID-766~B-ID-259~IP-335~0~0~2~Sim1
+InfoAct_id_2969~SEND~B-ID-766~B-ID-295~IP-274~0~0~2~Sim1
+InfoAct_id_2970~SEND~B-ID-766~B-ID-295~IP-278~0~0~2~Sim1
+InfoAct_id_2971~SEND~B-ID-766~B-ID-295~IP-282~0~0~2~Sim1
+InfoAct_id_2972~SEND~B-ID-766~B-ID-295~IP-307~0~0~2~Sim1
+InfoAct_id_2973~SEND~B-ID-766~B-ID-295~IP-315~0~0~2~Sim1
+InfoAct_id_2974~SEND~B-ID-766~B-ID-295~IP-323~0~0~2~Sim1
+InfoAct_id_2975~SEND~B-ID-766~B-ID-295~IP-335~0~0~2~Sim1
+InfoAct_id_2976~SEND~B-ID-766~B-ID-680~IP-274~0~0~2~Sim1
+InfoAct_id_2977~SEND~B-ID-766~B-ID-680~IP-278~0~0~2~Sim1
+InfoAct_id_2978~SEND~B-ID-766~B-ID-680~IP-282~0~0~2~Sim1
+InfoAct_id_2979~SEND~B-ID-766~B-ID-680~IP-307~0~0~2~Sim1
+InfoAct_id_2980~SEND~B-ID-766~B-ID-680~IP-315~0~0~2~Sim1
+InfoAct_id_2981~SEND~B-ID-766~B-ID-680~IP-323~0~0~2~Sim1
+InfoAct_id_2982~SEND~B-ID-766~B-ID-680~IP-335~0~0~2~Sim1
+InfoAct_id_2983~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_2984~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_2985~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_2986~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_2987~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_2988~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_2989~SEND~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_2990~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_2991~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_2992~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_2993~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_2994~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_2995~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_2996~SEND~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_2997~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_2998~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_2999~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3000~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3001~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3002~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3003~SEND~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3004~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_3005~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_3006~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_3007~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_3008~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_3009~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_3010~SEND~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_3011~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_3012~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_3013~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_3014~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_3015~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_3016~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_3017~SEND~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_3018~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_3019~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_3020~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_3021~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_3022~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_3023~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_3024~SEND~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_3025~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_3026~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_3027~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_3028~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_3029~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_3030~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_3031~SEND~Gintare Guzevi?i?t?~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_3032~SEND~B-ID-308~B-ID-311~IP-274~0~0~2~Sim1
+InfoAct_id_3033~SEND~B-ID-308~B-ID-311~IP-278~0~0~2~Sim1
+InfoAct_id_3034~SEND~B-ID-308~B-ID-311~IP-282~0~0~2~Sim1
+InfoAct_id_3035~SEND~B-ID-308~B-ID-311~IP-307~0~0~2~Sim1
+InfoAct_id_3036~SEND~B-ID-308~B-ID-311~IP-315~0~0~2~Sim1
+InfoAct_id_3037~SEND~B-ID-308~B-ID-311~IP-323~0~0~2~Sim1
+InfoAct_id_3038~SEND~B-ID-308~B-ID-311~IP-335~0~0~2~Sim1
+InfoAct_id_3039~SEND~B-ID-308~B-ID-520~IP-274~0~0~2~Sim1
+InfoAct_id_3040~SEND~B-ID-308~B-ID-520~IP-278~0~0~2~Sim1
+InfoAct_id_3041~SEND~B-ID-308~B-ID-520~IP-282~0~0~2~Sim1
+InfoAct_id_3042~SEND~B-ID-308~B-ID-520~IP-307~0~0~2~Sim1
+InfoAct_id_3043~SEND~B-ID-308~B-ID-520~IP-315~0~0~2~Sim1
+InfoAct_id_3044~SEND~B-ID-308~B-ID-520~IP-323~0~0~2~Sim1
+InfoAct_id_3045~SEND~B-ID-308~B-ID-520~IP-335~0~0~2~Sim1
+InfoAct_id_3046~SEND~B-ID-308~B-ID-678~IP-274~0~0~2~Sim1
+InfoAct_id_3047~SEND~B-ID-308~B-ID-678~IP-278~0~0~2~Sim1
+InfoAct_id_3048~SEND~B-ID-308~B-ID-678~IP-282~0~0~2~Sim1
+InfoAct_id_3049~SEND~B-ID-308~B-ID-678~IP-307~0~0~2~Sim1
+InfoAct_id_3050~SEND~B-ID-308~B-ID-678~IP-315~0~0~2~Sim1
+InfoAct_id_3051~SEND~B-ID-308~B-ID-678~IP-323~0~0~2~Sim1
+InfoAct_id_3052~SEND~B-ID-308~B-ID-678~IP-335~0~0~2~Sim1
+InfoAct_id_3053~SEND~B-ID-688~B-ID-102~IP-274~0~0~2~Sim1
+InfoAct_id_3054~SEND~B-ID-688~B-ID-102~IP-278~0~0~2~Sim1
+InfoAct_id_3055~SEND~B-ID-688~B-ID-102~IP-282~0~0~2~Sim1
+InfoAct_id_3056~SEND~B-ID-688~B-ID-102~IP-307~0~0~2~Sim1
+InfoAct_id_3057~SEND~B-ID-688~B-ID-102~IP-315~0~0~2~Sim1
+InfoAct_id_3058~SEND~B-ID-688~B-ID-102~IP-323~0~0~2~Sim1
+InfoAct_id_3059~SEND~B-ID-688~B-ID-102~IP-335~0~0~2~Sim1
+InfoAct_id_3060~SEND~B-ID-688~B-ID-702~IP-274~0~0~2~Sim1
+InfoAct_id_3061~SEND~B-ID-688~B-ID-702~IP-278~0~0~2~Sim1
+InfoAct_id_3062~SEND~B-ID-688~B-ID-702~IP-282~0~0~2~Sim1
+InfoAct_id_3063~SEND~B-ID-688~B-ID-702~IP-307~0~0~2~Sim1
+InfoAct_id_3064~SEND~B-ID-688~B-ID-702~IP-315~0~0~2~Sim1
+InfoAct_id_3065~SEND~B-ID-688~B-ID-702~IP-323~0~0~2~Sim1
+InfoAct_id_3066~SEND~B-ID-688~B-ID-702~IP-335~0~0~2~Sim1
+InfoAct_id_3067~SEND~B-ID-520~B-ID-308~IP-274~0~0~2~Sim1
+InfoAct_id_3068~SEND~B-ID-520~B-ID-308~IP-278~0~0~2~Sim1
+InfoAct_id_3069~SEND~B-ID-520~B-ID-308~IP-282~0~0~2~Sim1
+InfoAct_id_3070~SEND~B-ID-520~B-ID-308~IP-307~0~0~2~Sim1
+InfoAct_id_3071~SEND~B-ID-520~B-ID-308~IP-315~0~0~2~Sim1
+InfoAct_id_3072~SEND~B-ID-520~B-ID-308~IP-323~0~0~2~Sim1
+InfoAct_id_3073~SEND~B-ID-520~B-ID-308~IP-335~0~0~2~Sim1
+InfoAct_id_3074~SEND~B-ID-520~B-ID-678~IP-274~0~0~2~Sim1
+InfoAct_id_3075~SEND~B-ID-520~B-ID-678~IP-278~0~0~2~Sim1
+InfoAct_id_3076~SEND~B-ID-520~B-ID-678~IP-282~0~0~2~Sim1
+InfoAct_id_3077~SEND~B-ID-520~B-ID-678~IP-307~0~0~2~Sim1
+InfoAct_id_3078~SEND~B-ID-520~B-ID-678~IP-315~0~0~2~Sim1
+InfoAct_id_3079~SEND~B-ID-520~B-ID-678~IP-323~0~0~2~Sim1
+InfoAct_id_3080~SEND~B-ID-520~B-ID-678~IP-335~0~0~2~Sim1
+InfoAct_id_3081~SEND~B-ID-120~B-ID-84~IP-274~0~0~2~Sim1
+InfoAct_id_3082~SEND~B-ID-120~B-ID-84~IP-278~0~0~2~Sim1
+InfoAct_id_3083~SEND~B-ID-120~B-ID-84~IP-282~0~0~2~Sim1
+InfoAct_id_3084~SEND~B-ID-120~B-ID-84~IP-307~0~0~2~Sim1
+InfoAct_id_3085~SEND~B-ID-120~B-ID-84~IP-315~0~0~2~Sim1
+InfoAct_id_3086~SEND~B-ID-120~B-ID-84~IP-323~0~0~2~Sim1
+InfoAct_id_3087~SEND~B-ID-120~B-ID-84~IP-335~0~0~2~Sim1
+InfoAct_id_3088~SEND~B-ID-120~B-ID-87~IP-274~0~0~2~Sim1
+InfoAct_id_3089~SEND~B-ID-120~B-ID-87~IP-278~0~0~2~Sim1
+InfoAct_id_3090~SEND~B-ID-120~B-ID-87~IP-282~0~0~2~Sim1
+InfoAct_id_3091~SEND~B-ID-120~B-ID-87~IP-307~0~0~2~Sim1
+InfoAct_id_3092~SEND~B-ID-120~B-ID-87~IP-315~0~0~2~Sim1
+InfoAct_id_3093~SEND~B-ID-120~B-ID-87~IP-323~0~0~2~Sim1
+InfoAct_id_3094~SEND~B-ID-120~B-ID-87~IP-335~0~0~2~Sim1
+InfoAct_id_3095~SEND~B-ID-120~B-ID-98~IP-274~0~0~2~Sim1
+InfoAct_id_3096~SEND~B-ID-120~B-ID-98~IP-278~0~0~2~Sim1
+InfoAct_id_3097~SEND~B-ID-120~B-ID-98~IP-282~0~0~2~Sim1
+InfoAct_id_3098~SEND~B-ID-120~B-ID-98~IP-307~0~0~2~Sim1
+InfoAct_id_3099~SEND~B-ID-120~B-ID-98~IP-315~0~0~2~Sim1
+InfoAct_id_3100~SEND~B-ID-120~B-ID-98~IP-323~0~0~2~Sim1
+InfoAct_id_3101~SEND~B-ID-120~B-ID-98~IP-335~0~0~2~Sim1
+InfoAct_id_3102~SEND~B-ID-120~B-ID-203~IP-274~0~0~2~Sim1
+InfoAct_id_3103~SEND~B-ID-120~B-ID-203~IP-278~0~0~2~Sim1
+InfoAct_id_3104~SEND~B-ID-120~B-ID-203~IP-282~0~0~2~Sim1
+InfoAct_id_3105~SEND~B-ID-120~B-ID-203~IP-307~0~0~2~Sim1
+InfoAct_id_3106~SEND~B-ID-120~B-ID-203~IP-315~0~0~2~Sim1
+InfoAct_id_3107~SEND~B-ID-120~B-ID-203~IP-323~0~0~2~Sim1
+InfoAct_id_3108~SEND~B-ID-120~B-ID-203~IP-335~0~0~2~Sim1
+InfoAct_id_3109~SEND~B-ID-203~B-ID-120~IP-274~0~0~2~Sim1
+InfoAct_id_3110~SEND~B-ID-203~B-ID-120~IP-278~0~0~2~Sim1
+InfoAct_id_3111~SEND~B-ID-203~B-ID-120~IP-282~0~0~2~Sim1
+InfoAct_id_3112~SEND~B-ID-203~B-ID-120~IP-307~0~0~2~Sim1
+InfoAct_id_3113~SEND~B-ID-203~B-ID-120~IP-315~0~0~2~Sim1
+InfoAct_id_3114~SEND~B-ID-203~B-ID-120~IP-323~0~0~2~Sim1
+InfoAct_id_3115~SEND~B-ID-203~B-ID-120~IP-335~0~0~2~Sim1
+InfoAct_id_3116~SEND~B-ID-73~B-ID-128~IP-274~0~0~2~Sim1
+InfoAct_id_3117~SEND~B-ID-73~B-ID-128~IP-278~0~0~2~Sim1
+InfoAct_id_3118~SEND~B-ID-73~B-ID-128~IP-282~0~0~2~Sim1
+InfoAct_id_3119~SEND~B-ID-73~B-ID-128~IP-307~0~0~2~Sim1
+InfoAct_id_3120~SEND~B-ID-73~B-ID-128~IP-315~0~0~2~Sim1
+InfoAct_id_3121~SEND~B-ID-73~B-ID-128~IP-323~0~0~2~Sim1
+InfoAct_id_3122~SEND~B-ID-73~B-ID-128~IP-335~0~0~2~Sim1
+InfoAct_id_3123~SEND~B-ID-161~B-ID-78~IP-274~0~0~2~Sim1
+InfoAct_id_3124~SEND~B-ID-161~B-ID-78~IP-278~0~0~2~Sim1
+InfoAct_id_3125~SEND~B-ID-161~B-ID-78~IP-282~0~0~2~Sim1
+InfoAct_id_3126~SEND~B-ID-161~B-ID-78~IP-307~0~0~2~Sim1
+InfoAct_id_3127~SEND~B-ID-161~B-ID-78~IP-315~0~0~2~Sim1
+InfoAct_id_3128~SEND~B-ID-161~B-ID-78~IP-323~0~0~2~Sim1
+InfoAct_id_3129~SEND~B-ID-161~B-ID-78~IP-335~0~0~2~Sim1
+InfoAct_id_3130~SEND~B-ID-161~B-ID-83~IP-274~0~0~2~Sim1
+InfoAct_id_3131~SEND~B-ID-161~B-ID-83~IP-278~0~0~2~Sim1
+InfoAct_id_3132~SEND~B-ID-161~B-ID-83~IP-282~0~0~2~Sim1
+InfoAct_id_3133~SEND~B-ID-161~B-ID-83~IP-307~0~0~2~Sim1
+InfoAct_id_3134~SEND~B-ID-161~B-ID-83~IP-315~0~0~2~Sim1
+InfoAct_id_3135~SEND~B-ID-161~B-ID-83~IP-323~0~0~2~Sim1
+InfoAct_id_3136~SEND~B-ID-161~B-ID-83~IP-335~0~0~2~Sim1
+InfoAct_id_3137~SEND~B-ID-583~B-ID-322~IP-274~0~0~2~Sim1
+InfoAct_id_3138~SEND~B-ID-583~B-ID-322~IP-278~0~0~2~Sim1
+InfoAct_id_3139~SEND~B-ID-583~B-ID-322~IP-282~0~0~2~Sim1
+InfoAct_id_3140~SEND~B-ID-583~B-ID-322~IP-307~0~0~2~Sim1
+InfoAct_id_3141~SEND~B-ID-583~B-ID-322~IP-315~0~0~2~Sim1
+InfoAct_id_3142~SEND~B-ID-583~B-ID-322~IP-323~0~0~2~Sim1
+InfoAct_id_3143~SEND~B-ID-583~B-ID-322~IP-335~0~0~2~Sim1
+InfoAct_id_3144~SEND~B-ID-583~B-ID-585~IP-274~0~0~2~Sim1
+InfoAct_id_3145~SEND~B-ID-583~B-ID-585~IP-278~0~0~2~Sim1
+InfoAct_id_3146~SEND~B-ID-583~B-ID-585~IP-282~0~0~2~Sim1
+InfoAct_id_3147~SEND~B-ID-583~B-ID-585~IP-307~0~0~2~Sim1
+InfoAct_id_3148~SEND~B-ID-583~B-ID-585~IP-315~0~0~2~Sim1
+InfoAct_id_3149~SEND~B-ID-583~B-ID-585~IP-323~0~0~2~Sim1
+InfoAct_id_3150~SEND~B-ID-583~B-ID-585~IP-335~0~0~2~Sim1
+InfoAct_id_3151~SEND~B-ID-83~B-ID-42~IP-274~0~0~2~Sim1
+InfoAct_id_3152~SEND~B-ID-83~B-ID-42~IP-278~0~0~2~Sim1
+InfoAct_id_3153~SEND~B-ID-83~B-ID-42~IP-282~0~0~2~Sim1
+InfoAct_id_3154~SEND~B-ID-83~B-ID-42~IP-307~0~0~2~Sim1
+InfoAct_id_3155~SEND~B-ID-83~B-ID-42~IP-315~0~0~2~Sim1
+InfoAct_id_3156~SEND~B-ID-83~B-ID-42~IP-323~0~0~2~Sim1
+InfoAct_id_3157~SEND~B-ID-83~B-ID-42~IP-335~0~0~2~Sim1
+InfoAct_id_3158~SEND~B-ID-83~B-ID-78~IP-274~0~0~2~Sim1
+InfoAct_id_3159~SEND~B-ID-83~B-ID-78~IP-278~0~0~2~Sim1
+InfoAct_id_3160~SEND~B-ID-83~B-ID-78~IP-282~0~0~2~Sim1
+InfoAct_id_3161~SEND~B-ID-83~B-ID-78~IP-307~0~0~2~Sim1
+InfoAct_id_3162~SEND~B-ID-83~B-ID-78~IP-315~0~0~2~Sim1
+InfoAct_id_3163~SEND~B-ID-83~B-ID-78~IP-323~0~0~2~Sim1
+InfoAct_id_3164~SEND~B-ID-83~B-ID-78~IP-335~0~0~2~Sim1
+InfoAct_id_3165~SEND~B-ID-83~B-ID-135~IP-274~0~0~2~Sim1
+InfoAct_id_3166~SEND~B-ID-83~B-ID-135~IP-278~0~0~2~Sim1
+InfoAct_id_3167~SEND~B-ID-83~B-ID-135~IP-282~0~0~2~Sim1
+InfoAct_id_3168~SEND~B-ID-83~B-ID-135~IP-307~0~0~2~Sim1
+InfoAct_id_3169~SEND~B-ID-83~B-ID-135~IP-315~0~0~2~Sim1
+InfoAct_id_3170~SEND~B-ID-83~B-ID-135~IP-323~0~0~2~Sim1
+InfoAct_id_3171~SEND~B-ID-83~B-ID-135~IP-335~0~0~2~Sim1
+InfoAct_id_3172~SEND~B-ID-83~B-ID-161~IP-274~0~0~2~Sim1
+InfoAct_id_3173~SEND~B-ID-83~B-ID-161~IP-278~0~0~2~Sim1
+InfoAct_id_3174~SEND~B-ID-83~B-ID-161~IP-282~0~0~2~Sim1
+InfoAct_id_3175~SEND~B-ID-83~B-ID-161~IP-307~0~0~2~Sim1
+InfoAct_id_3176~SEND~B-ID-83~B-ID-161~IP-315~0~0~2~Sim1
+InfoAct_id_3177~SEND~B-ID-83~B-ID-161~IP-323~0~0~2~Sim1
+InfoAct_id_3178~SEND~B-ID-83~B-ID-161~IP-335~0~0~2~Sim1
+InfoAct_id_3179~SEND~B-ID-50~B-ID-153~IP-274~0~0~2~Sim1
+InfoAct_id_3180~SEND~B-ID-50~B-ID-153~IP-278~0~0~2~Sim1
+InfoAct_id_3181~SEND~B-ID-50~B-ID-153~IP-282~0~0~2~Sim1
+InfoAct_id_3182~SEND~B-ID-50~B-ID-153~IP-307~0~0~2~Sim1
+InfoAct_id_3183~SEND~B-ID-50~B-ID-153~IP-315~0~0~2~Sim1
+InfoAct_id_3184~SEND~B-ID-50~B-ID-153~IP-323~0~0~2~Sim1
+InfoAct_id_3185~SEND~B-ID-50~B-ID-153~IP-335~0~0~2~Sim1
+InfoAct_id_3186~SEND~B-ID-443~B-ID-446~IP-274~0~0~2~Sim1
+InfoAct_id_3187~SEND~B-ID-443~B-ID-446~IP-278~0~0~2~Sim1
+InfoAct_id_3188~SEND~B-ID-443~B-ID-446~IP-282~0~0~2~Sim1
+InfoAct_id_3189~SEND~B-ID-443~B-ID-446~IP-307~0~0~2~Sim1
+InfoAct_id_3190~SEND~B-ID-443~B-ID-446~IP-315~0~0~2~Sim1
+InfoAct_id_3191~SEND~B-ID-443~B-ID-446~IP-323~0~0~2~Sim1
+InfoAct_id_3192~SEND~B-ID-443~B-ID-446~IP-335~0~0~2~Sim1
+InfoAct_id_3193~SEND~B-ID-48~B-ID-63~IP-274~0~0~2~Sim1
+InfoAct_id_3194~SEND~B-ID-48~B-ID-63~IP-278~0~0~2~Sim1
+InfoAct_id_3195~SEND~B-ID-48~B-ID-63~IP-282~0~0~2~Sim1
+InfoAct_id_3196~SEND~B-ID-48~B-ID-63~IP-307~0~0~2~Sim1
+InfoAct_id_3197~SEND~B-ID-48~B-ID-63~IP-315~0~0~2~Sim1
+InfoAct_id_3198~SEND~B-ID-48~B-ID-63~IP-323~0~0~2~Sim1
+InfoAct_id_3199~SEND~B-ID-48~B-ID-63~IP-335~0~0~2~Sim1
+InfoAct_id_3200~SEND~B-ID-48~B-ID-170~IP-274~0~0~2~Sim1
+InfoAct_id_3201~SEND~B-ID-48~B-ID-170~IP-278~0~0~2~Sim1
+InfoAct_id_3202~SEND~B-ID-48~B-ID-170~IP-282~0~0~2~Sim1
+InfoAct_id_3203~SEND~B-ID-48~B-ID-170~IP-307~0~0~2~Sim1
+InfoAct_id_3204~SEND~B-ID-48~B-ID-170~IP-315~0~0~2~Sim1
+InfoAct_id_3205~SEND~B-ID-48~B-ID-170~IP-323~0~0~2~Sim1
+InfoAct_id_3206~SEND~B-ID-48~B-ID-170~IP-335~0~0~2~Sim1
+InfoAct_id_3207~SEND~B-ID-491~B-ID-701~IP-274~0~0~2~Sim1
+InfoAct_id_3208~SEND~B-ID-491~B-ID-701~IP-278~0~0~2~Sim1
+InfoAct_id_3209~SEND~B-ID-491~B-ID-701~IP-282~0~0~2~Sim1
+InfoAct_id_3210~SEND~B-ID-491~B-ID-701~IP-307~0~0~2~Sim1
+InfoAct_id_3211~SEND~B-ID-491~B-ID-701~IP-315~0~0~2~Sim1
+InfoAct_id_3212~SEND~B-ID-491~B-ID-701~IP-323~0~0~2~Sim1
+InfoAct_id_3213~SEND~B-ID-491~B-ID-701~IP-335~0~0~2~Sim1
+InfoAct_id_3214~SEND~B-ID-702~B-ID-102~IP-274~0~0~2~Sim1
+InfoAct_id_3215~SEND~B-ID-702~B-ID-102~IP-278~0~0~2~Sim1
+InfoAct_id_3216~SEND~B-ID-702~B-ID-102~IP-282~0~0~2~Sim1
+InfoAct_id_3217~SEND~B-ID-702~B-ID-102~IP-307~0~0~2~Sim1
+InfoAct_id_3218~SEND~B-ID-702~B-ID-102~IP-315~0~0~2~Sim1
+InfoAct_id_3219~SEND~B-ID-702~B-ID-102~IP-323~0~0~2~Sim1
+InfoAct_id_3220~SEND~B-ID-702~B-ID-102~IP-335~0~0~2~Sim1
+InfoAct_id_3221~SEND~B-ID-702~B-ID-688~IP-274~0~0~2~Sim1
+InfoAct_id_3222~SEND~B-ID-702~B-ID-688~IP-278~0~0~2~Sim1
+InfoAct_id_3223~SEND~B-ID-702~B-ID-688~IP-282~0~0~2~Sim1
+InfoAct_id_3224~SEND~B-ID-702~B-ID-688~IP-307~0~0~2~Sim1
+InfoAct_id_3225~SEND~B-ID-702~B-ID-688~IP-315~0~0~2~Sim1
+InfoAct_id_3226~SEND~B-ID-702~B-ID-688~IP-323~0~0~2~Sim1
+InfoAct_id_3227~SEND~B-ID-702~B-ID-688~IP-335~0~0~2~Sim1
+InfoAct_id_3228~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3229~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3230~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3231~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3232~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3233~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3234~SEND~B-ID-576~Deacon Audrius Jesinskas ROC~IP-335~0~0~2~Sim1
+InfoAct_id_3235~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3236~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3237~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3238~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3239~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3240~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3241~SEND~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-335~0~0~2~Sim1
+InfoAct_id_3242~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3243~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3244~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3245~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3246~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3247~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3248~SEND~Bishop K?stutis K?valas CATH~Deacon Audrius Jesinskas ROC~IP-335~0~0~2~Sim1
+InfoAct_id_3249~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3250~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3251~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3252~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3253~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3254~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3255~SEND~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3256~SEND~B-ID-42~B-ID-78~IP-274~0~0~2~Sim1
+InfoAct_id_3257~SEND~B-ID-42~B-ID-78~IP-278~0~0~2~Sim1
+InfoAct_id_3258~SEND~B-ID-42~B-ID-78~IP-282~0~0~2~Sim1
+InfoAct_id_3259~SEND~B-ID-42~B-ID-78~IP-307~0~0~2~Sim1
+InfoAct_id_3260~SEND~B-ID-42~B-ID-78~IP-315~0~0~2~Sim1
+InfoAct_id_3261~SEND~B-ID-42~B-ID-78~IP-323~0~0~2~Sim1
+InfoAct_id_3262~SEND~B-ID-42~B-ID-78~IP-335~0~0~2~Sim1
+InfoAct_id_3263~SEND~B-ID-42~B-ID-83~IP-274~0~0~2~Sim1
+InfoAct_id_3264~SEND~B-ID-42~B-ID-83~IP-278~0~0~2~Sim1
+InfoAct_id_3265~SEND~B-ID-42~B-ID-83~IP-282~0~0~2~Sim1
+InfoAct_id_3266~SEND~B-ID-42~B-ID-83~IP-307~0~0~2~Sim1
+InfoAct_id_3267~SEND~B-ID-42~B-ID-83~IP-315~0~0~2~Sim1
+InfoAct_id_3268~SEND~B-ID-42~B-ID-83~IP-323~0~0~2~Sim1
+InfoAct_id_3269~SEND~B-ID-42~B-ID-83~IP-335~0~0~2~Sim1
+InfoAct_id_3270~SEND~B-ID-42~B-ID-135~IP-274~0~0~2~Sim1
+InfoAct_id_3271~SEND~B-ID-42~B-ID-135~IP-278~0~0~2~Sim1
+InfoAct_id_3272~SEND~B-ID-42~B-ID-135~IP-282~0~0~2~Sim1
+InfoAct_id_3273~SEND~B-ID-42~B-ID-135~IP-307~0~0~2~Sim1
+InfoAct_id_3274~SEND~B-ID-42~B-ID-135~IP-315~0~0~2~Sim1
+InfoAct_id_3275~SEND~B-ID-42~B-ID-135~IP-323~0~0~2~Sim1
+InfoAct_id_3276~SEND~B-ID-42~B-ID-135~IP-335~0~0~2~Sim1
+InfoAct_id_3277~SEND~B-ID-42~B-ID-156~IP-274~0~0~2~Sim1
+InfoAct_id_3278~SEND~B-ID-42~B-ID-156~IP-278~0~0~2~Sim1
+InfoAct_id_3279~SEND~B-ID-42~B-ID-156~IP-282~0~0~2~Sim1
+InfoAct_id_3280~SEND~B-ID-42~B-ID-156~IP-307~0~0~2~Sim1
+InfoAct_id_3281~SEND~B-ID-42~B-ID-156~IP-315~0~0~2~Sim1
+InfoAct_id_3282~SEND~B-ID-42~B-ID-156~IP-323~0~0~2~Sim1
+InfoAct_id_3283~SEND~B-ID-42~B-ID-156~IP-335~0~0~2~Sim1
+InfoAct_id_3284~SEND~B-ID-42~B-ID-578~IP-274~0~0~2~Sim1
+InfoAct_id_3285~SEND~B-ID-42~B-ID-578~IP-278~0~0~2~Sim1
+InfoAct_id_3286~SEND~B-ID-42~B-ID-578~IP-282~0~0~2~Sim1
+InfoAct_id_3287~SEND~B-ID-42~B-ID-578~IP-307~0~0~2~Sim1
+InfoAct_id_3288~SEND~B-ID-42~B-ID-578~IP-315~0~0~2~Sim1
+InfoAct_id_3289~SEND~B-ID-42~B-ID-578~IP-323~0~0~2~Sim1
+InfoAct_id_3290~SEND~B-ID-42~B-ID-578~IP-335~0~0~2~Sim1
+InfoAct_id_3291~SEND~B-ID-759~B-ID-31~IP-274~0~0~2~Sim1
+InfoAct_id_3292~SEND~B-ID-759~B-ID-31~IP-278~0~0~2~Sim1
+InfoAct_id_3293~SEND~B-ID-759~B-ID-31~IP-282~0~0~2~Sim1
+InfoAct_id_3294~SEND~B-ID-759~B-ID-31~IP-307~0~0~2~Sim1
+InfoAct_id_3295~SEND~B-ID-759~B-ID-31~IP-315~0~0~2~Sim1
+InfoAct_id_3296~SEND~B-ID-759~B-ID-31~IP-323~0~0~2~Sim1
+InfoAct_id_3297~SEND~B-ID-759~B-ID-31~IP-335~0~0~2~Sim1
+InfoAct_id_3298~SEND~B-ID-759~B-ID-81~IP-274~0~0~2~Sim1
+InfoAct_id_3299~SEND~B-ID-759~B-ID-81~IP-278~0~0~2~Sim1
+InfoAct_id_3300~SEND~B-ID-759~B-ID-81~IP-282~0~0~2~Sim1
+InfoAct_id_3301~SEND~B-ID-759~B-ID-81~IP-307~0~0~2~Sim1
+InfoAct_id_3302~SEND~B-ID-759~B-ID-81~IP-315~0~0~2~Sim1
+InfoAct_id_3303~SEND~B-ID-759~B-ID-81~IP-323~0~0~2~Sim1
+InfoAct_id_3304~SEND~B-ID-759~B-ID-81~IP-335~0~0~2~Sim1
+InfoAct_id_3305~SEND~B-ID-759~B-ID-127~IP-274~0~0~2~Sim1
+InfoAct_id_3306~SEND~B-ID-759~B-ID-127~IP-278~0~0~2~Sim1
+InfoAct_id_3307~SEND~B-ID-759~B-ID-127~IP-282~0~0~2~Sim1
+InfoAct_id_3308~SEND~B-ID-759~B-ID-127~IP-307~0~0~2~Sim1
+InfoAct_id_3309~SEND~B-ID-759~B-ID-127~IP-315~0~0~2~Sim1
+InfoAct_id_3310~SEND~B-ID-759~B-ID-127~IP-323~0~0~2~Sim1
+InfoAct_id_3311~SEND~B-ID-759~B-ID-127~IP-335~0~0~2~Sim1
+InfoAct_id_3312~SEND~B-ID-759~B-ID-236~IP-274~0~0~2~Sim1
+InfoAct_id_3313~SEND~B-ID-759~B-ID-236~IP-278~0~0~2~Sim1
+InfoAct_id_3314~SEND~B-ID-759~B-ID-236~IP-282~0~0~2~Sim1
+InfoAct_id_3315~SEND~B-ID-759~B-ID-236~IP-307~0~0~2~Sim1
+InfoAct_id_3316~SEND~B-ID-759~B-ID-236~IP-315~0~0~2~Sim1
+InfoAct_id_3317~SEND~B-ID-759~B-ID-236~IP-323~0~0~2~Sim1
+InfoAct_id_3318~SEND~B-ID-759~B-ID-236~IP-335~0~0~2~Sim1
+InfoAct_id_3319~SEND~B-ID-759~B-ID-303~IP-274~0~0~2~Sim1
+InfoAct_id_3320~SEND~B-ID-759~B-ID-303~IP-278~0~0~2~Sim1
+InfoAct_id_3321~SEND~B-ID-759~B-ID-303~IP-282~0~0~2~Sim1
+InfoAct_id_3322~SEND~B-ID-759~B-ID-303~IP-307~0~0~2~Sim1
+InfoAct_id_3323~SEND~B-ID-759~B-ID-303~IP-315~0~0~2~Sim1
+InfoAct_id_3324~SEND~B-ID-759~B-ID-303~IP-323~0~0~2~Sim1
+InfoAct_id_3325~SEND~B-ID-759~B-ID-303~IP-335~0~0~2~Sim1
+InfoAct_id_3326~SEND~B-ID-759~B-ID-434~IP-274~0~0~2~Sim1
+InfoAct_id_3327~SEND~B-ID-759~B-ID-434~IP-278~0~0~2~Sim1
+InfoAct_id_3328~SEND~B-ID-759~B-ID-434~IP-282~0~0~2~Sim1
+InfoAct_id_3329~SEND~B-ID-759~B-ID-434~IP-307~0~0~2~Sim1
+InfoAct_id_3330~SEND~B-ID-759~B-ID-434~IP-315~0~0~2~Sim1
+InfoAct_id_3331~SEND~B-ID-759~B-ID-434~IP-323~0~0~2~Sim1
+InfoAct_id_3332~SEND~B-ID-759~B-ID-434~IP-335~0~0~2~Sim1
+InfoAct_id_3333~SEND~B-ID-759~B-ID-487~IP-274~0~0~2~Sim1
+InfoAct_id_3334~SEND~B-ID-759~B-ID-487~IP-278~0~0~2~Sim1
+InfoAct_id_3335~SEND~B-ID-759~B-ID-487~IP-282~0~0~2~Sim1
+InfoAct_id_3336~SEND~B-ID-759~B-ID-487~IP-307~0~0~2~Sim1
+InfoAct_id_3337~SEND~B-ID-759~B-ID-487~IP-315~0~0~2~Sim1
+InfoAct_id_3338~SEND~B-ID-759~B-ID-487~IP-323~0~0~2~Sim1
+InfoAct_id_3339~SEND~B-ID-759~B-ID-487~IP-335~0~0~2~Sim1
+InfoAct_id_3340~SEND~B-ID-759~B-ID-535~IP-274~0~0~2~Sim1
+InfoAct_id_3341~SEND~B-ID-759~B-ID-535~IP-278~0~0~2~Sim1
+InfoAct_id_3342~SEND~B-ID-759~B-ID-535~IP-282~0~0~2~Sim1
+InfoAct_id_3343~SEND~B-ID-759~B-ID-535~IP-307~0~0~2~Sim1
+InfoAct_id_3344~SEND~B-ID-759~B-ID-535~IP-315~0~0~2~Sim1
+InfoAct_id_3345~SEND~B-ID-759~B-ID-535~IP-323~0~0~2~Sim1
+InfoAct_id_3346~SEND~B-ID-759~B-ID-535~IP-335~0~0~2~Sim1
+InfoAct_id_3347~SEND~B-ID-759~B-ID-643~IP-274~0~0~2~Sim1
+InfoAct_id_3348~SEND~B-ID-759~B-ID-643~IP-278~0~0~2~Sim1
+InfoAct_id_3349~SEND~B-ID-759~B-ID-643~IP-282~0~0~2~Sim1
+InfoAct_id_3350~SEND~B-ID-759~B-ID-643~IP-307~0~0~2~Sim1
+InfoAct_id_3351~SEND~B-ID-759~B-ID-643~IP-315~0~0~2~Sim1
+InfoAct_id_3352~SEND~B-ID-759~B-ID-643~IP-323~0~0~2~Sim1
+InfoAct_id_3353~SEND~B-ID-759~B-ID-643~IP-335~0~0~2~Sim1
+InfoAct_id_3354~SEND~B-ID-759~B-ID-746~IP-274~0~0~2~Sim1
+InfoAct_id_3355~SEND~B-ID-759~B-ID-746~IP-278~0~0~2~Sim1
+InfoAct_id_3356~SEND~B-ID-759~B-ID-746~IP-282~0~0~2~Sim1
+InfoAct_id_3357~SEND~B-ID-759~B-ID-746~IP-307~0~0~2~Sim1
+InfoAct_id_3358~SEND~B-ID-759~B-ID-746~IP-315~0~0~2~Sim1
+InfoAct_id_3359~SEND~B-ID-759~B-ID-746~IP-323~0~0~2~Sim1
+InfoAct_id_3360~SEND~B-ID-759~B-ID-746~IP-335~0~0~2~Sim1
+InfoAct_id_3361~SEND~B-ID-441~B-ID-434~IP-274~0~0~2~Sim1
+InfoAct_id_3362~SEND~B-ID-441~B-ID-434~IP-278~0~0~2~Sim1
+InfoAct_id_3363~SEND~B-ID-441~B-ID-434~IP-282~0~0~2~Sim1
+InfoAct_id_3364~SEND~B-ID-441~B-ID-434~IP-307~0~0~2~Sim1
+InfoAct_id_3365~SEND~B-ID-441~B-ID-434~IP-315~0~0~2~Sim1
+InfoAct_id_3366~SEND~B-ID-441~B-ID-434~IP-323~0~0~2~Sim1
+InfoAct_id_3367~SEND~B-ID-441~B-ID-434~IP-335~0~0~2~Sim1
+InfoAct_id_3368~SEND~B-ID-121~B-ID-88~IP-274~0~0~2~Sim1
+InfoAct_id_3369~SEND~B-ID-121~B-ID-88~IP-278~0~0~2~Sim1
+InfoAct_id_3370~SEND~B-ID-121~B-ID-88~IP-282~0~0~2~Sim1
+InfoAct_id_3371~SEND~B-ID-121~B-ID-88~IP-307~0~0~2~Sim1
+InfoAct_id_3372~SEND~B-ID-121~B-ID-88~IP-315~0~0~2~Sim1
+InfoAct_id_3373~SEND~B-ID-121~B-ID-88~IP-323~0~0~2~Sim1
+InfoAct_id_3374~SEND~B-ID-121~B-ID-88~IP-335~0~0~2~Sim1
+InfoAct_id_3375~SEND~B-ID-57~B-ID-118~IP-274~0~0~2~Sim1
+InfoAct_id_3376~SEND~B-ID-57~B-ID-118~IP-278~0~0~2~Sim1
+InfoAct_id_3377~SEND~B-ID-57~B-ID-118~IP-282~0~0~2~Sim1
+InfoAct_id_3378~SEND~B-ID-57~B-ID-118~IP-307~0~0~2~Sim1
+InfoAct_id_3379~SEND~B-ID-57~B-ID-118~IP-315~0~0~2~Sim1
+InfoAct_id_3380~SEND~B-ID-57~B-ID-118~IP-323~0~0~2~Sim1
+InfoAct_id_3381~SEND~B-ID-57~B-ID-118~IP-335~0~0~2~Sim1
+InfoAct_id_3382~RECEIVE~B-ID-57~B-ID-118~IP-274~0~0~2~Sim1
+InfoAct_id_3383~RECEIVE~B-ID-57~B-ID-118~IP-278~0~0~2~Sim1
+InfoAct_id_3384~RECEIVE~B-ID-57~B-ID-118~IP-282~0~0~2~Sim1
+InfoAct_id_3385~RECEIVE~B-ID-57~B-ID-118~IP-307~0~0~2~Sim1
+InfoAct_id_3386~RECEIVE~B-ID-57~B-ID-118~IP-315~0~0~2~Sim1
+InfoAct_id_3387~RECEIVE~B-ID-57~B-ID-118~IP-323~0~0~2~Sim1
+InfoAct_id_3388~RECEIVE~B-ID-57~B-ID-118~IP-335~0~0~2~Sim1
+InfoAct_id_3389~RECEIVE~B-ID-701~B-ID-491~IP-274~0~0~2~Sim1
+InfoAct_id_3390~RECEIVE~B-ID-701~B-ID-491~IP-278~0~0~2~Sim1
+InfoAct_id_3391~RECEIVE~B-ID-701~B-ID-491~IP-282~0~0~2~Sim1
+InfoAct_id_3392~RECEIVE~B-ID-701~B-ID-491~IP-307~0~0~2~Sim1
+InfoAct_id_3393~RECEIVE~B-ID-701~B-ID-491~IP-315~0~0~2~Sim1
+InfoAct_id_3394~RECEIVE~B-ID-701~B-ID-491~IP-323~0~0~2~Sim1
+InfoAct_id_3395~RECEIVE~B-ID-701~B-ID-491~IP-335~0~0~2~Sim1
+InfoAct_id_3396~RECEIVE~B-ID-84~B-ID-120~IP-274~0~0~2~Sim1
+InfoAct_id_3397~RECEIVE~B-ID-84~B-ID-120~IP-278~0~0~2~Sim1
+InfoAct_id_3398~RECEIVE~B-ID-84~B-ID-120~IP-282~0~0~2~Sim1
+InfoAct_id_3399~RECEIVE~B-ID-84~B-ID-120~IP-307~0~0~2~Sim1
+InfoAct_id_3400~RECEIVE~B-ID-84~B-ID-120~IP-315~0~0~2~Sim1
+InfoAct_id_3401~RECEIVE~B-ID-84~B-ID-120~IP-323~0~0~2~Sim1
+InfoAct_id_3402~RECEIVE~B-ID-84~B-ID-120~IP-335~0~0~2~Sim1
+InfoAct_id_3403~RECEIVE~B-ID-203~B-ID-120~IP-274~0~0~2~Sim1
+InfoAct_id_3404~RECEIVE~B-ID-203~B-ID-120~IP-278~0~0~2~Sim1
+InfoAct_id_3405~RECEIVE~B-ID-203~B-ID-120~IP-282~0~0~2~Sim1
+InfoAct_id_3406~RECEIVE~B-ID-203~B-ID-120~IP-307~0~0~2~Sim1
+InfoAct_id_3407~RECEIVE~B-ID-203~B-ID-120~IP-315~0~0~2~Sim1
+InfoAct_id_3408~RECEIVE~B-ID-203~B-ID-120~IP-323~0~0~2~Sim1
+InfoAct_id_3409~RECEIVE~B-ID-203~B-ID-120~IP-335~0~0~2~Sim1
+InfoAct_id_3410~RECEIVE~B-ID-83~B-ID-161~IP-274~0~0~2~Sim1
+InfoAct_id_3411~RECEIVE~B-ID-83~B-ID-161~IP-278~0~0~2~Sim1
+InfoAct_id_3412~RECEIVE~B-ID-83~B-ID-161~IP-282~0~0~2~Sim1
+InfoAct_id_3413~RECEIVE~B-ID-83~B-ID-161~IP-307~0~0~2~Sim1
+InfoAct_id_3414~RECEIVE~B-ID-83~B-ID-161~IP-315~0~0~2~Sim1
+InfoAct_id_3415~RECEIVE~B-ID-83~B-ID-161~IP-323~0~0~2~Sim1
+InfoAct_id_3416~RECEIVE~B-ID-83~B-ID-161~IP-335~0~0~2~Sim1
+InfoAct_id_3417~RECEIVE~B-ID-83~B-ID-42~IP-274~0~0~2~Sim1
+InfoAct_id_3418~RECEIVE~B-ID-83~B-ID-42~IP-278~0~0~2~Sim1
+InfoAct_id_3419~RECEIVE~B-ID-83~B-ID-42~IP-282~0~0~2~Sim1
+InfoAct_id_3420~RECEIVE~B-ID-83~B-ID-42~IP-307~0~0~2~Sim1
+InfoAct_id_3421~RECEIVE~B-ID-83~B-ID-42~IP-315~0~0~2~Sim1
+InfoAct_id_3422~RECEIVE~B-ID-83~B-ID-42~IP-323~0~0~2~Sim1
+InfoAct_id_3423~RECEIVE~B-ID-83~B-ID-42~IP-335~0~0~2~Sim1
+InfoAct_id_3424~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_3425~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_3426~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_3427~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_3428~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_3429~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_3430~RECEIVE~Sonata Patkauskait?~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_3431~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_3432~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_3433~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_3434~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_3435~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_3436~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_3437~RECEIVE~Edvinas Regelskis~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_3438~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-274~0~0~2~Sim1
+InfoAct_id_3439~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-278~0~0~2~Sim1
+InfoAct_id_3440~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-282~0~0~2~Sim1
+InfoAct_id_3441~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-307~0~0~2~Sim1
+InfoAct_id_3442~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-315~0~0~2~Sim1
+InfoAct_id_3443~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-323~0~0~2~Sim1
+InfoAct_id_3444~RECEIVE~Gintare Guzevi?i?t?~Austeja Landsbergiene~IP-335~0~0~2~Sim1
+InfoAct_id_3445~RECEIVE~B-ID-678~B-ID-520~IP-274~0~0~2~Sim1
+InfoAct_id_3446~RECEIVE~B-ID-678~B-ID-520~IP-278~0~0~2~Sim1
+InfoAct_id_3447~RECEIVE~B-ID-678~B-ID-520~IP-282~0~0~2~Sim1
+InfoAct_id_3448~RECEIVE~B-ID-678~B-ID-520~IP-307~0~0~2~Sim1
+InfoAct_id_3449~RECEIVE~B-ID-678~B-ID-520~IP-315~0~0~2~Sim1
+InfoAct_id_3450~RECEIVE~B-ID-678~B-ID-520~IP-323~0~0~2~Sim1
+InfoAct_id_3451~RECEIVE~B-ID-678~B-ID-520~IP-335~0~0~2~Sim1
+InfoAct_id_3452~RECEIVE~B-ID-308~B-ID-520~IP-274~0~0~2~Sim1
+InfoAct_id_3453~RECEIVE~B-ID-308~B-ID-520~IP-278~0~0~2~Sim1
+InfoAct_id_3454~RECEIVE~B-ID-308~B-ID-520~IP-282~0~0~2~Sim1
+InfoAct_id_3455~RECEIVE~B-ID-308~B-ID-520~IP-307~0~0~2~Sim1
+InfoAct_id_3456~RECEIVE~B-ID-308~B-ID-520~IP-315~0~0~2~Sim1
+InfoAct_id_3457~RECEIVE~B-ID-308~B-ID-520~IP-323~0~0~2~Sim1
+InfoAct_id_3458~RECEIVE~B-ID-308~B-ID-520~IP-335~0~0~2~Sim1
+InfoAct_id_3459~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_3460~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_3461~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_3462~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_3463~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_3464~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_3465~RECEIVE~Sonata Patkauskait?~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_3466~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_3467~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_3468~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_3469~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_3470~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_3471~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_3472~RECEIVE~Edvinas Regelskis~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_3473~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_3474~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_3475~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_3476~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_3477~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_3478~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_3479~RECEIVE~Austeja Landsbergiene~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_3480~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-274~0~0~2~Sim1
+InfoAct_id_3481~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-278~0~0~2~Sim1
+InfoAct_id_3482~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-282~0~0~2~Sim1
+InfoAct_id_3483~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-307~0~0~2~Sim1
+InfoAct_id_3484~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-315~0~0~2~Sim1
+InfoAct_id_3485~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-323~0~0~2~Sim1
+InfoAct_id_3486~RECEIVE~Gintare Guzevi?i?t?~Saulius Andrasi?nas~IP-335~0~0~2~Sim1
+InfoAct_id_3487~RECEIVE~B-ID-678~B-ID-308~IP-274~0~0~2~Sim1
+InfoAct_id_3488~RECEIVE~B-ID-678~B-ID-308~IP-278~0~0~2~Sim1
+InfoAct_id_3489~RECEIVE~B-ID-678~B-ID-308~IP-282~0~0~2~Sim1
+InfoAct_id_3490~RECEIVE~B-ID-678~B-ID-308~IP-307~0~0~2~Sim1
+InfoAct_id_3491~RECEIVE~B-ID-678~B-ID-308~IP-315~0~0~2~Sim1
+InfoAct_id_3492~RECEIVE~B-ID-678~B-ID-308~IP-323~0~0~2~Sim1
+InfoAct_id_3493~RECEIVE~B-ID-678~B-ID-308~IP-335~0~0~2~Sim1
+InfoAct_id_3494~RECEIVE~B-ID-520~B-ID-308~IP-274~0~0~2~Sim1
+InfoAct_id_3495~RECEIVE~B-ID-520~B-ID-308~IP-278~0~0~2~Sim1
+InfoAct_id_3496~RECEIVE~B-ID-520~B-ID-308~IP-282~0~0~2~Sim1
+InfoAct_id_3497~RECEIVE~B-ID-520~B-ID-308~IP-307~0~0~2~Sim1
+InfoAct_id_3498~RECEIVE~B-ID-520~B-ID-308~IP-315~0~0~2~Sim1
+InfoAct_id_3499~RECEIVE~B-ID-520~B-ID-308~IP-323~0~0~2~Sim1
+InfoAct_id_3500~RECEIVE~B-ID-520~B-ID-308~IP-335~0~0~2~Sim1
+InfoAct_id_3501~RECEIVE~B-ID-120~B-ID-84~IP-274~0~0~2~Sim1
+InfoAct_id_3502~RECEIVE~B-ID-120~B-ID-84~IP-278~0~0~2~Sim1
+InfoAct_id_3503~RECEIVE~B-ID-120~B-ID-84~IP-282~0~0~2~Sim1
+InfoAct_id_3504~RECEIVE~B-ID-120~B-ID-84~IP-307~0~0~2~Sim1
+InfoAct_id_3505~RECEIVE~B-ID-120~B-ID-84~IP-315~0~0~2~Sim1
+InfoAct_id_3506~RECEIVE~B-ID-120~B-ID-84~IP-323~0~0~2~Sim1
+InfoAct_id_3507~RECEIVE~B-ID-120~B-ID-84~IP-335~0~0~2~Sim1
+InfoAct_id_3508~RECEIVE~B-ID-121~B-ID-88~IP-274~0~0~2~Sim1
+InfoAct_id_3509~RECEIVE~B-ID-121~B-ID-88~IP-278~0~0~2~Sim1
+InfoAct_id_3510~RECEIVE~B-ID-121~B-ID-88~IP-282~0~0~2~Sim1
+InfoAct_id_3511~RECEIVE~B-ID-121~B-ID-88~IP-307~0~0~2~Sim1
+InfoAct_id_3512~RECEIVE~B-ID-121~B-ID-88~IP-315~0~0~2~Sim1
+InfoAct_id_3513~RECEIVE~B-ID-121~B-ID-88~IP-323~0~0~2~Sim1
+InfoAct_id_3514~RECEIVE~B-ID-121~B-ID-88~IP-335~0~0~2~Sim1
+InfoAct_id_3515~RECEIVE~B-ID-4~B-ID-446~IP-274~0~0~2~Sim1
+InfoAct_id_3516~RECEIVE~B-ID-4~B-ID-446~IP-278~0~0~2~Sim1
+InfoAct_id_3517~RECEIVE~B-ID-4~B-ID-446~IP-282~0~0~2~Sim1
+InfoAct_id_3518~RECEIVE~B-ID-4~B-ID-446~IP-307~0~0~2~Sim1
+InfoAct_id_3519~RECEIVE~B-ID-4~B-ID-446~IP-315~0~0~2~Sim1
+InfoAct_id_3520~RECEIVE~B-ID-4~B-ID-446~IP-323~0~0~2~Sim1
+InfoAct_id_3521~RECEIVE~B-ID-4~B-ID-446~IP-335~0~0~2~Sim1
+InfoAct_id_3522~RECEIVE~B-ID-443~B-ID-446~IP-274~0~0~2~Sim1
+InfoAct_id_3523~RECEIVE~B-ID-443~B-ID-446~IP-278~0~0~2~Sim1
+InfoAct_id_3524~RECEIVE~B-ID-443~B-ID-446~IP-282~0~0~2~Sim1
+InfoAct_id_3525~RECEIVE~B-ID-443~B-ID-446~IP-307~0~0~2~Sim1
+InfoAct_id_3526~RECEIVE~B-ID-443~B-ID-446~IP-315~0~0~2~Sim1
+InfoAct_id_3527~RECEIVE~B-ID-443~B-ID-446~IP-323~0~0~2~Sim1
+InfoAct_id_3528~RECEIVE~B-ID-443~B-ID-446~IP-335~0~0~2~Sim1
+InfoAct_id_3529~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_3530~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_3531~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_3532~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_3533~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_3534~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_3535~RECEIVE~Sonata Patkauskait?~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_3536~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_3537~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_3538~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_3539~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_3540~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_3541~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_3542~RECEIVE~Edvinas Regelskis~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_3543~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_3544~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_3545~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_3546~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_3547~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_3548~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_3549~RECEIVE~Austeja Landsbergiene~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_3550~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-274~0~0~2~Sim1
+InfoAct_id_3551~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-278~0~0~2~Sim1
+InfoAct_id_3552~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-282~0~0~2~Sim1
+InfoAct_id_3553~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-307~0~0~2~Sim1
+InfoAct_id_3554~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-315~0~0~2~Sim1
+InfoAct_id_3555~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-323~0~0~2~Sim1
+InfoAct_id_3556~RECEIVE~Gintare Guzevi?i?t?~Edita Baniene~IP-335~0~0~2~Sim1
+InfoAct_id_3557~RECEIVE~B-ID-409~B-ID-404~IP-274~0~0~2~Sim1
+InfoAct_id_3558~RECEIVE~B-ID-409~B-ID-404~IP-278~0~0~2~Sim1
+InfoAct_id_3559~RECEIVE~B-ID-409~B-ID-404~IP-282~0~0~2~Sim1
+InfoAct_id_3560~RECEIVE~B-ID-409~B-ID-404~IP-307~0~0~2~Sim1
+InfoAct_id_3561~RECEIVE~B-ID-409~B-ID-404~IP-315~0~0~2~Sim1
+InfoAct_id_3562~RECEIVE~B-ID-409~B-ID-404~IP-323~0~0~2~Sim1
+InfoAct_id_3563~RECEIVE~B-ID-409~B-ID-404~IP-335~0~0~2~Sim1
+InfoAct_id_3564~RECEIVE~B-ID-102~B-ID-688~IP-274~0~0~2~Sim1
+InfoAct_id_3565~RECEIVE~B-ID-102~B-ID-688~IP-278~0~0~2~Sim1
+InfoAct_id_3566~RECEIVE~B-ID-102~B-ID-688~IP-282~0~0~2~Sim1
+InfoAct_id_3567~RECEIVE~B-ID-102~B-ID-688~IP-307~0~0~2~Sim1
+InfoAct_id_3568~RECEIVE~B-ID-102~B-ID-688~IP-315~0~0~2~Sim1
+InfoAct_id_3569~RECEIVE~B-ID-102~B-ID-688~IP-323~0~0~2~Sim1
+InfoAct_id_3570~RECEIVE~B-ID-102~B-ID-688~IP-335~0~0~2~Sim1
+InfoAct_id_3571~RECEIVE~B-ID-702~B-ID-688~IP-274~0~0~2~Sim1
+InfoAct_id_3572~RECEIVE~B-ID-702~B-ID-688~IP-278~0~0~2~Sim1
+InfoAct_id_3573~RECEIVE~B-ID-702~B-ID-688~IP-282~0~0~2~Sim1
+InfoAct_id_3574~RECEIVE~B-ID-702~B-ID-688~IP-307~0~0~2~Sim1
+InfoAct_id_3575~RECEIVE~B-ID-702~B-ID-688~IP-315~0~0~2~Sim1
+InfoAct_id_3576~RECEIVE~B-ID-702~B-ID-688~IP-323~0~0~2~Sim1
+InfoAct_id_3577~RECEIVE~B-ID-702~B-ID-688~IP-335~0~0~2~Sim1
+InfoAct_id_3578~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3579~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3580~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3581~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3582~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3583~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3584~RECEIVE~Sonata Patkauskait?~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3585~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3586~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3587~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3588~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3589~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3590~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3591~RECEIVE~Edvinas Regelskis~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3592~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3593~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3594~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3595~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3596~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3597~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3598~RECEIVE~Austeja Landsbergiene~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3599~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3600~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3601~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3602~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3603~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3604~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3605~RECEIVE~Gintare Guzevi?i?t?~Simonas Gurevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3606~RECEIVE~B-ID-404~B-ID-409~IP-274~0~0~2~Sim1
+InfoAct_id_3607~RECEIVE~B-ID-404~B-ID-409~IP-278~0~0~2~Sim1
+InfoAct_id_3608~RECEIVE~B-ID-404~B-ID-409~IP-282~0~0~2~Sim1
+InfoAct_id_3609~RECEIVE~B-ID-404~B-ID-409~IP-307~0~0~2~Sim1
+InfoAct_id_3610~RECEIVE~B-ID-404~B-ID-409~IP-315~0~0~2~Sim1
+InfoAct_id_3611~RECEIVE~B-ID-404~B-ID-409~IP-323~0~0~2~Sim1
+InfoAct_id_3612~RECEIVE~B-ID-404~B-ID-409~IP-335~0~0~2~Sim1
+InfoAct_id_3613~RECEIVE~B-ID-161~B-ID-83~IP-274~0~0~2~Sim1
+InfoAct_id_3614~RECEIVE~B-ID-161~B-ID-83~IP-278~0~0~2~Sim1
+InfoAct_id_3615~RECEIVE~B-ID-161~B-ID-83~IP-282~0~0~2~Sim1
+InfoAct_id_3616~RECEIVE~B-ID-161~B-ID-83~IP-307~0~0~2~Sim1
+InfoAct_id_3617~RECEIVE~B-ID-161~B-ID-83~IP-315~0~0~2~Sim1
+InfoAct_id_3618~RECEIVE~B-ID-161~B-ID-83~IP-323~0~0~2~Sim1
+InfoAct_id_3619~RECEIVE~B-ID-161~B-ID-83~IP-335~0~0~2~Sim1
+InfoAct_id_3620~RECEIVE~B-ID-42~B-ID-83~IP-274~0~0~2~Sim1
+InfoAct_id_3621~RECEIVE~B-ID-42~B-ID-83~IP-278~0~0~2~Sim1
+InfoAct_id_3622~RECEIVE~B-ID-42~B-ID-83~IP-282~0~0~2~Sim1
+InfoAct_id_3623~RECEIVE~B-ID-42~B-ID-83~IP-307~0~0~2~Sim1
+InfoAct_id_3624~RECEIVE~B-ID-42~B-ID-83~IP-315~0~0~2~Sim1
+InfoAct_id_3625~RECEIVE~B-ID-42~B-ID-83~IP-323~0~0~2~Sim1
+InfoAct_id_3626~RECEIVE~B-ID-42~B-ID-83~IP-335~0~0~2~Sim1
+InfoAct_id_3627~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_3628~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_3629~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_3630~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_3631~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_3632~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_3633~RECEIVE~Sonata Patkauskait?~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_3634~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_3635~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_3636~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_3637~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_3638~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_3639~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_3640~RECEIVE~Austeja Landsbergiene~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_3641~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-274~0~0~2~Sim1
+InfoAct_id_3642~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-278~0~0~2~Sim1
+InfoAct_id_3643~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-282~0~0~2~Sim1
+InfoAct_id_3644~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-307~0~0~2~Sim1
+InfoAct_id_3645~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-315~0~0~2~Sim1
+InfoAct_id_3646~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-323~0~0~2~Sim1
+InfoAct_id_3647~RECEIVE~Gintare Guzevi?i?t?~Edvinas Regelskis~IP-335~0~0~2~Sim1
+InfoAct_id_3648~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3649~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3650~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3651~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3652~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3653~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3654~RECEIVE~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~IP-335~0~0~2~Sim1
+InfoAct_id_3655~RECEIVE~B-ID-322~B-ID-583~IP-274~0~0~2~Sim1
+InfoAct_id_3656~RECEIVE~B-ID-322~B-ID-583~IP-278~0~0~2~Sim1
+InfoAct_id_3657~RECEIVE~B-ID-322~B-ID-583~IP-282~0~0~2~Sim1
+InfoAct_id_3658~RECEIVE~B-ID-322~B-ID-583~IP-307~0~0~2~Sim1
+InfoAct_id_3659~RECEIVE~B-ID-322~B-ID-583~IP-315~0~0~2~Sim1
+InfoAct_id_3660~RECEIVE~B-ID-322~B-ID-583~IP-323~0~0~2~Sim1
+InfoAct_id_3661~RECEIVE~B-ID-322~B-ID-583~IP-335~0~0~2~Sim1
+InfoAct_id_3662~RECEIVE~B-ID-688~B-ID-102~IP-274~0~0~2~Sim1
+InfoAct_id_3663~RECEIVE~B-ID-688~B-ID-102~IP-278~0~0~2~Sim1
+InfoAct_id_3664~RECEIVE~B-ID-688~B-ID-102~IP-282~0~0~2~Sim1
+InfoAct_id_3665~RECEIVE~B-ID-688~B-ID-102~IP-307~0~0~2~Sim1
+InfoAct_id_3666~RECEIVE~B-ID-688~B-ID-102~IP-315~0~0~2~Sim1
+InfoAct_id_3667~RECEIVE~B-ID-688~B-ID-102~IP-323~0~0~2~Sim1
+InfoAct_id_3668~RECEIVE~B-ID-688~B-ID-102~IP-335~0~0~2~Sim1
+InfoAct_id_3669~RECEIVE~B-ID-702~B-ID-102~IP-274~0~0~2~Sim1
+InfoAct_id_3670~RECEIVE~B-ID-702~B-ID-102~IP-278~0~0~2~Sim1
+InfoAct_id_3671~RECEIVE~B-ID-702~B-ID-102~IP-282~0~0~2~Sim1
+InfoAct_id_3672~RECEIVE~B-ID-702~B-ID-102~IP-307~0~0~2~Sim1
+InfoAct_id_3673~RECEIVE~B-ID-702~B-ID-102~IP-315~0~0~2~Sim1
+InfoAct_id_3674~RECEIVE~B-ID-702~B-ID-102~IP-323~0~0~2~Sim1
+InfoAct_id_3675~RECEIVE~B-ID-702~B-ID-102~IP-335~0~0~2~Sim1
+InfoAct_id_3676~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-274~0~0~2~Sim1
+InfoAct_id_3677~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-278~0~0~2~Sim1
+InfoAct_id_3678~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-282~0~0~2~Sim1
+InfoAct_id_3679~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-307~0~0~2~Sim1
+InfoAct_id_3680~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-315~0~0~2~Sim1
+InfoAct_id_3681~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-323~0~0~2~Sim1
+InfoAct_id_3682~RECEIVE~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~IP-335~0~0~2~Sim1
+InfoAct_id_3683~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_3684~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_3685~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_3686~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_3687~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_3688~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_3689~RECEIVE~Austeja Landsbergiene~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_3690~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-274~0~0~2~Sim1
+InfoAct_id_3691~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-278~0~0~2~Sim1
+InfoAct_id_3692~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-282~0~0~2~Sim1
+InfoAct_id_3693~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-307~0~0~2~Sim1
+InfoAct_id_3694~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-315~0~0~2~Sim1
+InfoAct_id_3695~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-323~0~0~2~Sim1
+InfoAct_id_3696~RECEIVE~Gintare Guzevi?i?t?~Viktorija Smilyte-Nielsen~IP-335~0~0~2~Sim1
+InfoAct_id_3697~RECEIVE~B-ID-120~B-ID-203~IP-274~0~0~2~Sim1
+InfoAct_id_3698~RECEIVE~B-ID-120~B-ID-203~IP-278~0~0~2~Sim1
+InfoAct_id_3699~RECEIVE~B-ID-120~B-ID-203~IP-282~0~0~2~Sim1
+InfoAct_id_3700~RECEIVE~B-ID-120~B-ID-203~IP-307~0~0~2~Sim1
+InfoAct_id_3701~RECEIVE~B-ID-120~B-ID-203~IP-315~0~0~2~Sim1
+InfoAct_id_3702~RECEIVE~B-ID-120~B-ID-203~IP-323~0~0~2~Sim1
+InfoAct_id_3703~RECEIVE~B-ID-120~B-ID-203~IP-335~0~0~2~Sim1
+InfoAct_id_3704~RECEIVE~B-ID-583~B-ID-322~IP-274~0~0~2~Sim1
+InfoAct_id_3705~RECEIVE~B-ID-583~B-ID-322~IP-278~0~0~2~Sim1
+InfoAct_id_3706~RECEIVE~B-ID-583~B-ID-322~IP-282~0~0~2~Sim1
+InfoAct_id_3707~RECEIVE~B-ID-583~B-ID-322~IP-307~0~0~2~Sim1
+InfoAct_id_3708~RECEIVE~B-ID-583~B-ID-322~IP-315~0~0~2~Sim1
+InfoAct_id_3709~RECEIVE~B-ID-583~B-ID-322~IP-323~0~0~2~Sim1
+InfoAct_id_3710~RECEIVE~B-ID-583~B-ID-322~IP-335~0~0~2~Sim1
+InfoAct_id_3711~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_3712~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_3713~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_3714~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_3715~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_3716~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_3717~RECEIVE~Sonata Patkauskait?~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_3718~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_3719~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_3720~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_3721~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_3722~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_3723~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_3724~RECEIVE~Edvinas Regelskis~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_3725~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-274~0~0~2~Sim1
+InfoAct_id_3726~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-278~0~0~2~Sim1
+InfoAct_id_3727~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-282~0~0~2~Sim1
+InfoAct_id_3728~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-307~0~0~2~Sim1
+InfoAct_id_3729~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-315~0~0~2~Sim1
+InfoAct_id_3730~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-323~0~0~2~Sim1
+InfoAct_id_3731~RECEIVE~Austeja Landsbergiene~Gintare Guzevi?i?t?~IP-335~0~0~2~Sim1
+InfoAct_id_3732~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_3733~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_3734~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_3735~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_3736~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_3737~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_3738~RECEIVE~Edvinas Regelskis~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_3739~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_3740~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_3741~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_3742~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_3743~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_3744~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_3745~RECEIVE~Austeja Landsbergiene~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_3746~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-274~0~0~2~Sim1
+InfoAct_id_3747~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-278~0~0~2~Sim1
+InfoAct_id_3748~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-282~0~0~2~Sim1
+InfoAct_id_3749~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-307~0~0~2~Sim1
+InfoAct_id_3750~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-315~0~0~2~Sim1
+InfoAct_id_3751~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-323~0~0~2~Sim1
+InfoAct_id_3752~RECEIVE~Gintare Guzevi?i?t?~Sonata Patkauskait?~IP-335~0~0~2~Sim1
+InfoAct_id_3753~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3754~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3755~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3756~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3757~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3758~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3759~RECEIVE~Bishop K?stutis K?valas CATH~Father James Karklys ROC~IP-335~0~0~2~Sim1
+InfoAct_id_3760~RECEIVE~B-ID-308~B-ID-678~IP-274~0~0~2~Sim1
+InfoAct_id_3761~RECEIVE~B-ID-308~B-ID-678~IP-278~0~0~2~Sim1
+InfoAct_id_3762~RECEIVE~B-ID-308~B-ID-678~IP-282~0~0~2~Sim1
+InfoAct_id_3763~RECEIVE~B-ID-308~B-ID-678~IP-307~0~0~2~Sim1
+InfoAct_id_3764~RECEIVE~B-ID-308~B-ID-678~IP-315~0~0~2~Sim1
+InfoAct_id_3765~RECEIVE~B-ID-308~B-ID-678~IP-323~0~0~2~Sim1
+InfoAct_id_3766~RECEIVE~B-ID-308~B-ID-678~IP-335~0~0~2~Sim1
+InfoAct_id_3767~RECEIVE~B-ID-520~B-ID-678~IP-274~0~0~2~Sim1
+InfoAct_id_3768~RECEIVE~B-ID-520~B-ID-678~IP-278~0~0~2~Sim1
+InfoAct_id_3769~RECEIVE~B-ID-520~B-ID-678~IP-282~0~0~2~Sim1
+InfoAct_id_3770~RECEIVE~B-ID-520~B-ID-678~IP-307~0~0~2~Sim1
+InfoAct_id_3771~RECEIVE~B-ID-520~B-ID-678~IP-315~0~0~2~Sim1
+InfoAct_id_3772~RECEIVE~B-ID-520~B-ID-678~IP-323~0~0~2~Sim1
+InfoAct_id_3773~RECEIVE~B-ID-520~B-ID-678~IP-335~0~0~2~Sim1
+InfoAct_id_3774~RECEIVE~B-ID-102~B-ID-702~IP-274~0~0~2~Sim1
+InfoAct_id_3775~RECEIVE~B-ID-102~B-ID-702~IP-278~0~0~2~Sim1
+InfoAct_id_3776~RECEIVE~B-ID-102~B-ID-702~IP-282~0~0~2~Sim1
+InfoAct_id_3777~RECEIVE~B-ID-102~B-ID-702~IP-307~0~0~2~Sim1
+InfoAct_id_3778~RECEIVE~B-ID-102~B-ID-702~IP-315~0~0~2~Sim1
+InfoAct_id_3779~RECEIVE~B-ID-102~B-ID-702~IP-323~0~0~2~Sim1
+InfoAct_id_3780~RECEIVE~B-ID-102~B-ID-702~IP-335~0~0~2~Sim1
+InfoAct_id_3781~RECEIVE~B-ID-688~B-ID-702~IP-274~0~0~2~Sim1
+InfoAct_id_3782~RECEIVE~B-ID-688~B-ID-702~IP-278~0~0~2~Sim1
+InfoAct_id_3783~RECEIVE~B-ID-688~B-ID-702~IP-282~0~0~2~Sim1
+InfoAct_id_3784~RECEIVE~B-ID-688~B-ID-702~IP-307~0~0~2~Sim1
+InfoAct_id_3785~RECEIVE~B-ID-688~B-ID-702~IP-315~0~0~2~Sim1
+InfoAct_id_3786~RECEIVE~B-ID-688~B-ID-702~IP-323~0~0~2~Sim1
+InfoAct_id_3787~RECEIVE~B-ID-688~B-ID-702~IP-335~0~0~2~Sim1
+InfoAct_id_3788~RECEIVE~B-ID-42~B-ID-135~IP-274~0~0~2~Sim1
+InfoAct_id_3789~RECEIVE~B-ID-42~B-ID-135~IP-278~0~0~2~Sim1
+InfoAct_id_3790~RECEIVE~B-ID-42~B-ID-135~IP-282~0~0~2~Sim1
+InfoAct_id_3791~RECEIVE~B-ID-42~B-ID-135~IP-307~0~0~2~Sim1
+InfoAct_id_3792~RECEIVE~B-ID-42~B-ID-135~IP-315~0~0~2~Sim1
+InfoAct_id_3793~RECEIVE~B-ID-42~B-ID-135~IP-323~0~0~2~Sim1
+InfoAct_id_3794~RECEIVE~B-ID-42~B-ID-135~IP-335~0~0~2~Sim1
+InfoAct_id_3795~RECEIVE~B-ID-118~B-ID-57~IP-274~0~0~2~Sim1
+InfoAct_id_3796~RECEIVE~B-ID-118~B-ID-57~IP-278~0~0~2~Sim1
+InfoAct_id_3797~RECEIVE~B-ID-118~B-ID-57~IP-282~0~0~2~Sim1
+InfoAct_id_3798~RECEIVE~B-ID-118~B-ID-57~IP-307~0~0~2~Sim1
+InfoAct_id_3799~RECEIVE~B-ID-118~B-ID-57~IP-315~0~0~2~Sim1
+InfoAct_id_3800~RECEIVE~B-ID-118~B-ID-57~IP-323~0~0~2~Sim1
+InfoAct_id_3801~RECEIVE~B-ID-118~B-ID-57~IP-335~0~0~2~Sim1
+InfoAct_id_3802~RECEIVE~B-ID-446~B-ID-443~IP-274~0~0~2~Sim1
+InfoAct_id_3803~RECEIVE~B-ID-446~B-ID-443~IP-278~0~0~2~Sim1
+InfoAct_id_3804~RECEIVE~B-ID-446~B-ID-443~IP-282~0~0~2~Sim1
+InfoAct_id_3805~RECEIVE~B-ID-446~B-ID-443~IP-307~0~0~2~Sim1
+InfoAct_id_3806~RECEIVE~B-ID-446~B-ID-443~IP-315~0~0~2~Sim1
+InfoAct_id_3807~RECEIVE~B-ID-446~B-ID-443~IP-323~0~0~2~Sim1
+InfoAct_id_3808~RECEIVE~B-ID-446~B-ID-443~IP-335~0~0~2~Sim1
+InfoAct_id_3809~RECEIVE~B-ID-88~B-ID-121~IP-274~0~0~2~Sim1
+InfoAct_id_3810~RECEIVE~B-ID-88~B-ID-121~IP-278~0~0~2~Sim1
+InfoAct_id_3811~RECEIVE~B-ID-88~B-ID-121~IP-282~0~0~2~Sim1
+InfoAct_id_3812~RECEIVE~B-ID-88~B-ID-121~IP-307~0~0~2~Sim1
+InfoAct_id_3813~RECEIVE~B-ID-88~B-ID-121~IP-315~0~0~2~Sim1
+InfoAct_id_3814~RECEIVE~B-ID-88~B-ID-121~IP-323~0~0~2~Sim1
+InfoAct_id_3815~RECEIVE~B-ID-88~B-ID-121~IP-335~0~0~2~Sim1
+InfoAct_id_3816~RECEIVE~B-ID-491~B-ID-701~IP-274~0~0~2~Sim1
+InfoAct_id_3817~RECEIVE~B-ID-491~B-ID-701~IP-278~0~0~2~Sim1
+InfoAct_id_3818~RECEIVE~B-ID-491~B-ID-701~IP-282~0~0~2~Sim1
+InfoAct_id_3819~RECEIVE~B-ID-491~B-ID-701~IP-307~0~0~2~Sim1
+InfoAct_id_3820~RECEIVE~B-ID-491~B-ID-701~IP-315~0~0~2~Sim1
+InfoAct_id_3821~RECEIVE~B-ID-491~B-ID-701~IP-323~0~0~2~Sim1
+InfoAct_id_3822~RECEIVE~B-ID-491~B-ID-701~IP-335~0~0~2~Sim1
+InfoAct_id_3823~RECEIVE~B-ID-83~B-ID-78~IP-274~0~0~2~Sim1
+InfoAct_id_3824~RECEIVE~B-ID-83~B-ID-78~IP-278~0~0~2~Sim1
+InfoAct_id_3825~RECEIVE~B-ID-83~B-ID-78~IP-282~0~0~2~Sim1
+InfoAct_id_3826~RECEIVE~B-ID-83~B-ID-78~IP-307~0~0~2~Sim1
+InfoAct_id_3827~RECEIVE~B-ID-83~B-ID-78~IP-315~0~0~2~Sim1
+InfoAct_id_3828~RECEIVE~B-ID-83~B-ID-78~IP-323~0~0~2~Sim1
+InfoAct_id_3829~RECEIVE~B-ID-83~B-ID-78~IP-335~0~0~2~Sim1
+InfoAct_id_3830~RECEIVE~B-ID-42~B-ID-78~IP-274~0~0~2~Sim1
+InfoAct_id_3831~RECEIVE~B-ID-42~B-ID-78~IP-278~0~0~2~Sim1
+InfoAct_id_3832~RECEIVE~B-ID-42~B-ID-78~IP-282~0~0~2~Sim1
+InfoAct_id_3833~RECEIVE~B-ID-42~B-ID-78~IP-307~0~0~2~Sim1
+InfoAct_id_3834~RECEIVE~B-ID-42~B-ID-78~IP-315~0~0~2~Sim1
+InfoAct_id_3835~RECEIVE~B-ID-42~B-ID-78~IP-323~0~0~2~Sim1
+InfoAct_id_3836~RECEIVE~B-ID-42~B-ID-78~IP-335~0~0~2~Sim1
+InfoAct_id_3837~RECEIVE~B-ID-337~B-ID-282~IP-274~0~0~2~Sim1
+InfoAct_id_3838~RECEIVE~B-ID-337~B-ID-282~IP-278~0~0~2~Sim1
+InfoAct_id_3839~RECEIVE~B-ID-337~B-ID-282~IP-282~0~0~2~Sim1
+InfoAct_id_3840~RECEIVE~B-ID-337~B-ID-282~IP-307~0~0~2~Sim1
+InfoAct_id_3841~RECEIVE~B-ID-337~B-ID-282~IP-315~0~0~2~Sim1
+InfoAct_id_3842~RECEIVE~B-ID-337~B-ID-282~IP-323~0~0~2~Sim1
+InfoAct_id_3843~RECEIVE~B-ID-337~B-ID-282~IP-335~0~0~2~Sim1
+InfoAct_id_3844~RECEIVE~B-ID-446~B-ID-4~IP-274~0~0~2~Sim1
+InfoAct_id_3845~RECEIVE~B-ID-446~B-ID-4~IP-278~0~0~2~Sim1
+InfoAct_id_3846~RECEIVE~B-ID-446~B-ID-4~IP-282~0~0~2~Sim1
+InfoAct_id_3847~RECEIVE~B-ID-446~B-ID-4~IP-307~0~0~2~Sim1
+InfoAct_id_3848~RECEIVE~B-ID-446~B-ID-4~IP-315~0~0~2~Sim1
+InfoAct_id_3849~RECEIVE~B-ID-446~B-ID-4~IP-323~0~0~2~Sim1
+InfoAct_id_3850~RECEIVE~B-ID-446~B-ID-4~IP-335~0~0~2~Sim1
+InfoAct_id_3851~RECEIVE~B-ID-282~B-ID-337~IP-274~0~0~2~Sim1
+InfoAct_id_3852~RECEIVE~B-ID-282~B-ID-337~IP-278~0~0~2~Sim1
+InfoAct_id_3853~RECEIVE~B-ID-282~B-ID-337~IP-282~0~0~2~Sim1
+InfoAct_id_3854~RECEIVE~B-ID-282~B-ID-337~IP-307~0~0~2~Sim1
+InfoAct_id_3855~RECEIVE~B-ID-282~B-ID-337~IP-315~0~0~2~Sim1
+InfoAct_id_3856~RECEIVE~B-ID-282~B-ID-337~IP-323~0~0~2~Sim1
+InfoAct_id_3857~RECEIVE~B-ID-282~B-ID-337~IP-335~0~0~2~Sim1
+InfoAct_id_3858~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-274~0~0~2~Sim1
+InfoAct_id_3859~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-278~0~0~2~Sim1
+InfoAct_id_3860~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-282~0~0~2~Sim1
+InfoAct_id_3861~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-307~0~0~2~Sim1
+InfoAct_id_3862~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-315~0~0~2~Sim1
+InfoAct_id_3863~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-323~0~0~2~Sim1
+InfoAct_id_3864~RECEIVE~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~IP-335~0~0~2~Sim1
