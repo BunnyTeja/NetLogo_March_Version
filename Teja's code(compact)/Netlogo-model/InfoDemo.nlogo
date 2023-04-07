@@ -622,7 +622,7 @@ end
 
 to read
   set identity-list []
-  set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id"]
+  set initial-track-list10 ["identity_action_id" "agent_id" "identity_action_type" "triad_id" "change_in_stance" "change_in_latitude" "change_in_longitude" "tick" "simulation_id" "topic"]
   set identity-list lput initial-track-list10 identity-list
 
   set Relationship_Action_list []
@@ -995,7 +995,6 @@ to info_agent_send_func
 end
 
 to other_agent_send_func
-  print word "inside other_agent_send_func, tick-count = " tick-count
   let sending_agents_with_IPs (turtle-set basic-agents spokesperson-agents) with [Outbox != [] and connected_agents_list != []]
   ask sending_agents_with_IPs [
 
@@ -1161,7 +1160,7 @@ Select_no_of_Ticks
 Select_no_of_Ticks
 0
 10
-5.0
+1.0
 1
 1
 NIL
