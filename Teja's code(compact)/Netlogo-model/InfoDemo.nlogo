@@ -504,33 +504,30 @@ to make-connections
                                                   ; We'll read all the data in a single loop
   let i 0 ; initializing the row number of the adjacency matrix
   let id_data (csv:from-row file-read-line "~")
-  set ids_list id_data
-  set ids_list remove-item 0 ids_list
-  ;print ids_list
-  ;print data1
+  set ids_list remove-item 0 id_data
+  ; print ids_list
   while [ i < nb-total-agents ] [
     let row_data (csv:from-row file-read-line "~")
-    ;print row_data
+    ; print (word "Row " i " values " row_data)
     let row_agent_id item 0 row_data
     set row_data remove-item 0 row_data
-    let j 0 ;cloumn number of the adjacency matrix
+    let temp_trust_values_list []
+    let temp_connected_agents_list []
+    let j 0 ; column number of the adjacency matrix
     repeat nb-total-agents - nb-information-diss-agents [
       let trust_value item j row_data
-      if trust_value != 0[
-        ;print trust_value
-        ;set trust
-
-        let current_agent turtles with [ breed != IPs and agent-id = row_agent_id]
-        ask current_agent [
-          let temp item j ids_list
-          set trust_values_list lput trust_value trust_values_list
-          set connected_agents_list lput temp connected_agents_list
-        ]
+      if trust_value != 0 [
+        set temp_trust_values_list lput trust_value temp_trust_values_list
+        let temp_agID item j ids_list
+        set temp_connected_agents_list lput temp_agID temp_connected_agents_list
+        ; print (word "Row agent = " row_agent_id " connecting to agent = " temp_agID " with trust = " trust_value)
       ]
       set j j + 1
     ]
     let current_agent turtles with [breed != IPs and agent-id = row_agent_id]
     ask current_agent [
+      set trust_values_list temp_trust_values_list
+      set connected_agents_list temp_connected_agents_list
       set Id_trust_table table:make ; create an empty table
       foreach connected_agents_list [
         k ->
@@ -538,14 +535,12 @@ to make-connections
         let value item index trust_values_list
         table:put Id_trust_table k value
       ]
-      ;   print Id_trust_table
-      ;   print agent-id
-      ;   print connected_agents_list
-      ;   print trust_values_list
-      ;   print IPslist
+;      print (word "Id_trust_table " Id_trust_table)
+;      print (word "agent-id " agent-id)
+;      print (word "connected_agents_list " connected_agents_list)
+;      print (word "trust_values_list " trust_values_list)
     ]
     set i i + 1
-
   ]
 end
 
@@ -983,7 +978,6 @@ to info_agent_send_func
               ]
           set color red
           set j j + 1
-
         ]
 ;        print agent-id
 ;        print triadstack ; to see the current agent's triadstack
@@ -1006,11 +1000,10 @@ to other_agent_send_func
 
   while [i < length(connected_agents_list)] [
       ;set change_in_amplification 0
-      let receiving_agent_id item i connected_agents_list ; reveiving agent id
+      let receiving_agent_id item i connected_agents_list ; receiving agent id
       let trust_value table:get Id_trust_table receiving_agent_id ; checking the trust value between the sending agent(basic_agent_id) and receiving agent(search_id)
-          ;print trust_value
       if trust_value > 0.7 [ ; MNH changed 0.4 to 0.7, so that fewer IPs are forwarded
-              ;logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
+        ; logic for information actions that will be performed on some of the Ips that our current basic agents is sending to the receiver
         ; logic for amplification of IPs
         let amplif_IPslist []
         let ampno 0
@@ -1019,61 +1012,59 @@ to other_agent_send_func
           let temp item ampno tempIpslist
           let current_IP IPs with [IP-id = temp]
           ask current_IP[
-           let current_IP_stance stance
-           let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
-           let Ip_topic topic-id
-           let current_sending_agent turtles with [breed != IPs and agent-id = sending_agent_id]
-           ask current_sending_agent[
-            let len 0
-                while [len < length(triadstack)] [
-                if item 1 (item len(triadstack)) = Ip_topic[
-              if (( abs((item 2 (item len(triadstack))) - current_IP_stance)  < 0.01 ) and (current_IP_stance < 3 and current_IP_stance > -3))[
-                     ask current_IP[
-                    set stance stance + 0.1
+            let current_IP_stance stance
+            let Ip_Id_log IP-id ; information_packet_id VARCHAR(25)
+            let Ip_topic topic-id
+            let current_sending_agent turtles with [breed != IPs and agent-id = sending_agent_id]
+            ask current_sending_agent[
+              let len 0
+              while [len < length(triadstack)] [
+                if item 1 (item len(triadstack)) = Ip_topic [
+                  if (( abs((item 2 (item len(triadstack))) - current_IP_stance)  < 0.01 ) and (current_IP_stance < 3 and current_IP_stance > -3))[
+                    ask current_IP[
+                      set stance stance + 0.1
                     ]
                     set amplif_IPslist lput Ip_Id_log amplif_IPslist
                   ]
                 ]
                 set len len + 1
               ]
-          ]
-
+            ]
           ]
           set ampno ampno + 1
         ] ; end of amplification logic
 
-     ;logic for sending the IPs
+        ; logic for sending the IPs
         let current_agent turtles with [ breed != IPs and agent-id = receiving_agent_id]
-     ask current_agent [
-        let j 0
-        while [j < length(tempIpslist)] [
-          let triad_topics triadtopics
-
-          let temp []
-          set temp lput item j tempIpslist temp ; temp stores the current IP id and sending agent id
-          set temp lput sending_agent_id temp
-          ifelse member? item 0 temp inbox [
+        ask current_agent [
+          let j 0
+          while [j < length(tempIpslist)] [
+            let triad_topics triadtopics
+            let temp []
+            set temp lput item j tempIpslist temp ; temp stores the current IP id and sending agent id
+            set temp lput sending_agent_id temp
+            ifelse member? item 0 temp inbox [
             ]
             [
-               set inbox lput temp inbox
-               ifelse member? item 0 temp amplif_IPslist [
+              set inbox lput temp inbox
+              ifelse member? item 0 temp amplif_IPslist [
                 information_action_func "SEND" sending_agent_id receiving_agent_id item 0 temp 0 0.1 tick-count simulation_id
-                 ]
-                [
-                information_action_func "SEND" sending_agent_id receiving_agent_id item 0 temp 0 0 tick-count simulation_id
-                ]
               ]
-
-              set j j + 1
+              [
+                information_action_func "SEND" sending_agent_id receiving_agent_id item 0 temp 0 0 tick-count simulation_id
+              ]
             ]
-     ] ;end of sending logic
 
-        ]
-        set i i + 1
+            set j j + 1
+          ]
+        ] ;end of sending logic
+
+      ]
+      set i i + 1
     ]
 
-      set Outbox []
-]
+    set Outbox []
+  ]
 end
 
 to create_logs
@@ -1160,7 +1151,7 @@ Select_no_of_Ticks
 Select_no_of_Ticks
 0
 10
-1.0
+5.0
 1
 1
 NIL
