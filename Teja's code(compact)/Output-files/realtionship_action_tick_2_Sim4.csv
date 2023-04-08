@@ -1,0 +1,94 @@
+relationship_action_id~source_agent_id~target_agent_id~action~change_in_trust~tick~simulation_id
+Relation_Act_id_1~B-ID-603~B-ID-668~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_2~B-ID-636~B-ID-626~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_3~Deacon John Stankevicius~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_4~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_5~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_6~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_7~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_8~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_9~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_10~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_11~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_12~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_13~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_14~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_15~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_16~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_17~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_18~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_19~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_20~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_21~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_22~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_23~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_24~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_25~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_26~Father James Karklys ROC~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_27~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_28~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_29~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_30~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_31~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_32~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_33~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_34~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_35~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_36~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_37~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_38~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_39~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_40~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_41~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_42~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_43~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_44~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_45~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_46~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_47~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_48~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_49~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_50~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_51~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_52~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_53~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_54~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_55~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_56~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_57~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_58~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_59~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_60~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_61~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_62~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_63~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_64~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_65~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_66~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_67~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_68~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_69~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_70~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_71~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_72~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_73~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_74~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_75~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_76~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_77~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_78~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_79~B-ID-181~B-ID-153~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_80~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_81~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_82~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_83~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_84~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_85~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_86~B-ID-181~B-ID-88~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_87~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_88~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_89~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_90~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_91~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_92~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4
+Relation_Act_id_93~B-ID-181~B-ID-222~INCREASE_TRUST~0.1~2~Sim4

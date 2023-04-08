@@ -1,0 +1,266 @@
+relationship_action_id~source_agent_id~target_agent_id~action~change_in_trust~tick~simulation_id
+Relation_Act_id_109~B-ID-641~B-ID-38~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_110~B-ID-641~B-ID-38~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_111~B-ID-142~B-ID-339~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_112~B-ID-142~B-ID-339~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_113~B-ID-330~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_114~B-ID-330~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_115~B-ID-614~B-ID-603~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_116~B-ID-614~B-ID-603~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_117~B-ID-614~B-ID-668~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_118~B-ID-614~B-ID-668~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_119~B-ID-578~B-ID-540~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_120~B-ID-578~B-ID-540~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_121~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_122~Bishop Ambrose of Trakai ROC~Archbishop Innokenty of Vilnius ROC~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_123~B-ID-744~B-ID-991~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_124~B-ID-744~B-ID-991~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_125~B-ID-744~B-ID-446~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_126~B-ID-744~B-ID-446~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_127~B-ID-656~B-ID-671~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_128~B-ID-656~B-ID-671~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_129~B-ID-1402~B-ID-1274~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_130~B-ID-1402~B-ID-1274~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_131~B-ID-1402~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_132~B-ID-1402~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_133~B-ID-760~B-ID-431~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_134~B-ID-760~B-ID-431~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_135~B-ID-800~B-ID-1484~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_136~B-ID-800~B-ID-1484~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_137~B-ID-1218~B-ID-228~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_138~B-ID-1218~B-ID-228~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_139~B-ID-1382~B-ID-311~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_140~B-ID-1382~B-ID-311~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_141~B-ID-446~B-ID-744~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_142~B-ID-446~B-ID-744~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_143~B-ID-446~B-ID-991~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_144~B-ID-446~B-ID-991~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_145~B-ID-222~B-ID-181~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_146~B-ID-222~B-ID-181~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_147~B-ID-222~B-ID-153~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_148~B-ID-222~B-ID-153~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_149~B-ID-671~B-ID-656~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_150~B-ID-671~B-ID-656~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_151~B-ID-1541~B-ID-873~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_152~B-ID-1541~B-ID-873~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_153~B-ID-853~B-ID-996~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_154~B-ID-853~B-ID-996~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_155~B-ID-853~B-ID-1360~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_156~B-ID-853~B-ID-1360~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_157~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_158~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_159~Viktorija Smilyte-Nielsen~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_160~Viktorija Smilyte-Nielsen~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_161~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_162~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_163~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_164~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_165~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_166~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_167~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_168~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_169~Viktorija Smilyte-Nielsen~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_170~Viktorija Smilyte-Nielsen~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_171~B-ID-723~B-ID-666~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_172~B-ID-1253~B-ID-394~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_173~B-ID-1253~B-ID-394~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_174~B-ID-255~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_175~B-ID-255~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_176~B-ID-255~B-ID-362~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_177~B-ID-255~B-ID-362~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_178~B-ID-651~B-ID-657~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_179~B-ID-651~B-ID-657~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_180~B-ID-1405~B-ID-762~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_181~B-ID-1405~B-ID-762~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_182~B-ID-1112~B-ID-444~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_183~B-ID-1112~B-ID-444~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_184~B-ID-1141~B-ID-1018~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_185~B-ID-1141~B-ID-1018~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_186~B-ID-382~B-ID-357~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_187~B-ID-382~B-ID-357~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_188~B-ID-996~B-ID-853~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_189~B-ID-996~B-ID-853~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_190~B-ID-996~B-ID-1360~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_191~B-ID-996~B-ID-1360~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_192~B-ID-47~B-ID-1082~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_193~B-ID-47~B-ID-1082~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_194~B-ID-47~B-ID-38~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_195~B-ID-47~B-ID-38~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_196~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_197~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_198~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_199~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_200~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_201~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_202~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_203~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_204~Saulius Andrasi?nas~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_205~Saulius Andrasi?nas~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_206~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_207~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_208~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_209~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_210~B-ID-969~B-ID-661~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_211~B-ID-969~B-ID-661~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_212~B-ID-357~B-ID-339~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_213~B-ID-357~B-ID-339~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_214~B-ID-357~B-ID-382~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_215~B-ID-357~B-ID-382~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_216~B-ID-1083~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_217~B-ID-1083~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_218~B-ID-250~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_219~B-ID-250~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_220~B-ID-250~B-ID-348~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_221~B-ID-250~B-ID-348~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_222~B-ID-666~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_223~B-ID-666~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_224~B-ID-1130~B-ID-771~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_225~B-ID-1130~B-ID-771~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_226~B-ID-1130~B-ID-482~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_227~B-ID-1130~B-ID-482~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_228~B-ID-1105~B-ID-1341~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_229~B-ID-1105~B-ID-1341~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_230~B-ID-482~B-ID-771~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_231~B-ID-482~B-ID-771~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_232~B-ID-482~B-ID-1130~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_233~B-ID-482~B-ID-1130~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_234~B-ID-1341~B-ID-1105~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_235~B-ID-1341~B-ID-1105~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_236~B-ID-1341~B-ID-1329~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_237~B-ID-1341~B-ID-1329~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_238~B-ID-1000~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_239~B-ID-1000~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_240~B-ID-1274~B-ID-1402~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_241~B-ID-1274~B-ID-1402~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_242~B-ID-1274~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_243~B-ID-1274~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_244~B-ID-271~B-ID-226~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_245~B-ID-271~B-ID-226~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_246~B-ID-421~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_247~B-ID-421~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_248~B-ID-421~B-ID-1320~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_249~B-ID-421~B-ID-1320~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_250~B-ID-559~B-ID-1487~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_251~B-ID-559~B-ID-1487~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_252~B-ID-559~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_253~B-ID-559~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_254~B-ID-339~B-ID-357~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_255~B-ID-339~B-ID-357~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_256~B-ID-339~B-ID-142~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_257~B-ID-339~B-ID-142~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_258~B-ID-444~B-ID-1112~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_259~B-ID-444~B-ID-1112~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_260~Bishop K?stutis K?valas CATH~Father James Karklys ROC~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_261~Bishop K?stutis K?valas CATH~Father James Karklys ROC~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_262~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_263~Bishop K?stutis K?valas CATH~Deacon John Stankevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_264~B-ID-1414~B-ID-970~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_265~B-ID-1414~B-ID-970~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_266~B-ID-1320~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_267~B-ID-1320~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_268~B-ID-1320~B-ID-421~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_269~B-ID-1320~B-ID-421~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_270~B-ID-1484~B-ID-800~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_271~B-ID-1484~B-ID-800~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_272~B-ID-38~B-ID-641~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_273~B-ID-38~B-ID-641~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_274~B-ID-38~B-ID-47~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_275~B-ID-38~B-ID-47~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_276~B-ID-226~B-ID-271~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_277~B-ID-226~B-ID-271~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_278~B-ID-668~B-ID-603~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_279~B-ID-668~B-ID-603~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_280~B-ID-668~B-ID-614~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_281~B-ID-668~B-ID-614~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_282~B-ID-1018~B-ID-1141~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_283~B-ID-1018~B-ID-1141~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_284~B-ID-403~B-ID-415~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_285~B-ID-403~B-ID-415~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_286~B-ID-762~B-ID-1405~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_287~B-ID-762~B-ID-1405~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_288~B-ID-970~B-ID-1414~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_289~B-ID-970~B-ID-1414~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_290~B-ID-873~B-ID-1541~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_291~B-ID-873~B-ID-1541~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_292~B-ID-348~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_293~B-ID-348~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_294~B-ID-348~B-ID-250~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_295~B-ID-348~B-ID-250~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_296~B-ID-415~B-ID-403~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_297~B-ID-415~B-ID-403~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_298~B-ID-211~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_299~B-ID-211~B-ID-298~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_300~B-ID-991~B-ID-744~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_301~B-ID-991~B-ID-744~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_302~B-ID-991~B-ID-446~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_303~B-ID-991~B-ID-446~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_304~Simonas Gurevicius~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_305~Simonas Gurevicius~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_306~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_307~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_308~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_309~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_310~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_311~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_312~Simonas Gurevicius~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_313~Simonas Gurevicius~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_314~Simonas Gurevicius~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_315~Simonas Gurevicius~Edita Baniene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_316~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_317~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_318~B-ID-311~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_319~B-ID-311~B-ID-354~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_320~B-ID-1329~B-ID-1341~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_321~B-ID-1329~B-ID-1341~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_322~B-ID-771~B-ID-482~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_323~B-ID-771~B-ID-482~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_324~B-ID-771~B-ID-1130~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_325~B-ID-771~B-ID-1130~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_326~B-ID-661~B-ID-969~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_327~B-ID-661~B-ID-969~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_328~B-ID-431~B-ID-760~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_329~B-ID-431~B-ID-760~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_330~B-ID-626~B-ID-636~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_331~B-ID-626~B-ID-636~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_332~B-ID-354~B-ID-330~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_333~B-ID-354~B-ID-330~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_334~B-ID-1360~B-ID-996~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_335~B-ID-1360~B-ID-996~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_336~B-ID-1360~B-ID-853~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_337~B-ID-1360~B-ID-853~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_338~B-ID-362~B-ID-255~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_339~B-ID-362~B-ID-255~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_340~B-ID-1082~B-ID-47~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_341~B-ID-1082~B-ID-47~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_342~B-ID-228~B-ID-1218~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_343~B-ID-228~B-ID-1218~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_344~B-ID-437~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_345~B-ID-437~B-ID-723~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_346~B-ID-153~B-ID-88~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_347~B-ID-657~B-ID-651~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_348~B-ID-657~B-ID-651~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_349~B-ID-1487~B-ID-559~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_350~B-ID-1487~B-ID-559~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_351~B-ID-1487~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_352~B-ID-1487~B-ID-253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_353~B-ID-394~B-ID-1253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_354~B-ID-394~B-ID-1253~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_355~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_356~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_357~Edita Baniene~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_358~Edita Baniene~Saulius Andrasi?nas~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_359~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_360~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_361~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_362~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_363~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_364~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_365~Edita Baniene~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_366~Edita Baniene~Viktorija Smilyte-Nielsen~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_367~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_368~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_369~B-ID-298~B-ID-211~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_370~B-ID-540~B-ID-578~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_371~B-ID-540~B-ID-578~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_372~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~INCREASE_TRUST~0.1~7~Sim4
+Relation_Act_id_373~Archbishop Innokenty of Vilnius ROC~Bishop Ambrose of Trakai ROC~INCREASE_TRUST~0.1~7~Sim4
