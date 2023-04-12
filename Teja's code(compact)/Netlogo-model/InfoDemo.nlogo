@@ -278,7 +278,7 @@ to create-nb-spokesperson-agents
     set nb-total-agents nb-spokesperson-agents + nb-total-agents
   ]
   file-close ;
-end ; create-spokespersons
+end ; end of procedure for create-spokespersons
 
 
 ;;; Procedure to Create Donovian Agents from an Agent Factory File
@@ -656,22 +656,24 @@ to read
               ; The topic already exists, so maybe update the triad's stance and update the relationship with the sender
               ; Look through the stack to find the triad
               let len 0
+              let change_stance 0
               while [len < length(triadstack)] [
                 let indexed_triad item len triadstack
-                let change_stance 0
+                ;let change_stance 0
                 let triad_id_to_log 0
                 if item 1 indexed_triad = Ip_topic [
                   ; The triad with the matching topic is found
                   let itm2 (item 2 indexed_triad) ; get the stance of the triad
                   let stance_difference (current_IP_stance - itm2)
+                  ; (threshold for updating stance)
                   if ( abs(stance_difference) < 0.5 ) [
-                    set change_stance (0.002 * stance_difference)
+                    set change_stance (0.002 * stance_difference) ; (weight for updating the stance - 0.002)
                     let new_stance_calculated (itm2 + change_stance) ; MNH fixed 4/5/2023
-                    if new_stance_calculated > 3 [
+                    if new_stance_calculated > 3 [ ; (threshold for upper bound of stance)
                       set new_stance_calculated 3
                       set change_stance ( 3 - itm2 )
                     ]
-                    if new_stance_calculated < -3 [
+                    if new_stance_calculated < -3 [ ; (threshold for lower bound of stance)
                       set new_stance_calculated -3
                       set change_stance ( -3 - itm2 )
                     ]
@@ -681,9 +683,10 @@ to read
                       set triad_id_to_log (item 0 (item len(triadstack)) )
                       ;identity_action_func reading_agent_id "MODIFY_STANCE" triad_id_to_log change_stance "0" "0" tick-count simulation_id
                     ]
-                      information_action_func "RECEIVE" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
+
 
                   ]
+                  ; (threshold for forwarding an ip)
                   if ( abs(stance_difference) < 0.25 ) [
                     ; there is sufficient stance agreement for forwarding
                     ifelse member? Ip_Id_log outbox []
@@ -692,32 +695,37 @@ to read
                       set color brown
                     ]
                   ]
-                  ; this potentially updates the relationship
+
+                  ; this potentially updates the relationship (threshold for improving relationship)
                   if ( abs(stance_difference) < 0.05 ) [
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
-                      table:put Id_trust_table sending_agent_id trust_value + 0.1
+                      table:put Id_trust_table sending_agent_id trust_value + 0.1 ; +0.1 --> step size for incrementing trust
                       relationship_action_func reading_agent_id sending_agent_id "INCREASE_TRUST" 0.1 tick-count simulation_id
                     ]
                   ]
-                  ; this potentially updates the relationship
+                  ; this potentially updates the relationship (threshold for degrading relationship)
                   if ( abs(stance_difference) > 5.0 ) [
                     if (table:has-key? Id_trust_table sending_agent_id) [
                       let trust_value table:get Id_trust_table sending_agent_id
-                      table:put Id_trust_table sending_agent_id trust_value - 0.1
+                      table:put Id_trust_table sending_agent_id trust_value - 0.1 ; -0.1 --> step size for decreasing trust
                       relationship_action_func reading_agent_id sending_agent_id "DECREASE_TRUST" -0.1 tick-count simulation_id
                     ]
                   ]
 
                   ]
                  if change_stance != 0[
-
+                      ;information_action_func "RECEIVE" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
                       identity_action_func reading_agent_id "MODIFY_STANCE" triad_id_to_log change_stance "0" "0" tick-count simulation_id 0
                     ]
                   ; If the 0.5 <= abs(stance_difference) <= 5.0, then the received IP is ignored
                   ;set len length(triadstack) ; In any case, the received IP has been considered, so stop searching the triadstac
                  set len len + 1
                 ]
+              if change_stance != 0[
+                      information_action_func "RECEIVE-1" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
+
+                    ]
 
                 ]
 
@@ -733,8 +741,8 @@ to read
                   ;if temptriad != [] [
                     ;print temptriad
                     ask reading_agent[
-                    ifelse member? Ip_topic triadtopics []
-                    [
+;                    ifelse member? Ip_topic triadtopics []
+
                     let triad_to_log 0
                     let test_triadtopics triadtopics
                     ask current_IP[
@@ -748,34 +756,36 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                       ]
-                    identity_action_func reading_agent_id "CREATE_by_info" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
+                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
-                    ]
-                  ]
-                  ask reading_agent[
 
                     ifelse member? Ip_Id_log outbox []
                     [
                       set outbox lput Ip_Id_log outbox
                       set color brown
+                      information_action_func "RECEIVE-2" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                     ]
-                  information_action_func "RECEIVE" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                   ]
+;                  ask reading_agent[
+;
+;
+;
+;                  ]
                 ]
                 if (agent-type = "spokesperson" or agent-type = "basic") [
                   ; The new topic was received from a basic or spokespeerson agent,
                   ;   so add a triad to the stack if the sender is trusted
                   let trust_value table:get Id_trust_table reading_agent_id
-                  if trust_value > 0.8 [
+                  if trust_value > 0.8 [ ; (trust score threshold for reading IPs)
                   let temptriad []
 
                   let temptopic 0
                   ;let current_IP IPs with [IP-id = item 0 temp]
                   ask reading_agent[
-                      ifelse member? Ip_topic triadtopics []
-                    [
+;                      ifelse member? Ip_topic triadtopics []
+
                     let triad_to_log 0
                     let test_triadtopics triadtopics
                     ask current_IP[
@@ -790,20 +800,22 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                     ]
-                    identity_action_func reading_agent_id "CREATE_by_other" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
+                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
-                      ]
-                    ]
-                    ask reading_agent[
-                      ifelse member? Ip_Id_log outbox []
+
+                     ifelse member? Ip_Id_log outbox []
                       [
                         set outbox lput Ip_Id_log outbox
                         set color brown
+                        information_action_func "RECEIVE-3" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                       ]
-                      information_action_func "RECEIVE" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                     ]
+;                    ask reading_agent[
+;
+;
+;                    ]
                   ]
                 ]
               ]
