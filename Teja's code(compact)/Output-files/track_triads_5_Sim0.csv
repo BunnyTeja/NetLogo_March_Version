@@ -1,756 +1,1153 @@
 triad_id~triad_stack_id~topic_id~stance~tick~simulation_id
-Triad_ID_1_354~TS-B-ID-1~NATO propaganda~2.0013972015999997~5~Sim0
-Triad_ID_1_355~TS-B-ID-1~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_356~TS-B-ID-1~NATO war crimes~-1.9968099816175937~5~Sim0
-Triad_ID_1_357~TS-B-ID-1~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_215~TS-B-ID-2~NATO military actions in Lithuania~-0.9998004~5~Sim0
-Triad_ID_1_216~TS-B-ID-2~Donovian military actions in Lithuania~-1.9994004~5~Sim0
-Triad_ID_1_217~TS-B-ID-2~IDPs migrate to Poland as result of war~-0.9998004~5~Sim0
-Triad_ID_1_218~TS-B-ID-2~NATO Propaganda~3.984023984E-4~5~Sim0
-Triad_ID_1_219~TS-B-ID-2~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_220~TS-B-ID-2~NATO War Crimes~-1.9998~5~Sim0
-Triad_ID_1_221~TS-B-ID-2~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_457~TS-B-ID-3~NATO military actions in Lithuania~0.008280982306193651~5~Sim0
-Triad_ID_1_458~TS-B-ID-3~Donovian military actions in Lithuania~-1.9936501448731079~5~Sim0
-Triad_ID_1_459~TS-B-ID-3~IDPs migrate to Poland as result of war~-0.9948485544141087~5~Sim0
-Triad_ID_1_460~TS-B-ID-3~Censorship of media by Donovia~0.0023920167824064004~5~Sim0
-Triad_ID_1_461~TS-B-ID-3~Low Morale of Donovian soldiers~-0.9972123792175936~5~Sim0
-Triad_ID_1_462~TS-B-ID-3~Low Morale of Lithuanian civilians~-0.9972099800175936~5~Sim0
-Triad_ID_1_463~TS-B-ID-3~Article 5 invoked by NATO~0.0031876207824063996~5~Sim0
-Triad_ID_1_464~TS-B-ID-3~Civil protests against Donovia~1.0031888223776095~5~Sim0
-Triad_ID_1_465~TS-B-ID-3~NATO war crimes~-1.9968099816175937~5~Sim0
-Triad_ID_1_466~TS-B-ID-3~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_251~TS-B-ID-5~NATO military actions in Lithuania~0.008282578320577619~5~Sim0
-Triad_ID_1_252~TS-B-ID-5~Donovian military actions in Lithuania~-1.9936529432428702~5~Sim0
-Triad_ID_1_253~TS-B-ID-5~IDPs migrate to Poland as result of war~-0.9948485472428703~5~Sim0
-Triad_ID_1_254~TS-B-ID-5~Censorship of media by Donovia~0.0023900199824064003~5~Sim0
-Triad_ID_1_255~TS-B-ID-5~Low Morale of Donovian soldiers~-0.9972103776223902~5~Sim0
-Triad_ID_1_256~TS-B-ID-5~Low Morale of Lithuanian civilians~-0.9972099800175936~5~Sim0
-Triad_ID_1_257~TS-B-ID-5~Article 5 invoked by NATO~0.0031876207824063996~5~Sim0
-Triad_ID_1_258~TS-B-ID-5~Civil protests against Donovia~1.0031876223776095~5~Sim0
-Triad_ID_1_259~TS-B-ID-5~NATO war crimes~-1.9968103816175937~5~Sim0
-Triad_ID_1_260~TS-B-ID-5~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_285~TS-B-ID-9~NATO military actions in Lithuania~0.0019924167824064004~5~Sim0
-Triad_ID_1_286~TS-B-ID-9~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
-Triad_ID_1_287~TS-B-ID-9~Article 5 invoked by NATO~0.0031876207824063996~5~Sim0
-Triad_ID_1_288~TS-B-ID-9~Civil protests against Donovia~1.0031888223776095~5~Sim0
-Triad_ID_1_289~TS-B-ID-9~IDPs migrate to Poland as result of war~-0.9980095816175936~5~Sim0
-Triad_ID_1_290~TS-B-ID-9~NATO war crimes~-1.9968119768223904~5~Sim0
-Triad_ID_1_291~TS-B-ID-9~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_229~TS-B-ID-10~NATO military actions in Lithuania~0.02491513328682351~5~Sim0
-Triad_ID_1_230~TS-B-ID-10~Donovian military actions in Lithuania~-1.9767398645857337~5~Sim0
-Triad_ID_1_231~TS-B-ID-10~Article 5 invoked by NATO~0.01603201203948488~5~Sim0
-Triad_ID_1_232~TS-B-ID-10~Civil protests against Donovia~1.0160299986713324~5~Sim0
-Triad_ID_1_233~TS-B-ID-10~IDPs migrate within Lithuania as result of war~-3~5~Sim0
-Triad_ID_1_234~TS-B-ID-10~IDPs migrate to Poland as result of war~-1.9992035936063968~5~Sim0
-Triad_ID_1_235~TS-B-ID-10~Low Morale of Lithuanian civilians~-3~5~Sim0
-Triad_ID_1_236~TS-B-ID-10~Low Morale of Polish civilians~-1.9992019976016~5~Sim0
-Triad_ID_1_51~TS-B-ID-11~NATO military actions in Lithuania~-0.9998004~5~Sim0
-Triad_ID_1_52~TS-B-ID-11~Donovian military actions in Lithuania~-1.9962263129662083~5~Sim0
-Triad_ID_1_53~TS-B-ID-11~IDPs migrate to Poland as result of war~-0.9978175321470145~5~Sim0
-Triad_ID_1_54~TS-B-ID-11~NATO Propaganda~3.988008E-4~5~Sim0
-Triad_ID_1_55~TS-B-ID-11~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_56~TS-B-ID-11~NATO War Crimes~-1.9998~5~Sim0
-Triad_ID_1_57~TS-B-ID-11~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_58~TS-B-ID-11~Article 5 invoked by NATO~0.0031884207824064~5~Sim0
-Triad_ID_1_59~TS-B-ID-11~Civil protests against Donovia~1.0031888223776095~5~Sim0
-Triad_ID_1_60~TS-B-ID-11~NATO war crimes~-1.9968127768223907~5~Sim0
-Triad_ID_1_61~TS-B-ID-11~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_16~TS-B-ID-12~NATO military actions in Lithuania~0.008279783201314997~5~Sim0
-Triad_ID_1_17~TS-B-ID-12~Donovian military actions in Lithuania~-1.9928766507594364~5~Sim0
-Triad_ID_1_18~TS-B-ID-12~IDPs migrate to Poland as result of war~-0.994471071422601~5~Sim0
-Triad_ID_1_19~TS-B-ID-12~Censorship of media by Donovia~0.0023916167824064~5~Sim0
-Triad_ID_1_20~TS-B-ID-12~Low Morale of Donovian soldiers~-0.9972123792175936~5~Sim0
-Triad_ID_1_21~TS-B-ID-12~Low Morale of Lithuanian civilians~-0.9972087808223903~5~Sim0
-Triad_ID_1_22~TS-B-ID-12~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_23~TS-B-ID-12~Great Synagogue of Vilna~-2.6700573626399997~5~Sim0
-Triad_ID_1_24~TS-B-ID-12~Article 5 invoked by NATO~-0.9988008~5~Sim0
-Triad_ID_1_25~TS-B-ID-12~Humanitarian aid by NATO~5.988E-4~5~Sim0
-Triad_ID_1_26~TS-B-ID-12~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_27~TS-B-ID-12~IDPs migrate within Lithuania as result of war~-0.9994012~5~Sim0
-Triad_ID_1_28~TS-B-ID-12~NATO war crimes~-1.9968111776223905~5~Sim0
-Triad_ID_1_29~TS-B-ID-12~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_358~TS-B-ID-15~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_359~TS-B-ID-15~Great Synagogue of Vilna~-2.6700573626399997~5~Sim0
-Triad_ID_1_360~TS-B-ID-15~NATO military actions in Lithuania~1.0011992~5~Sim0
-Triad_ID_1_361~TS-B-ID-15~Donovian military actions in Lithuania~-1.9992004~5~Sim0
-Triad_ID_1_362~TS-B-ID-15~Article 5 invoked by NATO~-0.9988008~5~Sim0
-Triad_ID_1_363~TS-B-ID-15~Humanitarian aid by NATO~5.988E-4~5~Sim0
-Triad_ID_1_364~TS-B-ID-15~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_365~TS-B-ID-15~IDPs migrate within Lithuania as result of war~-0.9994012~5~Sim0
-Triad_ID_1_366~TS-B-ID-15~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_1~TS-B-ID-20~NATO military actions in Lithuania~0.0063486511715137054~5~Sim0
-Triad_ID_1_2~TS-B-ID-20~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
-Triad_ID_1_3~TS-B-ID-20~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
-Triad_ID_1_4~TS-B-ID-20~Censorship of media by Donovia~0.0023888215776096~5~Sim0
-Triad_ID_1_5~TS-B-ID-20~Low Morale of Donovian soldiers~-0.9972087808223903~5~Sim0
-Triad_ID_1_6~TS-B-ID-20~Low Morale of Lithuanian civilians~-0.9972127768223904~5~Sim0
-Triad_ID_1_40~TS-B-ID-22~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_41~TS-B-ID-22~Great Synagogue of Vilna~-2.6700573626399997~5~Sim0
-Triad_ID_1_42~TS-B-ID-22~NATO military actions in Lithuania~1.0011983999999998~5~Sim0
-Triad_ID_1_43~TS-B-ID-22~Donovian military actions in Lithuania~-1.9960235106427653~5~Sim0
-Triad_ID_1_44~TS-B-ID-22~Article 5 invoked by NATO~-0.9988016~5~Sim0
-Triad_ID_1_45~TS-B-ID-22~Humanitarian aid by NATO~5.988E-4~5~Sim0
-Triad_ID_1_46~TS-B-ID-22~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_47~TS-B-ID-22~IDPs migrate within Lithuania as result of war~-0.9994012~5~Sim0
-Triad_ID_1_48~TS-B-ID-22~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_49~TS-B-ID-22~NATO war crimes~-1.9968107792223906~5~Sim0
-Triad_ID_1_50~TS-B-ID-22~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_145~TS-B-ID-27~NATO military actions in Lithuania~-0.9998~5~Sim0
-Triad_ID_1_146~TS-B-ID-27~Donovian military actions in Lithuania~-1.9930775164655128~5~Sim0
-Triad_ID_1_147~TS-B-ID-27~IDPs migrate to Poland as result of war~-0.9946707221101084~5~Sim0
-Triad_ID_1_148~TS-B-ID-27~NATO Propaganda~3.992008E-4~5~Sim0
-Triad_ID_1_149~TS-B-ID-27~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_150~TS-B-ID-27~NATO War Crimes~-1.9998004~5~Sim0
-Triad_ID_1_151~TS-B-ID-27~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_152~TS-B-ID-27~Censorship of media by Donovia~0.0023904215776096~5~Sim0
-Triad_ID_1_153~TS-B-ID-27~Low Morale of Donovian soldiers~-0.9972123792175936~5~Sim0
-Triad_ID_1_154~TS-B-ID-27~Low Morale of Lithuanian civilians~-0.9972119800175936~5~Sim0
-Triad_ID_1_155~TS-B-ID-27~Article 5 invoked by NATO~0.0031880231776095997~5~Sim0
-Triad_ID_1_156~TS-B-ID-27~Civil protests against Donovia~1.0031892199824062~5~Sim0
-Triad_ID_1_157~TS-B-ID-27~NATO war crimes~-1.9968123776223905~5~Sim0
-Triad_ID_1_158~TS-B-ID-27~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_167~TS-B-ID-29~NATO military actions in Lithuania~-0.9998~5~Sim0
-Triad_ID_1_168~TS-B-ID-29~Donovian military actions in Lithuania~-1.9962235273326498~5~Sim0
-Triad_ID_1_169~TS-B-ID-29~IDPs migrate to Poland as result of war~-0.997815940931024~5~Sim0
-Triad_ID_1_170~TS-B-ID-29~NATO Propaganda~3.988008E-4~5~Sim0
-Triad_ID_1_171~TS-B-ID-29~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_172~TS-B-ID-29~NATO War Crimes~-1.9998004~5~Sim0
-Triad_ID_1_173~TS-B-ID-29~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_174~TS-B-ID-29~NATO propaganda~2.0013972015999997~5~Sim0
-Triad_ID_1_175~TS-B-ID-29~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_176~TS-B-ID-29~NATO war crimes~-1.9936505552093118~5~Sim0
-Triad_ID_1_177~TS-B-ID-29~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_178~TS-B-ID-29~Article 5 invoked by NATO~0.0031880199824064~5~Sim0
-Triad_ID_1_179~TS-B-ID-29~Civil protests against Donovia~1.0031900183824063~5~Sim0
-Triad_ID_1_84~TS-B-ID-33~NATO military actions in Lithuania~0.0019900191824064003~5~Sim0
-Triad_ID_1_85~TS-B-ID-33~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
-Triad_ID_1_86~TS-B-ID-33~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_87~TS-B-ID-33~Civil protests against Donovia~1.0031900183824063~5~Sim0
-Triad_ID_1_88~TS-B-ID-33~IDPs migrate to Poland as result of war~-0.9980083808223903~5~Sim0
-Triad_ID_1_89~TS-B-ID-33~NATO war crimes~-1.9968107792223906~5~Sim0
-Triad_ID_1_90~TS-B-ID-33~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_433~TS-B-ID-35~NATO military actions in Lithuania~0.0019916183824064~5~Sim0
-Triad_ID_1_434~TS-B-ID-35~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
-Triad_ID_1_435~TS-B-ID-35~Article 5 invoked by NATO~0.0031872231776096~5~Sim0
-Triad_ID_1_436~TS-B-ID-35~Civil protests against Donovia~1.0031900183824063~5~Sim0
-Triad_ID_1_437~TS-B-ID-35~IDPs migrate to Poland as result of war~-0.9980083808223903~5~Sim0
-Triad_ID_1_438~TS-B-ID-35~NATO war crimes~-1.9968119768223904~5~Sim0
-Triad_ID_1_439~TS-B-ID-35~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_77~TS-B-ID-36~NATO military actions in Lithuania~0.0019916183824064~5~Sim0
-Triad_ID_1_78~TS-B-ID-36~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
-Triad_ID_1_79~TS-B-ID-36~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_80~TS-B-ID-36~Civil protests against Donovia~1.0031880199824061~5~Sim0
-Triad_ID_1_81~TS-B-ID-36~IDPs migrate to Poland as result of war~-0.9980099792223903~5~Sim0
-Triad_ID_1_82~TS-B-ID-36~NATO war crimes~-1.9968123792175938~5~Sim0
-Triad_ID_1_83~TS-B-ID-36~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_504~TS-B-ID-37~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_505~TS-B-ID-37~Great Synagogue of Vilna~-2.6690635126556583~5~Sim0
-Triad_ID_1_506~TS-B-ID-37~NATO military actions in Lithuania~1.0011992~5~Sim0
-Triad_ID_1_507~TS-B-ID-37~Donovian military actions in Lithuania~-1.9899873574655211~5~Sim0
-Triad_ID_1_508~TS-B-ID-37~Article 5 invoked by NATO~-0.9988016~5~Sim0
-Triad_ID_1_509~TS-B-ID-37~Humanitarian aid by NATO~0.0015932167824064002~5~Sim0
-Triad_ID_1_510~TS-B-ID-37~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_511~TS-B-ID-37~IDPs migrate within Lithuania as result of war~-0.997809974436768~5~Sim0
-Triad_ID_1_512~TS-B-ID-37~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_513~TS-B-ID-37~NATO war crimes~-1.9924766887647982~5~Sim0
-Triad_ID_1_514~TS-B-ID-37~Donovian war crimes~-3~5~Sim0
-Triad_ID_4_3~TS-B-ID-37~NATO Propaganda~0.1~5~Sim0
-Triad_ID_4_4~TS-B-ID-37~Donovian Propaganda~-0.9~5~Sim0
-Triad_ID_1_7~TS-B-ID-38~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_8~TS-B-ID-38~Great Synagogue of Vilna~-2.67005856264~5~Sim0
-Triad_ID_1_9~TS-B-ID-38~NATO military actions in Lithuania~1.0011983999999998~5~Sim0
-Triad_ID_1_10~TS-B-ID-38~Donovian military actions in Lithuania~-1.9992004~5~Sim0
-Triad_ID_1_11~TS-B-ID-38~Article 5 invoked by NATO~-0.9988008~5~Sim0
-Triad_ID_1_12~TS-B-ID-38~Humanitarian aid by NATO~5.988E-4~5~Sim0
-Triad_ID_1_13~TS-B-ID-38~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_14~TS-B-ID-38~IDPs migrate within Lithuania as result of war~-0.9994~5~Sim0
-Triad_ID_1_15~TS-B-ID-38~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_91~TS-B-ID-39~NATO military actions in Lithuania~0.0019924167824064004~5~Sim0
-Triad_ID_1_92~TS-B-ID-39~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
-Triad_ID_1_93~TS-B-ID-39~Article 5 invoked by NATO~0.0031884207824064~5~Sim0
-Triad_ID_1_94~TS-B-ID-39~Civil protests against Donovia~1.0031892207776094~5~Sim0
-Triad_ID_1_95~TS-B-ID-39~IDPs migrate to Poland as result of war~-0.9980075832175936~5~Sim0
-Triad_ID_1_96~TS-B-ID-39~NATO war crimes~-1.9968099816175937~5~Sim0
-Triad_ID_1_97~TS-B-ID-39~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_422~TS-B-ID-41~NATO military actions in Lithuania~-0.9998004~5~Sim0
-Triad_ID_1_423~TS-B-ID-41~Donovian military actions in Lithuania~-1.9903747793712274~5~Sim0
-Triad_ID_1_424~TS-B-ID-41~IDPs migrate to Poland as result of war~-0.9978183289502145~5~Sim0
-Triad_ID_1_425~TS-B-ID-41~NATO Propaganda~7.980031984E-4~5~Sim0
-Triad_ID_1_426~TS-B-ID-41~Donovian Propaganda~-0.9994004000000001~5~Sim0
-Triad_ID_1_427~TS-B-ID-41~NATO War Crimes~-1.9998~5~Sim0
-Triad_ID_1_428~TS-B-ID-41~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_429~TS-B-ID-41~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_430~TS-B-ID-41~Civil protests against Donovia~1.0031896207776094~5~Sim0
-Triad_ID_1_431~TS-B-ID-41~NATO war crimes~-1.9924750975551695~5~Sim0
-Triad_ID_1_432~TS-B-ID-41~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_14~TS-B-ID-41~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_15~TS-B-ID-41~Great Synagogue of Vilna~-2.5696~5~Sim0
-Triad_ID_2_16~TS-B-ID-41~Humanitarian aid by NATO~0.1004~5~Sim0
-Triad_ID_2_17~TS-B-ID-41~IDPs migrate within Lithuania as result of war~-0.8996000000000001~5~Sim0
-Triad_ID_1_237~TS-B-ID-42~NATO military actions in Lithuania~0.0019900191824064003~5~Sim0
-Triad_ID_1_238~TS-B-ID-42~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
-Triad_ID_1_239~TS-B-ID-42~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_240~TS-B-ID-42~Civil protests against Donovia~1.0031896183824063~5~Sim0
-Triad_ID_1_241~TS-B-ID-42~IDPs migrate to Poland as result of war~-0.9980095784223904~5~Sim0
-Triad_ID_1_242~TS-B-ID-42~NATO war crimes~-1.9968119768223904~5~Sim0
-Triad_ID_1_243~TS-B-ID-42~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_62~TS-B-ID-44~NATO military actions in Lithuania~-0.9998004~5~Sim0
-Triad_ID_1_63~TS-B-ID-44~Donovian military actions in Lithuania~-1.9954405927261731~5~Sim0
-Triad_ID_1_64~TS-B-ID-44~IDPs migrate to Poland as result of war~-0.9974282358192188~5~Sim0
-Triad_ID_1_65~TS-B-ID-44~NATO Propaganda~3.988023984E-4~5~Sim0
-Triad_ID_1_66~TS-B-ID-44~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_67~TS-B-ID-44~NATO War Crimes~-1.9998004~5~Sim0
-Triad_ID_1_68~TS-B-ID-44~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_69~TS-B-ID-44~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_70~TS-B-ID-44~Great Synagogue of Vilna~-2.67005856264~5~Sim0
-Triad_ID_1_71~TS-B-ID-44~Article 5 invoked by NATO~-0.9988016~5~Sim0
-Triad_ID_1_72~TS-B-ID-44~Humanitarian aid by NATO~6.000000000000001E-4~5~Sim0
-Triad_ID_1_73~TS-B-ID-44~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_74~TS-B-ID-44~IDPs migrate within Lithuania as result of war~-0.9994~5~Sim0
-Triad_ID_1_75~TS-B-ID-44~NATO war crimes~-1.9968115792175938~5~Sim0
-Triad_ID_1_76~TS-B-ID-44~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_393~TS-B-ID-46~NATO military actions in Lithuania~0.0019908191824064003~5~Sim0
-Triad_ID_1_394~TS-B-ID-46~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
-Triad_ID_1_395~TS-B-ID-46~Article 5 invoked by NATO~0.0031888223776096003~5~Sim0
-Triad_ID_1_396~TS-B-ID-46~Civil protests against Donovia~1.0031900183824063~5~Sim0
-Triad_ID_1_397~TS-B-ID-46~IDPs migrate to Poland as result of war~-0.9980075832175936~5~Sim0
-Triad_ID_1_398~TS-B-ID-46~NATO war crimes~-1.9968099816175937~5~Sim0
-Triad_ID_1_399~TS-B-ID-46~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_138~TS-B-ID-49~NATO military actions in Lithuania~0.0019912207776096~5~Sim0
-Triad_ID_1_139~TS-B-ID-49~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
-Triad_ID_1_140~TS-B-ID-49~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_141~TS-B-ID-49~Civil protests against Donovia~1.0031888223776095~5~Sim0
-Triad_ID_1_142~TS-B-ID-49~IDPs migrate to Poland as result of war~-0.9980087792223904~5~Sim0
-Triad_ID_1_143~TS-B-ID-49~NATO war crimes~-1.9968103792223906~5~Sim0
-Triad_ID_1_144~TS-B-ID-49~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_105~TS-B-ID-52~NATO military actions in Lithuania~0.0019916183824064~5~Sim0
-Triad_ID_1_106~TS-B-ID-52~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
-Triad_ID_1_107~TS-B-ID-52~Article 5 invoked by NATO~0.0031900183824064~5~Sim0
-Triad_ID_1_108~TS-B-ID-52~Civil protests against Donovia~1.0031892199824062~5~Sim0
-Triad_ID_1_109~TS-B-ID-52~IDPs migrate to Poland as result of war~-0.9980079808223903~5~Sim0
-Triad_ID_1_110~TS-B-ID-52~NATO war crimes~-1.9968103816175937~5~Sim0
-Triad_ID_1_111~TS-B-ID-52~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_337~TS-B-ID-53~NATO military actions in Lithuania~0.0019916183824064~5~Sim0
-Triad_ID_1_338~TS-B-ID-53~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
-Triad_ID_1_339~TS-B-ID-53~Article 5 invoked by NATO~0.0031884207824064~5~Sim0
-Triad_ID_1_340~TS-B-ID-53~Civil protests against Donovia~1.0031892199824062~5~Sim0
-Triad_ID_1_341~TS-B-ID-53~IDPs migrate to Poland as result of war~-0.9980091808175936~5~Sim0
-Triad_ID_1_342~TS-B-ID-53~NATO war crimes~-1.9968119768223904~5~Sim0
-Triad_ID_1_343~TS-B-ID-53~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_487~TS-B-ID-57~NATO military actions in Lithuania~0.0019920167824064~5~Sim0
-Triad_ID_1_488~TS-B-ID-57~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
-Triad_ID_1_489~TS-B-ID-57~Article 5 invoked by NATO~0.0031880199824064~5~Sim0
-Triad_ID_1_490~TS-B-ID-57~Civil protests against Donovia~1.0031892199824062~5~Sim0
-Triad_ID_1_491~TS-B-ID-57~IDPs migrate to Poland as result of war~-0.9980087792223904~5~Sim0
-Triad_ID_1_492~TS-B-ID-57~NATO war crimes~-1.9968119800175939~5~Sim0
-Triad_ID_1_493~TS-B-ID-57~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_373~TS-B-ID-58~NATO military actions in Lithuania~0.003567776204529181~5~Sim0
-Triad_ID_1_374~TS-B-ID-58~Donovian military actions in Lithuania~-1.9952358158257495~5~Sim0
-Triad_ID_1_375~TS-B-ID-58~Article 5 invoked by NATO~0.005954605750266422~5~Sim0
-Triad_ID_1_376~TS-B-ID-58~Civil protests against Donovia~1.0059554097565613~5~Sim0
-Triad_ID_1_377~TS-B-ID-58~IDPs migrate within Lithuania as result of war~-3~5~Sim0
-Triad_ID_1_378~TS-B-ID-58~IDPs migrate to Poland as result of war~-1.9992015976016~5~Sim0
-Triad_ID_1_379~TS-B-ID-58~Low Morale of Lithuanian civilians~-3~5~Sim0
-Triad_ID_1_380~TS-B-ID-58~Low Morale of Polish civilians~-1.9992015976016~5~Sim0
-Triad_ID_1_381~TS-B-ID-58~NATO war crimes~-1.9968107792223906~5~Sim0
-Triad_ID_1_382~TS-B-ID-58~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_440~TS-B-ID-60~NATO military actions in Lithuania~0.0035661730284652754~5~Sim0
-Triad_ID_1_441~TS-B-ID-60~Donovian military actions in Lithuania~-1.9952374086496856~5~Sim0
-Triad_ID_1_442~TS-B-ID-60~Article 5 invoked by NATO~0.005955404980497271~5~Sim0
-Triad_ID_1_443~TS-B-ID-60~Civil protests against Donovia~1.005954606540708~5~Sim0
-Triad_ID_1_444~TS-B-ID-60~IDPs migrate within Lithuania as result of war~-3~5~Sim0
-Triad_ID_1_445~TS-B-ID-60~IDPs migrate to Poland as result of war~-1.9992031936063968~5~Sim0
-Triad_ID_1_446~TS-B-ID-60~Low Morale of Lithuanian civilians~-3~5~Sim0
-Triad_ID_1_447~TS-B-ID-60~Low Morale of Polish civilians~-1.9992031936063968~5~Sim0
-Triad_ID_1_448~TS-B-ID-60~NATO war crimes~-1.9968103792223906~5~Sim0
-Triad_ID_1_449~TS-B-ID-60~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_383~TS-B-ID-61~NATO military actions in Lithuania~0.008280978334948667~5~Sim0
-Triad_ID_1_384~TS-B-ID-61~Donovian military actions in Lithuania~-1.993652132911434~5~Sim0
-Triad_ID_1_385~TS-B-ID-61~IDPs migrate to Poland as result of war~-0.994847752833248~5~Sim0
-Triad_ID_1_386~TS-B-ID-61~Censorship of media by Donovia~0.0023920167824064004~5~Sim0
-Triad_ID_1_387~TS-B-ID-61~Low Morale of Donovian soldiers~-0.9972087832175937~5~Sim0
-Triad_ID_1_388~TS-B-ID-61~Low Morale of Lithuanian civilians~-0.9972123776223902~5~Sim0
-Triad_ID_1_389~TS-B-ID-61~Article 5 invoked by NATO~0.0031892207776096~5~Sim0
-Triad_ID_1_390~TS-B-ID-61~Civil protests against Donovia~1.0031896207776094~5~Sim0
-Triad_ID_1_391~TS-B-ID-61~NATO war crimes~-1.9968103792223906~5~Sim0
-Triad_ID_1_392~TS-B-ID-61~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_301~TS-B-ID-66~NATO military actions in Lithuania~-0.9998004~5~Sim0
-Triad_ID_1_302~TS-B-ID-66~Donovian military actions in Lithuania~-1.9962243241406437~5~Sim0
-Triad_ID_1_303~TS-B-ID-66~IDPs migrate to Poland as result of war~-0.9978167401246496~5~Sim0
-Triad_ID_1_304~TS-B-ID-66~NATO Propaganda~3.988008E-4~5~Sim0
-Triad_ID_1_305~TS-B-ID-66~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_306~TS-B-ID-66~NATO War Crimes~-1.9998~5~Sim0
-Triad_ID_1_307~TS-B-ID-66~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_308~TS-B-ID-66~Article 5 invoked by NATO~0.0031896207776096006~5~Sim0
-Triad_ID_1_309~TS-B-ID-66~Civil protests against Donovia~1.0031876207824062~5~Sim0
-Triad_ID_1_310~TS-B-ID-66~NATO war crimes~-1.9968107800175938~5~Sim0
-Triad_ID_1_311~TS-B-ID-66~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_480~TS-B-ID-67~NATO military actions in Lithuania~-0.9998~5~Sim0
-Triad_ID_1_481~TS-B-ID-67~Donovian military actions in Lithuania~-1.9994004~5~Sim0
-Triad_ID_1_482~TS-B-ID-67~IDPs migrate to Poland as result of war~-0.9998~5~Sim0
-Triad_ID_1_483~TS-B-ID-67~NATO Propaganda~3.992008E-4~5~Sim0
-Triad_ID_1_484~TS-B-ID-67~Donovian Propaganda~-0.9998004~5~Sim0
-Triad_ID_1_485~TS-B-ID-67~NATO War Crimes~-1.9998~5~Sim0
-Triad_ID_1_486~TS-B-ID-67~Donovian War Crimes~-3~5~Sim0
-Triad_ID_1_515~TS-B-ID-68~NATO military actions in Lithuania~0.0019920191776096~5~Sim0
-Triad_ID_1_516~TS-B-ID-68~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
-Triad_ID_1_517~TS-B-ID-68~Article 5 invoked by NATO~0.0031896183824064003~5~Sim0
-Triad_ID_1_518~TS-B-ID-68~Civil protests against Donovia~1.0031880231776096~5~Sim0
-Triad_ID_1_519~TS-B-ID-68~IDPs migrate to Poland as result of war~-0.9980079808223903~5~Sim0
-Triad_ID_1_520~TS-B-ID-68~NATO war crimes~-1.9968103816175937~5~Sim0
-Triad_ID_1_521~TS-B-ID-68~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_98~TS-B-ID-71~NATO military actions in Lithuania~0.0019904183824064~5~Sim0
-Triad_ID_1_99~TS-B-ID-71~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
-Triad_ID_1_100~TS-B-ID-71~Article 5 invoked by NATO~0.0031896207776096006~5~Sim0
-Triad_ID_1_101~TS-B-ID-71~Civil protests against Donovia~1.0031896183824063~5~Sim0
-Triad_ID_1_102~TS-B-ID-71~IDPs migrate to Poland as result of war~-0.9980079832175937~5~Sim0
-Triad_ID_1_103~TS-B-ID-71~NATO war crimes~-1.9968107800175938~5~Sim0
-Triad_ID_1_104~TS-B-ID-71~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_292~TS-B-ID-73~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_293~TS-B-ID-73~Great Synagogue of Vilna~-2.67005856264~5~Sim0
-Triad_ID_1_294~TS-B-ID-73~NATO military actions in Lithuania~1.0011983999999998~5~Sim0
-Triad_ID_1_295~TS-B-ID-73~Donovian military actions in Lithuania~-1.9992004~5~Sim0
-Triad_ID_1_296~TS-B-ID-73~Article 5 invoked by NATO~-0.9988016~5~Sim0
-Triad_ID_1_297~TS-B-ID-73~Humanitarian aid by NATO~6.000000000000001E-4~5~Sim0
-Triad_ID_1_298~TS-B-ID-73~Civil protests against Donovia~-0.9988008~5~Sim0
-Triad_ID_1_299~TS-B-ID-73~IDPs migrate within Lithuania as result of war~-0.9994~5~Sim0
-Triad_ID_1_300~TS-B-ID-73~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_30~TS-B-ID-76~NATO military actions in Lithuania~0.003567764257226895~5~Sim0
-Triad_ID_1_31~TS-B-ID-76~Donovian military actions in Lithuania~-1.9952362158050647~5~Sim0
-Triad_ID_1_32~TS-B-ID-76~Article 5 invoked by NATO~0.005954605750266422~5~Sim0
-Triad_ID_1_33~TS-B-ID-76~Civil protests against Donovia~1.005956597790126~5~Sim0
-Triad_ID_1_34~TS-B-ID-76~IDPs migrate within Lithuania as result of war~-3~5~Sim0
-Triad_ID_1_35~TS-B-ID-76~IDPs migrate to Poland as result of war~-1.9992019952063966~5~Sim0
-Triad_ID_1_36~TS-B-ID-76~Low Morale of Lithuanian civilians~-3~5~Sim0
-Triad_ID_1_37~TS-B-ID-76~Low Morale of Polish civilians~-1.9992031936063968~5~Sim0
-Triad_ID_1_38~TS-B-ID-76~NATO war crimes~-1.9968127768223907~5~Sim0
-Triad_ID_1_39~TS-B-ID-76~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_222~TS-B-ID-79~NATO military actions in Lithuania~0.0019908191824064003~5~Sim0
-Triad_ID_1_223~TS-B-ID-79~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
-Triad_ID_1_224~TS-B-ID-79~Article 5 invoked by NATO~0.0031892199824064002~5~Sim0
-Triad_ID_1_225~TS-B-ID-79~Civil protests against Donovia~1.0031896183824063~5~Sim0
-Triad_ID_1_226~TS-B-ID-79~IDPs migrate to Poland as result of war~-0.9980099808175936~5~Sim0
-Triad_ID_1_227~TS-B-ID-79~NATO war crimes~-1.9968115792175938~5~Sim0
-Triad_ID_1_228~TS-B-ID-79~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_318~TS-Arvydas Sabonis~NATO military actions in Lithuania~0.006349848766752023~5~Sim0
-Triad_ID_1_319~TS-Arvydas Sabonis~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
-Triad_ID_1_320~TS-Arvydas Sabonis~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
-Triad_ID_1_321~TS-Arvydas Sabonis~Censorship of media by Donovia~0.0023888199824064~5~Sim0
-Triad_ID_1_322~TS-Arvydas Sabonis~Low Morale of Donovian soldiers~-0.9972107792175936~5~Sim0
-Triad_ID_1_323~TS-Arvydas Sabonis~Low Morale of Lithuanian civilians~-0.9972083832175936~5~Sim0
-Triad_ID_1_124~TS-Austeja Landsbergiene~NATO military actions in Lithuania~0.09809472605027765~5~Sim0
-Triad_ID_1_125~TS-Austeja Landsbergiene~Donovian military actions in Lithuania~-1.9020011821220453~5~Sim0
-Triad_ID_1_126~TS-Austeja Landsbergiene~IDPs migrate to Poland as result of war~-0.932510851156197~5~Sim0
-Triad_ID_1_127~TS-Austeja Landsbergiene~Censorship of media by Donovia~0.03267474794815302~5~Sim0
-Triad_ID_1_128~TS-Austeja Landsbergiene~Low Morale of Donovian soldiers~-0.9684019399876863~5~Sim0
-Triad_ID_1_129~TS-Austeja Landsbergiene~Low Morale of Lithuanian civilians~-0.9684079091882046~5~Sim0
-Triad_ID_1_130~TS-Austeja Landsbergiene~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_131~TS-Austeja Landsbergiene~Great Synagogue of Vilna~-2.6562329963387663~5~Sim0
-Triad_ID_1_132~TS-Austeja Landsbergiene~Article 5 invoked by NATO~-0.9924940206178561~5~Sim0
-Triad_ID_1_133~TS-Austeja Landsbergiene~Humanitarian aid by NATO~0.014424220228796338~5~Sim0
-Triad_ID_1_134~TS-Austeja Landsbergiene~Civil protests against Donovia~-0.992494030169984~5~Sim0
-Triad_ID_1_135~TS-Austeja Landsbergiene~IDPs migrate within Lithuania as result of war~-0.9796069428767143~5~Sim0
-Triad_ID_1_136~TS-Austeja Landsbergiene~NATO war crimes~-1.9252991401709625~5~Sim0
-Triad_ID_1_137~TS-Austeja Landsbergiene~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_19~TS-Austeja Landsbergiene~NATO propaganda~2.3080366768678666~5~Sim0
-Triad_ID_3_20~TS-Austeja Landsbergiene~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_450~TS-Gabrielius Landsbergis~NATO military actions in Lithuania~0.02779805945958909~5~Sim0
-Triad_ID_1_451~TS-Gabrielius Landsbergis~Donovian military actions in Lithuania~-1.9730840254002207~5~Sim0
-Triad_ID_1_452~TS-Gabrielius Landsbergis~Article 5 invoked by NATO~0.0031896183824064003~5~Sim0
-Triad_ID_1_453~TS-Gabrielius Landsbergis~Civil protests against Donovia~1.0031892207776094~5~Sim0
-Triad_ID_1_454~TS-Gabrielius Landsbergis~IDPs migrate to Poland as result of war~-0.981486241289141~5~Sim0
-Triad_ID_1_455~TS-Gabrielius Landsbergis~NATO war crimes~-1.9803784358209724~5~Sim0
-Triad_ID_1_456~TS-Gabrielius Landsbergis~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_1~TS-Gabrielius Landsbergis~Censorship of media by Donovia~0.20158526542113878~5~Sim0
-Triad_ID_3_2~TS-Gabrielius Landsbergis~Low Morale of Donovian soldiers~-0.6991996127632513~5~Sim0
-Triad_ID_3_3~TS-Gabrielius Landsbergis~Low Morale of Lithuanian civilians~-0.7976103744431489~5~Sim0
-Triad_ID_3_4~TS-Gabrielius Landsbergis~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_3_5~TS-Gabrielius Landsbergis~Great Synagogue of Vilna~-2.4698023968015996~5~Sim0
-Triad_ID_3_6~TS-Gabrielius Landsbergis~Humanitarian aid by NATO~0.20019880319840003~5~Sim0
-Triad_ID_3_7~TS-Gabrielius Landsbergis~IDPs migrate within Lithuania as result of war~-0.7996007952191647~5~Sim0
-Triad_ID_4_1~TS-Gabrielius Landsbergis~NATO propaganda~2.401590051030762~5~Sim0
-Triad_ID_4_2~TS-Gabrielius Landsbergis~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_183~TS-Gitanas Nauseda~NATO military actions in Lithuania~0.12839151817033978~5~Sim0
-Triad_ID_2_184~TS-Gitanas Nauseda~Donovian military actions in Lithuania~-1.873974029301565~5~Sim0
-Triad_ID_2_185~TS-Gitanas Nauseda~Article 5 invoked by NATO~0.10884733828471767~5~Sim0
-Triad_ID_2_186~TS-Gitanas Nauseda~Civil protests against Donovia~1.1088493016627377~5~Sim0
-Triad_ID_2_187~TS-Gitanas Nauseda~IDPs migrate to Poland as result of war~-0.887232211021913~5~Sim0
-Triad_ID_2_188~TS-Gitanas Nauseda~NATO war crimes~-1.8843295389459365~5~Sim0
-Triad_ID_2_189~TS-Gitanas Nauseda~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_12~TS-Gitanas Nauseda~Censorship of media by Donovia~0.20275166413052842~5~Sim0
-Triad_ID_3_13~TS-Gitanas Nauseda~Low Morale of Donovian soldiers~-0.7964250844132377~5~Sim0
-Triad_ID_3_14~TS-Gitanas Nauseda~Low Morale of Lithuanian civilians~-0.6986036095186366~5~Sim0
-Triad_ID_3_15~TS-Gitanas Nauseda~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_3_16~TS-Gitanas Nauseda~Great Synagogue of Vilna~-2.4698035792511326~5~Sim0
-Triad_ID_3_17~TS-Gitanas Nauseda~Humanitarian aid by NATO~0.20019522074886714~5~Sim0
-Triad_ID_3_18~TS-Gitanas Nauseda~IDPs migrate within Lithuania as result of war~-0.7994071394998199~5~Sim0
-Triad_ID_4_7~TS-Gitanas Nauseda~NATO propaganda~2.4019805147500555~5~Sim0
-Triad_ID_4_8~TS-Gitanas Nauseda~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_244~TS-Ingrida Simonyte~NATO military actions in Lithuania~0.047497925802471266~5~Sim0
-Triad_ID_1_245~TS-Ingrida Simonyte~Donovian military actions in Lithuania~-1.954442042014358~5~Sim0
-Triad_ID_1_246~TS-Ingrida Simonyte~Article 5 invoked by NATO~0.017744318019103363~5~Sim0
-Triad_ID_1_247~TS-Ingrida Simonyte~Civil protests against Donovia~1.0177443143758955~5~Sim0
-Triad_ID_1_248~TS-Ingrida Simonyte~IDPs migrate to Poland as result of war~-0.9752202755512617~5~Sim0
-Triad_ID_1_249~TS-Ingrida Simonyte~NATO war crimes~-1.9734754500029696~5~Sim0
-Triad_ID_1_250~TS-Ingrida Simonyte~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_190~TS-Ingrida Simonyte~Censorship of media by Donovia~0.10570803963784463~5~Sim0
-Triad_ID_2_191~TS-Ingrida Simonyte~Low Morale of Donovian soldiers~-0.8934719284908008~5~Sim0
-Triad_ID_2_192~TS-Ingrida Simonyte~Low Morale of Lithuanian civilians~-0.8934715284908007~5~Sim0
-Triad_ID_2_193~TS-Ingrida Simonyte~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_194~TS-Ingrida Simonyte~Great Synagogue of Vilna~-2.56801910745713~5~Sim0
-Triad_ID_2_195~TS-Ingrida Simonyte~Humanitarian aid by NATO~0.10197969254286983~5~Sim0
-Triad_ID_2_196~TS-Ingrida Simonyte~IDPs migrate within Lithuania as result of war~-0.8968369237918083~5~Sim0
-Triad_ID_4_9~TS-Ingrida Simonyte~NATO propaganda~2.4021749720248518~5~Sim0
-Triad_ID_4_10~TS-Ingrida Simonyte~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_69~TS-Viktorija Smilyte-Nielsen~NATO military actions in Lithuania~0.15598391808866557~5~Sim0
-Triad_ID_2_70~TS-Viktorija Smilyte-Nielsen~Donovian military actions in Lithuania~-1.8442871377897758~5~Sim0
-Triad_ID_2_71~TS-Viktorija Smilyte-Nielsen~IDPs migrate to Poland as result of war~-0.866436443929357~5~Sim0
-Triad_ID_2_72~TS-Viktorija Smilyte-Nielsen~Censorship of media by Donovia~0.11856523119296505~5~Sim0
-Triad_ID_2_73~TS-Viktorija Smilyte-Nielsen~Low Morale of Donovian soldiers~-0.8795496059737546~5~Sim0
-Triad_ID_2_74~TS-Viktorija Smilyte-Nielsen~Low Morale of Lithuanian civilians~-0.8795484417756223~5~Sim0
-Triad_ID_2_75~TS-Viktorija Smilyte-Nielsen~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_76~TS-Viktorija Smilyte-Nielsen~Great Synagogue of Vilna~-2.5632485043879454~5~Sim0
-Triad_ID_2_77~TS-Viktorija Smilyte-Nielsen~Article 5 invoked by NATO~-0.8964334040246394~5~Sim0
-Triad_ID_2_78~TS-Viktorija Smilyte-Nielsen~Humanitarian aid by NATO~0.10675029565030181~5~Sim0
-Triad_ID_2_79~TS-Viktorija Smilyte-Nielsen~Civil protests against Donovia~-0.8964318136022651~5~Sim0
-Triad_ID_2_80~TS-Viktorija Smilyte-Nielsen~IDPs migrate within Lithuania as result of war~-0.8894733009501913~5~Sim0
-Triad_ID_2_81~TS-Viktorija Smilyte-Nielsen~NATO war crimes~-1.851959363947917~5~Sim0
-Triad_ID_2_82~TS-Viktorija Smilyte-Nielsen~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_10~TS-Viktorija Smilyte-Nielsen~NATO propaganda~2.3086080729277274~5~Sim0
-Triad_ID_3_11~TS-Viktorija Smilyte-Nielsen~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_324~TS-Simonas Gurevicius~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_325~TS-Simonas Gurevicius~Great Synagogue of Vilna~-2.659965815425968~5~Sim0
-Triad_ID_1_326~TS-Simonas Gurevicius~NATO military actions in Lithuania~1.0011992~5~Sim0
-Triad_ID_1_327~TS-Simonas Gurevicius~Donovian military actions in Lithuania~-1.9263584384083825~5~Sim0
-Triad_ID_1_328~TS-Simonas Gurevicius~Article 5 invoked by NATO~-0.9924956205923584~5~Sim0
-Triad_ID_1_329~TS-Simonas Gurevicius~Humanitarian aid by NATO~0.010697538872965517~5~Sim0
-Triad_ID_1_330~TS-Simonas Gurevicius~Civil protests against Donovia~-0.9924956142370305~5~Sim0
-Triad_ID_1_331~TS-Simonas Gurevicius~IDPs migrate within Lithuania as result of war~-0.9849336520955202~5~Sim0
-Triad_ID_1_332~TS-Simonas Gurevicius~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_333~TS-Simonas Gurevicius~NATO propaganda~2.0192955140429407~5~Sim0
-Triad_ID_1_334~TS-Simonas Gurevicius~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_335~TS-Simonas Gurevicius~NATO war crimes~-1.9402213208105645~5~Sim0
-Triad_ID_1_336~TS-Simonas Gurevicius~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_127~TS-Simonas Gurevicius~Censorship of media by Donovia~0.11312492576134074~5~Sim0
-Triad_ID_2_128~TS-Simonas Gurevicius~Low Morale of Donovian soldiers~-0.8862959107134226~5~Sim0
-Triad_ID_2_129~TS-Simonas Gurevicius~Low Morale of Lithuanian civilians~-0.886295521750651~5~Sim0
-Triad_ID_1_344~TS-Bishop K?stutis K?valas CATH~NATO military actions in Lithuania~0.02244173650300601~5~Sim0
-Triad_ID_1_345~TS-Bishop K?stutis K?valas CATH~Donovian military actions in Lithuania~-1.9885899575893307~5~Sim0
-Triad_ID_1_346~TS-Bishop K?stutis K?valas CATH~IDPs migrate to Poland as result of war~-0.9885883947040041~5~Sim0
-Triad_ID_1_347~TS-Bishop K?stutis K?valas CATH~Censorship of media by Donovia~0.009818479559236364~5~Sim0
-Triad_ID_1_348~TS-Bishop K?stutis K?valas CATH~Low Morale of Donovian soldiers~-0.9916945733703063~5~Sim0
-Triad_ID_1_349~TS-Bishop K?stutis K?valas CATH~Low Morale of Lithuanian civilians~-0.9916929717878264~5~Sim0
-Triad_ID_1_350~TS-Bishop K?stutis K?valas CATH~NATO propaganda~2.0069375379186902~5~Sim0
-Triad_ID_1_351~TS-Bishop K?stutis K?valas CATH~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_352~TS-Bishop K?stutis K?valas CATH~NATO war crimes~-1.9885852083586357~5~Sim0
-Triad_ID_1_353~TS-Bishop K?stutis K?valas CATH~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_158~TS-Saulius Andrasi?nas~NATO military actions in Lithuania~0.14068484294932365~5~Sim0
-Triad_ID_2_159~TS-Saulius Andrasi?nas~Donovian military actions in Lithuania~-1.8580232330361135~5~Sim0
-Triad_ID_2_160~TS-Saulius Andrasi?nas~IDPs migrate to Poland as result of war~-0.8759683061688579~5~Sim0
-Triad_ID_2_161~TS-Saulius Andrasi?nas~Censorship of media by Donovia~0.11312847658552197~5~Sim0
-Triad_ID_2_162~TS-Saulius Andrasi?nas~Low Morale of Donovian soldiers~-0.886295132836787~5~Sim0
-Triad_ID_2_163~TS-Saulius Andrasi?nas~Low Morale of Lithuanian civilians~-0.8862955389117002~5~Sim0
-Triad_ID_2_164~TS-Saulius Andrasi?nas~Article 5 invoked by NATO~0.10825768587605804~5~Sim0
-Triad_ID_2_165~TS-Saulius Andrasi?nas~Civil protests against Donovia~1.1082576860296012~5~Sim0
-Triad_ID_2_166~TS-Saulius Andrasi?nas~NATO war crimes~-1.8643619503362738~5~Sim0
-Triad_ID_2_167~TS-Saulius Andrasi?nas~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_168~TS-Saulius Andrasi?nas~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_169~TS-Saulius Andrasi?nas~Great Synagogue of Vilna~-2.5651148896029734~5~Sim0
-Triad_ID_2_170~TS-Saulius Andrasi?nas~Humanitarian aid by NATO~0.10488392472521763~5~Sim0
-Triad_ID_2_171~TS-Saulius Andrasi?nas~IDPs migrate within Lithuania as result of war~-0.8924297762518767~5~Sim0
-Triad_ID_2_172~TS-Saulius Andrasi?nas~NATO propaganda~2.114289584133102~5~Sim0
-Triad_ID_2_173~TS-Saulius Andrasi?nas~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_474~TS-Sonata Patkauskait?~NATO military actions in Lithuania~0.07252581814481353~5~Sim0
-Triad_ID_1_475~TS-Sonata Patkauskait?~Donovian military actions in Lithuania~-1.9266502275715096~5~Sim0
-Triad_ID_1_476~TS-Sonata Patkauskait?~IDPs migrate to Poland as result of war~-0.9513885573980366~5~Sim0
-Triad_ID_1_477~TS-Sonata Patkauskait?~Censorship of media by Donovia~0.02427386229990951~5~Sim0
-Triad_ID_1_478~TS-Sonata Patkauskait?~Low Morale of Donovian soldiers~-0.9776640057706937~5~Sim0
-Triad_ID_1_479~TS-Sonata Patkauskait?~Low Morale of Lithuanian civilians~-0.9776628722718177~5~Sim0
-Triad_ID_2_83~TS-Sonata Patkauskait?~Article 5 invoked by NATO~0.10825845282264633~5~Sim0
-Triad_ID_2_84~TS-Sonata Patkauskait?~Civil protests against Donovia~1.1082580860604883~5~Sim0
-Triad_ID_2_85~TS-Sonata Patkauskait?~NATO war crimes~-1.864371253009785~5~Sim0
-Triad_ID_2_86~TS-Sonata Patkauskait?~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_87~TS-Sonata Patkauskait?~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_88~TS-Sonata Patkauskait?~Great Synagogue of Vilna~-2.565114894379012~5~Sim0
-Triad_ID_2_89~TS-Sonata Patkauskait?~Humanitarian aid by NATO~0.1048827247252176~5~Sim0
-Triad_ID_2_90~TS-Sonata Patkauskait?~IDPs migrate within Lithuania as result of war~-0.8924297762518767~5~Sim0
-Triad_ID_2_91~TS-Sonata Patkauskait?~NATO propaganda~2.114288765224289~5~Sim0
-Triad_ID_2_92~TS-Sonata Patkauskait?~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_494~TS-Edvinas Regelskis~NATO military actions in Lithuania~0.07375089240172822~5~Sim0
-Triad_ID_1_495~TS-Edvinas Regelskis~Donovian military actions in Lithuania~-1.924422228229045~5~Sim0
-Triad_ID_1_496~TS-Edvinas Regelskis~IDPs migrate to Poland as result of war~-0.9500380964900623~5~Sim0
-Triad_ID_1_497~TS-Edvinas Regelskis~Censorship of media by Donovia~0.024267974824974243~5~Sim0
-Triad_ID_1_498~TS-Edvinas Regelskis~Low Morale of Donovian soldiers~-0.9776633045268195~5~Sim0
-Triad_ID_1_499~TS-Edvinas Regelskis~Low Morale of Lithuanian civilians~-0.9776648498706175~5~Sim0
-Triad_ID_1_500~TS-Edvinas Regelskis~Article 5 invoked by NATO~0.015641946099871653~5~Sim0
-Triad_ID_1_501~TS-Edvinas Regelskis~Civil protests against Donovia~1.015637246108996~5~Sim0
-Triad_ID_1_502~TS-Edvinas Regelskis~NATO war crimes~-1.9435328860643646~5~Sim0
-Triad_ID_1_503~TS-Edvinas Regelskis~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_119~TS-Edvinas Regelskis~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_120~TS-Edvinas Regelskis~Great Synagogue of Vilna~-2.5651148896029734~5~Sim0
-Triad_ID_2_121~TS-Edvinas Regelskis~Humanitarian aid by NATO~0.10488511515397923~5~Sim0
-Triad_ID_2_122~TS-Edvinas Regelskis~IDPs migrate within Lithuania as result of war~-0.892427423779744~5~Sim0
-Triad_ID_2_123~TS-Edvinas Regelskis~NATO propaganda~2.1142879951964013~5~Sim0
-Triad_ID_2_124~TS-Edvinas Regelskis~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_112~TS-Gintare Guzevi?i?t?~NATO military actions in Lithuania~0.0725180561985573~5~Sim0
-Triad_ID_1_113~TS-Gintare Guzevi?i?t?~Donovian military actions in Lithuania~-1.9263586004536253~5~Sim0
-Triad_ID_1_114~TS-Gintare Guzevi?i?t?~IDPs migrate to Poland as result of war~-0.9512532125221846~5~Sim0
-Triad_ID_1_115~TS-Gintare Guzevi?i?t?~Censorship of media by Donovia~0.024276560046847008~5~Sim0
-Triad_ID_1_116~TS-Gintare Guzevi?i?t?~Low Morale of Donovian soldiers~-0.977663639333791~5~Sim0
-Triad_ID_1_117~TS-Gintare Guzevi?i?t?~Low Morale of Lithuanian civilians~-0.9776640404571698~5~Sim0
-Triad_ID_1_118~TS-Gintare Guzevi?i?t?~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_119~TS-Gintare Guzevi?i?t?~Great Synagogue of Vilna~-2.659961067905747~5~Sim0
-Triad_ID_1_120~TS-Gintare Guzevi?i?t?~Article 5 invoked by NATO~-0.9924948205923584~5~Sim0
-Triad_ID_1_121~TS-Gintare Guzevi?i?t?~Humanitarian aid by NATO~0.010696353201157232~5~Sim0
-Triad_ID_1_122~TS-Gintare Guzevi?i?t?~Civil protests against Donovia~-0.9924948205923584~5~Sim0
-Triad_ID_1_123~TS-Gintare Guzevi?i?t?~IDPs migrate within Lithuania as result of war~-0.9849337251593595~5~Sim0
-Triad_ID_2_197~TS-Gintare Guzevi?i?t?~NATO war crimes~-1.8643599088268936~5~Sim0
-Triad_ID_2_198~TS-Gintare Guzevi?i?t?~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_199~TS-Gintare Guzevi?i?t?~NATO propaganda~2.114288373279571~5~Sim0
-Triad_ID_2_200~TS-Gintare Guzevi?i?t?~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_208~TS-Edita Baniene~NATO military actions in Lithuania~0.06921353193160869~5~Sim0
-Triad_ID_1_209~TS-Edita Baniene~Donovian military actions in Lithuania~-1.9266464574542792~5~Sim0
-Triad_ID_1_210~TS-Edita Baniene~Article 5 invoked by NATO~0.015636836894844033~5~Sim0
-Triad_ID_1_211~TS-Edita Baniene~Civil protests against Donovia~1.015639153470462~5~Sim0
-Triad_ID_1_212~TS-Edita Baniene~IDPs migrate to Poland as result of war~-0.9524663853668986~5~Sim0
-Triad_ID_1_213~TS-Edita Baniene~NATO war crimes~-1.9435324892113346~5~Sim0
-Triad_ID_1_214~TS-Edita Baniene~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_174~TS-Edita Baniene~Censorship of media by Donovia~0.11312890567706681~5~Sim0
-Triad_ID_2_175~TS-Edita Baniene~Low Morale of Donovian soldiers~-0.8862951469389084~5~Sim0
-Triad_ID_2_176~TS-Edita Baniene~Low Morale of Lithuanian civilians~-0.8862955124625385~5~Sim0
-Triad_ID_2_177~TS-Edita Baniene~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_178~TS-Edita Baniene~Great Synagogue of Vilna~-2.565116084807773~5~Sim0
-Triad_ID_2_179~TS-Edita Baniene~Humanitarian aid by NATO~0.10488511515397923~5~Sim0
-Triad_ID_2_180~TS-Edita Baniene~IDPs migrate within Lithuania as result of war~-0.8924274142658182~5~Sim0
-Triad_ID_2_181~TS-Edita Baniene~NATO propaganda~2.1142887559565153~5~Sim0
-Triad_ID_2_182~TS-Edita Baniene~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_44~TS-Father James Karklys ROC~NATO military actions in Lithuania~0.109807397756046~5~Sim0
-Triad_ID_2_45~TS-Father James Karklys ROC~Donovian military actions in Lithuania~-1.8950461108790722~5~Sim0
-Triad_ID_2_46~TS-Father James Karklys ROC~IDPs migrate to Poland as result of war~-0.8950461188407585~5~Sim0
-Triad_ID_2_47~TS-Father James Karklys ROC~Censorship of media by Donovia~0.10337012843590945~5~Sim0
-Triad_ID_2_48~TS-Father James Karklys ROC~Low Morale of Donovian soldiers~-0.8966135704351776~5~Sim0
-Triad_ID_2_49~TS-Father James Karklys ROC~Low Morale of Lithuanian civilians~-0.896613967244765~5~Sim0
-Triad_ID_2_50~TS-Father James Karklys ROC~NATO propaganda~2.103386029564823~5~Sim0
-Triad_ID_2_51~TS-Father James Karklys ROC~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_52~TS-Father James Karklys ROC~NATO war crimes~-1.8950469068791138~5~Sim0
-Triad_ID_2_53~TS-Father James Karklys ROC~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_180~TS-Archbishop Innokenty of Vilnius ROC~NATO military actions in Lithuania~0.014877453467834425~5~Sim0
-Triad_ID_1_181~TS-Archbishop Innokenty of Vilnius ROC~Donovian military actions in Lithuania~-1.9924798768190062~5~Sim0
-Triad_ID_1_182~TS-Archbishop Innokenty of Vilnius ROC~IDPs migrate to Poland as result of war~-0.9924751086596157~5~Sim0
-Triad_ID_1_183~TS-Archbishop Innokenty of Vilnius ROC~Censorship of media by Donovia~0.004958198582138781~5~Sim0
-Triad_ID_1_184~TS-Archbishop Innokenty of Vilnius ROC~Low Morale of Donovian soldiers~-0.9942461838753143~5~Sim0
-Triad_ID_1_185~TS-Archbishop Innokenty of Vilnius ROC~Low Morale of Lithuanian civilians~-0.9942441910466229~5~Sim0
-Triad_ID_1_312~TS-Bishop Ambrose of Trakai ROC~NATO military actions in Lithuania~0.01488022072042719~5~Sim0
-Triad_ID_1_313~TS-Bishop Ambrose of Trakai ROC~Donovian military actions in Lithuania~-1.9924758888045875~5~Sim0
-Triad_ID_1_314~TS-Bishop Ambrose of Trakai ROC~IDPs migrate to Poland as result of war~-0.9924762966931806~5~Sim0
-Triad_ID_1_315~TS-Bishop Ambrose of Trakai ROC~Censorship of media by Donovia~0.004958600177341981~5~Sim0
-Triad_ID_1_316~TS-Bishop Ambrose of Trakai ROC~Low Morale of Donovian soldiers~-0.9942433918593462~5~Sim0
-Triad_ID_1_317~TS-Bishop Ambrose of Trakai ROC~Low Morale of Lithuanian civilians~-0.9942441910466229~5~Sim0
-Triad_ID_2_135~TS-Deacon John Stankevicius~NATO military actions in Lithuania~0.10980540110829122~5~Sim0
-Triad_ID_2_136~TS-Deacon John Stankevicius~Donovian military actions in Lithuania~-1.8950461188407586~5~Sim0
-Triad_ID_2_137~TS-Deacon John Stankevicius~IDPs migrate to Poland as result of war~-0.895044918834451~5~Sim0
-Triad_ID_2_138~TS-Deacon John Stankevicius~Censorship of media by Donovia~0.10337093083111265~5~Sim0
-Triad_ID_2_139~TS-Deacon John Stankevicius~Low Morale of Donovian soldiers~-0.8966135704351776~5~Sim0
-Triad_ID_2_140~TS-Deacon John Stankevicius~Low Morale of Lithuanian civilians~-0.896613967244765~5~Sim0
-Triad_ID_2_141~TS-Deacon John Stankevicius~NATO propaganda~2.103386031156835~5~Sim0
-Triad_ID_2_142~TS-Deacon John Stankevicius~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_143~TS-Deacon John Stankevicius~NATO war crimes~-1.8950489044791137~5~Sim0
-Triad_ID_2_144~TS-Deacon John Stankevicius~Donovian war crimes~-3~5~Sim0
-Triad_ID_1_467~TS-Egle Juzu~NATO military actions in Lithuania~0.003960628760470065~5~Sim0
-Triad_ID_1_468~TS-Egle Juzu~Donovian military actions in Lithuania~-1.9936513488284864~5~Sim0
-Triad_ID_1_469~TS-Egle Juzu~Article 5 invoked by NATO~0.006348260733193604~5~Sim0
-Triad_ID_1_470~TS-Egle Juzu~Civil protests against Donovia~1.0063490559571233~5~Sim0
-Triad_ID_1_471~TS-Egle Juzu~IDPs migrate to Poland as result of war~-0.9960385807900832~5~Sim0
-Triad_ID_1_472~TS-Egle Juzu~NATO war crimes~-1.9924774903473474~5~Sim0
-Triad_ID_1_473~TS-Egle Juzu~Donovian war crimes~-3~5~Sim0
-Triad_ID_4_5~TS-Egle Juzu~NATO propaganda~2.4998000000000005~5~Sim0
-Triad_ID_4_6~TS-Egle Juzu~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_197~TS-LTC Lapin Denis Alexandrovich~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_198~TS-LTC Lapin Denis Alexandrovich~Great Synagogue of Vilna~-2.6547359083337865~5~Sim0
-Triad_ID_1_199~TS-LTC Lapin Denis Alexandrovich~NATO military actions in Lithuania~1.0230136486527215~5~Sim0
-Triad_ID_1_200~TS-LTC Lapin Denis Alexandrovich~Donovian military actions in Lithuania~-1.9371773607208485~5~Sim0
-Triad_ID_1_201~TS-LTC Lapin Denis Alexandrovich~Article 5 invoked by NATO~-0.9769871512467058~5~Sim0
-Triad_ID_1_202~TS-LTC Lapin Denis Alexandrovich~Humanitarian aid by NATO~0.01592681781023028~5~Sim0
-Triad_ID_1_203~TS-LTC Lapin Denis Alexandrovich~Civil protests against Donovia~-0.9769855983524409~5~Sim0
-Triad_ID_1_204~TS-LTC Lapin Denis Alexandrovich~IDPs migrate within Lithuania as result of war~-0.977259658489508~5~Sim0
-Triad_ID_1_205~TS-LTC Lapin Denis Alexandrovich~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_206~TS-LTC Lapin Denis Alexandrovich~NATO war crimes~-1.9178125645893922~5~Sim0
-Triad_ID_1_207~TS-LTC Lapin Denis Alexandrovich~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_125~TS-LTC Lapin Denis Alexandrovich~NATO propaganda~2.1224015011264377~5~Sim0
-Triad_ID_2_126~TS-LTC Lapin Denis Alexandrovich~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_1~TS-GEN Nikolai Yegorovich Makarov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_2~TS-GEN Nikolai Yegorovich Makarov~Great Synagogue of Vilna~-2.5624801628460436~5~Sim0
-Triad_ID_2_3~TS-GEN Nikolai Yegorovich Makarov~NATO military actions in Lithuania~1.1127388475738955~5~Sim0
-Triad_ID_2_4~TS-GEN Nikolai Yegorovich Makarov~Donovian military actions in Lithuania~-1.8650393155797564~5~Sim0
-Triad_ID_2_5~TS-GEN Nikolai Yegorovich Makarov~Article 5 invoked by NATO~-0.8872595933524745~5~Sim0
-Triad_ID_2_6~TS-GEN Nikolai Yegorovich Makarov~Humanitarian aid by NATO~0.10751985142489211~5~Sim0
-Triad_ID_2_7~TS-GEN Nikolai Yegorovich Makarov~Civil protests against Donovia~-0.887258815489491~5~Sim0
-Triad_ID_2_8~TS-GEN Nikolai Yegorovich Makarov~IDPs migrate within Lithuania as result of war~-0.8883678256653998~5~Sim0
-Triad_ID_2_9~TS-GEN Nikolai Yegorovich Makarov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_10~TS-GEN Nikolai Yegorovich Makarov~NATO war crimes~-1.846648468673484~5~Sim0
-Triad_ID_2_11~TS-GEN Nikolai Yegorovich Makarov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_12~TS-GEN Nikolai Yegorovich Makarov~NATO propaganda~2.1224038437238724~5~Sim0
-Triad_ID_2_13~TS-GEN Nikolai Yegorovich Makarov~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_409~TS-MG Arkady Vilktotovich Bakhin~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_410~TS-MG Arkady Vilktotovich Bakhin~Great Synagogue of Vilna~-2.654738322320043~5~Sim0
-Triad_ID_1_411~TS-MG Arkady Vilktotovich Bakhin~NATO military actions in Lithuania~1.023015172930277~5~Sim0
-Triad_ID_1_412~TS-MG Arkady Vilktotovich Bakhin~Donovian military actions in Lithuania~-1.939532899048622~5~Sim0
-Triad_ID_1_413~TS-MG Arkady Vilktotovich Bakhin~Article 5 invoked by NATO~-0.9769824366473485~5~Sim0
-Triad_ID_1_414~TS-MG Arkady Vilktotovich Bakhin~Humanitarian aid by NATO~0.0159232844088725~5~Sim0
-Triad_ID_1_415~TS-MG Arkady Vilktotovich Bakhin~Civil protests against Donovia~-0.9769879291107961~5~Sim0
-Triad_ID_1_416~TS-MG Arkady Vilktotovich Bakhin~IDPs migrate within Lithuania as result of war~-0.9772486063195608~5~Sim0
-Triad_ID_1_417~TS-MG Arkady Vilktotovich Bakhin~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_418~TS-MG Arkady Vilktotovich Bakhin~NATO propaganda~2.0292288837374177~5~Sim0
-Triad_ID_1_419~TS-MG Arkady Vilktotovich Bakhin~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_420~TS-MG Arkady Vilktotovich Bakhin~NATO war crimes~-1.9170852332743136~5~Sim0
-Triad_ID_1_421~TS-MG Arkady Vilktotovich Bakhin~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_106~TS-GEN Vladimir Sergeyevich Mikhaylov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_107~TS-GEN Vladimir Sergeyevich Mikhaylov~Great Synagogue of Vilna~-2.562482529489658~5~Sim0
-Triad_ID_2_108~TS-GEN Vladimir Sergeyevich Mikhaylov~NATO military actions in Lithuania~1.1127419968946495~5~Sim0
-Triad_ID_2_109~TS-GEN Vladimir Sergeyevich Mikhaylov~Donovian military actions in Lithuania~-1.8650402937893387~5~Sim0
-Triad_ID_2_110~TS-GEN Vladimir Sergeyevich Mikhaylov~Article 5 invoked by NATO~-0.8872595839648909~5~Sim0
-Triad_ID_2_111~TS-GEN Vladimir Sergeyevich Mikhaylov~Humanitarian aid by NATO~0.10752104192999425~5~Sim0
-Triad_ID_2_112~TS-GEN Vladimir Sergeyevich Mikhaylov~Civil protests against Donovia~-0.8872588186354988~5~Sim0
-Triad_ID_2_113~TS-GEN Vladimir Sergeyevich Mikhaylov~IDPs migrate within Lithuania as result of war~-0.8883737541429614~5~Sim0
-Triad_ID_2_114~TS-GEN Vladimir Sergeyevich Mikhaylov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_115~TS-GEN Vladimir Sergeyevich Mikhaylov~NATO war crimes~-1.8466571938752645~5~Sim0
-Triad_ID_2_116~TS-GEN Vladimir Sergeyevich Mikhaylov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_117~TS-GEN Vladimir Sergeyevich Mikhaylov~NATO propaganda~2.122405103472343~5~Sim0
-Triad_ID_2_118~TS-GEN Vladimir Sergeyevich Mikhaylov~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_18~TS-GEN Alexey Fydorovich Maslov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_19~TS-GEN Alexey Fydorovich Maslov~Great Synagogue of Vilna~-2.562480139118151~5~Sim0
-Triad_ID_2_20~TS-GEN Alexey Fydorovich Maslov~NATO military actions in Lithuania~1.1127412189551773~5~Sim0
-Triad_ID_2_21~TS-GEN Alexey Fydorovich Maslov~Donovian military actions in Lithuania~-1.8650479869841676~5~Sim0
-Triad_ID_2_22~TS-GEN Alexey Fydorovich Maslov~Article 5 invoked by NATO~-0.8872603964355236~5~Sim0
-Triad_ID_2_23~TS-GEN Alexey Fydorovich Maslov~Humanitarian aid by NATO~0.10752224181571211~5~Sim0
-Triad_ID_2_24~TS-GEN Alexey Fydorovich Maslov~Civil protests against Donovia~-0.8872580313701421~5~Sim0
-Triad_ID_2_25~TS-GEN Alexey Fydorovich Maslov~IDPs migrate within Lithuania as result of war~-0.8883693248825189~5~Sim0
-Triad_ID_2_26~TS-GEN Alexey Fydorovich Maslov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_27~TS-GEN Alexey Fydorovich Maslov~NATO war crimes~-1.8466480022193912~5~Sim0
-Triad_ID_2_28~TS-GEN Alexey Fydorovich Maslov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_29~TS-GEN Alexey Fydorovich Maslov~NATO propaganda~2.122402674537484~5~Sim0
-Triad_ID_2_30~TS-GEN Alexey Fydorovich Maslov~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_145~TS-LTG Viktor Nikolaevich Samsonov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_146~TS-LTG Viktor Nikolaevich Samsonov~Great Synagogue of Vilna~-2.5624789676412436~5~Sim0
-Triad_ID_2_147~TS-LTG Viktor Nikolaevich Samsonov~NATO military actions in Lithuania~1.1127411874685937~5~Sim0
-Triad_ID_2_148~TS-LTG Viktor Nikolaevich Samsonov~Donovian military actions in Lithuania~-1.8650511137091492~5~Sim0
-Triad_ID_2_149~TS-LTG Viktor Nikolaevich Samsonov~Article 5 invoked by NATO~-0.8872572283258151~5~Sim0
-Triad_ID_2_150~TS-LTG Viktor Nikolaevich Samsonov~Humanitarian aid by NATO~0.10751984661091211~5~Sim0
-Triad_ID_2_151~TS-LTG Viktor Nikolaevich Samsonov~Civil protests against Donovia~-0.8872595652002259~5~Sim0
-Triad_ID_2_152~TS-LTG Viktor Nikolaevich Samsonov~IDPs migrate within Lithuania as result of war~-0.8883740819736943~5~Sim0
-Triad_ID_2_153~TS-LTG Viktor Nikolaevich Samsonov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_154~TS-LTG Viktor Nikolaevich Samsonov~NATO war crimes~-1.8466485321470643~5~Sim0
-Triad_ID_2_155~TS-LTG Viktor Nikolaevich Samsonov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_156~TS-LTG Viktor Nikolaevich Samsonov~NATO propaganda~2.122399131065781~5~Sim0
-Triad_ID_2_157~TS-LTG Viktor Nikolaevich Samsonov~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_56~TS-Sergey Kuzhugetovich Shoygu~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_57~TS-Sergey Kuzhugetovich Shoygu~Great Synagogue of Vilna~-2.5624801532748056~5~Sim0
-Triad_ID_2_58~TS-Sergey Kuzhugetovich Shoygu~NATO military actions in Lithuania~1.1127404346984935~5~Sim0
-Triad_ID_2_59~TS-Sergey Kuzhugetovich Shoygu~Donovian military actions in Lithuania~-1.8650476424422422~5~Sim0
-Triad_ID_2_60~TS-Sergey Kuzhugetovich Shoygu~Article 5 invoked by NATO~-0.8872580219697828~5~Sim0
-Triad_ID_2_61~TS-Sergey Kuzhugetovich Shoygu~Humanitarian aid by NATO~0.10751865618215051~5~Sim0
-Triad_ID_2_62~TS-Sergey Kuzhugetovich Shoygu~Civil protests against Donovia~-0.8872587715810514~5~Sim0
-Triad_ID_2_63~TS-Sergey Kuzhugetovich Shoygu~IDPs migrate within Lithuania as result of war~-0.8883740677730451~5~Sim0
-Triad_ID_2_64~TS-Sergey Kuzhugetovich Shoygu~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_65~TS-Sergey Kuzhugetovich Shoygu~NATO war crimes~-1.8466520319128468~5~Sim0
-Triad_ID_2_66~TS-Sergey Kuzhugetovich Shoygu~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_67~TS-Sergey Kuzhugetovich Shoygu~NATO propaganda~2.122403789079636~5~Sim0
-Triad_ID_2_68~TS-Sergey Kuzhugetovich Shoygu~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_31~TS-MG Ruslan Khazhismelovich Tsalikov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_32~TS-MG Ruslan Khazhismelovich Tsalikov~Great Synagogue of Vilna~-2.5624801533890875~5~Sim0
-Triad_ID_2_33~TS-MG Ruslan Khazhismelovich Tsalikov~NATO military actions in Lithuania~1.112738819258312~5~Sim0
-Triad_ID_2_34~TS-MG Ruslan Khazhismelovich Tsalikov~Donovian military actions in Lithuania~-1.8650457121302029~5~Sim0
-Triad_ID_2_35~TS-MG Ruslan Khazhismelovich Tsalikov~Article 5 invoked by NATO~-0.8872580312703715~5~Sim0
-Triad_ID_2_36~TS-MG Ruslan Khazhismelovich Tsalikov~Humanitarian aid by NATO~0.10751868000524008~5~Sim0
-Triad_ID_2_37~TS-MG Ruslan Khazhismelovich Tsalikov~Civil protests against Donovia~-0.8872587966992308~5~Sim0
-Triad_ID_2_38~TS-MG Ruslan Khazhismelovich Tsalikov~IDPs migrate within Lithuania as result of war~-0.8883740675187236~5~Sim0
-Triad_ID_2_39~TS-MG Ruslan Khazhismelovich Tsalikov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_40~TS-MG Ruslan Khazhismelovich Tsalikov~NATO war crimes~-1.8466493819277174~5~Sim0
-Triad_ID_2_41~TS-MG Ruslan Khazhismelovich Tsalikov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_42~TS-MG Ruslan Khazhismelovich Tsalikov~NATO propaganda~2.1224011184389084~5~Sim0
-Triad_ID_2_43~TS-MG Ruslan Khazhismelovich Tsalikov~Donovian propaganda~-3~5~Sim0
-Triad_ID_2_93~TS-COL-GEN Alexander Zhuravlyov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_2_94~TS-COL-GEN Alexander Zhuravlyov~Great Synagogue of Vilna~-2.5624801438178486~5~Sim0
-Triad_ID_2_95~TS-COL-GEN Alexander Zhuravlyov~NATO military actions in Lithuania~1.1127396254118862~5~Sim0
-Triad_ID_2_96~TS-COL-GEN Alexander Zhuravlyov~Donovian military actions in Lithuania~-1.8650450107806524~5~Sim0
-Triad_ID_2_97~TS-COL-GEN Alexander Zhuravlyov~Article 5 invoked by NATO~-0.8872595870221389~5~Sim0
-Triad_ID_2_98~TS-COL-GEN Alexander Zhuravlyov~Humanitarian aid by NATO~0.10751984672519425~5~Sim0
-Triad_ID_2_99~TS-COL-GEN Alexander Zhuravlyov~Civil protests against Donovia~-0.8872603526033709~5~Sim0
-Triad_ID_2_100~TS-COL-GEN Alexander Zhuravlyov~IDPs migrate within Lithuania as result of war~-0.8883721796447376~5~Sim0
-Triad_ID_2_101~TS-COL-GEN Alexander Zhuravlyov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_102~TS-COL-GEN Alexander Zhuravlyov~NATO war crimes~-1.8466578534055307~5~Sim0
-Triad_ID_2_103~TS-COL-GEN Alexander Zhuravlyov~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_104~TS-COL-GEN Alexander Zhuravlyov~NATO propaganda~2.122402702539003~5~Sim0
-Triad_ID_2_105~TS-COL-GEN Alexander Zhuravlyov~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_274~TS-COL Maximov Sergei Viktorovich~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_275~TS-COL Maximov Sergei Viktorovich~Great Synagogue of Vilna~-2.654737117676915~5~Sim0
-Triad_ID_1_276~TS-COL Maximov Sergei Viktorovich~NATO military actions in Lithuania~1.0230151858909644~5~Sim0
-Triad_ID_1_277~TS-COL Maximov Sergei Viktorovich~Donovian military actions in Lithuania~-1.9371752471058747~5~Sim0
-Triad_ID_1_278~TS-COL Maximov Sergei Viktorovich~Article 5 invoked by NATO~-0.9769863827714056~5~Sim0
-Triad_ID_1_279~TS-COL Maximov Sergei Viktorovich~Humanitarian aid by NATO~0.015920941436884016~5~Sim0
-Triad_ID_1_280~TS-COL Maximov Sergei Viktorovich~Civil protests against Donovia~-0.9769863294503863~5~Sim0
-Triad_ID_1_281~TS-COL Maximov Sergei Viktorovich~IDPs migrate within Lithuania as result of war~-0.9772497774961758~5~Sim0
-Triad_ID_1_282~TS-COL Maximov Sergei Viktorovich~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_283~TS-COL Maximov Sergei Viktorovich~NATO war crimes~-1.9178195004976666~5~Sim0
-Triad_ID_1_284~TS-COL Maximov Sergei Viktorovich~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_23~TS-COL Maximov Sergei Viktorovich~NATO propaganda~2.3074682289703783~5~Sim0
-Triad_ID_3_24~TS-COL Maximov Sergei Viktorovich~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_186~TS-COL-GEN Victor Borisovich Astapov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_187~TS-COL-GEN Victor Borisovich Astapov~Great Synagogue of Vilna~-2.6547395033109336~5~Sim0
-Triad_ID_1_188~TS-COL-GEN Victor Borisovich Astapov~NATO military actions in Lithuania~1.0230159731052297~5~Sim0
-Triad_ID_1_189~TS-COL-GEN Victor Borisovich Astapov~Donovian military actions in Lithuania~-1.9371786869840624~5~Sim0
-Triad_ID_1_190~TS-COL-GEN Victor Borisovich Astapov~Article 5 invoked by NATO~-0.976986379525019~5~Sim0
-Triad_ID_1_191~TS-COL-GEN Victor Borisovich Astapov~Humanitarian aid by NATO~0.015924446504860374~5~Sim0
-Triad_ID_1_192~TS-COL-GEN Victor Borisovich Astapov~Civil protests against Donovia~-0.9769848079789434~5~Sim0
-Triad_ID_1_193~TS-COL-GEN Victor Borisovich Astapov~IDPs migrate within Lithuania as result of war~-0.9772605068214807~5~Sim0
-Triad_ID_1_194~TS-COL-GEN Victor Borisovich Astapov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_195~TS-COL-GEN Victor Borisovich Astapov~NATO war crimes~-1.917810633874488~5~Sim0
-Triad_ID_1_196~TS-COL-GEN Victor Borisovich Astapov~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_21~TS-COL-GEN Victor Borisovich Astapov~NATO propaganda~2.3072823071866977~5~Sim0
-Triad_ID_3_22~TS-COL-GEN Victor Borisovich Astapov~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_261~TS-COL-GEN Anatoly Alekseyevich Sidorov~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_262~TS-COL-GEN Anatoly Alekseyevich Sidorov~Great Synagogue of Vilna~-2.6547394512111087~5~Sim0
-Triad_ID_1_263~TS-COL-GEN Anatoly Alekseyevich Sidorov~NATO military actions in Lithuania~1.023012039615441~5~Sim0
-Triad_ID_1_264~TS-COL-GEN Anatoly Alekseyevich Sidorov~Donovian military actions in Lithuania~-1.9395386323581603~5~Sim0
-Triad_ID_1_265~TS-COL-GEN Anatoly Alekseyevich Sidorov~Article 5 invoked by NATO~-0.9769863514728452~5~Sim0
-Triad_ID_1_266~TS-COL-GEN Anatoly Alekseyevich Sidorov~Humanitarian aid by NATO~0.01592211295158149~5~Sim0
-Triad_ID_1_267~TS-COL-GEN Anatoly Alekseyevich Sidorov~Civil protests against Donovia~-0.9769848050332842~5~Sim0
-Triad_ID_1_268~TS-COL-GEN Anatoly Alekseyevich Sidorov~IDPs migrate within Lithuania as result of war~-0.977262124829867~5~Sim0
-Triad_ID_1_269~TS-COL-GEN Anatoly Alekseyevich Sidorov~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_2_54~TS-COL-GEN Anatoly Alekseyevich Sidorov~NATO war crimes~-1.8462016279258036~5~Sim0
-Triad_ID_2_55~TS-COL-GEN Anatoly Alekseyevich Sidorov~Donovian war crimes~-3~5~Sim0
-Triad_ID_3_8~TS-COL-GEN Anatoly Alekseyevich Sidorov~NATO propaganda~2.2155269682892023~5~Sim0
-Triad_ID_3_9~TS-COL-GEN Anatoly Alekseyevich Sidorov~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_367~TS-Arvydas Giedraitis~NATO military actions in Lithuania~0.006350648746066871~5~Sim0
-Triad_ID_1_368~TS-Arvydas Giedraitis~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
-Triad_ID_1_369~TS-Arvydas Giedraitis~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
-Triad_ID_1_370~TS-Arvydas Giedraitis~Censorship of media by Donovia~0.0023892191824064~5~Sim0
-Triad_ID_1_371~TS-Arvydas Giedraitis~Low Morale of Donovian soldiers~-0.9972111768223902~5~Sim0
-Triad_ID_1_372~TS-Arvydas Giedraitis~Low Morale of Lithuanian civilians~-0.9972107792175936~5~Sim0
-Triad_ID_1_270~TS-Paulius Keras~NATO propaganda~2.0017944071967997~5~Sim0
-Triad_ID_1_271~TS-Paulius Keras~Donovian propaganda~-3~5~Sim0
-Triad_ID_1_272~TS-Paulius Keras~NATO war crimes~-1.9924770975281731~5~Sim0
-Triad_ID_1_273~TS-Paulius Keras~Donovian war crimes~-3~5~Sim0
-Triad_ID_2_130~TS-Paulius Keras~NATO military actions in Lithuania~0.10059960000000001~5~Sim0
-Triad_ID_2_131~TS-Paulius Keras~Donovian military actions in Lithuania~-1.8994008~5~Sim0
-Triad_ID_2_132~TS-Paulius Keras~Article 5 invoked by NATO~0.1005992~5~Sim0
-Triad_ID_2_133~TS-Paulius Keras~Civil protests against Donovia~1.1005992~5~Sim0
-Triad_ID_2_134~TS-Paulius Keras~IDPs migrate to Poland as result of war~-0.8994004~5~Sim0
-Triad_ID_1_400~TS-Audrius Ciuplys~COVID-19 pandemic in Lithuania~3~5~Sim0
-Triad_ID_1_401~TS-Audrius Ciuplys~Great Synagogue of Vilna~-2.6700573626399997~5~Sim0
-Triad_ID_1_402~TS-Audrius Ciuplys~NATO military actions in Lithuania~1.0011983999999998~5~Sim0
-Triad_ID_1_403~TS-Audrius Ciuplys~Donovian military actions in Lithuania~-1.9992004~5~Sim0
-Triad_ID_1_404~TS-Audrius Ciuplys~Article 5 invoked by NATO~-0.9988016~5~Sim0
-Triad_ID_1_405~TS-Audrius Ciuplys~Humanitarian aid by NATO~5.988E-4~5~Sim0
-Triad_ID_1_406~TS-Audrius Ciuplys~Civil protests against Donovia~-0.9988016~5~Sim0
-Triad_ID_1_407~TS-Audrius Ciuplys~IDPs migrate within Lithuania as result of war~-0.9994~5~Sim0
-Triad_ID_1_408~TS-Audrius Ciuplys~IDPs migrate to Poland as result of war~-3~5~Sim0
-Triad_ID_1_159~TS-Virgis Bagdonas~NATO military actions in Lithuania~0.0015944119856064~5~Sim0
-Triad_ID_1_160~TS-Virgis Bagdonas~Donovian military actions in Lithuania~-1.9984071864143935~5~Sim0
-Triad_ID_1_161~TS-Virgis Bagdonas~Article 5 invoked by NATO~0.0027908159856063998~5~Sim0
-Triad_ID_1_162~TS-Virgis Bagdonas~Civil protests against Donovia~1.002792012790403~5~Sim0
-Triad_ID_1_163~TS-Virgis Bagdonas~IDPs migrate within Lithuania as result of war~-3~5~Sim0
-Triad_ID_1_164~TS-Virgis Bagdonas~IDPs migrate to Poland as result of war~-1.9992023944063968~5~Sim0
-Triad_ID_1_165~TS-Virgis Bagdonas~Low Morale of Lithuanian civilians~-3~5~Sim0
-Triad_ID_1_166~TS-Virgis Bagdonas~Low Morale of Polish civilians~-1.9992023944063968~5~Sim0
+Triad_ID_1_181~TS-B-ID-18~NATO military actions in Lithuania~0.006346658357123307~5~Sim0
+Triad_ID_1_182~TS-B-ID-18~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_183~TS-B-ID-18~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_184~TS-B-ID-18~Censorship of media by Donovia~0.0031884207824064~5~Sim0
+Triad_ID_1_185~TS-B-ID-18~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_186~TS-B-ID-18~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_409~TS-B-ID-23~NATO military actions in Lithuania~0.0063482551221307765~5~Sim0
+Triad_ID_1_410~TS-B-ID-23~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_411~TS-B-ID-23~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_412~TS-B-ID-23~Censorship of media by Donovia~0.0031884207824064~5~Sim0
+Triad_ID_1_413~TS-B-ID-23~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_414~TS-B-ID-23~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_997~TS-B-ID-38~NATO military actions in Lithuania~0.023182125851746654~5~Sim0
+Triad_ID_1_998~TS-B-ID-38~Donovian military actions in Lithuania~-1.9882021204692057~5~Sim0
+Triad_ID_1_999~TS-B-ID-38~IDPs migrate to Poland as result of war~-0.9882017032067218~5~Sim0
+Triad_ID_1_1000~TS-B-ID-38~Censorship of media by Donovia~0.011796708830968831~5~Sim0
+Triad_ID_1_1001~TS-B-ID-38~Low Morale of Donovian soldiers~-0.9881997435687212~5~Sim0
+Triad_ID_1_1002~TS-B-ID-38~Low Morale of Lithuanian civilians~-0.9881993213846717~5~Sim0
+Triad_ID_1_307~TS-B-ID-47~NATO military actions in Lithuania~0.023182941417198327~5~Sim0
+Triad_ID_1_308~TS-B-ID-47~Donovian military actions in Lithuania~-1.988203698993606~5~Sim0
+Triad_ID_1_309~TS-B-ID-47~IDPs migrate to Poland as result of war~-0.9882013054989931~5~Sim0
+Triad_ID_1_310~TS-B-ID-47~Censorship of media by Donovia~0.011800272326719059~5~Sim0
+Triad_ID_1_311~TS-B-ID-47~Low Morale of Donovian soldiers~-0.9882028966932396~5~Sim0
+Triad_ID_1_312~TS-B-ID-47~Low Morale of Lithuanian civilians~-0.9881989340765328~5~Sim0
+Triad_ID_1_727~TS-B-ID-71~NATO military actions in Lithuania~0.0063470647125020594~5~Sim0
+Triad_ID_1_728~TS-B-ID-71~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_729~TS-B-ID-71~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_730~TS-B-ID-71~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_731~TS-B-ID-71~Low Morale of Donovian soldiers~-0.9968119800175936~5~Sim0
+Triad_ID_1_732~TS-B-ID-71~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_1021~TS-B-ID-88~NATO military actions in Lithuania~0.053939984709858654~5~Sim0
+Triad_ID_1_1022~TS-B-ID-88~Donovian military actions in Lithuania~-1.9718392713471313~5~Sim0
+Triad_ID_1_1023~TS-B-ID-88~IDPs migrate to Poland as result of war~-0.9718365326243833~5~Sim0
+Triad_ID_1_1024~TS-B-ID-88~Censorship of media by Donovia~0.028158013781790878~5~Sim0
+Triad_ID_1_1025~TS-B-ID-88~Low Morale of Donovian soldiers~-0.9718416683294615~5~Sim0
+Triad_ID_1_1026~TS-B-ID-88~Low Morale of Lithuanian civilians~-0.9718443598331163~5~Sim0
+Triad_ID_1_943~TS-B-ID-114~NATO military actions in Lithuania~0.006348258317333975~5~Sim0
+Triad_ID_1_944~TS-B-ID-114~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_945~TS-B-ID-114~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_946~TS-B-ID-114~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_947~TS-B-ID-114~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_948~TS-B-ID-114~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_853~TS-B-ID-130~NATO military actions in Lithuania~0.006347071878978756~5~Sim0
+Triad_ID_1_854~TS-B-ID-130~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_855~TS-B-ID-130~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_856~TS-B-ID-130~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_857~TS-B-ID-130~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_858~TS-B-ID-130~Low Morale of Lithuanian civilians~-0.9968099816175936~5~Sim0
+Triad_ID_1_319~TS-B-ID-134~NATO military actions in Lithuania~0.006348249566752023~5~Sim0
+Triad_ID_1_320~TS-B-ID-134~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_321~TS-B-ID-134~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_322~TS-B-ID-134~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_323~TS-B-ID-134~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_324~TS-B-ID-134~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_259~TS-B-ID-138~NATO military actions in Lithuania~0.0063486511715137054~5~Sim0
+Triad_ID_1_260~TS-B-ID-138~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_261~TS-B-ID-138~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_262~TS-B-ID-138~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_263~TS-B-ID-138~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_264~TS-B-ID-138~Low Morale of Lithuanian civilians~-0.9968099816175936~5~Sim0
+Triad_ID_1_709~TS-B-ID-142~NATO military actions in Lithuania~0.014876684159763424~5~Sim0
+Triad_ID_1_710~TS-B-ID-142~Donovian military actions in Lithuania~-1.9924778776333556~5~Sim0
+Triad_ID_1_711~TS-B-ID-142~IDPs migrate to Poland as result of war~-0.9924755038835519~5~Sim0
+Triad_ID_1_712~TS-B-ID-142~Censorship of media by Donovia~0.007523707252652576~5~Sim0
+Triad_ID_1_713~TS-B-ID-142~Low Morale of Donovian soldiers~-0.9924798752333551~5~Sim0
+Triad_ID_1_714~TS-B-ID-142~Low Morale of Lithuanian civilians~-0.9924770792333489~5~Sim0
+Triad_ID_1_1069~TS-B-ID-153~NATO military actions in Lithuania~0.030911609451567092~5~Sim0
+Triad_ID_1_1070~TS-B-ID-153~Donovian military actions in Lithuania~-1.9841717350190524~5~Sim0
+Triad_ID_1_1071~TS-B-ID-153~IDPs migrate to Poland as result of war~-0.9841693403054838~5~Sim0
+Triad_ID_1_1072~TS-B-ID-153~Censorship of media by Donovia~0.015827510363950897~5~Sim0
+Triad_ID_1_1073~TS-B-ID-153~Low Morale of Donovian soldiers~-0.9841705580792848~5~Sim0
+Triad_ID_1_1074~TS-B-ID-153~Low Morale of Lithuanian civilians~-0.9841700974265087~5~Sim0
+Triad_ID_1_157~TS-B-ID-167~NATO military actions in Lithuania~0.006348249566752023~5~Sim0
+Triad_ID_1_158~TS-B-ID-167~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_159~TS-B-ID-167~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_160~TS-B-ID-167~Censorship of media by Donovia~0.0031876223776096~5~Sim0
+Triad_ID_1_161~TS-B-ID-167~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_162~TS-B-ID-167~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_2_19~TS-B-ID-181~NATO military actions in Lithuania~0.11622549923967442~5~Sim0
+Triad_ID_2_20~TS-B-ID-181~Donovian military actions in Lithuania~-1.8917431227713961~5~Sim0
+Triad_ID_2_21~TS-B-ID-181~IDPs migrate to Poland as result of war~-0.8917443138520218~5~Sim0
+Triad_ID_2_22~TS-B-ID-181~Censorship of media by Donovia~0.10826083929262785~5~Sim0
+Triad_ID_2_23~TS-B-ID-181~Low Morale of Donovian soldiers~-0.8917419370048374~5~Sim0
+Triad_ID_2_24~TS-B-ID-181~Low Morale of Lithuanian civilians~-0.8917435232907182~5~Sim0
+Triad_ID_1_403~TS-B-ID-207~NATO military actions in Lithuania~0.0063474583173339745~5~Sim0
+Triad_ID_1_404~TS-B-ID-207~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_405~TS-B-ID-207~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_406~TS-B-ID-207~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_407~TS-B-ID-207~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_408~TS-B-ID-207~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_1081~TS-B-ID-211~NATO military actions in Lithuania~0.014876652858866758~5~Sim0
+Triad_ID_1_1082~TS-B-ID-211~Donovian military actions in Lithuania~-1.9924762919806513~5~Sim0
+Triad_ID_1_1083~TS-B-ID-211~IDPs migrate to Poland as result of war~-0.9924786903171168~5~Sim0
+Triad_ID_1_1084~TS-B-ID-211~Censorship of media by Donovia~0.007524500897273821~5~Sim0
+Triad_ID_1_1085~TS-B-ID-211~Low Morale of Donovian soldiers~-0.992475893580651~5~Sim0
+Triad_ID_1_1086~TS-B-ID-211~Low Morale of Lithuanian civilians~-0.9924766935171102~5~Sim0
+Triad_ID_1_661~TS-B-ID-222~NATO military actions in Lithuania~0.022812106386704827~5~Sim0
+Triad_ID_1_662~TS-B-ID-222~Donovian military actions in Lithuania~-1.9883942683220757~5~Sim0
+Triad_ID_1_663~TS-B-ID-222~IDPs migrate to Poland as result of war~-0.9883930493526354~5~Sim0
+Triad_ID_1_664~TS-B-ID-222~Censorship of media by Donovia~0.011607703908173197~5~Sim0
+Triad_ID_1_665~TS-B-ID-222~Low Morale of Donovian soldiers~-0.988393872239736~5~Sim0
+Triad_ID_1_666~TS-B-ID-222~Low Morale of Lithuanian civilians~-0.9883946421273603~5~Sim0
+Triad_ID_1_325~TS-B-ID-226~NATO military actions in Lithuania~0.01487866356200425~5~Sim0
+Triad_ID_1_326~TS-B-ID-226~Donovian military actions in Lithuania~-1.9924790816094127~5~Sim0
+Triad_ID_1_327~TS-B-ID-226~IDPs migrate to Poland as result of war~-0.9924762919806511~5~Sim0
+Triad_ID_1_328~TS-B-ID-226~Censorship of media by Donovia~0.007522117581035233~5~Sim0
+Triad_ID_1_329~TS-B-ID-226~Low Morale of Donovian soldiers~-0.9924758927473474~5~Sim0
+Triad_ID_1_330~TS-B-ID-226~Low Morale of Lithuanian civilians~-0.9924774943504073~5~Sim0
+Triad_ID_1_103~TS-B-ID-228~NATO military actions in Lithuania~0.014881031868762952~5~Sim0
+Triad_ID_1_104~TS-B-ID-228~Donovian military actions in Lithuania~-1.9924762911743439~5~Sim0
+Triad_ID_1_105~TS-B-ID-228~IDPs migrate to Poland as result of war~-0.9924778887997905~5~Sim0
+Triad_ID_1_106~TS-B-ID-228~Censorship of media by Donovia~0.007522517590580929~5~Sim0
+Triad_ID_1_107~TS-B-ID-228~Low Morale of Donovian soldiers~-0.9924751054835519~5~Sim0
+Triad_ID_1_108~TS-B-ID-228~Low Morale of Lithuanian civilians~-0.9924770887997905~5~Sim0
+Triad_ID_1_931~TS-B-ID-229~NATO military actions in Lithuania~0.006347470278978756~5~Sim0
+Triad_ID_1_932~TS-B-ID-229~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_933~TS-B-ID-229~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_934~TS-B-ID-229~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_935~TS-B-ID-229~Low Morale of Donovian soldiers~-0.9968123776223903~5~Sim0
+Triad_ID_1_936~TS-B-ID-229~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_1087~TS-B-ID-236~NATO military actions in Lithuania~0.006350647166752023~5~Sim0
+Triad_ID_1_1088~TS-B-ID-236~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_1089~TS-B-ID-236~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_1090~TS-B-ID-236~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_1091~TS-B-ID-236~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_1092~TS-B-ID-236~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_265~TS-B-ID-240~NATO military actions in Lithuania~0.006346267102914853~5~Sim0
+Triad_ID_1_266~TS-B-ID-240~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_267~TS-B-ID-240~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_268~TS-B-ID-240~Censorship of media by Donovia~0.0031884207824064~5~Sim0
+Triad_ID_1_269~TS-B-ID-240~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_270~TS-B-ID-240~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_397~TS-B-ID-250~NATO military actions in Lithuania~0.023182098819387386~5~Sim0
+Triad_ID_1_398~TS-B-ID-250~Donovian military actions in Lithuania~-1.9881993435526437~5~Sim0
+Triad_ID_1_399~TS-B-ID-250~IDPs migrate to Poland as result of war~-0.9881989348055555~5~Sim0
+Triad_ID_1_400~TS-B-ID-250~Censorship of media by Donovia~0.011797909505705386~5~Sim0
+Triad_ID_1_401~TS-B-ID-250~Low Morale of Donovian soldiers~-0.9881993466148585~5~Sim0
+Triad_ID_1_402~TS-B-ID-250~Low Morale of Lithuanian civilians~-0.9882005269779545~5~Sim0
+Triad_ID_1_781~TS-B-ID-252~NATO military actions in Lithuania~0.006349851141270072~5~Sim0
+Triad_ID_1_782~TS-B-ID-252~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_783~TS-B-ID-252~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_784~TS-B-ID-252~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_785~TS-B-ID-252~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_786~TS-B-ID-252~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_793~TS-B-ID-253~NATO military actions in Lithuania~0.03914093412758436~5~Sim0
+Triad_ID_1_794~TS-B-ID-253~Donovian military actions in Lithuania~-1.9798221934590887~5~Sim0
+Triad_ID_1_795~TS-B-ID-253~IDPs migrate to Poland as result of war~-0.9798226061039956~5~Sim0
+Triad_ID_1_796~TS-B-ID-253~Censorship of media by Donovia~0.02018173427513628~5~Sim0
+Triad_ID_1_797~TS-B-ID-253~Low Morale of Donovian soldiers~-0.9798193954879371~5~Sim0
+Triad_ID_1_798~TS-B-ID-253~Low Morale of Lithuanian civilians~-0.9798150442179219~5~Sim0
+Triad_ID_1_127~TS-B-ID-255~NATO military actions in Lithuania~0.023182509446857548~5~Sim0
+Triad_ID_1_128~TS-B-ID-255~Donovian military actions in Lithuania~-1.9881997418864632~5~Sim0
+Triad_ID_1_129~TS-B-ID-255~IDPs migrate to Poland as result of war~-0.9882005293019023~5~Sim0
+Triad_ID_1_130~TS-B-ID-255~Censorship of media by Donovia~0.011798294502691238~5~Sim0
+Triad_ID_1_131~TS-B-ID-255~Low Morale of Donovian soldiers~-0.9882005245356931~5~Sim0
+Triad_ID_1_132~TS-B-ID-255~Low Morale of Lithuanian civilians~-0.9882024881229862~5~Sim0
+Triad_ID_1_715~TS-B-ID-271~NATO military actions in Lithuania~0.014876689716716752~5~Sim0
+Triad_ID_1_716~TS-B-ID-271~Donovian military actions in Lithuania~-1.9924758911743439~5~Sim0
+Triad_ID_1_717~TS-B-ID-271~IDPs migrate to Poland as result of war~-0.992477491980651~5~Sim0
+Triad_ID_1_718~TS-B-ID-271~Censorship of media by Donovia~0.007522498521209918~5~Sim0
+Triad_ID_1_719~TS-B-ID-271~Low Morale of Donovian soldiers~-0.9924762966931806~5~Sim0
+Triad_ID_1_720~TS-B-ID-271~Low Morale of Lithuanian civilians~-0.9924774887378018~5~Sim0
+Triad_ID_1_883~TS-B-ID-277~NATO military actions in Lithuania~0.0063466663236000035~5~Sim0
+Triad_ID_1_884~TS-B-ID-277~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_885~TS-B-ID-277~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_886~TS-B-ID-277~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_887~TS-B-ID-277~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_888~TS-B-ID-277~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_919~TS-B-ID-298~NATO military actions in Lithuania~0.03126688338112215~5~Sim0
+Triad_ID_1_920~TS-B-ID-298~Donovian military actions in Lithuania~-1.983983028577658~5~Sim0
+Triad_ID_1_921~TS-B-ID-298~IDPs migrate to Poland as result of war~-0.9839834148972343~5~Sim0
+Triad_ID_1_922~TS-B-ID-298~Censorship of media by Donovia~0.01601858495079963~5~Sim0
+Triad_ID_1_923~TS-B-ID-298~Low Morale of Donovian soldiers~-0.9839802295197798~5~Sim0
+Triad_ID_1_924~TS-B-ID-298~Low Morale of Lithuanian civilians~-0.9839834077239724~5~Sim0
+Triad_ID_1_37~TS-B-ID-311~NATO military actions in Lithuania~0.03126338205624727~5~Sim0
+Triad_ID_1_38~TS-B-ID-311~Donovian military actions in Lithuania~-1.9839834308124644~5~Sim0
+Triad_ID_1_39~TS-B-ID-311~IDPs migrate to Poland as result of war~-0.9839798420160711~5~Sim0
+Triad_ID_1_40~TS-B-ID-311~Censorship of media by Donovia~0.01601777484472031~5~Sim0
+Triad_ID_1_41~TS-B-ID-311~Low Morale of Donovian soldiers~-0.9839834010840808~5~Sim0
+Triad_ID_1_42~TS-B-ID-311~Low Morale of Lithuanian civilians~-0.983982592910583~5~Sim0
+Triad_ID_1_433~TS-B-ID-322~NATO military actions in Lithuania~0.0063462686885659625~5~Sim0
+Triad_ID_1_434~TS-B-ID-322~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_435~TS-B-ID-322~IDPs migrate to Poland as result of war~-0.9968123792175936~5~Sim0
+Triad_ID_1_436~TS-B-ID-322~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_437~TS-B-ID-322~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_438~TS-B-ID-322~Low Morale of Lithuanian civilians~-0.9968123792175936~5~Sim0
+Triad_ID_1_7~TS-B-ID-328~NATO military actions in Lithuania~0.006349455917333976~5~Sim0
+Triad_ID_1_8~TS-B-ID-328~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
+Triad_ID_1_9~TS-B-ID-328~IDPs migrate to Poland as result of war~-0.9968123792175936~5~Sim0
+Triad_ID_1_10~TS-B-ID-328~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_11~TS-B-ID-328~Low Morale of Donovian soldiers~-0.9968123776223903~5~Sim0
+Triad_ID_1_12~TS-B-ID-328~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_1045~TS-B-ID-330~NATO military actions in Lithuania~0.014875870207071278~5~Sim0
+Triad_ID_1_1046~TS-B-ID-330~Donovian military actions in Lithuania~-1.992477085588728~5~Sim0
+Triad_ID_1_1047~TS-B-ID-330~IDPs migrate to Poland as result of war~-0.9924766935027679~5~Sim0
+Triad_ID_1_1048~TS-B-ID-330~Censorship of media by Donovia~0.0075249000639701896~5~Sim0
+Triad_ID_1_1049~TS-B-ID-330~Low Morale of Donovian soldiers~-0.9924794847473891~5~Sim0
+Triad_ID_1_1050~TS-B-ID-330~Low Morale of Lithuanian civilians~-0.9924771030835519~5~Sim0
+Triad_ID_1_349~TS-B-ID-339~NATO military actions in Lithuania~0.02318288116017819~5~Sim0
+Triad_ID_1_350~TS-B-ID-339~Donovian military actions in Lithuania~-1.9881973483478466~5~Sim0
+Triad_ID_1_351~TS-B-ID-339~IDPs migrate to Poland as result of war~-0.9882021203726552~5~Sim0
+Triad_ID_1_352~TS-B-ID-339~Censorship of media by Donovia~0.011798671640335217~5~Sim0
+Triad_ID_1_353~TS-B-ID-339~Low Morale of Donovian soldiers~-0.9881997173504539~5~Sim0
+Triad_ID_1_354~TS-B-ID-339~Low Morale of Lithuanian civilians~-0.9882009007546407~5~Sim0
+Triad_ID_1_775~TS-B-ID-348~NATO military actions in Lithuania~0.023178211845735062~5~Sim0
+Triad_ID_1_776~TS-B-ID-348~Donovian military actions in Lithuania~-1.9882017118699755~5~Sim0
+Triad_ID_1_777~TS-B-ID-348~IDPs migrate to Poland as result of war~-0.9881981404397734~5~Sim0
+Triad_ID_1_778~TS-B-ID-348~Censorship of media by Donovia~0.01179629784934202~5~Sim0
+Triad_ID_1_779~TS-B-ID-348~Low Morale of Donovian soldiers~-0.988199737226053~5~Sim0
+Triad_ID_1_780~TS-B-ID-348~Low Morale of Lithuanian civilians~-0.9882012967263614~5~Sim0
+Triad_ID_1_271~TS-B-ID-354~NATO military actions in Lithuania~0.031263495405447005~5~Sim0
+Triad_ID_1_272~TS-B-ID-354~Donovian military actions in Lithuania~-1.9839814733344476~5~Sim0
+Triad_ID_1_273~TS-B-ID-354~IDPs migrate to Poland as result of war~-0.9839790585314003~5~Sim0
+Triad_ID_1_274~TS-B-ID-354~Censorship of media by Donovia~0.0160197475275306~5~Sim0
+Triad_ID_1_275~TS-B-ID-354~Low Morale of Donovian soldiers~-0.983981435742238~5~Sim0
+Triad_ID_1_276~TS-B-ID-354~Low Morale of Lithuanian civilians~-0.9839834315632027~5~Sim0
+Triad_ID_1_577~TS-B-ID-357~NATO military actions in Lithuania~0.02317817430907028~5~Sim0
+Triad_ID_1_578~TS-B-ID-357~Donovian military actions in Lithuania~-1.9882016992068203~5~Sim0
+Triad_ID_1_579~TS-B-ID-357~IDPs migrate to Poland as result of war~-0.9882009149972277~5~Sim0
+Triad_ID_1_580~TS-B-ID-357~Censorship of media by Donovia~0.011799487430656286~5~Sim0
+Triad_ID_1_581~TS-B-ID-357~Low Morale of Donovian soldiers~-0.9882020873229861~5~Sim0
+Triad_ID_1_582~TS-B-ID-357~Low Morale of Lithuanian civilians~-0.9882033007369524~5~Sim0
+Triad_ID_1_745~TS-B-ID-362~NATO military actions in Lithuania~0.014877871352222242~5~Sim0
+Triad_ID_1_746~TS-B-ID-362~Donovian military actions in Lithuania~-1.9924767062644122~5~Sim0
+Triad_ID_1_747~TS-B-ID-362~IDPs migrate to Poland as result of war~-0.9924786831617379~5~Sim0
+Triad_ID_1_748~TS-B-ID-362~Censorship of media by Donovia~0.007524104840034094~5~Sim0
+Triad_ID_1_749~TS-B-ID-362~Low Morale of Donovian soldiers~-0.9924790855473893~5~Sim0
+Triad_ID_1_750~TS-B-ID-362~Low Morale of Lithuanian civilians~-0.9924770951234116~5~Sim0
+Triad_ID_1_925~TS-B-ID-382~NATO military actions in Lithuania~0.014879050389689804~5~Sim0
+Triad_ID_1_926~TS-B-ID-382~Donovian military actions in Lithuania~-1.992477091180651~5~Sim0
+Triad_ID_1_927~TS-B-ID-382~IDPs migrate to Poland as result of war~-0.9924774967281731~5~Sim0
+Triad_ID_1_928~TS-B-ID-382~Censorship of media by Donovia~0.007525294516448234~5~Sim0
+Triad_ID_1_929~TS-B-ID-382~Low Morale of Donovian soldiers~-0.9924763054644126~5~Sim0
+Triad_ID_1_930~TS-B-ID-382~Low Morale of Lithuanian civilians~-0.9924754975234116~5~Sim0
+Triad_ID_1_769~TS-B-ID-394~NATO military actions in Lithuania~0.014877120446771955~5~Sim0
+Triad_ID_1_770~TS-B-ID-394~Donovian military actions in Lithuania~-1.9924775014787903~5~Sim0
+Triad_ID_1_771~TS-B-ID-394~IDPs migrate to Poland as result of war~-0.9924786768333489~5~Sim0
+Triad_ID_1_772~TS-B-ID-394~Censorship of media by Donovia~0.0075233088526525755~5~Sim0
+Triad_ID_1_773~TS-B-ID-394~Low Morale of Donovian soldiers~-0.9924786728429423~5~Sim0
+Triad_ID_1_774~TS-B-ID-394~Low Morale of Lithuanian civilians~-0.9924766935758542~5~Sim0
+Triad_ID_1_481~TS-B-ID-403~NATO military actions in Lithuania~0.014875897112529598~5~Sim0
+Triad_ID_1_482~TS-B-ID-403~Donovian military actions in Lithuania~-1.9924778776333556~5~Sim0
+Triad_ID_1_483~TS-B-ID-403~IDPs migrate to Poland as result of war~-0.9924767006883487~5~Sim0
+Triad_ID_1_484~TS-B-ID-403~Censorship of media by Donovia~0.007520515252611065~5~Sim0
+Triad_ID_1_485~TS-B-ID-403~Low Morale of Donovian soldiers~-0.9924754991281731~5~Sim0
+Triad_ID_1_486~TS-B-ID-403~Low Morale of Lithuanian civilians~-0.9924782871950287~5~Sim0
+Triad_ID_1_85~TS-B-ID-415~NATO military actions in Lithuania~0.014876286205630742~5~Sim0
+Triad_ID_1_86~TS-B-ID-415~Donovian military actions in Lithuania~-1.9924770919171104~5~Sim0
+Triad_ID_1_87~TS-B-ID-415~IDPs migrate to Poland as result of war~-0.9924770951234116~5~Sim0
+Triad_ID_1_88~TS-B-ID-415~Censorship of media by Donovia~0.007522897721209917~5~Sim0
+Triad_ID_1_89~TS-B-ID-415~Low Morale of Donovian soldiers~-0.9924770887997905~5~Sim0
+Triad_ID_1_90~TS-B-ID-415~Low Morale of Lithuanian civilians~-0.9924763086596157~5~Sim0
+Triad_ID_1_949~TS-B-ID-418~NATO military actions in Lithuania~0.006348659133193603~5~Sim0
+Triad_ID_1_950~TS-B-ID-418~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_951~TS-B-ID-418~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_952~TS-B-ID-418~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_953~TS-B-ID-418~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_954~TS-B-ID-418~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_607~TS-B-ID-421~NATO military actions in Lithuania~0.02317822065098011~5~Sim0
+Triad_ID_1_608~TS-B-ID-421~Donovian military actions in Lithuania~-1.988201704508002~5~Sim0
+Triad_ID_1_609~TS-B-ID-421~IDPs migrate to Poland as result of war~-0.9882017055229451~5~Sim0
+Triad_ID_1_610~TS-B-ID-421~Censorship of media by Donovia~0.011801054052153441~5~Sim0
+Triad_ID_1_611~TS-B-ID-421~Low Morale of Donovian soldiers~-0.9882032833516204~5~Sim0
+Triad_ID_1_612~TS-B-ID-421~Low Morale of Lithuanian civilians~-0.9882005149703995~5~Sim0
+Triad_ID_1_211~TS-B-ID-431~NATO military actions in Lithuania~0.014876271698062552~5~Sim0
+Triad_ID_1_212~TS-B-ID-431~Donovian military actions in Lithuania~-1.9924767006883486~5~Sim0
+Triad_ID_1_213~TS-B-ID-431~IDPs migrate to Poland as result of war~-0.9924790752333551~5~Sim0
+Triad_ID_1_214~TS-B-ID-431~Censorship of media by Donovia~0.00752410247658867~5~Sim0
+Triad_ID_1_215~TS-B-ID-431~Low Morale of Donovian soldiers~-0.99247629513297~5~Sim0
+Triad_ID_1_216~TS-B-ID-431~Low Morale of Lithuanian civilians~-0.9924759022787902~5~Sim0
+Triad_ID_1_829~TS-B-ID-436~NATO military actions in Lithuania~0.006348262312502059~5~Sim0
+Triad_ID_1_830~TS-B-ID-436~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_831~TS-B-ID-436~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_832~TS-B-ID-436~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_833~TS-B-ID-436~Low Morale of Donovian soldiers~-0.9968119800175936~5~Sim0
+Triad_ID_1_834~TS-B-ID-436~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_1057~TS-B-ID-437~NATO military actions in Lithuania~0.03126650775871456~5~Sim0
+Triad_ID_1_1058~TS-B-ID-437~Donovian military actions in Lithuania~-1.9839802175398593~5~Sim0
+Triad_ID_1_1059~TS-B-ID-437~IDPs migrate to Poland as result of war~-0.983980247611996~5~Sim0
+Triad_ID_1_1060~TS-B-ID-437~Censorship of media by Donovia~0.016020503741347253~5~Sim0
+Triad_ID_1_1061~TS-B-ID-437~Low Morale of Donovian soldiers~-0.983984948647708~5~Sim0
+Triad_ID_1_1062~TS-B-ID-437~Low Morale of Lithuanian civilians~-0.983980257791801~5~Sim0
+Triad_ID_1_613~TS-B-ID-444~NATO military actions in Lithuania~0.014875886750116722~5~Sim0
+Triad_ID_1_614~TS-B-ID-444~Donovian military actions in Lithuania~-1.9924774776333556~5~Sim0
+Triad_ID_1_615~TS-B-ID-444~IDPs migrate to Poland as result of war~-0.9924778911806511~5~Sim0
+Triad_ID_1_616~TS-B-ID-444~Censorship of media by Donovia~0.007522125557057627~5~Sim0
+Triad_ID_1_617~TS-B-ID-444~Low Morale of Donovian soldiers~-0.992475493580651~5~Sim0
+Triad_ID_1_618~TS-B-ID-444~Low Morale of Lithuanian civilians~-0.9924782887743434~5~Sim0
+Triad_ID_1_175~TS-B-ID-446~NATO military actions in Lithuania~0.023183697639036615~5~Sim0
+Triad_ID_1_176~TS-B-ID-446~Donovian military actions in Lithuania~-1.9882025149215132~5~Sim0
+Triad_ID_1_177~TS-B-ID-446~IDPs migrate to Poland as result of war~-0.9881997435433759~5~Sim0
+Triad_ID_1_178~TS-B-ID-446~Censorship of media by Donovia~0.011799484055492925~5~Sim0
+Triad_ID_1_179~TS-B-ID-446~Low Morale of Donovian soldiers~-0.9882024912182713~5~Sim0
+Triad_ID_1_180~TS-B-ID-446~Low Morale of Lithuanian civilians~-0.9882013236629799~5~Sim0
+Triad_ID_1_571~TS-B-ID-468~NATO military actions in Lithuania~0.006346263133187211~5~Sim0
+Triad_ID_1_572~TS-B-ID-468~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_573~TS-B-ID-468~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_574~TS-B-ID-468~Censorship of media by Donovia~0.0031876223776096~5~Sim0
+Triad_ID_1_575~TS-B-ID-468~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_576~TS-B-ID-468~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_877~TS-B-ID-480~NATO military actions in Lithuania~0.006345871878978757~5~Sim0
+Triad_ID_1_878~TS-B-ID-480~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_879~TS-B-ID-480~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_880~TS-B-ID-480~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_881~TS-B-ID-480~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_882~TS-B-ID-480~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_313~TS-B-ID-482~NATO military actions in Lithuania~0.02317935790383439~5~Sim0
+Triad_ID_1_314~TS-B-ID-482~Donovian military actions in Lithuania~-1.988201705497309~5~Sim0
+Triad_ID_1_315~TS-B-ID-482~IDPs migrate to Poland as result of war~-0.9882009126416613~5~Sim0
+Triad_ID_1_316~TS-B-ID-482~Censorship of media by Donovia~0.011799870775605516~5~Sim0
+Triad_ID_1_317~TS-B-ID-482~Low Morale of Donovian soldiers~-0.9881977609621544~5~Sim0
+Triad_ID_1_318~TS-B-ID-482~Low Morale of Lithuanian civilians~-0.9882041076301147~5~Sim0
+Triad_ID_1_559~TS-B-ID-494~NATO military actions in Lithuania~0.00635024478589132~5~Sim0
+Triad_ID_1_560~TS-B-ID-494~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_561~TS-B-ID-494~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_562~TS-B-ID-494~Censorship of media by Donovia~0.0031888223776096003~5~Sim0
+Triad_ID_1_563~TS-B-ID-494~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_564~TS-B-ID-494~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_331~TS-B-ID-533~NATO military actions in Lithuania~0.006348251161955223~5~Sim0
+Triad_ID_1_332~TS-B-ID-533~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_333~TS-B-ID-533~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_334~TS-B-ID-533~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_335~TS-B-ID-533~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_336~TS-B-ID-533~Low Morale of Lithuanian civilians~-0.9968099816175936~5~Sim0
+Triad_ID_1_223~TS-B-ID-537~NATO military actions in Lithuania~0.006347865502914852~5~Sim0
+Triad_ID_1_224~TS-B-ID-537~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_225~TS-B-ID-537~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_226~TS-B-ID-537~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_227~TS-B-ID-537~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_228~TS-B-ID-537~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_817~TS-B-ID-540~NATO military actions in Lithuania~0.01487864324287987~5~Sim0
+Triad_ID_1_818~TS-B-ID-540~Donovian military actions in Lithuania~-1.9924767006883486~5~Sim0
+Triad_ID_1_819~TS-B-ID-540~IDPs migrate to Poland as result of war~-0.9924770887647913~5~Sim0
+Triad_ID_1_820~TS-B-ID-540~Censorship of media by Donovia~0.0075228945355875305~5~Sim0
+Triad_ID_1_821~TS-B-ID-540~Low Morale of Donovian soldiers~-0.9924778951234117~5~Sim0
+Triad_ID_1_822~TS-B-ID-540~Low Morale of Lithuanian civilians~-0.9924774792190064~5~Sim0
+Triad_ID_1_19~TS-B-ID-559~NATO military actions in Lithuania~0.02318171131072827~5~Sim0
+Triad_ID_1_20~TS-B-ID-559~Donovian military actions in Lithuania~-1.9881989206654282~5~Sim0
+Triad_ID_1_21~TS-B-ID-559~IDPs migrate to Poland as result of war~-0.988203274556551~5~Sim0
+Triad_ID_1_22~TS-B-ID-559~Censorship of media by Donovia~0.011799884978575214~5~Sim0
+Triad_ID_1_23~TS-B-ID-559~Low Morale of Donovian soldiers~-0.9881989364493035~5~Sim0
+Triad_ID_1_24~TS-B-ID-559~Low Morale of Lithuanian civilians~-0.9882012960512545~5~Sim0
+Triad_ID_1_631~TS-B-ID-578~NATO military actions in Lithuania~0.01488025329537541~5~Sim0
+Triad_ID_1_632~TS-B-ID-578~Donovian military actions in Lithuania~-1.9924782863647983~5~Sim0
+Triad_ID_1_633~TS-B-ID-578~IDPs migrate to Poland as result of war~-0.9924778776333489~5~Sim0
+Triad_ID_1_634~TS-B-ID-578~Censorship of media by Donovia~0.0075205184112660806~5~Sim0
+Triad_ID_1_635~TS-B-ID-578~Low Morale of Donovian soldiers~-0.9924774935758542~5~Sim0
+Triad_ID_1_636~TS-B-ID-578~Low Morale of Lithuanian civilians~-0.9924778895377955~5~Sim0
+Triad_ID_1_73~TS-B-ID-601~NATO military actions in Lithuania~0.00634904718589132~5~Sim0
+Triad_ID_1_74~TS-B-ID-601~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_75~TS-B-ID-601~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_76~TS-B-ID-601~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_77~TS-B-ID-601~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_78~TS-B-ID-601~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_2_49~TS-B-ID-603~NATO military actions in Lithuania~0.11094728827623339~5~Sim0
+Triad_ID_2_50~TS-B-ID-603~Donovian military actions in Lithuania~-1.894463132130588~5~Sim0
+Triad_ID_2_51~TS-B-ID-603~IDPs migrate to Poland as result of war~-0.8944631360829005~5~Sim0
+Triad_ID_2_52~TS-B-ID-603~Censorship of media by Donovia~0.1055380710454759~5~Sim0
+Triad_ID_2_53~TS-B-ID-603~Low Morale of Donovian soldiers~-0.8944615503906133~5~Sim0
+Triad_ID_2_54~TS-B-ID-603~Low Morale of Lithuanian civilians~-0.8944607488571988~5~Sim0
+Triad_ID_1_955~TS-B-ID-608~NATO military actions in Lithuania~0.006347856726892459~5~Sim0
+Triad_ID_1_956~TS-B-ID-608~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_957~TS-B-ID-608~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_958~TS-B-ID-608~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_959~TS-B-ID-608~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_960~TS-B-ID-608~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_91~TS-B-ID-614~NATO military actions in Lithuania~0.022813294513615665~5~Sim0
+Triad_ID_1_92~TS-B-ID-614~Donovian military actions in Lithuania~-1.9883942469275928~5~Sim0
+Triad_ID_1_93~TS-B-ID-614~IDPs migrate to Poland as result of war~-0.9883930714591822~5~Sim0
+Triad_ID_1_94~TS-B-ID-614~Censorship of media by Donovia~0.011608926762305545~5~Sim0
+Triad_ID_1_95~TS-B-ID-614~Low Morale of Donovian soldiers~-0.9883926628125115~5~Sim0
+Triad_ID_1_96~TS-B-ID-614~Low Morale of Lithuanian civilians~-0.9883926674449958~5~Sim0
+Triad_ID_1_283~TS-B-ID-626~NATO military actions in Lithuania~0.012581671053577595~5~Sim0
+Triad_ID_1_284~TS-B-ID-626~Donovian military actions in Lithuania~-1.993651337687498~5~Sim0
+Triad_ID_1_285~TS-B-ID-626~IDPs migrate to Poland as result of war~-0.9936513408668064~5~Sim0
+Triad_ID_1_286~TS-B-ID-626~Censorship of media by Donovia~0.006347853541270073~5~Sim0
+Triad_ID_1_287~TS-B-ID-626~Low Morale of Donovian soldiers~-0.9936517424731074~5~Sim0
+Triad_ID_1_288~TS-B-ID-626~Low Morale of Lithuanian civilians~-0.9936509448524224~5~Sim0
+Triad_ID_2_13~TS-B-ID-636~NATO military actions in Lithuania~0.1011968039984~5~Sim0
+Triad_ID_2_14~TS-B-ID-636~Donovian military actions in Lithuania~-1.8994004~5~Sim0
+Triad_ID_2_15~TS-B-ID-636~IDPs migrate to Poland as result of war~-0.8994004~5~Sim0
+Triad_ID_2_16~TS-B-ID-636~Censorship of media by Donovia~0.1005992~5~Sim0
+Triad_ID_2_17~TS-B-ID-636~Low Morale of Donovian soldiers~-0.8994008000000001~5~Sim0
+Triad_ID_2_18~TS-B-ID-636~Low Morale of Lithuanian civilians~-0.8994004~5~Sim0
+Triad_ID_1_49~TS-B-ID-641~NATO military actions in Lithuania~0.014877859765153089~5~Sim0
+Triad_ID_1_50~TS-B-ID-641~Donovian military actions in Lithuania~-1.9924790911027679~5~Sim0
+Triad_ID_1_51~TS-B-ID-641~IDPs migrate to Poland as result of war~-0.9924774807983209~5~Sim0
+Triad_ID_1_52~TS-B-ID-641~Censorship of media by Donovia~0.007522103297273822~5~Sim0
+Triad_ID_1_53~TS-B-ID-641~Low Morale of Donovian soldiers~-0.9924786839887275~5~Sim0
+Triad_ID_1_54~TS-B-ID-641~Low Morale of Lithuanian civilians~-0.9924774951329699~5~Sim0
+Triad_ID_1_787~TS-B-ID-651~NATO military actions in Lithuania~0.014878287455977175~5~Sim0
+Triad_ID_1_788~TS-B-ID-651~Donovian military actions in Lithuania~-1.992475499102726~5~Sim0
+Triad_ID_1_789~TS-B-ID-651~IDPs migrate to Poland as result of war~-0.9924770824094191~5~Sim0
+Triad_ID_1_790~TS-B-ID-651~Censorship of media by Donovia~0.00752449926876699~5~Sim0
+Triad_ID_1_791~TS-B-ID-651~Low Morale of Donovian soldiers~-0.9924794768333488~5~Sim0
+Triad_ID_1_792~TS-B-ID-651~Low Morale of Lithuanian civilians~-0.9924786895377955~5~Sim0
+Triad_ID_1_685~TS-B-ID-656~NATO military actions in Lithuania~0.014878281837228552~5~Sim0
+Triad_ID_1_686~TS-B-ID-656~Donovian military actions in Lithuania~-1.992479083188728~5~Sim0
+Triad_ID_1_687~TS-B-ID-656~IDPs migrate to Poland as result of war~-0.9924782903473474~5~Sim0
+Triad_ID_1_688~TS-B-ID-656~Censorship of media by Donovia~0.007522909662198271~5~Sim0
+Triad_ID_1_689~TS-B-ID-656~Low Morale of Donovian soldiers~-0.9924751030883487~5~Sim0
+Triad_ID_1_690~TS-B-ID-656~Low Morale of Lithuanian civilians~-0.9924762919377955~5~Sim0
+Triad_ID_1_31~TS-B-ID-657~NATO military actions in Lithuania~0.014878257441902817~5~Sim0
+Triad_ID_1_32~TS-B-ID-657~Donovian military actions in Lithuania~-1.9924778776333556~5~Sim0
+Triad_ID_1_33~TS-B-ID-657~IDPs migrate to Poland as result of war~-0.992478280771325~5~Sim0
+Triad_ID_1_34~TS-B-ID-657~Censorship of media by Donovia~0.007524105624145742~5~Sim0
+Triad_ID_1_35~TS-B-ID-657~Low Morale of Donovian soldiers~-0.9924755007312329~5~Sim0
+Triad_ID_1_36~TS-B-ID-657~Low Morale of Lithuanian civilians~-0.9924762919377955~5~Sim0
+Triad_ID_1_253~TS-B-ID-661~NATO military actions in Lithuania~0.01487784083193843~5~Sim0
+Triad_ID_1_254~TS-B-ID-661~Donovian military actions in Lithuania~-1.9924771015042368~5~Sim0
+Triad_ID_1_255~TS-B-ID-661~IDPs migrate to Poland as result of war~-0.9924782744429425~5~Sim0
+Triad_ID_1_256~TS-B-ID-661~Censorship of media by Donovia~0.007520121601678874~5~Sim0
+Triad_ID_1_257~TS-B-ID-661~Low Morale of Donovian soldiers~-0.9924798728429425~5~Sim0
+Triad_ID_1_258~TS-B-ID-661~Low Morale of Lithuanian civilians~-0.9924774792190064~5~Sim0
+Triad_ID_1_967~TS-B-ID-663~NATO military actions in Lithuania~0.006347857517333975~5~Sim0
+Triad_ID_1_968~TS-B-ID-663~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_969~TS-B-ID-663~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_970~TS-B-ID-663~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_971~TS-B-ID-663~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_972~TS-B-ID-663~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_979~TS-B-ID-666~NATO military actions in Lithuania~0.031267743066999955~5~Sim0
+Triad_ID_1_980~TS-B-ID-666~Donovian military actions in Lithuania~-1.983981034592055~5~Sim0
+Triad_ID_1_981~TS-B-ID-666~IDPs migrate to Poland as result of war~-0.9839822135328661~5~Sim0
+Triad_ID_1_982~TS-B-ID-666~Censorship of media by Donovia~0.01601660002336761~5~Sim0
+Triad_ID_1_983~TS-B-ID-666~Low Morale of Donovian soldiers~-0.983983019816029~5~Sim0
+Triad_ID_1_984~TS-B-ID-666~Low Morale of Lithuanian civilians~-0.9839818213521146~5~Sim0
+Triad_ID_1_901~TS-B-ID-668~NATO military actions in Lithuania~0.022813677605436015~5~Sim0
+Triad_ID_1_902~TS-B-ID-668~Donovian military actions in Lithuania~-1.9883942476765613~5~Sim0
+Triad_ID_1_903~TS-B-ID-668~IDPs migrate to Poland as result of war~-0.988392260509126~5~Sim0
+Triad_ID_1_904~TS-B-ID-668~Censorship of media by Donovia~0.011604167296576382~5~Sim0
+Triad_ID_1_905~TS-B-ID-668~Low Morale of Donovian soldiers~-0.9883914628510799~5~Sim0
+Triad_ID_1_906~TS-B-ID-668~Low Morale of Lithuanian civilians~-0.9883942547890869~5~Sim0
+Triad_ID_1_895~TS-B-ID-671~NATO military actions in Lithuania~0.014880262040078694~5~Sim0
+Triad_ID_1_896~TS-B-ID-671~Donovian military actions in Lithuania~-1.992478283188728~5~Sim0
+Triad_ID_1_897~TS-B-ID-671~IDPs migrate to Poland as result of war~-0.9924786911171102~5~Sim0
+Triad_ID_1_898~TS-B-ID-671~Censorship of media by Donovia~0.0075229112352021765~5~Sim0
+Triad_ID_1_899~TS-B-ID-671~Low Morale of Donovian soldiers~-0.9924754991281731~5~Sim0
+Triad_ID_1_900~TS-B-ID-671~Low Morale of Lithuanian civilians~-0.9924782887647914~5~Sim0
+Triad_ID_1_193~TS-B-ID-691~NATO military actions in Lithuania~0.006348655957123306~5~Sim0
+Triad_ID_1_194~TS-B-ID-691~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_195~TS-B-ID-691~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_196~TS-B-ID-691~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_197~TS-B-ID-691~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_198~TS-B-ID-691~Low Morale of Lithuanian civilians~-0.9968127768223903~5~Sim0
+Triad_ID_1_823~TS-B-ID-714~NATO military actions in Lithuania~0.006347060733193604~5~Sim0
+Triad_ID_1_824~TS-B-ID-714~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_825~TS-B-ID-714~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_826~TS-B-ID-714~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_827~TS-B-ID-714~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_828~TS-B-ID-714~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_913~TS-B-ID-723~NATO military actions in Lithuania~0.03126800406940829~5~Sim0
+Triad_ID_1_914~TS-B-ID-723~Donovian military actions in Lithuania~-1.9839786510816064~5~Sim0
+Triad_ID_1_915~TS-B-ID-723~IDPs migrate to Poland as result of war~-0.9839842423225883~5~Sim0
+Triad_ID_1_916~TS-B-ID-723~Censorship of media by Donovia~0.0160185752350291~5~Sim0
+Triad_ID_1_917~TS-B-ID-723~Low Morale of Donovian soldiers~-0.9839853658877964~5~Sim0
+Triad_ID_1_918~TS-B-ID-723~Low Morale of Lithuanian civilians~-0.9839826336794759~5~Sim0
+Triad_ID_1_379~TS-B-ID-737~NATO military actions in Lithuania~0.0063486615029563626~5~Sim0
+Triad_ID_1_380~TS-B-ID-737~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_381~TS-B-ID-737~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_382~TS-B-ID-737~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_383~TS-B-ID-737~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_384~TS-B-ID-737~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_361~TS-B-ID-744~NATO military actions in Lithuania~0.023181808335434925~5~Sim0
+Triad_ID_1_362~TS-B-ID-744~Donovian military actions in Lithuania~-1.9882008944641523~5~Sim0
+Triad_ID_1_363~TS-B-ID-744~IDPs migrate to Poland as result of war~-0.9882033038454026~5~Sim0
+Triad_ID_1_364~TS-B-ID-744~Censorship of media by Donovia~0.011799077227351046~5~Sim0
+Triad_ID_1_365~TS-B-ID-744~Low Morale of Donovian soldiers~-0.9881997000798185~5~Sim0
+Triad_ID_1_366~TS-B-ID-744~Low Morale of Lithuanian civilians~-0.988199332402286~5~Sim0
+Triad_ID_1_649~TS-B-ID-745~NATO military actions in Lithuania~0.006348655922130775~5~Sim0
+Triad_ID_1_650~TS-B-ID-745~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_651~TS-B-ID-745~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_652~TS-B-ID-745~Censorship of media by Donovia~0.0031888223776096003~5~Sim0
+Triad_ID_1_653~TS-B-ID-745~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_654~TS-B-ID-745~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_133~TS-B-ID-760~NATO military actions in Lithuania~0.014879424035224699~5~Sim0
+Triad_ID_1_134~TS-B-ID-760~Donovian military actions in Lithuania~-1.9924794815887343~5~Sim0
+Triad_ID_1_135~TS-B-ID-760~IDPs migrate to Poland as result of war~-0.9924790895171168~5~Sim0
+Triad_ID_1_136~TS-B-ID-760~Censorship of media by Donovia~0.007521309682883421~5~Sim0
+Triad_ID_1_137~TS-B-ID-760~Low Morale of Donovian soldiers~-0.9924770943758542~5~Sim0
+Triad_ID_1_138~TS-B-ID-760~Low Morale of Lithuanian civilians~-0.9924794863267039~5~Sim0
+Triad_ID_1_679~TS-B-ID-761~NATO military actions in Lithuania~0.006349849561955223~5~Sim0
+Triad_ID_1_680~TS-B-ID-761~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_681~TS-B-ID-761~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_682~TS-B-ID-761~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_683~TS-B-ID-761~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_684~TS-B-ID-761~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_535~TS-B-ID-762~NATO military actions in Lithuania~0.014879061246750029~5~Sim0
+Triad_ID_1_536~TS-B-ID-762~Donovian military actions in Lithuania~-1.9924775014787903~5~Sim0
+Triad_ID_1_537~TS-B-ID-762~IDPs migrate to Poland as result of war~-0.9924770959551691~5~Sim0
+Triad_ID_1_538~TS-B-ID-762~Censorship of media by Donovia~0.0075232937355875305~5~Sim0
+Triad_ID_1_539~TS-B-ID-762~Low Morale of Donovian soldiers~-0.9924766967281731~5~Sim0
+Triad_ID_1_540~TS-B-ID-762~Low Morale of Lithuanian civilians~-0.992478686326704~5~Sim0
+Triad_ID_1_811~TS-B-ID-771~NATO military actions in Lithuania~0.02318175755392789~5~Sim0
+Triad_ID_1_812~TS-B-ID-771~Donovian military actions in Lithuania~-1.9882021132962537~5~Sim0
+Triad_ID_1_813~TS-B-ID-771~IDPs migrate to Poland as result of war~-0.9882021055416504~5~Sim0
+Triad_ID_1_814~TS-B-ID-771~Censorship of media by Donovia~0.011798300963730642~5~Sim0
+Triad_ID_1_815~TS-B-ID-771~Low Morale of Donovian soldiers~-0.9882025007420273~5~Sim0
+Triad_ID_1_816~TS-B-ID-771~Low Morale of Lithuanian civilians~-0.9882013094468006~5~Sim0
+Triad_ID_1_1015~TS-B-ID-779~NATO military actions in Lithuania~0.006347865502914852~5~Sim0
+Triad_ID_1_1016~TS-B-ID-779~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
+Triad_ID_1_1017~TS-B-ID-779~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_1018~TS-B-ID-779~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_1019~TS-B-ID-779~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_1020~TS-B-ID-779~Low Morale of Lithuanian civilians~-0.9968127768223903~5~Sim0
+Triad_ID_1_667~TS-B-ID-783~NATO military actions in Lithuania~0.006347851961955223~5~Sim0
+Triad_ID_1_668~TS-B-ID-783~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_669~TS-B-ID-783~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_670~TS-B-ID-783~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_671~TS-B-ID-783~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_672~TS-B-ID-783~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_523~TS-B-ID-789~NATO military actions in Lithuania~0.006349454357129699~5~Sim0
+Triad_ID_1_524~TS-B-ID-789~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_525~TS-B-ID-789~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_526~TS-B-ID-789~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_527~TS-B-ID-789~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_528~TS-B-ID-789~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_1003~TS-B-ID-793~NATO military actions in Lithuania~0.006348665488572357~5~Sim0
+Triad_ID_1_1004~TS-B-ID-793~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_1005~TS-B-ID-793~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_1006~TS-B-ID-793~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_1007~TS-B-ID-793~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_1008~TS-B-ID-793~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_991~TS-B-ID-800~NATO military actions in Lithuania~0.014879460394338472~5~Sim0
+Triad_ID_1_992~TS-B-ID-800~Donovian military actions in Lithuania~-1.99247549673297~5~Sim0
+Triad_ID_1_993~TS-B-ID-800~IDPs migrate to Poland as result of war~-0.992478280771325~5~Sim0
+Triad_ID_1_994~TS-B-ID-800~Censorship of media by Donovia~0.007522509682883422~5~Sim0
+Triad_ID_1_995~TS-B-ID-800~Low Morale of Donovian soldiers~-0.99247629513297~5~Sim0
+Triad_ID_1_996~TS-B-ID-800~Low Morale of Lithuanian civilians~-0.9924774958931741~5~Sim0
+Triad_ID_1_673~TS-B-ID-820~NATO military actions in Lithuania~0.006347870278978757~5~Sim0
+Triad_ID_1_674~TS-B-ID-820~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_675~TS-B-ID-820~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_676~TS-B-ID-820~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_677~TS-B-ID-820~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_678~TS-B-ID-820~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_67~TS-B-ID-829~NATO military actions in Lithuania~0.00634905514757761~5~Sim0
+Triad_ID_1_68~TS-B-ID-829~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_69~TS-B-ID-829~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_70~TS-B-ID-829~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_71~TS-B-ID-829~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_72~TS-B-ID-829~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_757~TS-B-ID-839~NATO military actions in Lithuania~0.00634945354757761~5~Sim0
+Triad_ID_1_758~TS-B-ID-839~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_759~TS-B-ID-839~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_760~TS-B-ID-839~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_761~TS-B-ID-839~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_762~TS-B-ID-839~Low Morale of Lithuanian civilians~-0.9968127768223903~5~Sim0
+Triad_ID_1_79~TS-B-ID-846~NATO military actions in Lithuania~0.006347461502956363~5~Sim0
+Triad_ID_1_80~TS-B-ID-846~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_81~TS-B-ID-846~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_82~TS-B-ID-846~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_83~TS-B-ID-846~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_84~TS-B-ID-846~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_1093~TS-B-ID-847~NATO military actions in Lithuania~0.006346265523600004~5~Sim0
+Triad_ID_1_1094~TS-B-ID-847~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_1095~TS-B-ID-847~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_1096~TS-B-ID-847~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_1097~TS-B-ID-847~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_1098~TS-B-ID-847~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_25~TS-B-ID-852~NATO military actions in Lithuania~0.0063462686885659625~5~Sim0
+Triad_ID_1_26~TS-B-ID-852~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_27~TS-B-ID-852~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_28~TS-B-ID-852~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_29~TS-B-ID-852~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_30~TS-B-ID-852~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_343~TS-B-ID-853~NATO military actions in Lithuania~0.023179391899341244~5~Sim0
+Triad_ID_1_344~TS-B-ID-853~Donovian military actions in Lithuania~-1.9882036982172226~5~Sim0
+Triad_ID_1_345~TS-B-ID-853~IDPs migrate to Poland as result of war~-0.9882017172818697~5~Sim0
+Triad_ID_1_346~TS-B-ID-853~Censorship of media by Donovia~0.011801462030859676~5~Sim0
+Triad_ID_1_347~TS-B-ID-853~Low Morale of Donovian soldiers~-0.9882025022942887~5~Sim0
+Triad_ID_1_348~TS-B-ID-853~Low Morale of Lithuanian civilians~-0.9882005156965382~5~Sim0
+Triad_ID_1_805~TS-B-ID-856~NATO military actions in Lithuania~0.006349057517333975~5~Sim0
+Triad_ID_1_806~TS-B-ID-856~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_807~TS-B-ID-856~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_808~TS-B-ID-856~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_809~TS-B-ID-856~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_810~TS-B-ID-856~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_97~TS-B-ID-859~NATO military actions in Lithuania~0.006347458357123307~5~Sim0
+Triad_ID_1_98~TS-B-ID-859~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_99~TS-B-ID-859~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_100~TS-B-ID-859~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_101~TS-B-ID-859~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_102~TS-B-ID-859~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_541~TS-B-ID-873~NATO military actions in Lithuania~0.014877862997188324~5~Sim0
+Triad_ID_1_542~TS-B-ID-873~Donovian military actions in Lithuania~-1.9924794831743853~5~Sim0
+Triad_ID_1_543~TS-B-ID-873~IDPs migrate to Poland as result of war~-0.9924774864045872~5~Sim0
+Triad_ID_1_544~TS-B-ID-873~Censorship of media by Donovia~0.007524894516448234~5~Sim0
+Triad_ID_1_545~TS-B-ID-873~Low Morale of Donovian soldiers~-0.9924762919377955~5~Sim0
+Triad_ID_1_546~TS-B-ID-873~Low Morale of Lithuanian civilians~-0.9924754959504073~5~Sim0
+Triad_ID_1_199~TS-B-ID-874~NATO military actions in Lithuania~0.006347853541270073~5~Sim0
+Triad_ID_1_200~TS-B-ID-874~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_201~TS-B-ID-874~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_202~TS-B-ID-874~Censorship of media by Donovia~0.0031888223776096003~5~Sim0
+Triad_ID_1_203~TS-B-ID-874~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_204~TS-B-ID-874~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_595~TS-B-ID-902~NATO military actions in Lithuania~0.006348252741270073~5~Sim0
+Triad_ID_1_596~TS-B-ID-902~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_597~TS-B-ID-902~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_598~TS-B-ID-902~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_599~TS-B-ID-902~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_600~TS-B-ID-902~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_691~TS-B-ID-923~NATO military actions in Lithuania~0.006347455957129699~5~Sim0
+Triad_ID_1_692~TS-B-ID-923~Donovian military actions in Lithuania~-1.9968111776223905~5~Sim0
+Triad_ID_1_693~TS-B-ID-923~IDPs migrate to Poland as result of war~-0.9968123792175936~5~Sim0
+Triad_ID_1_694~TS-B-ID-923~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_695~TS-B-ID-923~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_696~TS-B-ID-923~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_583~TS-B-ID-933~NATO military actions in Lithuania~0.006349051146066871~5~Sim0
+Triad_ID_1_584~TS-B-ID-933~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_585~TS-B-ID-933~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_586~TS-B-ID-933~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_587~TS-B-ID-933~Low Morale of Donovian soldiers~-0.9968123776223903~5~Sim0
+Triad_ID_1_588~TS-B-ID-933~Low Morale of Lithuanian civilians~-0.9968123792175936~5~Sim0
+Triad_ID_1_847~TS-B-ID-944~NATO military actions in Lithuania~0.006348267088565963~5~Sim0
+Triad_ID_1_848~TS-B-ID-944~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
+Triad_ID_1_849~TS-B-ID-944~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_850~TS-B-ID-944~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_851~TS-B-ID-944~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_852~TS-B-ID-944~Low Morale of Lithuanian civilians~-0.9968099816175936~5~Sim0
+Triad_ID_1_475~TS-B-ID-948~NATO military actions in Lithuania~0.006349049566752023~5~Sim0
+Triad_ID_1_476~TS-B-ID-948~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_477~TS-B-ID-948~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_478~TS-B-ID-948~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_479~TS-B-ID-948~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_480~TS-B-ID-948~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_889~TS-B-ID-950~NATO military actions in Lithuania~0.006349051146066871~5~Sim0
+Triad_ID_1_890~TS-B-ID-950~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_891~TS-B-ID-950~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_892~TS-B-ID-950~Censorship of media by Donovia~0.0031876223776096~5~Sim0
+Triad_ID_1_893~TS-B-ID-950~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_894~TS-B-ID-950~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_961~TS-B-ID-955~NATO military actions in Lithuania~0.0063482551221307765~5~Sim0
+Triad_ID_1_962~TS-B-ID-955~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_963~TS-B-ID-955~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_964~TS-B-ID-955~Censorship of media by Donovia~0.0031876223776096~5~Sim0
+Triad_ID_1_965~TS-B-ID-955~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_966~TS-B-ID-955~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_601~TS-B-ID-956~NATO military actions in Lithuania~0.006349444790688119~5~Sim0
+Triad_ID_1_602~TS-B-ID-956~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_603~TS-B-ID-956~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_604~TS-B-ID-956~Censorship of media by Donovia~0.0031876223776096~5~Sim0
+Triad_ID_1_605~TS-B-ID-956~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_606~TS-B-ID-956~Low Morale of Lithuanian civilians~-0.9968103816175935~5~Sim0
+Triad_ID_1_1051~TS-B-ID-957~NATO military actions in Lithuania~0.006348655957123306~5~Sim0
+Triad_ID_1_1052~TS-B-ID-957~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_1053~TS-B-ID-957~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_1054~TS-B-ID-957~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_1055~TS-B-ID-957~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_1056~TS-B-ID-957~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_463~TS-B-ID-969~NATO military actions in Lithuania~0.014876667770880472~5~Sim0
+Triad_ID_1_464~TS-B-ID-969~Donovian military actions in Lithuania~-1.9924766871617317~5~Sim0
+Triad_ID_1_465~TS-B-ID-969~IDPs migrate to Poland as result of war~-0.9924758991027263~5~Sim0
+Triad_ID_1_466~TS-B-ID-969~Censorship of media by Donovia~0.007524894516448234~5~Sim0
+Triad_ID_1_467~TS-B-ID-969~Low Morale of Donovian soldiers~-0.9924762975027264~5~Sim0
+Triad_ID_1_468~TS-B-ID-969~Low Morale of Lithuanian civilians~-0.9924770903378018~5~Sim0
+Triad_ID_1_739~TS-B-ID-970~NATO military actions in Lithuania~0.014877877255101212~5~Sim0
+Triad_ID_1_740~TS-B-ID-970~Donovian military actions in Lithuania~-1.9924754911997906~5~Sim0
+Triad_ID_1_741~TS-B-ID-970~IDPs migrate to Poland as result of war~-0.9924762935171102~5~Sim0
+Triad_ID_1_742~TS-B-ID-970~Censorship of media by Donovia~0.007523706440034094~5~Sim0
+Triad_ID_1_743~TS-B-ID-970~Low Morale of Donovian soldiers~-0.992479080809419~5~Sim0
+Triad_ID_1_744~TS-B-ID-970~Low Morale of Lithuanian civilians~-0.9924794863267039~5~Sim0
+Triad_ID_1_217~TS-B-ID-978~NATO military actions in Lithuania~0.006350647166752023~5~Sim0
+Triad_ID_1_218~TS-B-ID-978~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_219~TS-B-ID-978~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_220~TS-B-ID-978~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_221~TS-B-ID-978~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_222~TS-B-ID-978~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_115~TS-B-ID-991~NATO military actions in Lithuania~0.02318526549701579~5~Sim0
+Triad_ID_1_116~TS-B-ID-991~Donovian military actions in Lithuania~-1.9882048824121068~5~Sim0
+Triad_ID_1_117~TS-B-ID-991~IDPs migrate to Poland as result of war~-0.9882013055276434~5~Sim0
+Triad_ID_1_118~TS-B-ID-991~Censorship of media by Donovia~0.011797489854209014~5~Sim0
+Triad_ID_1_119~TS-B-ID-991~Low Morale of Donovian soldiers~-0.9882029141402574~5~Sim0
+Triad_ID_1_120~TS-B-ID-991~Low Morale of Lithuanian civilians~-0.9882009316589478~5~Sim0
+Triad_ID_1_301~TS-B-ID-996~NATO military actions in Lithuania~0.023180134571676805~5~Sim0
+Triad_ID_1_302~TS-B-ID-996~Donovian military actions in Lithuania~-1.9882017086545531~5~Sim0
+Triad_ID_1_303~TS-B-ID-996~IDPs migrate to Poland as result of war~-0.98819972608763~5~Sim0
+Triad_ID_1_304~TS-B-ID-996~Censorship of media by Donovia~0.01179908094886317~5~Sim0
+Triad_ID_1_305~TS-B-ID-996~Low Morale of Donovian soldiers~-0.9882009206255005~5~Sim0
+Triad_ID_1_306~TS-B-ID-996~Low Morale of Lithuanian civilians~-0.9882013078152605~5~Sim0
+Triad_ID_1_247~TS-B-ID-1000~NATO military actions in Lithuania~0.03126466867407973~5~Sim0
+Triad_ID_1_248~TS-B-ID-1000~Donovian military actions in Lithuania~-1.9839838095185875~5~Sim0
+Triad_ID_1_249~TS-B-ID-1000~IDPs migrate to Poland as result of war~-0.9839826298359154~5~Sim0
+Triad_ID_1_250~TS-B-ID-1000~Censorship of media by Donovia~0.01601856577479429~5~Sim0
+Triad_ID_1_251~TS-B-ID-1000~Low Morale of Donovian soldiers~-0.983981420078812~5~Sim0
+Triad_ID_1_252~TS-B-ID-1000~Low Morale of Lithuanian civilians~-0.9839786805675894~5~Sim0
+Triad_ID_1_871~TS-B-ID-1001~NATO military actions in Lithuania~0.006350642390688119~5~Sim0
+Triad_ID_1_872~TS-B-ID-1001~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_873~TS-B-ID-1001~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_874~TS-B-ID-1001~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_875~TS-B-ID-1001~Low Morale of Donovian soldiers~-0.9968119800175936~5~Sim0
+Triad_ID_1_876~TS-B-ID-1001~Low Morale of Lithuanian civilians~-0.9968103816175935~5~Sim0
+Triad_ID_1_187~TS-B-ID-1002~NATO military actions in Lithuania~0.006350243990688119~5~Sim0
+Triad_ID_1_188~TS-B-ID-1002~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_189~TS-B-ID-1002~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_190~TS-B-ID-1002~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_191~TS-B-ID-1002~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_192~TS-B-ID-1002~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_241~TS-B-ID-1006~NATO military actions in Lithuania~0.006349454357129699~5~Sim0
+Triad_ID_1_242~TS-B-ID-1006~Donovian military actions in Lithuania~-1.9968111776223905~5~Sim0
+Triad_ID_1_243~TS-B-ID-1006~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_244~TS-B-ID-1006~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_245~TS-B-ID-1006~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_246~TS-B-ID-1006~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_151~TS-B-ID-1018~NATO military actions in Lithuania~0.014879469890266497~5~Sim0
+Triad_ID_1_152~TS-B-ID-1018~Donovian military actions in Lithuania~-1.992479484747389~5~Sim0
+Triad_ID_1_153~TS-B-ID-1018~IDPs migrate to Poland as result of war~-0.9924778911171102~5~Sim0
+Triad_ID_1_154~TS-B-ID-1018~Censorship of media by Donovia~0.007523710404971329~5~Sim0
+Triad_ID_1_155~TS-B-ID-1018~Low Morale of Donovian soldiers~-0.9924751038787902~5~Sim0
+Triad_ID_1_156~TS-B-ID-1018~Low Morale of Lithuanian civilians~-0.9924782744429425~5~Sim0
+Triad_ID_1_697~TS-B-ID-1036~NATO military actions in Lithuania~0.00635024478589132~5~Sim0
+Triad_ID_1_698~TS-B-ID-1036~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_699~TS-B-ID-1036~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_700~TS-B-ID-1036~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_701~TS-B-ID-1036~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_702~TS-B-ID-1036~Low Morale of Lithuanian civilians~-0.9968103816175935~5~Sim0
+Triad_ID_1_169~TS-B-ID-1056~NATO military actions in Lithuania~0.00634905672689246~5~Sim0
+Triad_ID_1_170~TS-B-ID-1056~Donovian military actions in Lithuania~-1.9968111776223905~5~Sim0
+Triad_ID_1_171~TS-B-ID-1056~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_172~TS-B-ID-1056~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_173~TS-B-ID-1056~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_174~TS-B-ID-1056~Low Morale of Lithuanian civilians~-0.9968123792175936~5~Sim0
+Triad_ID_1_43~TS-B-ID-1068~NATO military actions in Lithuania~0.006348644790688119~5~Sim0
+Triad_ID_1_44~TS-B-ID-1068~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_45~TS-B-ID-1068~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_46~TS-B-ID-1068~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_47~TS-B-ID-1068~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_48~TS-B-ID-1068~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_391~TS-B-ID-1082~NATO military actions in Lithuania~0.014877873274995602~5~Sim0
+Triad_ID_1_392~TS-B-ID-1082~Donovian military actions in Lithuania~-1.9924786855617318~5~Sim0
+Triad_ID_1_393~TS-B-ID-1082~IDPs migrate to Poland as result of war~-0.9924778855473891~5~Sim0
+Triad_ID_1_394~TS-B-ID-1082~Censorship of media by Donovia~0.007522908819348941~5~Sim0
+Triad_ID_1_395~TS-B-ID-1082~Low Morale of Donovian soldiers~-0.9924754991027261~5~Sim0
+Triad_ID_1_396~TS-B-ID-1082~Low Morale of Lithuanian civilians~-0.9924763054644126~5~Sim0
+Triad_ID_1_865~TS-B-ID-1083~NATO military actions in Lithuania~0.014878665133693247~5~Sim0
+Triad_ID_1_866~TS-B-ID-1083~Donovian military actions in Lithuania~-1.992475105483552~5~Sim0
+Triad_ID_1_867~TS-B-ID-1083~IDPs migrate to Poland as result of war~-0.9924782816094128~5~Sim0
+Triad_ID_1_868~TS-B-ID-1083~Censorship of media by Donovia~0.007522117611266081~5~Sim0
+Triad_ID_1_869~TS-B-ID-1083~Low Morale of Donovian soldiers~-0.9924778839617379~5~Sim0
+Triad_ID_1_870~TS-B-ID-1083~Low Morale of Lithuanian civilians~-0.9924758959504073~5~Sim0
+Triad_ID_1_487~TS-B-ID-1094~NATO military actions in Lithuania~0.006349454357129699~5~Sim0
+Triad_ID_1_488~TS-B-ID-1094~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_489~TS-B-ID-1094~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_490~TS-B-ID-1094~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_491~TS-B-ID-1094~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_492~TS-B-ID-1094~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_1063~TS-B-ID-1105~NATO military actions in Lithuania~0.014877090686329706~5~Sim0
+Triad_ID_1_1064~TS-B-ID-1105~Donovian military actions in Lithuania~-1.9924798783983215~5~Sim0
+Triad_ID_1_1065~TS-B-ID-1105~IDPs migrate to Poland as result of war~-0.9924778824189648~5~Sim0
+Triad_ID_1_1066~TS-B-ID-1105~Censorship of media by Donovia~0.007522117628674968~5~Sim0
+Triad_ID_1_1067~TS-B-ID-1105~Low Morale of Donovian soldiers~-0.9924770959551691~5~Sim0
+Triad_ID_1_1068~TS-B-ID-1105~Low Morale of Lithuanian civilians~-0.9924782887743434~5~Sim0
+Triad_ID_1_703~TS-B-ID-1109~NATO military actions in Lithuania~0.006345867902914853~5~Sim0
+Triad_ID_1_704~TS-B-ID-1109~Donovian military actions in Lithuania~-1.9968111776223905~5~Sim0
+Triad_ID_1_705~TS-B-ID-1109~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_706~TS-B-ID-1109~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_707~TS-B-ID-1109~Low Morale of Donovian soldiers~-0.9968127768223903~5~Sim0
+Triad_ID_1_708~TS-B-ID-1109~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_367~TS-B-ID-1112~NATO military actions in Lithuania~0.014878671530314193~5~Sim0
+Triad_ID_1_368~TS-B-ID-1112~Donovian military actions in Lithuania~-1.9924778951234112~5~Sim0
+Triad_ID_1_369~TS-B-ID-1112~IDPs migrate to Poland as result of war~-0.9924762895997905~5~Sim0
+Triad_ID_1_370~TS-B-ID-1112~Censorship of media by Donovia~0.0075232976957630825~5~Sim0
+Triad_ID_1_371~TS-B-ID-1112~Low Morale of Donovian soldiers~-0.9924758927473474~5~Sim0
+Triad_ID_1_372~TS-B-ID-1112~Low Morale of Lithuanian civilians~-0.9924755023042371~5~Sim0
+Triad_ID_1_841~TS-B-ID-1120~NATO military actions in Lithuania~0.0063502495619552225~5~Sim0
+Triad_ID_1_842~TS-B-ID-1120~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_843~TS-B-ID-1120~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_844~TS-B-ID-1120~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_845~TS-B-ID-1120~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_846~TS-B-ID-1120~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_427~TS-B-ID-1121~NATO military actions in Lithuania~0.006349855917333975~5~Sim0
+Triad_ID_1_428~TS-B-ID-1121~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_429~TS-B-ID-1121~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_430~TS-B-ID-1121~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_431~TS-B-ID-1121~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_432~TS-B-ID-1121~Low Morale of Lithuanian civilians~-0.9968123792175936~5~Sim0
+Triad_ID_1_985~TS-B-ID-1130~NATO military actions in Lithuania~0.023184105900882785~5~Sim0
+Triad_ID_1_986~TS-B-ID-1130~Donovian military actions in Lithuania~-1.9882017055229453~5~Sim0
+Triad_ID_1_987~TS-B-ID-1130~IDPs migrate to Poland as result of war~-0.9882012912942884~5~Sim0
+Triad_ID_1_988~TS-B-ID-1130~Censorship of media by Donovia~0.011799885830748561~5~Sim0
+Triad_ID_1_989~TS-B-ID-1130~Low Morale of Donovian soldiers~-0.9882005173750976~5~Sim0
+Triad_ID_1_990~TS-B-ID-1130~Low Morale of Lithuanian civilians~-0.9881993379243991~5~Sim0
+Triad_ID_1_511~TS-B-ID-1137~NATO military actions in Lithuania~0.0063502487715137055~5~Sim0
+Triad_ID_1_512~TS-B-ID-1137~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_513~TS-B-ID-1137~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_514~TS-B-ID-1137~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_515~TS-B-ID-1137~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_516~TS-B-ID-1137~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_421~TS-B-ID-1141~NATO military actions in Lithuania~0.014879829707654441~5~Sim0
+Triad_ID_1_422~TS-B-ID-1141~Donovian military actions in Lithuania~-1.9924770903378017~5~Sim0
+Triad_ID_1_423~TS-B-ID-1141~IDPs migrate to Poland as result of war~-0.9924774776333551~5~Sim0
+Triad_ID_1_424~TS-B-ID-1141~Censorship of media by Donovia~0.00752250410682591~5~Sim0
+Triad_ID_1_425~TS-B-ID-1141~Low Morale of Donovian soldiers~-0.9924770999090339~5~Sim0
+Triad_ID_1_426~TS-B-ID-1141~Low Morale of Lithuanian civilians~-0.9924763054644126~5~Sim0
+Triad_ID_1_1009~TS-B-ID-1145~NATO military actions in Lithuania~0.006346661533193604~5~Sim0
+Triad_ID_1_1010~TS-B-ID-1145~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_1011~TS-B-ID-1145~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_1012~TS-B-ID-1145~Censorship of media by Donovia~0.0031896183824064003~5~Sim0
+Triad_ID_1_1013~TS-B-ID-1145~Low Morale of Donovian soldiers~-0.9968123792175936~5~Sim0
+Triad_ID_1_1014~TS-B-ID-1145~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_1027~TS-B-ID-1171~NATO military actions in Lithuania~0.006348646385891319~5~Sim0
+Triad_ID_1_1028~TS-B-ID-1171~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_1029~TS-B-ID-1171~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_1030~TS-B-ID-1171~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_1031~TS-B-ID-1171~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_1032~TS-B-ID-1171~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_973~TS-B-ID-1181~NATO military actions in Lithuania~0.006347468688565963~5~Sim0
+Triad_ID_1_974~TS-B-ID-1181~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_975~TS-B-ID-1181~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_976~TS-B-ID-1181~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_977~TS-B-ID-1181~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_978~TS-B-ID-1181~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_859~TS-B-ID-1189~NATO military actions in Lithuania~0.0063466679029148525~5~Sim0
+Triad_ID_1_860~TS-B-ID-1189~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_861~TS-B-ID-1189~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_862~TS-B-ID-1189~Censorship of media by Donovia~0.0031888223776096003~5~Sim0
+Triad_ID_1_863~TS-B-ID-1189~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_864~TS-B-ID-1189~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_493~TS-B-ID-1193~NATO military actions in Lithuania~0.006348250371513706~5~Sim0
+Triad_ID_1_494~TS-B-ID-1193~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_495~TS-B-ID-1193~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_496~TS-B-ID-1193~Censorship of media by Donovia~0.0031884207824064~5~Sim0
+Triad_ID_1_497~TS-B-ID-1193~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_498~TS-B-ID-1193~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_415~TS-B-ID-1201~NATO military actions in Lithuania~0.0063466663236000035~5~Sim0
+Triad_ID_1_416~TS-B-ID-1201~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
+Triad_ID_1_417~TS-B-ID-1201~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_418~TS-B-ID-1201~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_419~TS-B-ID-1201~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_420~TS-B-ID-1201~Low Morale of Lithuanian civilians~-0.9968123776223903~5~Sim0
+Triad_ID_1_547~TS-B-ID-1207~NATO military actions in Lithuania~0.006349450371513706~5~Sim0
+Triad_ID_1_548~TS-B-ID-1207~Donovian military actions in Lithuania~-1.9968111776223905~5~Sim0
+Triad_ID_1_549~TS-B-ID-1207~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_550~TS-B-ID-1207~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_551~TS-B-ID-1207~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_552~TS-B-ID-1207~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_13~TS-B-ID-1216~NATO military actions in Lithuania~0.006348650346066871~5~Sim0
+Triad_ID_1_14~TS-B-ID-1216~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_15~TS-B-ID-1216~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_16~TS-B-ID-1216~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_17~TS-B-ID-1216~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_18~TS-B-ID-1216~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_445~TS-B-ID-1218~NATO military actions in Lithuania~0.014875092922723382~5~Sim0
+Triad_ID_1_446~TS-B-ID-1218~Donovian military actions in Lithuania~-1.992477891180651~5~Sim0
+Triad_ID_1_447~TS-B-ID-1218~IDPs migrate to Poland as result of war~-0.9924767023042371~5~Sim0
+Triad_ID_1_448~TS-B-ID-1218~Censorship of media by Donovia~0.007522509652652575~5~Sim0
+Triad_ID_1_449~TS-B-ID-1218~Low Morale of Donovian soldiers~-0.992477883974385~5~Sim0
+Triad_ID_1_450~TS-B-ID-1218~Low Morale of Lithuanian civilians~-0.99247789433297~5~Sim0
+Triad_ID_1_139~TS-B-ID-1249~NATO military actions in Lithuania~0.006346263133187211~5~Sim0
+Triad_ID_1_140~TS-B-ID-1249~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_141~TS-B-ID-1249~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_142~TS-B-ID-1249~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_143~TS-B-ID-1249~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_144~TS-B-ID-1249~Low Morale of Lithuanian civilians~-0.9968127768223903~5~Sim0
+Triad_ID_1_505~TS-B-ID-1253~NATO military actions in Lithuania~0.014878643006633803~5~Sim0
+Triad_ID_1_506~TS-B-ID-1253~Donovian military actions in Lithuania~-1.992479083961738~5~Sim0
+Triad_ID_1_507~TS-B-ID-1253~IDPs migrate to Poland as result of war~-0.9924782879378018~5~Sim0
+Triad_ID_1_508~TS-B-ID-1253~Censorship of media by Donovia~0.007520127157057626~5~Sim0
+Triad_ID_1_509~TS-B-ID-1253~Low Morale of Donovian soldiers~-0.9924774792190064~5~Sim0
+Triad_ID_1_510~TS-B-ID-1253~Low Morale of Lithuanian civilians~-0.9924774967281731~5~Sim0
+Triad_ID_1_751~TS-B-ID-1274~NATO military actions in Lithuania~0.02318328938499088~5~Sim0
+Triad_ID_1_752~TS-B-ID-1274~Donovian military actions in Lithuania~-1.9881997189894691~5~Sim0
+Triad_ID_1_753~TS-B-ID-1274~IDPs migrate to Poland as result of war~-0.9882020966774814~5~Sim0
+Triad_ID_1_754~TS-B-ID-1274~Censorship of media by Donovia~0.011799077227344653~5~Sim0
+Triad_ID_1_755~TS-B-ID-1274~Low Morale of Donovian soldiers~-0.9881997308971054~5~Sim0
+Triad_ID_1_756~TS-B-ID-1274~Low Morale of Lithuanian civilians~-0.9882020880326552~5~Sim0
+Triad_ID_1_1039~TS-B-ID-1280~NATO military actions in Lithuania~0.006349444790688119~5~Sim0
+Triad_ID_1_1040~TS-B-ID-1280~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_1041~TS-B-ID-1280~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_1042~TS-B-ID-1280~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_1043~TS-B-ID-1280~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_1044~TS-B-ID-1280~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_733~TS-B-ID-1282~NATO military actions in Lithuania~0.006347468688565963~5~Sim0
+Triad_ID_1_734~TS-B-ID-1282~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_735~TS-B-ID-1282~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_736~TS-B-ID-1282~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_737~TS-B-ID-1282~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_738~TS-B-ID-1282~Low Morale of Lithuanian civilians~-0.9968107792223904~5~Sim0
+Triad_ID_1_835~TS-B-ID-1284~NATO military actions in Lithuania~0.006349850346066872~5~Sim0
+Triad_ID_1_836~TS-B-ID-1284~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_837~TS-B-ID-1284~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_838~TS-B-ID-1284~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_839~TS-B-ID-1284~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_840~TS-B-ID-1284~Low Morale of Lithuanian civilians~-0.9968099816175936~5~Sim0
+Triad_ID_1_439~TS-B-ID-1320~NATO military actions in Lithuania~0.023185280487612335~5~Sim0
+Triad_ID_1_440~TS-B-ID-1320~Donovian military actions in Lithuania~-1.9882020943517134~5~Sim0
+Triad_ID_1_441~TS-B-ID-1320~IDPs migrate to Poland as result of war~-0.9882048855330281~5~Sim0
+Triad_ID_1_442~TS-B-ID-1320~Censorship of media by Donovia~0.011798302400903323~5~Sim0
+Triad_ID_1_443~TS-B-ID-1320~Low Morale of Donovian soldiers~-0.9882017212219014~5~Sim0
+Triad_ID_1_444~TS-B-ID-1320~Low Morale of Lithuanian civilians~-0.988198536471736~5~Sim0
+Triad_ID_1_589~TS-B-ID-1329~NATO military actions in Lithuania~0.014879842334149688~5~Sim0
+Triad_ID_1_590~TS-B-ID-1329~Donovian military actions in Lithuania~-1.9924770983360303~5~Sim0
+Triad_ID_1_591~TS-B-ID-1329~IDPs migrate to Poland as result of war~-0.9924775006883487~5~Sim0
+Triad_ID_1_592~TS-B-ID-1329~Censorship of media by Donovia~0.007524496121209917~5~Sim0
+Triad_ID_1_593~TS-B-ID-1329~Low Morale of Donovian soldiers~-0.9924767006883487~5~Sim0
+Triad_ID_1_594~TS-B-ID-1329~Low Morale of Lithuanian civilians~-0.9924770951234116~5~Sim0
+Triad_ID_1_1~TS-B-ID-1341~NATO military actions in Lithuania~0.023184848515396317~5~Sim0
+Triad_ID_1_2~TS-B-ID-1341~Donovian military actions in Lithuania~-1.988199743568721~5~Sim0
+Triad_ID_1_3~TS-B-ID-1341~IDPs migrate to Poland as result of war~-0.9882017109058472~5~Sim0
+Triad_ID_1_4~TS-B-ID-1341~Censorship of media by Donovia~0.011799484264195314~5~Sim0
+Triad_ID_1_5~TS-B-ID-1341~Low Morale of Donovian soldiers~-0.9882024816660926~5~Sim0
+Triad_ID_1_6~TS-B-ID-1341~Low Morale of Lithuanian civilians~-0.9882020999069026~5~Sim0
+Triad_ID_1_937~TS-B-ID-1357~NATO military actions in Lithuania~0.006345866323600004~5~Sim0
+Triad_ID_1_938~TS-B-ID-1357~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_939~TS-B-ID-1357~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_940~TS-B-ID-1357~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_941~TS-B-ID-1357~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_942~TS-B-ID-1357~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_373~TS-B-ID-1360~NATO military actions in Lithuania~0.023178577076024193~5~Sim0
+Triad_ID_1_374~TS-B-ID-1360~Donovian military actions in Lithuania~-1.9882009203631958~5~Sim0
+Triad_ID_1_375~TS-B-ID-1360~IDPs migrate to Poland as result of war~-0.9882001418817585~5~Sim0
+Triad_ID_1_376~TS-B-ID-1360~Censorship of media by Donovia~0.011795120733907523~5~Sim0
+Triad_ID_1_377~TS-B-ID-1360~Low Morale of Donovian soldiers~-0.9882021244056671~5~Sim0
+Triad_ID_1_378~TS-B-ID-1360~Low Morale of Lithuanian civilians~-0.9881997181248178~5~Sim0
+Triad_ID_1_565~TS-B-ID-1361~NATO military actions in Lithuania~0.006348251146066871~5~Sim0
+Triad_ID_1_566~TS-B-ID-1361~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_567~TS-B-ID-1361~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_568~TS-B-ID-1361~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_569~TS-B-ID-1361~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_570~TS-B-ID-1361~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_337~TS-B-ID-1368~NATO military actions in Lithuania~0.006348262312502059~5~Sim0
+Triad_ID_1_338~TS-B-ID-1368~Donovian military actions in Lithuania~-1.9968115792175938~5~Sim0
+Triad_ID_1_339~TS-B-ID-1368~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_340~TS-B-ID-1368~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_341~TS-B-ID-1368~Low Morale of Donovian soldiers~-0.9968103816175935~5~Sim0
+Triad_ID_1_342~TS-B-ID-1368~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_451~TS-B-ID-1373~NATO military actions in Lithuania~0.006348257526892459~5~Sim0
+Triad_ID_1_452~TS-B-ID-1373~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_453~TS-B-ID-1373~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_454~TS-B-ID-1373~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_455~TS-B-ID-1373~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_456~TS-B-ID-1373~Low Morale of Lithuanian civilians~-0.9968103816175935~5~Sim0
+Triad_ID_1_619~TS-B-ID-1375~NATO military actions in Lithuania~0.0063486623125020595~5~Sim0
+Triad_ID_1_620~TS-B-ID-1375~Donovian military actions in Lithuania~-1.9968119800175939~5~Sim0
+Triad_ID_1_621~TS-B-ID-1375~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_622~TS-B-ID-1375~Censorship of media by Donovia~0.0031892207776096~5~Sim0
+Triad_ID_1_623~TS-B-ID-1375~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_624~TS-B-ID-1375~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_499~TS-B-ID-1381~NATO military actions in Lithuania~0.0063470647125020594~5~Sim0
+Triad_ID_1_500~TS-B-ID-1381~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_501~TS-B-ID-1381~IDPs migrate to Poland as result of war~-0.9968119768223903~5~Sim0
+Triad_ID_1_502~TS-B-ID-1381~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_503~TS-B-ID-1381~Low Morale of Donovian soldiers~-0.9968123776223903~5~Sim0
+Triad_ID_1_504~TS-B-ID-1381~Low Morale of Lithuanian civilians~-0.9968119800175936~5~Sim0
+Triad_ID_1_145~TS-B-ID-1382~NATO military actions in Lithuania~0.014878295896433458~5~Sim0
+Triad_ID_1_146~TS-B-ID-1382~Donovian military actions in Lithuania~-1.9924782744429428~5~Sim0
+Triad_ID_1_147~TS-B-ID-1382~IDPs migrate to Poland as result of war~-0.9924786895377955~5~Sim0
+Triad_ID_1_148~TS-B-ID-1382~Censorship of media by Donovia~0.007523308062204664~5~Sim0
+Triad_ID_1_149~TS-B-ID-1382~Low Morale of Donovian soldiers~-0.992479483161738~5~Sim0
+Triad_ID_1_150~TS-B-ID-1382~Low Morale of Lithuanian civilians~-0.9924786768333489~5~Sim0
+Triad_ID_1_55~TS-B-ID-1384~NATO military actions in Lithuania~0.006346267888572357~5~Sim0
+Triad_ID_1_56~TS-B-ID-1384~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_57~TS-B-ID-1384~IDPs migrate to Poland as result of war~-0.9968107792223904~5~Sim0
+Triad_ID_1_58~TS-B-ID-1384~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_59~TS-B-ID-1384~Low Morale of Donovian soldiers~-0.9968107800175936~5~Sim0
+Triad_ID_1_60~TS-B-ID-1384~Low Morale of Lithuanian civilians~-0.9968103792223904~5~Sim0
+Triad_ID_1_277~TS-B-ID-1387~NATO military actions in Lithuania~0.006350642390688119~5~Sim0
+Triad_ID_1_278~TS-B-ID-1387~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_279~TS-B-ID-1387~IDPs migrate to Poland as result of war~-0.9968099816175936~5~Sim0
+Triad_ID_1_280~TS-B-ID-1387~Censorship of media by Donovia~0.0031900183824064~5~Sim0
+Triad_ID_1_281~TS-B-ID-1387~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_282~TS-B-ID-1387~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_553~TS-B-ID-1402~NATO military actions in Lithuania~0.02317970500657651~5~Sim0
+Triad_ID_1_554~TS-B-ID-1402~Donovian military actions in Lithuania~-1.988202118858317~5~Sim0
+Triad_ID_1_555~TS-B-ID-1402~IDPs migrate to Poland as result of war~-0.9882005110071989~5~Sim0
+Triad_ID_1_556~TS-B-ID-1402~Censorship of media by Donovia~0.011799893612360262~5~Sim0
+Triad_ID_1_557~TS-B-ID-1402~Low Morale of Donovian soldiers~-0.9882013150603887~5~Sim0
+Triad_ID_1_558~TS-B-ID-1402~Low Morale of Lithuanian civilians~-0.9881989293290679~5~Sim0
+Triad_ID_1_355~TS-B-ID-1405~NATO military actions in Lithuania~0.014877861536766578~5~Sim0
+Triad_ID_1_356~TS-B-ID-1405~Donovian military actions in Lithuania~-1.992477085588728~5~Sim0
+Triad_ID_1_357~TS-B-ID-1405~IDPs migrate to Poland as result of war~-0.9924790783983211~5~Sim0
+Triad_ID_1_358~TS-B-ID-1405~Censorship of media by Donovia~0.00752529213558753~5~Sim0
+Triad_ID_1_359~TS-B-ID-1405~Low Morale of Donovian soldiers~-0.9924774991090338~5~Sim0
+Triad_ID_1_360~TS-B-ID-1405~Low Morale of Lithuanian civilians~-0.9924782958931743~5~Sim0
+Triad_ID_1_61~TS-B-ID-1412~NATO military actions in Lithuania~0.006347062302956362~5~Sim0
+Triad_ID_1_62~TS-B-ID-1412~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_63~TS-B-ID-1412~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_64~TS-B-ID-1412~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_65~TS-B-ID-1412~Low Morale of Donovian soldiers~-0.9968111776223902~5~Sim0
+Triad_ID_1_66~TS-B-ID-1412~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_643~TS-B-ID-1414~NATO military actions in Lithuania~0.014879461356608134~5~Sim0
+Triad_ID_1_644~TS-B-ID-1414~Donovian military actions in Lithuania~-1.9924751023312333~5~Sim0
+Triad_ID_1_645~TS-B-ID-1414~IDPs migrate to Poland as result of war~-0.9924770919171102~5~Sim0
+Triad_ID_1_646~TS-B-ID-1414~Censorship of media by Donovia~0.007522505649592577~5~Sim0
+Triad_ID_1_647~TS-B-ID-1414~Low Morale of Donovian soldiers~-0.9924774975360297~5~Sim0
+Triad_ID_1_648~TS-B-ID-1414~Low Morale of Lithuanian civilians~-0.9924758927473474~5~Sim0
+Triad_ID_1_109~TS-B-ID-1425~NATO military actions in Lithuania~0.006348260733193604~5~Sim0
+Triad_ID_1_110~TS-B-ID-1425~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_111~TS-B-ID-1425~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_112~TS-B-ID-1425~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_113~TS-B-ID-1425~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_114~TS-B-ID-1425~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_235~TS-B-ID-1437~NATO military actions in Lithuania~0.006349455917333976~5~Sim0
+Triad_ID_1_236~TS-B-ID-1437~Donovian military actions in Lithuania~-1.9968099816175937~5~Sim0
+Triad_ID_1_237~TS-B-ID-1437~IDPs migrate to Poland as result of war~-0.9968103792223904~5~Sim0
+Triad_ID_1_238~TS-B-ID-1437~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_239~TS-B-ID-1437~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_240~TS-B-ID-1437~Low Morale of Lithuanian civilians~-0.9968103816175935~5~Sim0
+Triad_ID_1_469~TS-B-ID-1438~NATO military actions in Lithuania~0.006349848771513705~5~Sim0
+Triad_ID_1_470~TS-B-ID-1438~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_471~TS-B-ID-1438~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_472~TS-B-ID-1438~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_473~TS-B-ID-1438~Low Morale of Donovian soldiers~-0.9968119800175936~5~Sim0
+Triad_ID_1_474~TS-B-ID-1438~Low Morale of Lithuanian civilians~-0.9968107800175936~5~Sim0
+Triad_ID_1_385~TS-B-ID-1442~NATO military actions in Lithuania~0.006348252741270073~5~Sim0
+Triad_ID_1_386~TS-B-ID-1442~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_387~TS-B-ID-1442~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_388~TS-B-ID-1442~Censorship of media by Donovia~0.0031872231776096~5~Sim0
+Triad_ID_1_389~TS-B-ID-1442~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_390~TS-B-ID-1442~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_763~TS-B-ID-1484~NATO military actions in Lithuania~0.014877867788439164~5~Sim0
+Triad_ID_1_764~TS-B-ID-1484~Donovian military actions in Lithuania~-1.9924774919027677~5~Sim0
+Triad_ID_1_765~TS-B-ID-1484~IDPs migrate to Poland as result of war~-0.9924771014883486~5~Sim0
+Triad_ID_1_766~TS-B-ID-1484~Censorship of media by Donovia~0.007520523166651226~5~Sim0
+Triad_ID_1_767~TS-B-ID-1484~Low Morale of Donovian soldiers~-0.9924774887267038~5~Sim0
+Triad_ID_1_768~TS-B-ID-1484~Low Morale of Lithuanian civilians~-0.992475897528173~5~Sim0
+Triad_ID_1_517~TS-B-ID-1487~NATO military actions in Lithuania~0.023181694867652158~5~Sim0
+Triad_ID_1_518~TS-B-ID-1487~Donovian military actions in Lithuania~-1.988202905383728~5~Sim0
+Triad_ID_1_519~TS-B-ID-1487~IDPs migrate to Poland as result of war~-0.9882009355452743~5~Sim0
+Triad_ID_1_520~TS-B-ID-1487~Censorship of media by Donovia~0.011799889743612237~5~Sim0
+Triad_ID_1_521~TS-B-ID-1487~Low Morale of Donovian soldiers~-0.9882052705661382~5~Sim0
+Triad_ID_1_522~TS-B-ID-1487~Low Morale of Lithuanian civilians~-0.9882028944211982~5~Sim0
+Triad_ID_1_907~TS-B-ID-1499~NATO military actions in Lithuania~0.006349846385891318~5~Sim0
+Triad_ID_1_908~TS-B-ID-1499~Donovian military actions in Lithuania~-1.9968123776223905~5~Sim0
+Triad_ID_1_909~TS-B-ID-1499~IDPs migrate to Poland as result of war~-0.9968123776223903~5~Sim0
+Triad_ID_1_910~TS-B-ID-1499~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_911~TS-B-ID-1499~Low Morale of Donovian soldiers~-0.9968119800175936~5~Sim0
+Triad_ID_1_912~TS-B-ID-1499~Low Morale of Lithuanian civilians~-0.9968119768223903~5~Sim0
+Triad_ID_1_799~TS-B-ID-1510~NATO military actions in Lithuania~0.006345867902914853~5~Sim0
+Triad_ID_1_800~TS-B-ID-1510~Donovian military actions in Lithuania~-1.9968107800175938~5~Sim0
+Triad_ID_1_801~TS-B-ID-1510~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_802~TS-B-ID-1510~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_803~TS-B-ID-1510~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_804~TS-B-ID-1510~Low Morale of Lithuanian civilians~-0.9968115792175937~5~Sim0
+Triad_ID_1_1075~TS-B-ID-1516~NATO military actions in Lithuania~0.006347855922130776~5~Sim0
+Triad_ID_1_1076~TS-B-ID-1516~Donovian military actions in Lithuania~-1.9968107792223906~5~Sim0
+Triad_ID_1_1077~TS-B-ID-1516~IDPs migrate to Poland as result of war~-0.9968107800175936~5~Sim0
+Triad_ID_1_1078~TS-B-ID-1516~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_1079~TS-B-ID-1516~Low Morale of Donovian soldiers~-0.9968099816175936~5~Sim0
+Triad_ID_1_1080~TS-B-ID-1516~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_1033~TS-B-ID-1535~NATO military actions in Lithuania~0.006347867088572358~5~Sim0
+Triad_ID_1_1034~TS-B-ID-1535~Donovian military actions in Lithuania~-1.9968119768223904~5~Sim0
+Triad_ID_1_1035~TS-B-ID-1535~IDPs migrate to Poland as result of war~-0.9968115792175937~5~Sim0
+Triad_ID_1_1036~TS-B-ID-1535~Censorship of media by Donovia~0.0031896207776096006~5~Sim0
+Triad_ID_1_1037~TS-B-ID-1535~Low Morale of Donovian soldiers~-0.9968119768223903~5~Sim0
+Triad_ID_1_1038~TS-B-ID-1535~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_457~TS-B-ID-1540~NATO military actions in Lithuania~0.00634904399068812~5~Sim0
+Triad_ID_1_458~TS-B-ID-1540~Donovian military actions in Lithuania~-1.9968103792223906~5~Sim0
+Triad_ID_1_459~TS-B-ID-1540~IDPs migrate to Poland as result of war~-0.9968103816175935~5~Sim0
+Triad_ID_1_460~TS-B-ID-1540~Censorship of media by Donovia~0.0031876207824063996~5~Sim0
+Triad_ID_1_461~TS-B-ID-1540~Low Morale of Donovian soldiers~-0.9968103792223904~5~Sim0
+Triad_ID_1_462~TS-B-ID-1540~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_655~TS-B-ID-1541~NATO military actions in Lithuania~0.014876307046549995~5~Sim0
+Triad_ID_1_656~TS-B-ID-1541~Donovian military actions in Lithuania~-1.9924798783983215~5~Sim0
+Triad_ID_1_657~TS-B-ID-1541~IDPs migrate to Poland as result of war~-0.9924786855617314~5~Sim0
+Triad_ID_1_658~TS-B-ID-1541~Censorship of media by Donovia~0.007522914425614971~5~Sim0
+Triad_ID_1_659~TS-B-ID-1541~Low Morale of Donovian soldiers~-0.992477495155169~5~Sim0
+Triad_ID_1_660~TS-B-ID-1541~Low Morale of Lithuanian civilians~-0.9924774871647977~5~Sim0
+Triad_ID_1_229~TS-B-ID-1550~NATO military actions in Lithuania~0.006348252741270073~5~Sim0
+Triad_ID_1_230~TS-B-ID-1550~Donovian military actions in Lithuania~-1.9968103816175937~5~Sim0
+Triad_ID_1_231~TS-B-ID-1550~IDPs migrate to Poland as result of war~-0.9968111776223902~5~Sim0
+Triad_ID_1_232~TS-B-ID-1550~Censorship of media by Donovia~0.0031880231776095997~5~Sim0
+Triad_ID_1_233~TS-B-ID-1550~Low Morale of Donovian soldiers~-0.9968107792223904~5~Sim0
+Triad_ID_1_234~TS-B-ID-1550~Low Morale of Lithuanian civilians~-0.9968111776223902~5~Sim0
+Triad_ID_1_637~TS-Arvydas Sabonis~NATO military actions in Lithuania~0.006350251141270072~5~Sim0
+Triad_ID_1_638~TS-Arvydas Sabonis~Donovian military actions in Lithuania~-1.9968123792175938~5~Sim0
+Triad_ID_1_639~TS-Arvydas Sabonis~IDPs migrate to Poland as result of war~-0.9968127768223903~5~Sim0
+Triad_ID_1_640~TS-Arvydas Sabonis~Censorship of media by Donovia~0.0031880199824064~5~Sim0
+Triad_ID_1_641~TS-Arvydas Sabonis~Low Morale of Donovian soldiers~-0.9968115792175937~5~Sim0
+Triad_ID_1_642~TS-Arvydas Sabonis~Low Morale of Lithuanian civilians~-0.9968123792175936~5~Sim0
+Triad_ID_1_625~TS-Austeja Landsbergiene~NATO military actions in Lithuania~0.06026009640041649~5~Sim0
+Triad_ID_1_626~TS-Austeja Landsbergiene~Donovian military actions in Lithuania~-1.9683746187267934~5~Sim0
+Triad_ID_1_627~TS-Austeja Landsbergiene~IDPs migrate to Poland as result of war~-0.9683714585442549~5~Sim0
+Triad_ID_1_628~TS-Austeja Landsbergiene~Censorship of media by Donovia~0.03162764828482968~5~Sim0
+Triad_ID_1_629~TS-Austeja Landsbergiene~Low Morale of Donovian soldiers~-0.9683692390862805~5~Sim0
+Triad_ID_1_630~TS-Austeja Landsbergiene~Low Morale of Lithuanian civilians~-0.9683722899022731~5~Sim0
+Triad_ID_2_1~TS-Viktorija Smilyte-Nielsen~NATO military actions in Lithuania~0.13613193495124135~5~Sim0
+Triad_ID_2_2~TS-Viktorija Smilyte-Nielsen~Donovian military actions in Lithuania~-1.8811819278038813~5~Sim0
+Triad_ID_2_3~TS-Viktorija Smilyte-Nielsen~IDPs migrate to Poland as result of war~-0.8811787622826065~5~Sim0
+Triad_ID_2_4~TS-Viktorija Smilyte-Nielsen~Censorship of media by Donovia~0.11882230295557336~5~Sim0
+Triad_ID_2_5~TS-Viktorija Smilyte-Nielsen~Low Morale of Donovian soldiers~-0.8811764999954854~5~Sim0
+Triad_ID_2_6~TS-Viktorija Smilyte-Nielsen~Low Morale of Lithuanian civilians~-0.8811838749457127~5~Sim0
+Triad_ID_2_43~TS-Simonas Gurevicius~NATO military actions in Lithuania~0.13613329174334193~5~Sim0
+Triad_ID_2_44~TS-Simonas Gurevicius~Donovian military actions in Lithuania~-1.88118267260824~5~Sim0
+Triad_ID_2_45~TS-Simonas Gurevicius~IDPs migrate to Poland as result of war~-0.8811811593103993~5~Sim0
+Triad_ID_2_46~TS-Simonas Gurevicius~Censorship of media by Donovia~0.11881960615276826~5~Sim0
+Triad_ID_2_47~TS-Simonas Gurevicius~Low Morale of Donovian soldiers~-0.8811788188174865~5~Sim0
+Triad_ID_2_48~TS-Simonas Gurevicius~Low Morale of Lithuanian civilians~-0.8811779842662807~5~Sim0
+Triad_ID_1_295~TS-Bishop K?stutis K?valas CATH~NATO military actions in Lithuania~0.022441754281390305~5~Sim0
+Triad_ID_1_296~TS-Bishop K?stutis K?valas CATH~Donovian military actions in Lithuania~-1.9885832297397976~5~Sim0
+Triad_ID_1_297~TS-Bishop K?stutis K?valas CATH~IDPs migrate to Poland as result of war~-0.9885851964229627~5~Sim0
+Triad_ID_1_298~TS-Bishop K?stutis K?valas CATH~Censorship of media by Donovia~0.011414787587455585~5~Sim0
+Triad_ID_1_299~TS-Bishop K?stutis K?valas CATH~Low Morale of Donovian soldiers~-0.9885859942661763~5~Sim0
+Triad_ID_1_300~TS-Bishop K?stutis K?valas CATH~Low Morale of Lithuanian civilians~-0.9885847854336115~5~Sim0
+Triad_ID_2_25~TS-Saulius Andrasi?nas~NATO military actions in Lithuania~0.13613021347168625~5~Sim0
+Triad_ID_2_26~TS-Saulius Andrasi?nas~Donovian military actions in Lithuania~-1.881178064549726~5~Sim0
+Triad_ID_2_27~TS-Saulius Andrasi?nas~IDPs migrate to Poland as result of war~-0.8811812236510445~5~Sim0
+Triad_ID_2_28~TS-Saulius Andrasi?nas~Censorship of media by Donovia~0.11881810878297207~5~Sim0
+Triad_ID_2_29~TS-Saulius Andrasi?nas~Low Morale of Donovian soldiers~-0.8811807475860879~5~Sim0
+Triad_ID_2_30~TS-Saulius Andrasi?nas~Low Morale of Lithuanian civilians~-0.881183098913042~5~Sim0
+Triad_ID_1_289~TS-Sonata Patkauskait?~NATO military actions in Lithuania~0.060257069199424355~5~Sim0
+Triad_ID_1_290~TS-Sonata Patkauskait?~Donovian military actions in Lithuania~-1.9683703524713811~5~Sim0
+Triad_ID_1_291~TS-Sonata Patkauskait?~IDPs migrate to Poland as result of war~-0.9683680515908998~5~Sim0
+Triad_ID_1_292~TS-Sonata Patkauskait?~Censorship of media by Donovia~0.03162724365902375~5~Sim0
+Triad_ID_1_293~TS-Sonata Patkauskait?~Low Morale of Donovian soldiers~-0.9683723379300316~5~Sim0
+Triad_ID_1_294~TS-Sonata Patkauskait?~Low Morale of Lithuanian civilians~-0.9683664747374634~5~Sim0
+Triad_ID_1_163~TS-Edvinas Regelskis~NATO military actions in Lithuania~0.06025706606253255~5~Sim0
+Triad_ID_1_164~TS-Edvinas Regelskis~Donovian military actions in Lithuania~-1.9683718687022793~5~Sim0
+Triad_ID_1_165~TS-Edvinas Regelskis~IDPs migrate to Poland as result of war~-0.9683711649877647~5~Sim0
+Triad_ID_1_166~TS-Edvinas Regelskis~Censorship of media by Donovia~0.031626528812811736~5~Sim0
+Triad_ID_1_167~TS-Edvinas Regelskis~Low Morale of Donovian soldiers~-0.9683754456640586~5~Sim0
+Triad_ID_1_168~TS-Edvinas Regelskis~Low Morale of Lithuanian civilians~-0.968375838208792~5~Sim0
+Triad_ID_1_721~TS-Gintare Guzevi?i?t?~NATO military actions in Lithuania~0.06026057081313252~5~Sim0
+Triad_ID_1_722~TS-Gintare Guzevi?i?t?~Donovian military actions in Lithuania~-1.968373922360951~5~Sim0
+Triad_ID_1_723~TS-Gintare Guzevi?i?t?~IDPs migrate to Poland as result of war~-0.9683735248386319~5~Sim0
+Triad_ID_1_724~TS-Gintare Guzevi?i?t?~Censorship of media by Donovia~0.03163036764438663~5~Sim0
+Triad_ID_1_725~TS-Gintare Guzevi?i?t?~Low Morale of Donovian soldiers~-0.9683785763901551~5~Sim0
+Triad_ID_1_726~TS-Gintare Guzevi?i?t?~Low Morale of Lithuanian civilians~-0.9683715255898732~5~Sim0
+Triad_ID_2_37~TS-Edita Baniene~NATO military actions in Lithuania~0.13613043320317908~5~Sim0
+Triad_ID_2_38~TS-Edita Baniene~Donovian military actions in Lithuania~-1.881180762101547~5~Sim0
+Triad_ID_2_39~TS-Edita Baniene~IDPs migrate to Poland as result of war~-0.8811811132191385~5~Sim0
+Triad_ID_2_40~TS-Edita Baniene~Censorship of media by Donovia~0.11881807636757317~5~Sim0
+Triad_ID_2_41~TS-Edita Baniene~Low Morale of Donovian soldiers~-0.8811783300628929~5~Sim0
+Triad_ID_2_42~TS-Edita Baniene~Low Morale of Lithuanian civilians~-0.8811802760216946~5~Sim0
+Triad_ID_2_7~TS-Father James Karklys ROC~NATO military actions in Lithuania~0.10981014648234186~5~Sim0
+Triad_ID_2_8~TS-Father James Karklys ROC~Donovian military actions in Lithuania~-1.8950477139868114~5~Sim0
+Triad_ID_2_9~TS-Father James Karklys ROC~IDPs migrate to Poland as result of war~-0.8950441307484561~5~Sim0
+Triad_ID_2_10~TS-Father James Karklys ROC~Censorship of media by Donovia~0.10495467882278241~5~Sim0
+Triad_ID_2_11~TS-Father James Karklys ROC~Low Morale of Donovian soldiers~-0.8950453251628335~5~Sim0
+Triad_ID_2_12~TS-Father James Karklys ROC~Low Morale of Lithuanian civilians~-0.8950461299388975~5~Sim0
+Triad_ID_1_121~TS-Archbishop Innokenty of Vilnius ROC~NATO military actions in Lithuania~0.014877463858980679~5~Sim0
+Triad_ID_1_122~TS-Archbishop Innokenty of Vilnius ROC~Donovian military actions in Lithuania~-1.9924755038787902~5~Sim0
+Triad_ID_1_123~TS-Archbishop Innokenty of Vilnius ROC~IDPs migrate to Poland as result of war~-0.9924766919171168~5~Sim0
+Triad_ID_1_124~TS-Archbishop Innokenty of Vilnius ROC~Censorship of media by Donovia~0.007523701706825911~5~Sim0
+Triad_ID_1_125~TS-Archbishop Innokenty of Vilnius ROC~Low Morale of Donovian soldiers~-0.9924770943758542~5~Sim0
+Triad_ID_1_126~TS-Archbishop Innokenty of Vilnius ROC~Low Morale of Lithuanian civilians~-0.9924782887743434~5~Sim0
+Triad_ID_1_205~TS-Bishop Ambrose of Trakai ROC~NATO military actions in Lithuania~0.01487866133234099~5~Sim0
+Triad_ID_1_206~TS-Bishop Ambrose of Trakai ROC~Donovian military actions in Lithuania~-1.9924774855743852~5~Sim0
+Triad_ID_1_207~TS-Bishop Ambrose of Trakai ROC~IDPs migrate to Poland as result of war~-0.9924786847473891~5~Sim0
+Triad_ID_1_208~TS-Bishop Ambrose of Trakai ROC~Censorship of media by Donovia~0.00752489766876699~5~Sim0
+Triad_ID_1_209~TS-Bishop Ambrose of Trakai ROC~Low Morale of Donovian soldiers~-0.9924774887378018~5~Sim0
+Triad_ID_1_210~TS-Bishop Ambrose of Trakai ROC~Low Morale of Lithuanian civilians~-0.9924774935599658~5~Sim0
+Triad_ID_2_31~TS-Deacon John Stankevicius~NATO military actions in Lithuania~0.10980344157772709~5~Sim0
+Triad_ID_2_32~TS-Deacon John Stankevicius~Donovian military actions in Lithuania~-1.8950469243532813~5~Sim0
+Triad_ID_2_33~TS-Deacon John Stankevicius~IDPs migrate to Poland as result of war~-0.8950457180248991~5~Sim0
+Triad_ID_2_34~TS-Deacon John Stankevicius~Censorship of media by Donovia~0.10495466368027688~5~Sim0
+Triad_ID_2_35~TS-Deacon John Stankevicius~Low Morale of Donovian soldiers~-0.8950473180074549~5~Sim0
+Triad_ID_2_36~TS-Deacon John Stankevicius~Low Morale of Lithuanian civilians~-0.8950473195772176~5~Sim0
+Triad_ID_1_529~TS-Arvydas Giedraitis~NATO military actions in Lithuania~0.006347853541270073~5~Sim0
+Triad_ID_1_530~TS-Arvydas Giedraitis~Donovian military actions in Lithuania~-1.9968127768223907~5~Sim0
+Triad_ID_1_531~TS-Arvydas Giedraitis~IDPs migrate to Poland as result of war~-0.9968119800175936~5~Sim0
+Triad_ID_1_532~TS-Arvydas Giedraitis~Censorship of media by Donovia~0.0031892199824064002~5~Sim0
+Triad_ID_1_533~TS-Arvydas Giedraitis~Low Morale of Donovian soldiers~-0.9968123776223903~5~Sim0
+Triad_ID_1_534~TS-Arvydas Giedraitis~Low Morale of Lithuanian civilians~-0.9968127768223903~5~Sim0

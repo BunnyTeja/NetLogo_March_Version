@@ -1,563 +1,80 @@
 relationship_action_id~source_agent_id~target_agent_id~action~change_in_trust~tick~simulation_id
-Relation_Act_id_1~GEN Nikolai Yegorovich Makarov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_2~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_3~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_4~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_5~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_6~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_7~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_8~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_9~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_10~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_11~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_12~GEN Nikolai Yegorovich Makarov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_13~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_14~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_15~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_16~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_17~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_18~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_19~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_20~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_21~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_22~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_23~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_24~GEN Nikolai Yegorovich Makarov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_25~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_26~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_27~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_28~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_29~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_30~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_31~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_32~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_33~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_34~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_35~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_36~GEN Nikolai Yegorovich Makarov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_37~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_38~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_39~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_40~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_41~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_42~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_43~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_44~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_45~GEN Nikolai Yegorovich Makarov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_46~B-ID-37~B-ID-41~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_47~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_48~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_49~COL Maximov Sergei Viktorovich~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_50~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_51~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_52~COL Maximov Sergei Viktorovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_53~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_54~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_55~COL Maximov Sergei Viktorovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_56~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_57~COL Maximov Sergei Viktorovich~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_58~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_59~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_60~COL-GEN Victor Borisovich Astapov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_61~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_62~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_63~COL-GEN Victor Borisovich Astapov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_64~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_65~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_66~COL-GEN Victor Borisovich Astapov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_67~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_68~COL-GEN Victor Borisovich Astapov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_69~B-ID-41~B-ID-37~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_70~Egle Juzu~Paulius Keras~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_71~GEN Alexey Fydorovich Maslov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_72~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_73~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_74~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_75~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_76~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_77~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_78~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_79~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_80~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_81~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_82~GEN Alexey Fydorovich Maslov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_83~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_84~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_85~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_86~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_87~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_88~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_89~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_90~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_91~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_92~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_93~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_94~GEN Alexey Fydorovich Maslov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_95~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_96~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_97~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_98~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_99~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_100~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_101~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_102~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_103~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_104~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_105~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_106~GEN Alexey Fydorovich Maslov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_107~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_108~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_109~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_110~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_111~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_112~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_113~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_114~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_115~GEN Alexey Fydorovich Maslov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_116~MG Ruslan Khazhismelovich Tsalikov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_117~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_118~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_119~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_120~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_121~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_122~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_123~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_124~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_125~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_126~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_127~MG Ruslan Khazhismelovich Tsalikov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_128~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_129~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_130~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_131~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_132~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_133~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_134~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_135~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_136~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_137~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_138~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_139~MG Ruslan Khazhismelovich Tsalikov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_140~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_141~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_142~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_143~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_144~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_145~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_146~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_147~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_148~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_149~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_150~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_151~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_152~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_153~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_154~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_155~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_156~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_157~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_158~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_159~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_160~MG Ruslan Khazhismelovich Tsalikov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_161~Father James Karklys ROC~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_162~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_163~COL-GEN Anatoly Alekseyevich Sidorov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_164~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_165~COL-GEN Anatoly Alekseyevich Sidorov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_166~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_167~COL-GEN Anatoly Alekseyevich Sidorov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_168~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_169~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_170~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_171~COL-GEN Anatoly Alekseyevich Sidorov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_172~Gabrielius Landsbergis~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_173~Sergey Kuzhugetovich Shoygu~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_174~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_175~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_176~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_177~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_178~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_179~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_180~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_181~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_182~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_183~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_184~Sergey Kuzhugetovich Shoygu~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_185~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_186~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_187~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_188~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_189~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_190~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_191~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_192~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_193~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_194~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_195~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_196~Sergey Kuzhugetovich Shoygu~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_197~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_198~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_199~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_200~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_201~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_202~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_203~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_204~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_205~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_206~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_207~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_208~Sergey Kuzhugetovich Shoygu~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_209~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_210~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_211~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_212~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_213~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_214~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_215~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_216~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_217~Sergey Kuzhugetovich Shoygu~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_218~Austeja Landsbergiene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_219~Austeja Landsbergiene~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_220~Austeja Landsbergiene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_221~Austeja Landsbergiene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_222~Austeja Landsbergiene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_223~Austeja Landsbergiene~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_224~Austeja Landsbergiene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_225~Austeja Landsbergiene~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_226~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_227~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_228~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_229~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_230~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_231~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_232~Viktorija Smilyte-Nielsen~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_233~Viktorija Smilyte-Nielsen~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_234~Viktorija Smilyte-Nielsen~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_235~Viktorija Smilyte-Nielsen~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_236~Viktorija Smilyte-Nielsen~Ingrida Simonyte~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_237~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_238~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_239~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_240~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_241~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_242~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_243~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_244~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_245~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_246~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_247~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_248~Viktorija Smilyte-Nielsen~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_249~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_250~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_251~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_252~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_253~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_254~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_255~Viktorija Smilyte-Nielsen~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_256~Viktorija Smilyte-Nielsen~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_257~Viktorija Smilyte-Nielsen~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_258~Viktorija Smilyte-Nielsen~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_259~Viktorija Smilyte-Nielsen~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_260~Viktorija Smilyte-Nielsen~Gabrielius Landsbergis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_261~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_262~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_263~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_264~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_265~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_266~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_267~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_268~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_269~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_270~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_271~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_272~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_273~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_274~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_275~Viktorija Smilyte-Nielsen~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_276~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_277~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_278~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_279~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_280~Viktorija Smilyte-Nielsen~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_281~Sonata Patkauskait?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_282~Sonata Patkauskait?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_283~Sonata Patkauskait?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_284~Sonata Patkauskait?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_285~Sonata Patkauskait?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_286~Sonata Patkauskait?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_287~Sonata Patkauskait?~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_288~Sonata Patkauskait?~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_289~Sonata Patkauskait?~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_290~Sonata Patkauskait?~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_291~Sonata Patkauskait?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_292~Sonata Patkauskait?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_293~Sonata Patkauskait?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_294~Sonata Patkauskait?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_295~COL-GEN Alexander Zhuravlyov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_296~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_297~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_298~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_299~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_300~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_301~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_302~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_303~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_304~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_305~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_306~COL-GEN Alexander Zhuravlyov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_307~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_308~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_309~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_310~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_311~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_312~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_313~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_314~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_315~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_316~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_317~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_318~COL-GEN Alexander Zhuravlyov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_319~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_320~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_321~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_322~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_323~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_324~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_325~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_326~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_327~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_328~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_329~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_330~COL-GEN Alexander Zhuravlyov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_331~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_332~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_333~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_334~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_335~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_336~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_337~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_338~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_339~COL-GEN Alexander Zhuravlyov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_340~GEN Vladimir Sergeyevich Mikhaylov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_341~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_342~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_343~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_344~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_345~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_346~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_347~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_348~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_349~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_350~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_351~GEN Vladimir Sergeyevich Mikhaylov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_352~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_353~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_354~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_355~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_356~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_357~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_358~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_359~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_360~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_361~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_362~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_363~GEN Vladimir Sergeyevich Mikhaylov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_364~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_365~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_366~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_367~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_368~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_369~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_370~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_371~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_372~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_373~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_374~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_375~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_376~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_377~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_378~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_379~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_380~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_381~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_382~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_383~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_384~GEN Vladimir Sergeyevich Mikhaylov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_385~Edvinas Regelskis~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_386~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_387~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_388~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_389~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_390~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_391~Edvinas Regelskis~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_392~Edvinas Regelskis~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_393~Edvinas Regelskis~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_394~Edvinas Regelskis~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_395~Edvinas Regelskis~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_396~Edvinas Regelskis~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_397~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_398~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_399~LTC Lapin Denis Alexandrovich~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_400~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_401~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_402~LTC Lapin Denis Alexandrovich~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_403~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_404~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_405~LTC Lapin Denis Alexandrovich~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_406~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_407~LTC Lapin Denis Alexandrovich~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_408~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_409~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_410~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_411~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_412~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_413~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_414~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_415~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_416~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_417~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_418~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_419~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_420~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_421~Simonas Gurevicius~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_422~Paulius Keras~Egle Juzu~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_423~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_424~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_425~MG Arkady Vilktotovich Bakhin~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_426~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_427~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_428~MG Arkady Vilktotovich Bakhin~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_429~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_430~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_431~MG Arkady Vilktotovich Bakhin~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_432~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_433~MG Arkady Vilktotovich Bakhin~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_434~Deacon John Stankevicius~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_435~LTG Viktor Nikolaevich Samsonov~LTC Lapin Denis Alexandrovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_436~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_437~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_438~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_439~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_440~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_441~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_442~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_443~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_444~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_445~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_446~LTG Viktor Nikolaevich Samsonov~MG Arkady Vilktotovich Bakhin~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_447~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_448~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_449~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_450~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_451~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_452~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_453~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_454~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_455~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_456~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_457~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_458~LTG Viktor Nikolaevich Samsonov~COL Maximov Sergei Viktorovich~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_459~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_460~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_461~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_462~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_463~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_464~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_465~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_466~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_467~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_468~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_469~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_470~LTG Viktor Nikolaevich Samsonov~COL-GEN Victor Borisovich Astapov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_471~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_472~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_473~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_474~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_475~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_476~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_477~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_478~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_479~LTG Viktor Nikolaevich Samsonov~COL-GEN Anatoly Alekseyevich Sidorov~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_480~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_481~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_482~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_483~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_484~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_485~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_486~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_487~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_488~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_489~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_490~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_491~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_492~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_493~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_494~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_495~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_496~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_497~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_498~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_499~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_500~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_501~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_502~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_503~Saulius Andrasi?nas~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_504~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_505~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_506~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_507~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_508~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_509~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_510~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_511~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_512~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_513~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_514~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_515~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_516~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_517~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_518~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_519~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_520~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_521~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_522~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_523~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_524~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_525~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_526~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_527~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_528~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_529~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_530~Saulius Andrasi?nas~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_531~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_532~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_533~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_534~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_535~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_536~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_537~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_538~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_539~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_540~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_541~Edita Baniene~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_542~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_543~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_544~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_545~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_546~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_547~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_548~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_549~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_550~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_551~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_552~Ingrida Simonyte~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_553~Gintare Guzevi?i?t?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_554~Gintare Guzevi?i?t?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_555~Gintare Guzevi?i?t?~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_556~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_557~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_558~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_559~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_560~Gintare Guzevi?i?t?~Simonas Gurevicius~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_561~Gintare Guzevi?i?t?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
-Relation_Act_id_562~Gintare Guzevi?i?t?~Edita Baniene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_1~Viktorija Smilyte-Nielsen~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_2~Father James Karklys ROC~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_3~B-ID-636~B-ID-626~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_4~B-ID-181~B-ID-153~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_5~Saulius Andrasi?nas~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_6~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_7~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_8~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_9~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_10~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_11~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_12~Saulius Andrasi?nas~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_13~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_14~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_15~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_16~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_17~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_18~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_19~Saulius Andrasi?nas~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_20~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_21~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_22~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_23~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_24~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_25~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_26~Saulius Andrasi?nas~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_27~Deacon John Stankevicius~Bishop K?stutis K?valas CATH~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_28~Edita Baniene~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_29~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_30~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_31~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_32~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_33~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_34~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_35~Edita Baniene~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_36~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_37~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_38~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_39~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_40~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_41~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_42~Edita Baniene~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_43~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_44~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_45~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_46~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_47~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_48~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_49~Edita Baniene~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_50~Simonas Gurevicius~Sonata Patkauskait?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_51~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_52~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_53~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_54~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_55~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_56~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_57~Simonas Gurevicius~Edvinas Regelskis~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_58~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_59~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_60~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_61~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_62~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_63~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_64~Simonas Gurevicius~Gintare Guzevi?i?t?~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_65~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_66~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_67~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_68~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_69~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_70~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_71~Simonas Gurevicius~Austeja Landsbergiene~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_72~B-ID-603~B-ID-668~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_73~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_74~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_75~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_76~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_77~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_78~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0
+Relation_Act_id_79~B-ID-603~B-ID-614~INCREASE_TRUST~0.1~2~Sim0

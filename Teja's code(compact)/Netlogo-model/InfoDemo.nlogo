@@ -693,6 +693,7 @@ to read
                     [
                       set outbox lput Ip_Id_log outbox
                       set color brown
+                      information_action_func "RECEIVE" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
                     ]
                   ]
 
@@ -723,7 +724,7 @@ to read
                  set len len + 1
                 ]
               if change_stance != 0[
-                      information_action_func "RECEIVE-1" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
+                     ; information_action_func "RECEIVE-1" sending_agent_id reading_agent_id item 0 temp 0 "0" tick-count simulation_id
 
                     ]
 
@@ -765,7 +766,7 @@ to read
                     [
                       set outbox lput Ip_Id_log outbox
                       set color brown
-                      information_action_func "RECEIVE-2" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
+                      information_action_func "RECEIVE" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                     ]
                   ]
 ;                  ask reading_agent[
@@ -809,7 +810,7 @@ to read
                       [
                         set outbox lput Ip_Id_log outbox
                         set color brown
-                        information_action_func "RECEIVE-3" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
+                        information_action_func "RECEIVE" sending_agent_id reading_agent_id Ip_Id_log 0 "0" tick-count simulation_id
                       ]
                     ]
 ;                    ask reading_agent[
