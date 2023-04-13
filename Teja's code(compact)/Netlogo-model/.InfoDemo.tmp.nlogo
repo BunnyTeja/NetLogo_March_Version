@@ -757,7 +757,7 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                       ]
-                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
@@ -801,7 +801,7 @@ to read
                     set triad_to_log word "Triad_ID_" temp_triad_name
                     set temptopic topic-id
                     ]
-                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id
+                    identity_action_func reading_agent_id "CREATE" triad_to_log 0 "0" "0" tick-count simulation_id Ip_topic
                     set triadstack lput temptriad triadstack
                     set triadtopics lput Ip_topic triadtopics
                     set triadno triadno + 1
@@ -929,7 +929,7 @@ to information_action_func [info_action_type sending_agent_id receiving_agent_id
             set Information_Action_list lput sub_list_IA Information_Action_list
 end
 
-to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id ]
+to identity_action_func [agent_id identity_action_type triad_id_no change_in_stance change_in_latitude change_in_longitude tick_no sim_id temp_top_id ]
    set sub-list10 []
           set identityactionid identityactionid + 1
           set sub-list10 lput word "Identity_Act_id_" identityactionid sub-list10
@@ -945,7 +945,7 @@ to identity_action_func [agent_id identity_action_type triad_id_no change_in_sta
           set sub-list10 lput tick_no sub-list10
           set sub-list10 lput sim_id sub-list10
     ;      set sub-list10 lput ts_test sub-list10
-          ;set sub-list10 lput temp_top_id sub-list10
+          set sub-list10 lput temp_top_id sub-list10
           ;set sub-list10 lput date-and-time sub-list10
           set identity-list lput sub-list10 identity-list
 end
